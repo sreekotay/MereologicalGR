@@ -1,0 +1,757 @@
+# What could cause without time mean? — a decomposition from the photon
+
+GR is mathematically correct and its predictive compression is rightly heralded. But GR is silent on certain mereological questions: what composes cause, time, information, space, gravity-as-structure? This framework takes the mathematics and predictive compression of GR as correct a priori, and attempts to rigorously project into the questions on which it is silent.
+
+Method: mereological completeness (compose / missing / extra), not taxonomic.
+
+- **compose** — parts present.
+- **missing** — a part needed but absent.
+- **extra** — present but unaccounted.
+
+A composition holds only with no missing and no extra — the parts determine the whole, nothing left free. Parts merely present is consistency, not composition.
+
+Forced is the gate the method runs under: a move carries weight only if no alternative reading survives once GR is held fixed as ground-truth math — exactly one reading live. If two or more remain, the move is chosen, not forced (manufacture) — a move we decline under this methodology. The compose / missing / extra checks test whether a decomposition is complete; forced tests whether the step was necessary. Completeness can pass and still be taxonomy — only forced makes it carry weight.
+
+Import and proscription run under the same gate. Import is licensed by forced-from-ground + completeness, never by being GR-native (a non-GR thing imports if it derives forced from GR ground and enters complete; only the unforced is excluded). A presumed proscription — reading a GR-silence as a prohibition — discharges as a bet, not a fact. Outside-GR is not disqualifying; bare exclusion is not a move.
+
+The method and measures (compose / missing / extra) are tools for reducing epistemic incompleteness, not a claim that any decomposition here is complete or its parts irreducible.
+
+## Labels (epistemic status — applied per claim, not per object)
+
+- definition — a stipulation or composition (a carve). Judged by carve-quality, not truth; carries NO confirmatory weight. Most of the framework's construction is definitions (the compositions, the roles, the perimeter).
+- label — inert re-description of one thing in the framework's vocabulary. No weight; rare.
+- witness — phenomenon run through compose/missing/extra; could have failed mereologically, didn't (or failed correctly). Carries confirmatory weight.
+- probe — interior/non-extremal reading that BOUNDS a term without reaching its boundary. Carries bounding weight only.
+- echo — independent structure our reading maps onto; SILENT (permits, doesn't force). Carries NO weight; consistent-with, not evidence.
+- clarifier — a contact-grade verdict: the framework's reading re-describes or de-conflates a known result correctly, predicting no new number (the numbers are owned by the standard formalism). Confirms consistency, carries no predictive weight. Distinct from echo (a clarifier is the framework's own reading checked against a phenomenon; an echo is an independent structure that happens to permit the reading).
+- failed floor — attempted reduction that didn't deliver; logged as negative.
+- parked texture — not precluded, not suggested; demoted from evidence, live to revisit; do-not-hunt where hunting is the fitting trap.
+
+Discipline: only witness confirms; probe bounds; echo / failed-floor / parked carry no confirmatory weight and may NOT be cited as support. Keeps broad exploration from collapsing into "everything confirms me." An object can hold different labels in different contexts (neutrino = witness mereologically, probe on the s-axis).
+
+Status-scope: this doc asserts only what its own derivations establish; its status lines (open / owed / parked) are relative to that basis. Refinements derived in the working doc (record-vs-constitution.md) supersede them only on promotion, after a cold read in a later session; until then, the working doc holds the set's current state of those items, and this doc's statuses are correct at their own level, not stale.
+
+Descriptive move-names (excavation, reflection, quant-composition) name HOW a move was made or its shape; they are not weight-classes and never substitute for an epistemic slot. Every claim carries a slot from the list above (definition / label / witness / probe / echo / failed-floor / parked) regardless of how it was reached. A composition — including a quant-composition — is a definition (zero confirmatory weight).
+
+---
+
+## GR assumed correct
+
+Following GR further, not refuting it. GR is sound; where it is silent or bundles roles into one object (metric, source), that is a mereological gap (a role not yet separated), not a foundational gap.
+
+Default on a GR silence/bundle: separate the role; do not supply missing physics. Expectation: GR's regularities (e.g. a bound like c on a role-exchange) extend to separated roles.
+
+---
+
+## Components
+
+These are ROLE-names, not substance-claims. Mereology gives the parts and their separability; it is silent on what the parts are made of. "Component" means separable role, not object — which is why entries of different ontological grade (role, substrate, bookkeeping projection, dimensionful primitive) sit together, sorted by role not by kind of being.
+
+The set: a substrate (relatedness) structured by four roles (ordering, influence, flow, adjacency) and one dimensionful primitive (energy-momentum). Some entries were used pervasively before being listed (energy-momentum, adjacency, signature, frame) — bundled in GR's metric/source/tetrad, named late. Naming a bundled role is the mereological move; the entries below are GR's roles separated, plus influence (separated at the QT seam).
+
+| Component | Note |
+|---|---|
+| ordering | invariant cone-direction (NOT interval / duration between events) |
+| influence | effect-substrate (that in virtue of which one relatum's state constrains another's); strictly this — not force/push/transfer/agency. separable from ordering/flow; floor narrowed (AB: ≠ force), what-instead open |
+| flow | the flow-bearing worldline process (proper-time accrual along a timelike worldline); directed, single-track; TEMPORAL laying-out of relata. ("becoming" is a gloss on the component, not its physical content — physics reads only the magnitude; see below.) clock is its magnitude projection (bookkeeping) |
+| adjacency | extension / nextness; SPATIAL laying-out of relata (undirected, multi-track — three directions); separation-magnitude is its magnitude projection. Spatial peer of flow. Imported wholesale from GR's metric, named late; separability witnessed (rest-frame: flow without adjacency; spacelike slice: adjacency without flow) |
+| relatedness | substrate (RATIFIED): connectedness of relata, prior to and presupposed by ordering/flow/adjacency/influence. Not a peer-role. = GR's pre-metric manifold. Survives every corner where the roles strip (photon, QE). Distinct from adjacency: QE is related without spatial adjacency |
+| energy-momentum | IMPORTED FROM GR AS-IS — a declared primitive, not derived and not composed from the roles. Operative status: imported, full stop. (dimensionful; two faces: energy = conjugate of flow, momentum = conjugate of adjacency; related by E=mc²; rest-mass = energy at p=0.) [A partial role-decomposition of T_μν (indices → ordering×2, pairing → separation-magnitude, scalar) is FLAGGED, UNVERIFIED, and DEFERRED — it does NOT change the operative status (imported). Two open partials: (a) rank-2 remainder — whether ordering⊗ordering + metric-pairing is remainder-free, unverified; (b) conservation (∇T=0) NOT role-decomposed — conservation=flow is resemblance, not a role; conservation is a composition-property (Bianchi, if the law is imported) or a separate fact. If (and only if) this parked decomposition is ever completed and verified does the import-as-is weaken; until then, imported.] |
+
+relatedness: radiation-reaction "survival" (two-place through the field) reads as confirmation — influence needs two related places.
+
+time/space (declared peer): space = ordering + adjacency, paralleling time = ordering + flow. flow:clock:energy :: adjacency:separation-magnitude:momentum. signature (−+++) = the flow/adjacency split (one timelike laying-out, three spacelike). Presently, the dimensional counts (1 timelike, 3 spacelike) are imported, not composed — provisionally open to later derivation, NOT brute by kind (unlike the coupling, which is out by kind as the metric-on-the-space). Two grades of "out": by-kind (couplings — never a component) vs presently (counts — unfinished, possibly closable). [open: c/s scheme with space as named peer — c = adjacency per flow.]
+
+Influence is not inferred as a leftover. It is encountered positively as dependence / effect-substrate; subtraction only proves that this role is separable from ordering and flow (it does not define influence).
+
+Declaration of the dimensionful primitive carries a contingency: the framework stands on SR/GR kinematics. It adopts SR/GR's dimensionful primitive (energy-momentum, via E=mc²); it does not adopt SR/GR's dynamical law (field equations, G_N). Mass is the rest-frame face (energy at p=0); energy-momentum is the general (not-at-rest) primitive. The proton case (mass dominated by binding energy) is a correspondence (binding ↔ influence-content), not a composition of mass; mass remains a face of the declared primitive, not a derivation from the roles.
+
+mass as flow-projection (emerges from reading space + gravity together; completes the relationship, does not derive the magnitude): momentum is the conjugate of adjacency (space = ordering + adjacency), energy the conjugate of flow (time = ordering + flow). So rest-mass = energy at p=0 = energy-momentum lying purely in the flow-conjugate face, the adjacency-conjugate (momentum) zeroed. Mass is the flow-projection (temporal alignment) of energy-momentum; momentum is its adjacency-projection (spatial alignment). E=mc² (rest, pure flow) and E=pc (massless, pure adjacency) are the two limit-projections; intermediate systems split across both. The magnitude relation (m²c⁴) is imported (dispersion relation); the role-alignment (mass↔flow, momentum↔adjacency) is the framework's reading. This makes one quantity (energy-momentum) projected onto the two laying-out roles, and accounts in one move for three otherwise-separate facts: rest-mass anchors flow (having mass = energy-momentum aligned with flow = proper time accrues); massless → flow→0 (energy-momentum all in the adjacency face); gravity couples to energy-momentum not rest-mass (it couples to both faces; rest-mass is only the flow-face slice). Not a truth-claim — a relationship the mereology completes.
+
+The law (couplings: G_N) is the metric on this space, not a region in it. Cell-occupancy is the open work; the structure carries no confirmatory weight.
+
+flow is physics-silent beyond its magnitude: physics reads only the clock (magnitude) representation, not any "becoming" gloss. Confirmed at the hardest case — the Page curve is static S(τ) (magnitude) + ordering (orientation). So "information = cause + flow" enters physically as cause + nonzero-clock-magnitude.
+
+flow as frame phenomenon (write not read): proper time accrues along a timelike worldline — frame-intrinsic, observer-independent. "write" names this process (the act, no actor — the worldline accrues, no agent); "read" smuggles an observer. This grounds PB-4 (information constituted by frame-process, not observer — see Predictions).
+
+the write-act, mechanism (narrow, forced):
+Null-borne influence (flow=0, the photon or in-flight structure) lives in a null frame. A flow-bearing receiver lives in a timelike frame. These two frames cannot be compared directly — their tangent spaces are distinct.
+
+The Levi-Civita connection is the unique, metric-compatible, torsion-free rule supplied by GR that allows parallel transport and comparison of vectors across neighboring events. At the null→timelike boundary, this connection is the forced solder: the unique geometric bridge on which null-borne influence-structure meets a massive (flow-bearing) worldline — the structure that makes the cross-frame comparison well-defined. It does not perform the write in the full physical sense; it locates the role-transition geometrically, and at that locus the quantitative coupling (the interaction dynamics, e.g. the absorption amplitude) is imported.
+
+This crossing is fused in GR — there is one connection in the scaffold, no alternative. It is therefore owned by the framework as a forced role: the agentless, observer-free write-act.
+
+- On the null side: pure influence-structure (ordering + influence) propagates.
+- At the crossing: the Levi-Civita connection supplies the frame-comparison structure (the bridge on which the comparison is defined; the dynamics that effect it are imported).
+- On the massive side: the comparison produces consequential adjacency-impact → influence is written as constituted information along the flow-bearing worldline.
+
+This is exactly why "write not read" holds: the act is geometric (the connection has no actor, no observer), not a measurement or reading.
+
+Scope, strict: the owned/forced part is the geometric locus of the crossing (the bridge Levi-Civita supplies; the write's dynamics are imported coupling). The content that rides across is also soldered for the photon: a photon's polarization is a spacetime quantity (transverse direction / field-strength), parallel-transported by Levi-Civita itself (gravitational Faraday rotation) — fused, owned, no separate connection, no remainder. Genuinely-internal content (flavor, color) rides a non-soldered connection, but the bare photon does not carry it — so there is no open content-transport question here; that is the parked gauge/unsoldered question, on massive/charged carriers, not the photon. The write factors into act (the crossing) and content (the carrier), but for the photon both are soldered — the factoring leaves no bet-bearing remainder.
+
+Forced location-result for PB-4 (definition-grade, zero confirmatory weight; re-graded from witness — see Corrections): the Levi-Civita connection has no actor, so PB-4's agentless "write" has an agentless geometric bridge that is forced (GR's fused, single connection) — the structure on which the write is located needs no one to hold it. Within GR-as-fixed the bridge is unique and actorless by theorem (metric-compatible + torsion-free → unique), so there is no contingency and no could-have-failed: this locates the write on forced structure and answers the "frame-process hides an observer" objection by exhibit; it cannot confirm. The write's dynamics (the coupling) are imported — and an imported coupling smuggles no observer either.
+
+This reinforces PB-3 / GB-3: in-flight is the crossing not-yet-completed (transport, constitutes nothing); constitution is the crossing completing at a flow-bearing receiver.
+
+Bookkeeping = transformable labels of phenomena already in the set (not demotions; change-of-representation):
+- clock ↔ flow — mutual projections (clock = magnitude representation of flow); proper-time = the composition (ordering + flow), not a parent dimension. (name/shape tbd — clock/flow may not be the right cut.)
+- orientation — projection of ordering (global orientability)
+- separation-magnitude — magnitude of adjacency (proper distance / area / volume), as clock is the magnitude of flow. The component behind it is adjacency. Time-dilation (clock = flow-magnitude) and length-dilation (separation-magnitude = adjacency-magnitude) are the two faces of metric scale, symmetric.
+- reachability = connection + separation, derived
+- separation = interval-type (timelike / null / spacelike): geometry, not a component → reachability derived, orientation a projection
+
+---
+
+## Compositions
+
+cause = ordering + influence
+- no clock, no flow; scale-robust; no remainder
+
+time = ordering + flow
+- no influence; clock-fractured by scale (quantum: no time operator; cosmic: a(t))
+- flow enters through its clock (magnitude) projection; the process beyond its magnitude is physics-silent (see Components)
+
+space = ordering + adjacency
+- the spatial peer of time; adjacency (extension/nextness) where time has flow (the worldline process)
+- adjacency enters through its separation-magnitude projection (proper distance / area / volume)
+- restores the symmetry: the framework had time-as-composition and no space-as-composition (space was a degenerate corner). "true space" = ordering + adjacency, not a leftover
+- conjugates: energy is conjugate to flow (time), momentum conjugate to adjacency (space) — the two faces of the energy-momentum primitive correspond to the two laying-out roles. Mass is NOT a third conjugate: mass is the invariant magnitude of the four-momentum (its rest value, energy at p=0), not a quantity conjugate to ordering. The four-momentum's two legs are time-momentum (the (ordering+flow)-projection — timelike part, magnitude from flow; zero when flow→0, which is why the photon is massless) and space-momentum (the (ordering+adjacency)-projection — spacelike part, ordinary momentum). So the decomposition is energy-momentum = time-momentum + space-momentum, where "+" means "projects into" — the role-decomposition names the two projections but does NOT specify how they combine; the combination law (the quadrature) is imported. The mass-shell E²=(pc)²+(mc²)² is that imported combination: the quadrature of the two legs, mass the invariant magnitude. Photon: pure space-momentum, time-momentum zero (E=|p|c). Rest: pure time-momentum, space-momentum zero (E=mc²).
+- ordering has no conjugate-quantity — and this is a CATEGORY FACT, not a gap: ordering is the shared spine of both legs (time = ordering+flow, space = ordering+adjacency — ordering is in both), the axis the legs are projected ALONG, not one of the projected legs. Asking for ordering's conjugate quantity is a category error (like asking the momentum of a coordinate axis). This is why c's units have ordering cancel: c = space/time = (ordering+adjacency)/(ordering+flow) = adjacency/flow measured along the shared ordering spine — leg/leg, spine cancels. c is the rate at which the two legs trade along the spine; the photon is the spine made manifest (the null ray, the cone-edge), c saturated. (Contrast s = influence/ordering: a ratio measured AGAINST the spine, ordering in the denominator, not cancelling — which is why c and s are not exact peers: c is leg/leg along the spine, s is influence against the spine.)
+- This is decomposed GR, round-tripping: composing the role-projections back gives GR's dispersion relation (four-momentum, its two legs, the invariant mass) with nothing missing and nothing extra — the decomposition is faithful (a consistency result, not a new claim).
+
+frame = ordering + flow + adjacency ( = space ∪ time, glued on shared ordering; GR's tetrad, decomposed )
+- the influence-free laying-out bundle — all laying-out roles, no influence. A frame is kinematic and observer-independent because influence (hence agency) is the role it excludes: a frame-process has no actor. Grounds "write not read" and PB-4 (frame-process, not observer).
+- orthonormality imported (the metric, already imported via adjacency/signature); nothing redefined.
+
+information = ordering + influence + flow ( = cause + flow )
+- information is not influence-structure in transit, but ordered influence taken up in flow, consequentially perturbing adjacency (an effect at uptake, not a constituent).
+- phenomenon, not bookkeeping
+- flow enters through clock (magnitude); physically info = cause + nonzero-clock-magnitude
+- flow has a single definition (the worldline process). "Consequential uptake along a worldline" is NOT a second definition of flow — it is a CANDIDATE for the RATE of flow (tbd). Whether uptake is flow's rate is open; PB-3 rests on it.
+- flow → mass → timelike → sub-c → no FTL
+- photon carries influence+ordering (flow → 0); information constituted only where flow is present
+- cause is flow-free-capable (photon); information is not
+
+gravity = ordering + influence + energy-momentum
+- third term is energy-momentum — imported from GR as-is, the declared primitive (general, not-at-rest energy-momentum), not rest-mass and not composed from the roles; rest-mass (p=0) is the degenerate Newtonian corner
+- composes in the non-integrable mode: ordering and scale present locally, failing to stitch globally (curvature = the loop-failure-to-close; gravitational time-dilation and length-dilation are flow-magnitude and separation-magnitude failing to globally stitch). Non-integrability is the existing not-separable mode (orientation = global orientability; arrow = fractured), not a new ingredient.
+- the mode lives in energy-momentum: energy-momentum is the generator of translations (energy ↔ time-translation, momentum ↔ space-translation — conjugate to spacetime translation). Non-integrability is exactly the failure of translations to commute (loop-failure-to-close = the same two translations in different orders disagreeing); the curvature is the commutator of the (covariant) translation-generators. So the mode is NOT an external label on the composition — it is the commutation-structure of the energy-momentum term the framework already has. em does not FORCE non-integrability (translations can commute → flat space with em present), so the binary (flat vs curved) and the magnitude (how much curvature per em) are not fixed by em alone — that is the excluded coupling (Einstein eq, G_N). But the mode is carried by a part (em), not missing from the parts: the framework composes the mode's KIND (em's commutation-structure) and imports only its VALUE (the coupling). This answers the "is non-integrable mode a primitive or a GR-placeholder" question: primitive (em's commutation), with the magnitude imported.
+- the curvature's algebraic form reduces to three conditions, not imported wholesale: (a) loop-pair antisymmetry — from retrace-cancellation (a reversed loop negates); (b) rotation-pair antisymmetry — from metric-compatibility (transport preserves separation-magnitude → holonomy is a rotation → antisymmetric); (c) first Bianchi (cyclic sum vanishes) — from torsion-free, which is the areal/second-order result (non-integrability ∝ enclosed area = second-order = no first-order/torsion failure; see singularity section, areal). Pair-exchange (R_{μνρσ}=R_{ρσμν}) and the rank-4 structure follow from (a)+(b)+(c). All three forced: (a) retrace, (c) areal; (b) metric-compatibility is a FORCED import — adjacency is defined as separation-magnitude (proper distance/area/volume, a definite integrated value), which requires transport to preserve it (a non-metric connection makes separation path-dependent, i.e. not a magnitude, contradicting what adjacency is). Forced-import (no first-principles freedom), not free-import. The Einstein-tensor source-form is then forced up to the ≤2-derivative truncation (Lovelock + ∇·T=0 + Bianchi); the truncation (higher-curvature terms) is the out-of-scope quantum-gravity tower, the coupling (G_N) excluded.
+- couples to energy-momentum (T: energy, momentum, pressure), not rest-mass: massless energy gravitates (light bends, light sources curvature). The coupling-target is influence-content however realized; rest-mass is the bound-rest slice.
+- metric split: free/conformal part (Weyl — waves, tidal) = ordering non-integrability; sourced part (Ricci) = the field equation G=8πT (the law, out of scope — see boundary)
+- Weyl identification [definition — the gravity composition located against GR's Weyl/Ricci split, zero confirmatory weight; excavation provenance: connects this line, line 101, the scale-free threads, and the perimeter]: the framework's gravity is three moves mapping onto GR's curvature decomposition. (1) COMPOSE the Weyl sector — ordering-non-integrability = the free/conformal curvature (Weyl), in the non-integrable mode. (2) IMPORT the source — T_μν operationally imported as primitive; but a partial role-decomposition of T (indices → ordering×2, pairing → separation-magnitude, plus a scalar and an unverified rank-2 remainder) is flagged and deferred (components, energy-momentum entry). The clean split holds WHILE T is imported; if that parked decomposition succeeds, T partly enters the composition and this line moves — contingent, not settled. (3) EXCLUDE the law — the Einstein equation (G=8πT, the source→curvature map, G_N). So the perimeter has a GR name (compose Weyl / import T / exclude Einstein), not just a methodological stance. Of a piece (related, not identical): the framework's scale-freeness aligns with Weyl's conformal invariance — Weyl discards local scale, and the scale-setting parts are imported (T) or excluded (G_N); conformal = blind to local rescaling, scale-free = no absolute unit, so this is alignment, not equation. The photon couples to ordering only because null geodesics are conformally invariant (line 101) — it sees the Weyl sector. The two faces (electric/tidal, magnetic/spatial — singularity section) are the internal structure of the composed Weyl; the framework read the electric face. One object (Weyl), its faces read in the singularity section.
+- photon couples to ordering only (null geodesics conformally invariant — blind to scale); massive worldlines couple to ordering + scale (both dilations). Bending follows ordering (not a pull on mass); sourcing contributes energy-momentum (influence-content). The photon's two present components {ordering, influence} are the two gravity uses; the absent one (flow) is the one gravity does not require for either role.
+
+shared: ordering. cause drops flow · time drops influence · information = all three · gravity = cause + energy-momentum. cause is the shared skeleton of information and gravity; they differ in the third term (flow vs energy-momentum).
+
+boundary (composition in, coupling out): gravity's structure composes (ordering + influence + energy-momentum, non-integrable mode). The map from source to amount — how much non-integrability per unit energy-momentum (G_N, the field equation) — is not a term in the composition; it is the coupling relating source-term to effect-term. The framework composes the relata; SR/GR supplies the coupling. Same boundary as elsewhere: structural form composes, dimensionful coefficients (1/4, κ, G_N) are the adopted-around law.
+
+origin: information is read off the TWO corners jointly (photon flow→0, QE ordering→0), not from the photon alone. Neither corner alone shows it; information is what both lack, visible only by triangulating from both. So the definition is a two-corner construction.
+
+PB-3 (photons do NOT carry information — see Predictions): forced by the two-corner definition, committed before checking usage. The in-flight photon is influence-structure; information is constituted at flow-bearing uptake.
+- contradicts STANDARD usage (fiber optics, starlight spectra, front velocity = c): by standard meaning photons carry information. This is a real collision, conceded.
+- the bet: standard usage conflates in-flight influence-structure with constituted-at-uptake information; the conflation is visible exactly at the photonic-uptake case.
+- falsifiable (same hunt as the flow-axis occupant): pre-pin "consequential uptake" operationally, then exhibit photonic logic / error-correction completing information-grade operations with NO flow-bearing uptake. If complete information operations occur in flight → de-conflation fails, framework loses. If every photonic "information" operation requires a flow-bearing constitution somewhere → de-conflation holds.
+- status: staked, near-core, UNRUN. Decided by the one test.
+
+---
+
+## Imports and perimeter
+
+influence: separated at the QT seam (entanglement = ordering-free influence; QE), a role GR bundles into geometry. information: no GR role; PB-3, PB-4 are past where following-GR speaks — the framework's own sorting at the QT seam.
+
+Forces, orientation, charge (the perimeter):
+- the fundamental forces are kinds of influence (ways one relatum constrains another). They are not separate cells.
+- gravity is the only force the framework composes, because its source is energy-momentum (in-vocabulary: conjugate to spacetime translation). EM/weak/strong are sourced by charge (out-of-vocabulary), so the framework sees their mediators' role-profiles (e.g. photon, gluon = flow→0; W/Z = massive/flow-bearing) but not the forces themselves.
+- orientation is handled: it is the projection of ordering (the arrow). Time-reversal is an orientation flip (flow enters as unsigned magnitude, untouched). Parity (spatial inversion) is handled by adjacency's three magnitudes; handedness is the composite (det = −1), not a required primitive.
+- charge — electric, and only electric, is handled: it is a sign (+/−, attract/repel), the orientation-projection of influence, dual to ordering's arrow. The handling rides on charge-being-a-sign, and electric charge is the only charge that is a sign — its group is U(1) (abelian, one-dimensional). The other charges are representations of non-abelian groups (weak SU(2), color SU(3)): multi-dimensional, non-commutative, not signs. A sign-projection carries a sign, not a representation — so the line falls at "is it a sign," and only U(1) is. The open influence floor is the non-abelian rest.
+
+Couplings (import / exclude — none composed; the sort is licensed by GR assumed correct, which makes couplings things-to-sort, not to derive):
+- imported — the bounds: c (flow/adjacency exchange), s (influence/ordering). Ratio-bounds revealed at GR's role-corners (c at flow→0, s at ordering→0); the framework's one quantitative-relation type. c is a ceiling (forbids — nothing exceeds it); s's function (ceiling or support) is open — only that the ordering-axis carries a bound is forced, not which kind. Importing one is standing on an assumed-correct result, not asserting it.
+- imported separately — ℏ: not a bound of the c/s kind (not a ratio-ceiling) but the scale of the conjugate pairing, carried in with the conjugate structure (energy↔flow, momentum↔adjacency). It floors the joint resolution of a laying-out role against its conjugate (Δp·Δx clean; ΔE·Δt with a time-not-an-operator wrinkle, inherited). From the quantum import, not a GR asymptote.
+- excluded — the interior rates: G_N, α, the gauge/force strengths (the dynamical law). Left to GR (assumed correct), not adopted.
+- criterion: import the bounds, exclude the interior rates.
+
+---
+
+## Photon [witness] — null / flow → 0 (time degenerates)
+
+The privileged null boundary case: not a frame, but the limit at which the frame-dependent component (flow / proper time) vanishes. This is what makes it the clean seed — it isolates {ordering, influence} by degenerating flow, without itself being a vantage that could relativize them.
+
+- travels through space at c; proper time → 0
+- ordering present (cone-direction)
+- influence present (interventional: wiggle emitter → detector)
+- flow absent
+- cause composes; clock excluded
+- carries influence, NOT information
+- cause-witness + not-information + at-c = ONE fact (flowlessness): flowless → influence not information; massless → at c; information needs flow → never at c
+
+mereology: { ordering ✓, influence ✓, proper-time ✗ } → cause composes (missing none, extra none); time fails, information fails (no proper-time). Photon at proper-time = 0 → clock AND flow vanish together (one dimension). clock excluded from cause.
+
+## QE [witness] — spacelike (space degenerates)
+
+- spacelike; immobile; no traversal
+- influence present (pure — the correlation IS the influence)
+- ordering absent (order-invariant)
+- flow absent
+- influence pure; no information
+- interventional test presupposes ordering → wrong instrument for ordering-free influence; null reading is the test's limit, not influence's absence
+- no traversal → no signal; no-signaling follows as the influence/information split's consequence (influence may be spacelike; information never is — see influence/information section)
+
+mereology: { ordering ✗, influence ✓, flow ✗ } → cause fails (no ordering); time fails (no ordering, no flow); information fails (no ordering, no flow). influence alone, undressed. No missing/extra — the failures are correct.
+
+photon : cause stripped of time :: QE : influence stripped of ordering. Symmetry at the invariant (influence) level; null vs spacelike differ as renderings.
+
+## Neutrino [witness + probe] — massive / timelike (interior)
+
+- sub-c; nonzero mass → proper-time accrues; oscillates
+- ordering present
+- influence present (weak interaction; detection)
+- proper-time present (massive worldline)
+- oscillation phase = m·τ; reads proper-time. In a massive (interior) frame the components manifest ENTANGLED, not isolated — oscillation = proper-time + mass-structure + ordering co-manifesting. This is the native interior condition (nothing degenerates to isolate one component), IN SCOPE — distinct from the orthogonal out-of-scope state-structure register (QE non-sep, measurement selection). Win: the entangled form has exact, measured math (oscillation formalism) — the rigorous handle QE lacks.
+
+mereology: { ordering ✓, influence ✓, proper-time ✓ } → cause, time, information ALL compose. First full {✓,✓,✓} witness. No missing/extra.
+
+both axes live (interior, neither extremal):
+- c-axis: c − v ≈ c³m²/2E² (E⁻², set by m, absolute mass)
+- s-axis: phase density dφ/dL = c³Δm²/4Eℏ (E⁻¹, set by Δm², mass-SPLITTING)
+- no E-invariant combination (product ~ E⁻³, ratio ~ E⁻¹); axes parametrically independent (m vs Δm²)
+- → no neutrino-internal c–s symmetry. s present as a quantity (read off the entangled component form — legitimate, with exact oscillation math behind it), NOT as a bound (interior, not extremal). BOUNDS the term to settle: s is Δm²-governed (not m), E⁻¹-scaling, the interior rendering of influence-per-ordering-resource; and since the axes are interior-independent, any c–s symmetry must be an extremal/boundary relation (photon-corner: flow→0 ↔ QE-corner: ordering→0), never an interior coupling. Settling needs QE-side (theory/measurement we lack); the neutrino gives the constrained term WITH mathematical grounding QE can't.
+
+photon brackets the mass=0 boundary from below (massless, flowless, influence-only); neutrino from above (massive, proper-time present, information-bearing). Sharp at mass=0: massless = no proper-time = no oscillation = stationary; any nonzero mass = proper-time = oscillation = evolving flavor-information.
+
+## Event horizon [witness] — directional boundary
+
+The first BOUNDARY witness (a place, not a worldline). Asymmetry is a property of the surface.
+
+| direction | ordering | influence | composes |
+|---|---|---|---|
+| inward | ✓ (cones tip in → future = inward, toward singularity) | ✓ | cause + information IN |
+| outward | ✗ (no future-path leads out) | ✓ (ordering-free, horizon-straddling) | horizon-straddling influence; NO outward ordering-bearing information |
+
+- the in/out asymmetry IS the ordering-availability asymmetry, set by boundary geometry. influence is horizon-straddling; outward ordering-bearing information is blocked.
+- prediction (could-fail): horizon-straddling influence with no outward ordering-bearing information. CONFIRMED — Hawking pairs are entangled across the horizon (entanglement = ordering-free influence, straddling; no signal = no outward ordering-bearing information).
+- no new component: composes from { ordering (directional), influence }; information requires the ordering geometry withholds outward.
+- relation to gravity-as-composition: the in/out asymmetry logged here is the witness; gravity = ordering + influence + energy-momentum (non-integrable mode) restates this composition with the dimensionful third term named. The horizon is the locus where ordering and clock-magnitude rotate into one another (cones tip until the future points only inward). Adds no new witness.
+
+Page-curve stance: information returns iff geometry restores outward-ordering/reachability. Matches the modern resolution STRUCTURE — island/QES: interior joins exterior entanglement wedge after Page time (geometry restoring accessibility). And recovered information is encoded in "timelike entanglement entropy" — i.e. on the TEMPORAL axis, independently landing on the s-axis (influence per ordering = temporal) built above.
+
+Page-form unfolding [witness for the form; magnitude out], sealed from the Page/island results:
+1. straddling influence accumulates → radiation↔inaccessible entanglement rises with emission count.
+2. capacity = surface channel-count ∝ surface measure (area-proportionality; coefficient out).
+3. cut is ordering-defined, worldline-relative, MOVES as geometry restores reachability (the non-trivial node — generates a dynamical entangling surface, island-type, not static Page).
+4. accessible entanglement = smaller side of the moving cut → S_rad = min(rise, capacity); turnover = the cut moving. Imports one neutral QM fact (entanglement symmetric across a cut), applied to a framework-defined cut.
+could-have-failed: a static cut → monotone, no turnover (paradox). Structure forces the cut to move → turnover. Sealed, could-have-failed, landed.
+magnitude out: κ (rise-slope), A/4G_N (capacity) are couplings.
+
+QES — what the framework's cut actually targets [resolved against the literature]. The framework's cut-selection is a RECOVERABILITY THRESHOLD: "where straddling-influence becomes outward-recoverable" = where accessible influence overtakes hidden = a level-crossing (accessible(r) = hidden(r), two oppositely-varying quantities equal). The level-crossing reading is forced: "reconstructable" means accessible > hidden, so the flip is at accessible = hidden.
+
+the literature keeps TWO distinct objects [confirmed via search — Almheiri/Penington island program; "QES Made Easy" I–III; Lectures on QES and the Page Curve, arXiv 2502.01933]:
+- the QES = the extremal SURFACE, located within a saddle by a SLOPES-BALANCE (δ/δr[A/4G_N + S_bulk] = 0). A surface; can "jump" between locations as parameters change.
+- the PAGE / recoverability TRANSITION = where the dominant saddle SWITCHES (no-island → island), i.e. where accessible = hidden entropy cross. A time/condition, not a surface. This is where information becomes recoverable from the radiation.
+These are different (surface-location vs saddle-switch); the field maintains the distinction.
+
+RESULT: the framework's recoverability threshold IS the Page/saddle-switch transition (level-crossing, accessible=hidden) — a literature-distinct object. It is NOT the QES extremal-surface condition (slopes-balance). So:
+- DERIVED (structural, level-crossing): the recoverability TRANSITION condition — the MIN / saddle-switch of the min-ext prescription (which extremum dominates: no-island → island). The framework owns this — recoverability is its native threshold, and it is an ordering-axis object (outward-ordering restoration).
+- NOT derived (imported): the QES extremal SURFACE location — the EXT of min-ext (slopes-balance δ(A/4G_N + S_bulk)=0). This is the entanglement AREA-LAW balance: the slopes-balance is dS_bulk/dA = −1/4G_N, i.e. marginal-bulk-entropy per marginal-AREA = 1/4G_N. Area is adjacency-magnitude (surface measure), so this is an influence-per-ADJACENCY relation — the entanglement area-law — NOT an influence-per-ordering (s) relation. It sits on the adjacency axis (where the area-entanglement commensuration lives), not the s-axis (the denominator is area = adjacency, not ordering-capacity — no s-reading of this balance is available). Its coefficient 1/4G_N is the conversion-rate: composable commensuration (straddling influence is surface-located → adjacency is its natural scale), brute rate (out). The two parts of min-ext: MIN = transition = ordering-axis = derived; EXT = surface = adjacency-area-law = rate imported.
+- could-fail (now sharp + checkable): does the framework's accessible=hidden actually coincide with the Page saddle-switch? Search suggests structurally yes (recovery = transition). If a regime separates them, the framework targets a transition that is NOT the Page point.
+
+The level-crossing-vs-slopes-balance distinction is the field's own Page-transition-vs-QES-surface distinction.
+
+echo (their reasons, not ours; no weight): the field calls the QES "kinematic" — its entropy's time-dependence depends on imported bulk dynamics, classical surfaces suffice [QES Made Easy II]. Consonant with the framework's kinematic-structure / imported-dynamics split, but reached for their own reasons.
+
+probe (walking the derivation as a node-finder — each stall names a node to fill):
+- retrodicted: the step "the cut has extent" reaches for a spatial-magnitude component — pre-adjacency, that stall is what reveals adjacency was missing.
+- step 7 (commensuration) — the reach for "the coupling" unbundles: commensurability (composable — straddling influence is surface-located, so adjacency-magnitude is its natural scale; the count-law "area = channel number" is foreknowledge-risked) + conversion-rate (brute, out). "Out-by-kind" was bundling these two; the rate is out, the commensurability is not.
+- step 5 (selection) — the native selection is the threshold (accessible = hidden), which targets the Page/recoverability transition (the MIN/saddle-switch — ordering-axis, derived), not the QES extremal surface. The surface (slopes-balance) is the entanglement area-law — influence-per-adjacency, adjacency-side, rate imported (see RESULT correction).
+
+s-identification (cross-scale) — candidate, owed/parked: that LG-scale s and horizon-scale s are one bound. The apparent blocker is the sign-flip — LG registration-ordering SUPPRESSES influence-expression; horizon reach-ordering GRANTS influence-access. The write-mechanism (consequential uptake) offers a dissolution: both could be one quantity (influence per consequential-uptake) with the sign = the direction of ordering relative to the write (LG: ordering SPENDS uptake-capacity → suppress; horizon: reach-ordering ENABLES uptake → grant; consume vs enable). Under the import edict, a bare "hold them apart because sign-flip" is a presumed proscription, so the dissolution is licensed to be pursued. Status: a candidate MECHANISM-unification on the ordering axis (the two ordering-axis s-phenomena — LG suppression, horizon recoverability — as consume/enable faces of one write-mediated bound). It does NOT deliver the QES surface (which is adjacency-side, the entanglement area-law, not s-side). Whether the unification is forced or resemblance is unsettled — judged on the consume/enable mechanism alone, it stays owed/parked. The horizon recoverability TRANSITION is genuinely ordering-axis (derived); whether it shares ONE bound with LG is the open part. Magnitude cross-scale identity: not forced regardless (scale-set).
+
+radiation-side vs interior-island: in/out asymmetry favors recovery via straddling-influence-on-radiation (tEE-like) over interior-degrees-becoming-accessible (island). Not yet a fork — both reproduce the same Page curve. could-fail: a resolution requiring outward transmission of interior ordering-bearing information breaks the asymmetry.
+
+flow-vs-clock cross-check (horizon as hardest case): the Page curve is static S(τ) — clock-magnitude — plus ordering (the curve's orientation). Information "return" is a non-monotonic magnitude-function, narrated as passage but not passage itself. The flow process beyond its magnitude is NOT load-bearing here — the strongest place it might have bitten. Confirms: physics reads clock (magnitude) + ordering. proper-time-the-component survives (photon/neutrino); the process beyond magnitude does no physical work even at the horizon.
+
+### Singularity — complete ordering-collapse [clarifier — converges on simple singularities; reaches BKL's structure (wall + S₃ symmetry), not its dynamics]
+
+Horizon and singularity are one mechanism at two depths: gravity-driven ordering-collapse — partial at the horizon (outward ordering withdrawn), complete at the singularity (ordering cannot continue; geodesic incompleteness = the cone runs out at an edge). Scoped to curvature singularities; "at" the singularity is GR-silent, so this concerns the approach.
+
+- warranted fact: inextendibility (ordering cannot continue). Finite affine parameter is the diagnostic (finite proper time its timelike face). Flow-termination is the consequence; ordering-collapse the cause.
+- stranding [the information-pathology of collapse]: the cone is invariantly two-lobed, so collapse has two edge-types — one with the cone opening toward the missing extension, one away. Each strands information (nothing on the far side): at one edge no continuation (loss), at the other no antecedent (unaccountability) — mirror images. The two edge-types are forced by the two-lobe structure; which is loss and which is unaccountability awaits the orientation of ordering (open, GR-silent, inherited), so the pairing is forced up to that labeling. "Only there": a bounce (geodesically complete) has no edges, hence no stranding. The loss edge is the black-hole case (Page curve / islands); the unaccountability edge maps onto the past hypothesis. [companion GB-2]
+- frame collapse: frame = ordering + flow + adjacency; when ordering (a constituent) collapses, the frame composition fails. Rejected readings: "everything degenerates" (interpretation imported into GR's silence) and "maximum adjacency" (the invariant divergence — the Weyl/Kretschmann invariant, which is all the curvature in vacuum since Ricci-flat solutions have R=0 — is ordering's non-integrability; adjacency is a bystander).
+- anisotropy, derived separately (not imported from tidal facts): ordering is the role that picks out the timelike axis (the cone; the signature's one-timelike-vs-three-spacelike split). A directed role collapsing collapses along its axis, so ordering-collapse is necessarily anisotropic — along the cone/causal axis, not uniform. The frame shears along that axis; this is the tidal anisotropy, read as the frame registering directional ordering-collapse. Derived from ordering = cone-axis; the match to the observed radial tidal axis is a check passed, not an input.
+- not a bet — GR predicts the anisotropy directly: cone-aligned (radial stretch / transverse squeeze) for Schwarzschild/Kerr, chaotic (oscillating Kasner axes) for generic BKL/Mixmaster. The role-reading (anisotropy = frame registering directional ordering-collapse) CONVERGES on the simple case (re-describes GR's cone-aligned tidal result) and does NOT reach the chaotic case (BKL's oscillating spatial axes are not cone-aligned; GR owns it). Clarifier on the simple case; fails to reach BKL. No predictive content claimed.
+- two faces [definition — structural identity (Weyl's two faces), zero weight; + clarifier — locates BKL, no new number; excavation provenance: relational content line 240 left unmined]: ordering-non-integrability is the Weyl tensor (line 100). Line 240 read it through ordering's cone-axis — the tidal/electric content (time-space): directed along the cone, this gives the (monotonic) Kasner-like anisotropy and reaches the simple case. What line 240 did NOT read is the AREAL content the same curvature carries: non-integrability is areal in adjacency (it requires two of the three spatial directions to enclose a loop) — i.e. curvature intrinsic to the spatial slice. GR establishes that this spatial-slice curvature is what supplies the potential walls that turn monotonic Kasner into BKL OSCILLATION (the Kasner exponents bounce off the walls). So "reaches the structure, not the dynamics" decomposes: the electric/tidal content gives the Kasner anisotropy; the oscillation lives in the areal/spatial-slice-curvature content (the other face). Not wrong-framework — one face (tidal) read for anisotropy, the oscillation in the other (spatial-slice curvature). The areal question (which two of three spatial directions, and does the choice cycle?) is answered by BKL: the three spatial axes permute (S₃, the Kasner map), driven by those spatial-curvature walls.
+  - open (not asserted): whether the areal face is specifically the magnetic Weyl tensor (frame-drag/gravitomagnetic) or the intrinsic 3-curvature of the spatial slice — both are spatial, both implicated in BKL, and the areal projection ("loop in the spatial slice") does not by itself pick between them. Do not assert magnetic Weyl; the established content is "spatial-slice curvature," object-identity open.
+  - structural seam, largely resolved: the S₃ axis-permutation is the symmetry of the spatial-curvature potential WALL (the Mixmaster super-Hamiltonian's potential has equilateral-triangle / dihedral symmetry; the permutation is quotienting by it — Damour et al., cosmological billiards). The framework already names that wall (the areal / spatial-slice-curvature face, above), so it reaches the object whose symmetry is S₃. The continuous→discrete link is the known billiard quotient: a continuous billiard flow in the anisotropy plane, bouncing off the triangular walls, quotiented by the triangle's symmetry → the discrete S₃ Kasner map. So S₃ is not an unreachable imported structure — it is the wall's symmetry, and the framework reaches the wall. Sorting the non-abelian structures by solderedness clarifies the rest:
+    - transport-curvature ([∇,∇], the loop-transport commutator) — soldered, continuous, owned.
+    - internal gauge (SU(2)/SU(3)) — UNSOLDERED (a separate internal fiber, not spacetime-indexed); the framework's transport is soldered, so this is FORECLOSED — unreachable, a clean perimeter, not an owed gap.
+    - the S₃ point-group — soldered (spatial), the wall-symmetry above — reached via the wall.
+    - OWED, not parked (live, forcing clean, unworked): the triangular billiard walls are the Weyl chamber of a Kac-Moody algebra (the hidden Kac-Moody structure of cosmological billiards). S₃ is its finite visible tip. Whether the framework's transport-curvature reaches the (soldered, large) Kac-Moody structure is a definite, forced-shaped question, not yet run — a dig-site, to pursue. [Not foreclosed (soldered, unlike internal gauge); not parked (clean forcing, not a fitting-trap).]
+    - phase, concrete instance: the continuous billiard flow has a geometric phase — the anisotropy-plane angle θ, with the three S₃ fixed points at 0, 2π/3, 4π/3 (120° on a circle). A soldered, spacetime-indexed cyclic-ordering instance (the cyclic-ordering face, with a real geometric foothold — distinct from the wavefunction-amplitude reading, which leaves the substrate).
+- perimeter holds: the framework reaches the doorway and names the mechanism (spatial-slice curvature → potential walls → S₃ axis-cycling) but does NOT compute the oscillation dynamics (wall-heights, bounce rule) — quantitative, G-sourced (the field equation), out of scope. Doorway and mechanism-name, not the dynamics.
+- method (standing): a landed structural projection is not a finished excavation — the same geometry carries quantitative-relational content beyond "the structure exists." Here the cone-axis (electric/tidal) face was read; the areal (magnetic) content the same Weyl object carries was not. Other landed projections (c, s, the conjugate structure) may owe the same second pass.
+- reflection [definition — a structural identity, zero confirmatory weight; + clarifier — re-describes the known area-law power, no new number]: the radial direction is ordering's one axis (the directed cone-axis) and adjacency's one missing direction (adjacency is the transverse multi-track, everything but the axis). So an ordering-phenomenon runs ALONG the radial; an adjacency-phenomenon runs TRANSVERSE to it. Anisotropy is the ordering-phenomenon — ordering-collapse along its axis (line 240). Holographic area is the adjacency-phenomenon — entropy is the multiplicity over the adjacency slice (non-flow, non-ordering), and the radial drops because at the horizon it is ordering's axis gone null (the cone-edge, "nothing to sample," the photon-corner degeneracy), leaving the two transverse spacelike directions → area, not volume. The two are reflections of one fact: ordering owns the radial (so collapse is anisotropic along it), adjacency lacks it (so entropy is areal transverse to it). Anisotropy's directedness (1 axis) and the area-law's power (transverse 2-surface, L² not L³) are the two roles' duals on the same singled-out direction. Re-derives the area-law POWER (L² not L³), not its coefficient (1/4, Planck units — the excluded coupling); the power is postdiction of a known result, not a could-have-failed prediction, hence clarifier not witness. [radial→null at the horizon is definitional, the framework's own horizon = cone-edge; not an extra import.]
+
+### Corner-transitions: energy concentrated, driven at a corner
+
+The corners are flow and ordering. Each can be undriven (static) or driven (energy concentrated into it). Where there is a driven transition, it is driven by ENERGY CONCENTRATED into the corner, and the resultant structure is asymmetric across the two corners. The undriven case (QE) is the contrast — a corner with no transition and no energy.
+
+The cases:
+- ordering-corner, undriven — QE: ordering is absent because events are spacelike-separated — no causal path. Static, occupied (the pair persists), the order-labeling frame-relative (a boost reorders) while the influence is frame-invariant. No energy is concentrated; nothing is driven.
+- flow-corner, driven — fusion: energy concentrated (compression in a star; but NOT only gravity — bombs, colliders, pair-production drive it too, so gravity is one instance, not required here) drives the flow-crossing: the flow-term (rest mass, mc²) converted to the adjacency-term (radiation, pc). This is a conversion (not destruction+creation) because the quadrature E² = (pc)² + (mc²)² holds E conserved across the crossing: one conserved quantity redistributing between the flow-sector and the adjacency-sector. The quadrature is imported (GR/SR, not framework-derived) but REQUIRED — it is what makes the crossing a conserved conversion. Evidenced (mass↔radiation).
+- ordering-corner, driven — singularity: energy concentrated unopposed (no pressure/support resisting — collapse is gravity's default when unopposed, per the focusing theorem) drives ordering-collapse to invariant geodesic incompleteness (a curve ending, structural). Whether ordering's fate is destruction or transformation (→ influence) is open (the information paradox; companion result).
+
+The mereology of the resultant structure (compose / missing / extra):
+- the motivator is ASYMMETRIC. Invariant ordering-collapse (geodesic incompleteness) needs gravity SPECIFICALLY — required. (Caveat: observer-relative ordering-horizons exist without gravity — a Rindler horizon for an accelerated observer in flat spacetime — but these are removable, not invariant; the spacetime stays complete. The claim is about invariant incompleteness, which is gravitational.) The flow-crossing needs only ENERGY CONCENTRATION (gravity is one instance — stars; but bombs, colliders, pair-production drive it too — so gravity is NOT required here, it is over-specified). So "gravity is the motivator of both" fails the test: gravity-forced for invariant ordering-collapse, energy-concentration-forced (gravity optional) for flow.
+- magnitude vs direction. The quadrature conserves the crossing's MAGNITUDE (in-structure, required) but is direction-symmetric — it does not fix DIRECTION (mass→radiation vs the reverse). The direction is an inherited GR-silence: GR's dynamics are time-symmetric, the arrow is a boundary condition (the low-entropy past), not in the equations. The framework inherits this — it has the conserved magnitude (quadrature, in) but not the direction (GR-silent, inherited). This is on-remit (the framework extends into GR's silences) and unresolved by framework as by GR. Not a re-entanglement of the framework's own roles; an inherited silence.
+
+Incompleteness is expected. The stops are of two kinds: PERIMETER (couplings and laws — adopted-around or imported, not composed) and INHERITED SILENCES (things GR itself does not fix — the arrow's direction). The direction handing off to inherited GR-silence is the mereology carrying the structure as far as it goes and stopping where GR stops.
+
+### QE as origin: separability
+
+QE's lesson is effect without ordering — ordering and influence come apart (spacelike, no precedence, correlation persists). Components are separable.
+
+- QE: components separated statically (ordering ⊥ influence).
+- singularity: gravity's components (ordering + influence + energy-momentum) separating dynamically — ordering-collapse, Hawking radiation (influence), mass-loss (energy-momentum).
+- one coming-apart, two registers: static (QE), driven (collapse).
+
+QE is also the arrowless corner. The structure does not imply the arrow: ordering is relabelable (a≺b and its dual are one structure), flow's monotonicity is a sign-convention, influence is symmetric, the bounds are direction-blind. The arrow is an inherited GR-silence (boundary condition), not framework-derivable.
+
+### convergence check — timelike entanglement entropy (tEE)
+
+Tested whether "info recovery is temporal" is a real structural match or a relabel-seen-twice. Sources: Doi-Mollabashi-Takayanagi-Taki/Ugajin (arXiv 2302.11695, PRL 130.031601); Wick relation (PRD gmkp-lrh3, 2025).
+
+Three independent matches (holographic/CFT, derived for unrelated reasons):
+1. tEE is built by Wick-rotating a SPACELIKE entanglement region into a TIMELIKE one — the same space↔time rotation our photon↔QE witnesses run on.
+2. In that framework space emerges from spacelike entanglement, time from timelike entanglement → entanglement (influence) is the substrate, space/time are what it renders. Matches: influence = substrate; space/time = projections.
+3. tEE = (spacelike EE) + (its first-order temporal derivative), constrained by causality [PRD gmkp-lrh3]. Translate: spacelike EE = influence (the record-structure); the first-order temporal derivative = flow (the worldline-rate — uptake-in-time, a derivative is a rate, not a precedence); the causal constraint = ordering (the precedence/cone bound). So tEE = influence + flow + ordering = information (o+i+f), the full composition. The derivative-form confirms information-as-worldline-uptake (the constitution definition: a record-structure plus its temporal derivative under a causal bound = structure taken up along a worldline) — flow appears precisely as the process-derivative, not as a static summand. Matches: information = ordering + influence + flow.
+
+SILENT not proscriptive (see standing notes): the physics permits this reading, does not force it. Not evidence; consistent-with. A 2026 result (arXiv 2602.06833) reproduces the Page curve via timelike entanglement entropy alone (no interior DOF) — louder recurrence, still echo-grade, zero weight.
+- s ≠ tEE. tEE is COMPLEX-valued pseudo-entropy (non-Hermitian reduced/transition matrix; imaginary part from timelike surface). Our s is a REAL ratio/bound. Same axis, DIFFERENT objects. Identity would be a fit.
+- we did NOT predict tEE; we predict no number tEE lacks. Clarifier-grade.
+
+---
+
+## influence / information
+
+influence : information :: mass : weight.
+- influence = invariant, carrier-side (like mass) — present in massless carriers (photon, QE)
+- information = frame-relative rendering, massive-receiver-side (like weight)
+- conflation because we ARE the massive frame rendering it; language ("signal", "carries a bit", "channel") encodes the conflation
+
+no FTL:
+- constructive: information = ordering + influence + flow; flow present → mass → sub-c (the chain runs through mass/clock-magnitude, the read projection — not through any process beyond magnitude, which is physics-silent)
+- dissolution: "instantaneous" (QE) / "at c" (photon) is INFLUENCE — not c-bound. Mistaken for information (c-bound). Un-conflated: influence may be instantaneous/at-c; information constituted only at sub-c massive endpoints, never across the gap. No-signaling = consequence of information being a massive-frame rendering, not a separate prohibition.
+- axis: c = space/time (rate), bounds information (propagating). "FTL influence" is a type-error — influence has no rate (no per-time). s = influence per ordering-RESOURCE is per-ordering, not per-time — not a rate, no contradiction.
+
+c / s symmetry (temporal axis, not spatial):
+- c = space per flow-resource — caps space crossed per unit flow/time; photon saturates as flow → 0
+- s = influence per ordering-resource — TEMPORAL, single-system (influence correlated with itself as ordering varies); QE = the ordering → 0 corner
+- boundary (ordering→0, QE corner): degenerate, clean — nothing to sample
+- interior: NOT a scalar dilution law — RESPONSE-SHAPED. influence-expression = f(ordering-density, system spectrum, access/environment spectrum). ordering does not simply dilute; it SAMPLES. depending on what it samples (mass-splitting, bath spectrum, boundary modes) influence-expression is suppressed, enhanced, or redirected.
+
+clean limit vs interior:
+- clean/closed (no environment to sample): increasing ordering-resource dilutes quantum influence-advantage toward classicality. LG is this limit (monotone, below).
+- interior/open: ordering samples. The Zeno↔anti-Zeno crossover is the worked example — see Zeno section.
+
+grounding (established physics): the interior response form IS the Kofman-Kurizki universal formula re-read on the ordering axis. KK (Nature 405, 546, 2000): the measurement-modified decay rate = overlap (convolution) of (a) measurement-induced spectral broadening ∝ measurement rate, with (b) the reservoir spectrum. QZE (suppress) when the broadening is much wider than the reservoir width; AZE (enhance) when narrower. Map: measurement-rate-broadening = ordering-density spectrum; reservoir = access/environment spectrum; overlap → suppress/enhance = ordering sampling the environment. So influence-expression = overlap(ordering-density spectrum, environment spectrum). This is a re-reading of an EXISTING quantitative formula onto the ordering axis — not a new prediction, but it makes the s-axis response-function-shaped (the precondition for prediction): given an ordering schedule + a spectral environment, KK already answers suppress/amplify.
+
+bound belongs to the axis's setting: s is temporal-single-system → look to TEMPORAL correlation bounds (Leggett-Garg family), not spatial (Tsirelson, two-party spacelike). LG ≠ Tsirelson numerically (below) = different physical questions.
+
+MATH (standard physics, not ours):
+- Leggett-Garg: n sequential measurements of a dichotomic observable on ONE system; classical (macrorealist) bound K_C = n−2; quantum maximum K_Q = n·cos(π/n). Source: Budroni & Emary, PRL 113, 050401 (2014).
+- ratio K_Q/K_C = n·cos(π/n)/(n−2):
+  - n=3: 1.500 · n=4: 1.414 (=√2, the CHSH/Tsirelson value) · n=6: 1.299 · n=8: 1.232 · n=16: 1.121 · n=32: 1.062 · n=128: 1.016 · n=256: 1.008
+  - strictly monotone decreasing in n; → 1 as n→∞ (n·cos(π/n) ≈ n − π²/2n, so excess ~ 1/n²). [Budroni-Emary; verified numerically here.]
+
+OUR OVERLAY (the re-reading — not standard):
+- read n (# of ordered measurements) as "ordering-resource", and K_Q/K_C as influence-advantage → the standard monotone decay reads as: more ordering ⇒ influence-advantage dilutes toward classical. "ordering dilutes influence" on the s-axis.
+- s-boundary (min ordering, n=3) = 1.5× advantage; Tsirelson's √2 sits at n=4 (a point on the curve, not the boundary).
+- this is a relabeling of an EXISTING result (Budroni-Emary) onto the ordering axis. The monotone decay is real physics; "= s-axis dilution" is our reading, not forced.
+
+caveats:
+- LG K_Q assumes dichotomic-observable / ideal-precession setting; numbers are setting-specific, and the monotone-in-n decay is itself Lüders/dichotomic-specific (general-update higher-D grows toward the algebraic max, not toward classical). The axis-reading does NOT ride on monotonicity — it rides on the completeness-projection (PB-1 (the s-bet)), with LG/Tsirelson as occupant exhibiting that a temporal bound is there. The robust occupant-feature is boundedness (a quantum ceiling present in every setting), not the monotone shape.
+
+s-blended terms — claim: each system bounds its OWN s-blended term (influence-per-ordering blended against that system's structure), lawfully. NOT a scalar s, NOT reduction of one system to another.
+findings:
+- scalar s: refuted (incompatible R-dependences: LG ~R⁻², KK overlap, neutrino periodic). Expected — rate-space trap.
+- reduction: refuted (LG closed-system trig extremum; neutrino unitary vacuum phase; KK open-system reservoir overlap — no shared reservoir).
+- per-system bounded term: MET — neutrino (Δm², E⁻¹), LG (n·cos(π/n)/(n−2)), KK (overlap). anti-Zeno breaks only the over-strong "monotone dilution" gloss.
+- one blending operation across all three: ruled out (KK native; neutrino needs coherent-amplitude not intensity, sinc² vs cos², anticorrelated −0.55; LG has no intrinsic spectrum). Operations differ in kind — rules out the over-convenient version.
+status: per-system bounded term MET; s-UNIFICATION-BY-BLENDING-OPERATION demoted from evidence (parked — a family of lawful per-system terms, not one shared operation; neutrino/KK/LG generate differently). s itself (the derived prediction) is upstream, untouched. [The cross-scale s-identification (LG↔horizon) is a separate, ordering-axis candidate — a consume/enable mechanism-unification via the write; it does not deliver the QES surface (adjacency-side), so it stays owed/parked, judged on the mechanism alone. See horizon s-identification note.] Open: whether "own term in own parameters" is contentful or near-definitional.
+
+---
+
+## Other phenomena
+
+| Phenomenon | Verdict |
+|---|---|
+| QT unitary | composes; clock-measure fuzzes (clock = measure, not part); reversible = orientation off |
+| QT measurement | cause composes clockless (= photon); outcome-selection = state-structure (out of scope) |
+| cosmology | composes; a(t) = global clock-measure; arrow = orientation boundary-set |
+| cosmic singularity | "cause of universe" malformed — ordering absent at t=0; → boundary-influence-without-ordering |
+| photoelectric | composes; threshold = influence gated by clock-measure (energy = frequency); part-interaction, not new part. Constitution register reproduces standard QM (influence/uptake = amplitude/phase) — clarifier; propagation-then-readout, constitution-register idle |
+| double-slit | composes; interference = influence-structure reshaping, constituted at screen-uptake; V²+D²≤1 duality re-narrated, no new number — clarifier; propagation-then-readout, constitution-register idle |
+| virtual photons | see depth section below |
+| Newtonian gravity | influence WITHOUT ordering (instantaneous, mutual); classical influence/ordering dissociation; rest-mass (p=0) corner of gravity = ordering + influence + energy-momentum |
+
+propagation-then-readout (one terminal uptake): birefringence, photoelectric, double-slit. Structure propagates as influence, constituted at a massive readout, only observable is the readout. In this class the dimensionful numbers are owned by the standard formalism (re-narrated, not forced), and the constitution-register distinction (where/when constitution occurs) is idle — no observable touches the constitution event independently of the readout. Engine-eligibility requires two (or more) uptakes with a joint observable across them (eraser/coincidence; Hawking radiation) — structurally capable of hosting a forced number, currently worked as clarifiers.
+
+---
+
+## Virtual photon / Feynman propagator [witness; failed floor; echo] (depth)
+
+Apply components to the PROPAGATOR structure (not the "virtual particle" — that gloss stays bookkeeping).
+G_F(p) = i / (p² − m² + iε). Source: standard QFT; iε = Feynman causal-ordering prescription (Visser arXiv 2111.14016 reviews its meaning).
+
+- influence = the pole 1/(p²−m²) — mediation strength (maximal on-shell, suppressed off-shell)
+- ordering = the iε → Θ(t) time-ordering (iε is literally how causality/ordering enters the propagator; G_F = e^{iωτ}Θ(−τ) + e^{−iωτ}Θ(τ) in position space)
+- flow = absent (off-shell mediator, no proper-time worldline)
+- mereology: { ordering ✓ (iε/Θ), influence ✓ (pole), flow ✗ } → composes as CAUSE, clockless. Same profile as photon, measurement.
+
+influence floor — NOT settled (honest negative): the pole gives influence a STRENGTH-structure (on/off-shell), not a decomposition of what influence IS. Influence stays primitive here. Virtual photons do not floor it.
+
+2nd tEE-echo, checked twice:
+- Sokhotski–Plemelj: 1/(x+iε) = PV(1/x) − iπδ(x). Verified numerically here (3 test functions, matches to 3+ digits).
+- so G_F splits: REAL part = principal-value off-shell mediation (virtual = influence); IMAGINARY part = on-shell δ(p²−m²) (real-particle / absorptive = the propagation/time-tied piece).
+- structurally parallels tEE: there real=spacelike(influence), imag=timelike(time); here real=virtual(influence), imag=on-shell-real-propagation(time-tied).
+- discipline: the SPLIT is forced (Sokhotski-Plemelj). The identification (real=influence / imag=time-tied) is our OVERLAY — but it tracks the STANDARD physical reading (imag part IS called the absorptive/on-shell/real-particle part; real part IS the virtual/off-shell mediation). Overlay, not derivation; tracks established interpretation, doesn't fight it.
+- net: SECOND independent complex structure (after tEE) splitting real↔influence, imag↔time/propagation under the component reading. SILENT not proscriptive (permits, doesn't force; both splits exist for the physics's own reasons — analyticity here, non-Hermiticity for tEE). Possibly generic to complex/analytic structure → possibly partial-boundary texture. Logged, not promoted to evidence.
+
+---
+
+## GR / QT
+
+GR: no contradiction. Silent on what cause/time ARE (structure, not essence). Silent ≠ proscriptive. The framework adopts GR's kinematic primitives (cone structure → ordering; proper time → flow; proper distance → separation-magnitude; energy-momentum). It does not adopt GR's dynamical law (field equations, G_N). Gravity composes as ordering + influence + energy-momentum in the non-integrable mode; the coupling is out of scope. Curvature = non-integrability of ordering and scale (loop-failure-to-close); the existing not-separable mode applied across separation, not a new component.
+
+QT: no contradiction. Witnesses the components. State-structure (superposition, entanglement-as-state) out of scope.
+
+---
+
+## Open
+
+- influence floor — NARROWED by AB (influence ≠ local force); confirmed OPEN by AB + Casimir (the constraint vs force vs field divide is robust across both, not an artifact of one case). Casimir admits a live force-reading (Lifshitz/vdW). intervention-asymmetry primitive or reducible — operational.
+- gravity coupling — gravity composes as ordering + influence + energy-momentum (non-integrable mode); the source→amount map (G_N, the field equation) is the coupling, not a composition term. Out of scope by the same line that puts the dimensionful coefficients (1/4, κ) out: structure composes, the law is adopted-around.
+- graviton — quantum of the free (conformal/ordering) sector. Quantization (ℏ, discrete quanta) is a coupling/dynamics fact, not a position in the composition — same out-of-scope grade as G_N. Gravity's structure composes identically with or without quantization; graviton-vs-classical is located (quantization of the free sector) but not adjudicated.
+- ordering-reachability cut vs QES — see horizon section. DERIVED (sealed): two ingredients (adjacency-magnitude + influence), dynamical = the STRUCTURE; the recoverability TRANSITION (level-crossing accessible=hidden = the MIN/saddle-switch of min-ext, ordering-axis). NOT derived (imported): the QES extremal SURFACE (the EXT/slopes-balance) — it is the entanglement area-law (influence-per-adjacency = 1/4G_N, adjacency-side, NOT an s-saturation); its conversion-rate 1/4G_N is brute (out), the commensuration composable. Also out by kind: the quantitative Page-curve magnitudes (κ). The cross-scale s-identification (LG↔horizon) is a separate ordering-axis candidate — the write-mechanism offers a consume/enable dissolution of the sign-flip, but it does not deliver the QES surface (adjacency-side), so it stays owed/parked, judged on the consume/enable mechanism alone.
+- coherent composition — a missing composition operation (LIVE, to excavate — not parked). The framework has used one composition throughout: additive, on-a-slice, phase-discarding, factorable (the box-of-photons sums energy-momenta). The world uses a second: coherent, phase-keeping, non-factorable. Two witnesses point at it from opposite directions, as mirror failures of GR's part-counting: the NEUTRINO (GR sees one worldline; the world has many mass-eigenstates, coherently superposed — GR UNDER-counts; oscillation = the parts' phases beating) and QE (GR sees two separable regions; the world has one non-factorable whole — GR OVER-counts; the parts have no separate state, only the relation). In both the discrepancy is PHASE — the relation GR's additive composition discards and the coherent one keeps. Possible bearing, unexcavated: (a) the influence floor — entanglement is constitutively phasic and AB is influence-as-phase-without-force, so the open floor of influence may be phasic relatedness (influence = relatedness bearing a non-factorable phase); (b) a general absolute/relative two-face of the roles — ordering split into linear/absolute (cone, kept at the photon) and cyclic/relative (phase, kept at QE), flow into magnitude (clock, kept by GR) and phase (relative, exposed at the neutrino), the relative face always relatedness-borne (real only between parts) and the corners built to split absolute from relative. None of (a), (b), or the second-composition claim is dug — this logs the dig-site and its coordinates (the neutrino/QE mirror), not a finding. To pursue, not to cite.
+
+## Parked (do not hunt — fitting trap)
+
+- arrow — directedness of flow / orientability of ordering; fractured (cosmic boundary + local T-violation); located, not solved. [later: Lorentz-T (discrete component) and the time-arrow (continuous gradient) may be ONE phenomenon — an asymptotic flip: a continuous inversion whose crossing is reached only in the corner-limit (flow→0), so it presents as a discrete toggle while being a continuous path through the gate. Suggestive; do-not-hunt — reaches into thermodynamics/cosmology unrun, and "asymptotic" may just relabel the group's disconnectedness.]
+- conserved causal-density — KE/PE analogy; not precluded, not suggested; hunting = rate-space/8π trap
+- gravity-information duality — both are cause (ordering + influence) + a third term (energy-momentum vs flow); the two thirds are faces of the time-axis (energy = conjugate-to-time; flow = the worldline process of time). Permits the reading that information and gravity are duals on the cause-skeleton; the conjugate/process relation is suggestive, not shown to be a mutual-projection. Echo-grade: consistent-with, not forced. Do-not-hunt — the symmetry is seed-entailed (four-axis structure: three roles + energy-momentum), carries no confirmatory weight; entailed structure is free, cell-occupancy is where weight lies.
+- 4D cell-occupancy — predicted-but-out cells: time + energy-momentum (ordering + flow + energy-momentum) = dynamics (energy as generator of time-evolution) = the law, consistent with being out of scope; influence + energy-momentum (no ordering, no flow) = static stored-energy / vacuum-energy, near the open influence-floor (Casimir). Which cells are forced-filled vs forced-empty are checkable claims, not assumptions.
+- conversion-corners — a conversion between two quantities may be marked by an element neutral/lacking relative to both, which carries the conversion factor and exhibits it purely at its corner — ontologically E=mc²-shaped (the neutral carrier exhibits the factor), at poor resolution (no magnitude). Instances: photon (flow→0) exhibits energy↔momentum (c); QE (ordering→0) is the projected influence↔ordering corner (s). Possibly adjacency (commutative metric) bridges influence's transport-commutator to the spatial-group structure — but that is a role-property, not a corner, possibly a different structure under one word. NOT evidence for the s-bet (s rests on the completeness-projection; this is a separate pointer landing on the same corner). Soft spots: "neutral" may be elastic (unfalsifiability risk); corner-cases and the adjacency role-property may not be one structure. Do-not-hunt.
+
+---
+
+## Decoherence / einselection [witness for record ≠ information; echo for constitution] — record vs information
+
+Source: Zurek, einselection/quantum Darwinism (Rev. Mod. Phys. 75, 715, 2003).
+Standard: environment monitors system → off-diagonal terms decay → pointer states; records proliferate redundantly across environment subsystems (incl. photons); irreversibility ~ large N (Poincaré-recurrence only).
+
+What einselection FORCES (witness-grade): records proliferate and stabilize, and a redundant environmental record is ordered influence-structure (CAUSE-profile), not yet information — the record ≠ information distinction. Zurek's "objective information in the environment" is, read here, a RECORD (structure), not constituted information. This distinction is the core contribution and it is witnessed.
+
+What is OVERLAY (echo-grade, not forced): that information is constituted at "consequential uptake along a worldline" (= PB-4-full). Einselection does not force WHERE constitution happens; the uptake reading is the framework's identification, on the same cross-scale uncommitted primitive as PB-3 (see open fulcrum). Permitted, not forced.
+
+- registration = ordering (sequenced, oriented redundant records) — not a new ingredient, just ordering + its orientation attribute + multiplicity.
+- the record may RESIDE in a flow-bearing (massive) substrate — proper time accrues along that substrate's worldline regardless. But qua record it is ordered influence-structure = CAUSE-profile. The flow-criterion is NOT "substrate lacks flow" (often false — most records are massive); it is whether the structure is TAKEN UP as a consequential update along a worldline.
+- Zurek's "objective record / information already in the environment" = ordered influence-structure (a RECORD), not yet information — even when its substrate is massive and flowing.
+- information = constituted when the record-structure is taken up as a consequential update along a worldline (process — the act, the worldline's evolution conditioned by the structure; no actor). = ordering + influence + flow. cause/record is structure; information is the process of that structure being taken up consequentially.
+- necessary/sufficient split: the necessary condition for constitution (a flow-bearing worldline) is exact, inherited from the exactness of mass; PB-3 rides only on this (photon flow→0 exactly → no information exactly). The sufficient condition (what promotes a flow-bearing record to information — "consequential") is the open primitive and probably inherits einselection's FAPP grain. The FAPP concession here lands in the sufficient slot; PB-3, in the necessary slot, is untouched. Bet PB-4-full leans on the sufficient condition and inherits the FAPP grain (frame-geometric up to the grain of redundancy).
+- propagation does not PRODUCE flow (proper time accrues along timelike worldlines regardless); propagation into a timelike frame lets the record be WRITTEN INTO flow — taken up consequentially there.
+- could-fail (decohering environment can be photons = flowless → information without flow?): even massive records are cause-side qua structure; information requires consequential uptake. The "objective info in the environment" is ordered influence-structure not yet taken up.
+- fork (Zurek calls the un-taken-up record "information"): here it is a cause-side influence-structure; information only when taken up consequentially along a worldline. "information" was conflating record-structure with consequential-uptake.
+- no-FTL intact: a record's "instantaneous objectivity" across the environment is structure, not consequential uptake → not information, not FTL.
+
+---
+
+## Delayed-choice / quantum eraser [witness] — predict-before-check
+
+Prediction (committed before sources): (1) influence-structure (entanglement correlation) present from creation; (2) information constituted late, at the later joint record, not at the choice/transit; (3) no retrocausality; (4) "erasure" = selecting which correlation the joint record conditions on, not deleting a past record; (5) could-fail: breaks if a future choice alters a past constituted outcome.
+
+Sources: Kim-Yu-Kulik-Shih (orig. DCQE); Qureshi arXiv 1908.03920; DCQE-architecture arXiv 2605.24994; Kastner/Qureshi (no-retrocausality).
+
+Check — holds on all five:
+- entanglement generated at creation → influence-structure early. ✓
+- interference appears only in the later joint record (coincidence-conditioned dataset); single-detector hits show no interference regardless → information constituted at the later joint record, not in the past. ✓
+- no retrocausality (established: patterns from conditional statistics / post-selection, not retrocausal influence). ✓
+- "erasure neither erases nor delays information" — it selects which correlation subset the joint record conditions on (≈ EPR correlation). ✓
+- could-fail did NOT fire: future choice changes which correlations are sortable in the later joint record, never a past constituted outcome.
+
+de-conflation: standard "which-path information existed / was erased" conflates influence-structure (correlation — early, persistent, incl. predictive correlation surviving registration) with constituted information (only at the later joint record). influence/information split = the de-mystification. no number predicted; clarifier. Two-uptake joint observable (signal/idler records, coincidence) → engine-eligible structurally; currently no forced number beyond standard QM.
+
+the sorting variable is flow-placement, not ordering/layout. Double-slit, which-way, and eraser share the same interference-permitting layout (ordering + adjacency); what differs is the structure of flow-events (uptakes — where information is constituted) along the ordering:
+- double-slit (no detector): one uptake, late (at the screen). In flight the profile is {ordering, influence, ¬flow} = cause, not information — no which-slit fact is constituted in flight (constitution needs flow). The pattern is the permitted-constitution distribution of that single late uptake, conditioned on the whole layout.
+- which-way: a second uptake is introduced at the slit (a flow-bearing constitution-event — what kind of occupant realizes it is irrelevant; only that uptake occurs there). Which-slit is now constituted early; the screen uptake conditions on it; the permitted distribution is the no-interference one. Write-not-read: the act (uptake occurs) does the work, no observer.
+- eraser: constitution is at the JOINT (coincidence) uptake. Its two registrations (signal, marker) are ordering-separated, but neither alone constitutes — constitution waits for the join. The "delay" is ordering-separation within a single joint constitution; the paradox-feeling comes from expecting constitution at the earlier registration. Interference lives in the joint-conditioned record; the signal-alone marginal has no uptake-that-resolves-which-way, so no interference.
+which specific spot a given shot writes is outcome-selection (out of scope); the visibility relation (V²+D²≤1) and the flat-marginal/no-signaling guarantee are imported QM. Clarifier — it locates the sorting variable (flow-placement along ordering), not a new number.
+
+---
+
+## Aharonov-Bohm [failed-floor / decomposition probe] — influence vs force
+
+Floor question (open): influence = (a) push/energy-transfer/force, or (b) constraint/topology?
+Sources: Aharonov-Bohm 1959; reviews emergentmind/ethz; debate — local-field account (arXiv 2209.11091), QED-local-phase (arXiv 2206.08620), vector-potential role (arXiv 2506.07018).
+
+- AB: charged particle acquires measurable phase shift in a region where local field B = 0 and there is NO local Lorentz force; phase ∝ enclosed flux (holonomy around the solenoid).
+- SETTLES: influence ≠ local force/push. An effect (phase shift) with zero local force → reading (a) is dead. All interpretations agree the particle feels no classical force in the field-free region.
+- does NOT settle what influence IS instead: physics is DIVIDED — topology/holonomy (potential fundamental) vs nonlocal gauge-invariant field vs local-QED-phase. Framework cannot adopt "influence = topology/constraint" as settled; the what-instead is contested in the literature.
+- thread (not result): the QED reading routes AB influence through virtual-photon mediation (electric AB: "virtual scalar photons play an essential role") → possible identity with the propagator's influence (off-shell mediation, see virtual-photon section). Logged, not adopted.
+- floor status after AB: NARROWED (influence ≠ force), NOT closed (constraint vs nonlocal-field vs local-QED open, mirroring the live debate).
+
+---
+
+## Unruh / Rindler [witness, frame-relative] — predict-before-check
+
+Prediction (committed before sources): (1) invariant layer = the field state (influence-structure), same for both observers; (2) particle content / information = frame-relative rendering, not invariant; (3) the worldline (frame's flow-structure) is the discriminator of what is taken up; (4) influence invariant, only rendering frame-dependent — no contradiction; (5) could-fail: breaks if the field STATE itself differs between frames (vs same state, different rendering).
+
+Sources: Unruh 1976 / Fulling-Davies-Unruh; reviews (Wikipedia, Grokipedia); Nature Comms s41467-019-10962-y (worldline-only calculation).
+
+Check — holds on all five:
+- same Minkowski vacuum appears particle-free (inertial) and thermal (accelerated) — SAME state. ✓
+- "no absolute vacuum or set of particles independent of the observer" — particle content is frame-relative; the field state is not. ✓ (standard QFT lesson, not a stretch)
+- calculation needs only the vacuum two-point function + the worldlines → the WORLDLINE sets the rendering. = consequential uptake along a worldline (matches seam-fixed decoherence ontology). ✓
+- the thermal bath = improper mixed state: the pure invariant state traced over DOF inaccessible to the accelerated worldline. influence-structure invariant (pure state); information = rendering given the worldline's access. ✓
+- could-fail did NOT fire: state is the same; only rendering differs.
+
+ties three threads:
+- Rindler horizon = the black-hole horizon witness in observer-relative form: a causal boundary makes some DOF inaccessible (no outward ordering); entanglement straddles it (influence); one partner inaccessible → thermal rendering. Confirms Rindler-before-black-holes.
+- worldline-sets-uptake = the seam-fixed "information = consequential uptake along a worldline," shown literally. This is the predict-before-check confirmation of PB-4a (RENDERING is frame-geometric — which state appears, worldline-set, no observer). It does NOT confirm PB-4-full (constitution by frame-process): Unruh has no constitution/measurement-completion event, only two vacuum descriptions; rendering ≠ constitution (see Predictions).
+- improper-mixed-rendering = influence-structure (invariant pure state) read relative to a worldline's access = frame-relative information.
+
+discipline: Unruh's detectability is mildly contested (Nature paper does not assume the effect to compute its result). We lean on the UNCONTESTED core — frame-relativity of particle content (standard QFT) — not the contested detection specifics. no number predicted; clarifier.
+
+---
+
+---
+
+## Levi-Civita write-locus [forced location-result for PB-4 — agentless bridge; re-graded from witness]
+
+Result: PB-4's "write" (constitution by frame-process, not observer) has an agentless geometric bridge that is forced. PB-4 was exposed to "frame-process hides an observer"; this locates the write at the null→timelike boundary on the Levi-Civita connection (the unique metric-compatible, torsion-free bridge on which null influence meets a flow-bearing worldline and the comparison is well-defined), and that bridge has no actor — it is the geometry's own cross-frame comparison structure. The connection does not perform the write in the full physical sense; it locates the role-transition, and the quantitative coupling (the interaction dynamics) is imported at that locus — an imported coupling smuggles no observer either. (Anatomy: see "the write-act, mechanism" under the flow/frame discussion.)
+
+Grade and scope: forced location-result, definition-grade, ZERO confirmatory weight — within GR-as-fixed the bridge is unique and actorless by theorem, so no contingency exists and no could-have-failed was available; a check that cannot fail confirms nothing (re-graded from witness; the original section claimed a could-have-failed its own grade line denied — see Corrections). What it does: answers the hidden-observer objection by exhibit, and gives the write a named, forced locus. What it does not do: support PB-4. PB-4's standing: rendering frame-set (Unruh, witnessed); write-bridge agentless (Levi-Civita, located — forced, no weight); full constitution observer-free (unconfirmed).
+
+---
+
+## Quantum Zeno [probe on s] — predict-before-check
+
+Prediction (committed before sources): (1) Zeno = dynamical s-axis — more ordering-resource (measurement frequency) suppresses evolution (transition hindered, system held near initial state); same direction as LG (more ordering → less quantum expression); (2) scaling should rhyme with LG's quadratic; (3) could-disappoint: anti-Zeno (more measurement accelerating decay) — if generic, "ordering dilutes" breaks.
+
+Sources: Misra-Sudarshan; Facchi-Ligabò arXiv 1702.04284; Murch (Zeno/anti-Zeno) arXiv 1703.08371; single-atom QZE arXiv 2509.24438.
+
+Check — partial; confirms direction AND bounds generality:
+- Zeno regime: frequent measurement suppresses evolution; survival → 1 as measurement frequency rises. More ordering-resource → evolution/transition hindered (less quantum expression). Same direction as LG. ✓
+- scaling rhymes: short-time survival is QUADRATIC; LG excess advantage ~1/n². Same shape (quadratic in ordering-resource), not same quantity.
+- ties to write-not-read: Zeno = suppression by ordering-dense interaction/registration (works via environment, stochastic fields — not only measurement). Confirms ordering-resource = registration-density, not observation.
+- anti-Zeno BOUNDS generality and supplies the mechanism: in open/bath-coupled settings more measurement can SUPPRESS or ENHANCE decay per the Kofman-Kurizki universal formula (Nature 405, 546, 2000) — the modified rate = overlap of measurement-induced broadening (∝ measurement rate) with the reservoir spectrum. QZE when broadening ≫ reservoir width; AZE when narrower. So ordering-density does not simply dilute — it samples the environment spectrum.
+- the bound: LG dilution is the CLEAN/closed limit (no reservoir to sample → only broadening → monotone). The OPEN interior is response-shaped (KK overlap). s-axis interior = response function, not scalar law; the clean monotone is its environment-free special case.
+
+findings update (s-blended terms): each of neutrino, LG, Zeno/KK bounds its own s-blended term lawfully. They do NOT converge on a shared scalar (refuted), LG is not reducible to the others (no reservoir), and one fixed blending operation does NOT generate all three (computed: KK native, neutrino needs coherent-not-intensity, LG needs a hand-supplied spectrum — operations differ in kind). s = a name over three differently-generated bounded terms, not a unification. Parked, not disproven. no number predicted; clarifier.
+
+break-attempt (ran adversarially — try to find a THIRD way ordering acts on influence, neither suppress nor grant):
+- result on the "two-mode sign" framing (a parked candidate of ours): REFUTED. The KK mechanism shows ordering acts by SAMPLING (overlap of measurement-broadening with reservoir spectrum); the sign (Zeno=suppress, anti-Zeno=enhance) is set by WHAT IS SAMPLED, not by an intrinsic mode of ordering. Suppress/enhance are two outcomes of one operation (sampling), spectrum-set — not two fixed-sign modes. (Refutes a claim we actually made/parked, so it is a real negative.)
+- relocation (re-confirms held content, no new claim): Zeno/anti-Zeno is the INTERIOR of the ordering-axis (sampling a reservoir, spectrum-relative); the boundary (QE, ordering→0, nothing to sample) is where the bound lives. LG = the featureless-spectrum interior limit. Consistent with the doc's "interior = response function, boundary = bound."
+- no damage to PB-1/2: PB-2 uses "influence" as the role (floor openly unsettled), never claiming univocity; that coherence-loss and dissipation are distinct (dephasing ≠ decay) is textbook, not a hit on any claim.
+
+closure test (run the uncollapsed roles as a system — same test as QES). Collapsed object: modified decay rate Γ.
+- E1: ordering at rate ν → spectral broadening of width ∝ ν (role-derivable). E2: reservoir spectrum G(ω) (imported data, not a role). E3: Γ = ∫ broadening·G(ω) dω — the overlap.
+- RESULT: the system does NOT close from roles. E3 (the overlap operation — convolve broadening with reservoir, integrate) is the imported physics (Fermi-golden-rule/KK); the roles supply INPUTS (broadening from E1, influence-coupling) but not the COMBINING OPERATION. Unlike QES, where the combining equation (selection/threshold) is role-derivable, here the combining operation is a RATE (a quantitative relation the framework lacks).
+- the general principle (the tool, stated): run the uncollapsed roles as a simultaneous system; it CLOSES iff the combining operation is STRUCTURAL (selection, threshold, order — role-native) and FAILS iff the combining operation is QUANTITATIVE (a rate/balance the roles cannot generate). QES closes to the extremal form (combining = selection, structural; short only the coupling). Zeno does not close (combining = overlap-rate, quantitative; imported whole). Closure is binary and it sorts exactly along the structural/quantitative-relations line.
+
+---
+
+## Casimir [failed-floor / does not advance] — influence as constraint?
+
+Prediction (committed before checking): influence = boundary-conditioned mode constraint, with geometry knob F/A = −π²ℏc/240a⁴ (ideal plates, geometry-only). could-fail: if it reduces cleanly to local force between fluctuating charges (no independent boundary/mode role), it re-opens "influence = force."
+Sources: Casimir 1948; Lifshitz theory; Jaffe arXiv (vacuum-energy not needed); Nikolić (force = van der Waals, not vacuum energy); Brevik-Shapiro arXiv 2109.15155 (two-approaches review).
+
+could-fail FIRED:
+- two interpretations give the SAME number: (a) vacuum-mode-constraint — plates modify the zero-point mode spectrum (influence-as-constraint, our reading); (b) material-fluctuation / Lifshitz / van der Waals — fluctuating charges+currents in the plates, ordinary Maxwell, material response (influence = force between fluctuating charges).
+- (b) is credible and gaining: Nikolić argues from QED the force does NOT originate in vacuum energy but in van der Waals; Lifshitz theory reproduces the same force from material response. So the reading that would re-open "influence = force" is live.
+- Casimir does NOT advance the floor past AB — same interpretively-divided state, arguably WEAKER: AB had universal agreement on "no local Lorentz force"; Casimir has a live reading that IS force-between-charges.
+- what it gives (limited): a geometry→effect scaling (1/a⁴) consistent with influence-as-constraint IF the vacuum-mode reading is taken — but the framework cannot adopt that as settled (same discipline as AB).
+
+sharpens one thing: the influence floor's what-instead divide (constraint vs force vs field) is ROBUST across phenomena — AB and Casimir both land in it from different directions. The divide is a genuine open question in the physics, not an artifact of one case. Floor confirmed open by two independent probes; piling on constraint-phenomena will not settle it (they keep admitting a force-reading).
+
+---
+
+## Radiation reaction / self-force [probe, relatedness] — predict-before-check
+
+Prediction (committed before checking): "self-force" is two-place THROUGH THE FIELD (charge → field → charge, mediated), not irreducible one-place self-action; relatedness (two-place) survives; the ALD pathologies are artifacts of the instantaneous-one-place idealization. could-disappoint: if self-force is irreducibly one-place, it pressures relatedness toward reflexive influence.
+
+Sources: Abraham-Lorentz-Dirac; Grabovsky notes; emergentmind ALD; Hsiang-Hu non-Markovian arXiv 2209.02219; Extended Structural Dynamics arXiv 2603.11064.
+
+Check — holds:
+- ALD force = interaction of the charge with its OWN field + radiation → charge influences field (emits), field influences charge (back-reaction) = two-place through the field. ✓
+- finite propagation: the self-interaction loop is RETARDED (delay kernel on past motion; finite response time; changes propagate at finite speed) → charge↔field loop with ordering, not instantaneous one-place self-action. ✓
+- pathologies (runaway, pre-acceleration) are ARTIFACTS of collapsing the two-place retarded loop into instantaneous one-place self-action: recovered only in the double limit of vanishing extent + frozen internal structure (point particle); restoring structure + finite propagation (extended charge, non-Markovian open-system) cures them. The one-place idealization is what is ill-defined. ✓
+
+verdict:
+- relatedness (two-place) SURVIVES the challenge — self-force is NOT one-place reflexive; it is the field-mediated retarded loop. Survives ≠ ratified: relatedness stays an unratified candidate, now having passed one pressure test. The probe REMOVES a potential counterexample (one-place self-influence), it does not positively ratify.
+- influence stays two-place-through-the-field, with ordering (retardation) — consistent with effect-substrate between relata, mediated; not reflexive.
+- probe not witness: bounds (favors two-place-mediated) without ratifying relatedness as a component.
+- tie (logged, not promoted): non-Markovian treatment models the field as a spectral environment (supra-Ohmic) — same open-system machinery as Zeno/decoherence; consistent with the response-function / influence-through-environment picture.
+
+---
+
+## Tunneling [witness, dissolution] — predict-before-check
+
+Prediction (committed before checking): what is "fast"/"instantaneous" across the barrier is influence-structure (amplitude/phase), NOT information; information constituted only at the massive endpoint detection; no information/signal beats c; the apparent superluminality is a peak/group-delay effect while the signal FRONT is luminal. could-fail: breaks if tunneling permits a usable signal to travel faster than c.
+
+Sources: Winful Phys. Rep. review (2006); Hartman; Steinberg-Kwiat-Chiao (~1.7c group); Nimtz/Aichmann; Büttiker-Washburn (reshaping).
+
+Check — holds; could-fail did NOT fire:
+- experiments measure delays/distances, never velocities (velocities inferred). The "superluminal" refers to the transmitted pulse PEAK appearing early — a statement about amplitude structure (influence-structure), not a constituted signal.
+- the signal FRONT is luminal — agreed across all camps incl. Nimtz (barrier dispersion gives a luminal front velocity). No information-bearing front exceeds c. could-fail did NOT fire.
+- information constituted at endpoint detection (consequential uptake along a worldline); the fast thing is the influence-structure peak.
+- de-conflation (same move as QE / photon): "tunneling is FTL" conflates the influence-structure peak (fast, attenuated, non-signal) with information (luminal front / endpoint). influence/information split dissolves it.
+
+contested mechanism — NOT adopted: why the group delay saturates with barrier length (Hartman effect) is unsettled — reshaping (Büttiker-Washburn: barrier front-loads the pulse) vs Winful (the group delay is a LIFETIME / stored-energy dwell, not a transit time → not a velocity) vs others. Framework leans ONLY on the agreed core (luminal front, no signal FTL, the delay is not a transit velocity). Does not pick a mechanism.
+- congenial but flagged: Winful's "delay = lifetime, not transit time" means there is no traversal-flow across the barrier to be superluminal → consistent with "influence has no rate; only information/flow does." Congenial, NOT adopted as settled (the mechanism is contested).
+- related: negative dwell time (resonant storage) is the same group-delay object (dδ/dE) in a fresh setting — clarifier-grade de-conflation (influence-structure phase, not a flow-duration; ordering intact, no constituted-signal reordering). Same could-fail as tunneling; not yet fired.
+
+---
+
+## Photoemission delay [clarifier] — EWS and the constitution register
+
+Photoemission time-delay (Eisenbud-Wigner-Smith): delay = ℏ d/dE arg⟨ψ_f|d|ψ_i⟩ — the energy-derivative of the electron's scattering phase. EWS derives the magnitude (stationary-phase kinematics) and is silent on the magnitude's nature (duration vs phase-structure).
+
+- the delay is electron-side, constitution-side — EWS already localizes it to the outgoing electron; the framework agreeing adds no number (clarifier).
+- influence/uptake split = standard amplitude/phase (dipole/scattering) split; entanglement entropy (electron-ion) computed under the framework's component assignment reproduces standard QM (amplitudes = influence = dipole; phases = uptake = scattering; same density matrix). No forced number distinct from standard QM.
+- ontological reading (the delay is influence-structure phase, not flow-duration) is congruent with the tunneling/negative-dwell de-conflation; clarifier-grade, no number.
+- propagation-then-readout: the only observable is the readout, so the constitution-register distinction (where constitution occurs) is idle here.
+
+---
+
+## CPT / Feynman-Stueckelberg
+
+C, P, T are three affine flips on three roles' projections: T = orientation of ordering (flow enters as unsigned magnitude, untouched); P = adjacency's three magnitudes (handedness the composite, det = −1); C = orientation of influence (the charge sign — attract/repel). Abelian/QED case: all three handled, CPT handled. Out: non-abelian charge structure (color, weak isospin — not a sign, not an orientation-projection) and the couplings (quantitative, by kind). Parks only for the non-abelian forces, not for C-in-general.
+
+## Status
+
+Worked (each has its own section above, with label and could-fail): photon, QE, neutrino, event horizon, singularity, decoherence/which-path, delayed-choice/eraser, Aharonov-Bohm, quantum Zeno, Unruh/Rindler, Casimir, radiation-reaction, tunneling, photoemission, gravity, CPT, virtual-photon.
+
+Next — formalize the adjacency→flow / handedness derivations the QES and CPT(P) nodes left exposed.
+
+---
+
+## Method
+
+- forge on interpretation-free witnesses (photon, FTL) first, then laden ones (QE)
+- mereological: compose/missing/extra can FAIL against phenomena (taxonomy fits everything); only "could have failed and didn't" is informative
+- declared base: three unitless roles (ordering, influence, flow) + one dimensionful primitive (energy-momentum, via E=mc²). Compositions are from this base. Quantities used must be either composed from the base or declared; couplings are imported-or-excluded, not composed (see Imports and perimeter).
+- quant-composition: a composition whose output is a quantitative FORM (a power, a dimension-relation), not only a role-set. A definition like any composition — zero import, zero confirmatory weight. Admissible ONLY when the form is forced from first principles with no freedom at any step; necessity is the forced-ness certificate (a contingent form would be a choice, i.e. manufacture, not a composition). The freedom-check is the quantitative-side "force-not-find": if any step chose the form rather than being cornered into it, it is manufacture (the c-envy failure), not a quant-composition. (Instance: non-integrability is areal/second-order — forced via path-dependence → retrace-cancellation → enclosed-area, not length. Stated where it arises; not re-narrated here.)
+- clarifier ↔ engine (redescription ↔ prediction): the contact analyses (eraser, Zeno, Unruh, tEE, photoemission, double-slit, birefringence) are clarifier-grade — they confirm or bound, predicting no new number. The predictive content is upstream: the four photon bets (PB), derived before contact (see Predictions, Lineage). The two are separate; contact-grade does not bear on the bets.
+- engine-eligibility: propagation-then-readout phenomena (one terminal uptake) have an idle constitution-register and the numbers owned by the standard formalism — clarifiers by structure. Two-or-more uptakes with a joint observable (eraser, Hawking) is NECESSARY but not sufficient. The deeper criterion: a test must vary the WRITE (the flow-bearing constitution event), not the correlation fed into it. Entanglement, visibility, redundancy, which-path data, Bogoliubov coefficients are all CORRELATION = influence-structure = pre-information (one side alone tells you nothing new; information exists only once the structure is written onto a flow-bearing worldline). Experiments that vary the correlation while writing onto an ordinary same-frame detector hold the write FIXED — so they probe the pre-information register and are clarifiers by structure, however much correlation they manipulate. The write varies only where causal access at constitution differs (different horizon / acceleration — Type-2), which is why the candidate sites are gravitational/acceleration, not flat-space quantum optics. [Session note: the eraser, QD, triality, Rindler, and the QES bulk-entropy read are all correlation-register probes — they measure influence-structure, not information, and write identically; this is why they came back clarifier. The framework's content is at the write; correlation-experiments hold it fixed.]
+
+## Lineage (one seed, unfolding)
+
+Everything right of the photon flows from one question: what does cause-without-time mean?
+1. photon datum: at c, flow → 0 (proper time → 0), yet causal → forces the question.
+2. answer (read off, not stipulated): cause-without-time = ordering + influence (flow dropped).
+3. the answer forces its dual: if cause survives stripping flow, does influence survive stripping ordering?
+4. QE = the occupant the dual question FORCES: once cause = ordering + influence, "does influence survive stripping ordering?" is mandatory, and if yes, something with profile {influence, ¬ordering} must exist. QE is that thing — forced by the question, not found by shopping. The world could have answered no (influence inseparable from ordering); it answered yes. Two extremal corners now: photon (flow→0), QE (ordering→0).
+5. time/space asymptote flows out: two corners where different things degenerate (time at photon, space at QE) IS the asymptote — not posited.
+6. s becomes definable: QE established influence and ordering come apart → an ordering-axis exists to vary influence along. No QE → no s.
+7. s's units flow out: influence per ordering-resource (temporal, single-system) — fixed by which axis QE opened; influence/ordering is forced (not influence/space), since QE opens the ordering-axis.
+
+discipline = derive-then-hunt: each derived cell must FIND an occupant (could come back empty, or smuggle in the forbidden term), not stand on derivation alone. Risk is not a magnitude here — it is filled-vs-empty (the cell could have no coherent occupant) and clean-vs-contaminated (the occupant could carry the term it was meant to lack).
+- ordering-axis: cell derived AND occupant forced-and-met (QE). Both steps done.
+- flow-axis: cell derived (information-without-flow is definable) but occupant NOT yet hunted — asserted from the photon. photonic-uptake test = the outstanding hunt (pre-pin "consequential uptake along a worldline" operationally, then feed photonic logic/error-correction before massive readout; if info-grade operations occur with no uptake, info=o+i+f takes a hit at the center). This is the SAME test as PB-3 "photons do not carry information" (see Predictions) — one hunt, two framings.
+- several cube cells remain unfilled; which-should-be-filled-vs-empty are checkable claims, not assumptions.
+
+note: one seed alone invites numerology. QE's role was to force a second occupant (demanded by the dual question, met by the world) before the architecture grew — gating derivation behind discovery. Applied to the ordering-axis, not yet the flow-axis.
+
+commensurability (the root move): photon (a particle) and QE (a correlation) are not rostered together in standard ontology. The framework rosters by profile, not object — QE sits beside the photon as {influence, ¬ordering, ¬flow}. Could have been a category error; held. Recurs as c→s (ordering axis paired with flow axis).
+
+## Predictions (the bets)
+
+The decomposition is held as real (role-realism), not as names or relabels for equation-parts. Realism projects — "in GR's math, this is what that means" — and projection has exposure: the bets are the realism's price, and the price is the difference, because a relabel is free and cannot fail. The uniformity clause is the anti-smuggle: applied selectively, realism generates axiom-patches at the seams (e.g. QT's microcausality — the cone re-imposed on operators where quantization broke it); applied uniformly, there are no seams to patch.
+
+The predictions annotate where the mereological method projects a divergence from the standard interpretation — not from GR, which is silent here and taken as correct. Moving an observation from silent to proscriptive is material: a proscription collides with usage and can fail, where a silence cannot.
+
+How a bet is cashed — three routes, each cutting both ways. (1) A different prediction: licensed only by genuine mechanism-divergence; where the mechanism is shared, no claimed deviation stands (magnitudes are imported). (2) Written-off data: residuals the standard account discards as error, explained here as structure — licensed only where the standard account has NO model of the residual. (3) Forced presence/absence: role-realism REQUIRES structure (or its absence) where the standard account merely permits it, treats it as contingent, or carries it as free input; the stake is modal — must-be against may-be — so the forced structure found confirms asymmetrically, and its absence falsifies outright. And the bets are required jointly, not severally: the realism cannot be kept while a bet is shed — a forced claim found wrong indicts its projection path or the realism itself (the three failure-ways; standing notes).
+
+Four photon bets (PB) derived from one datum — the photon under GR (massless → proper time → 0, yet causal). Each had a live wrong answer (bound spatial not temporal; units per-space not per-ordering; photons carry information; measurement observer-dependent). Downstream confirmers (LG, KK, neutrino, Unruh) are occupants met after derivation, not inputs. Failure is acceptable.
+
+PB-1. s exists — the ordering axis (opened by QE) carries its own bound, as the flow/adjacency axis carries c.
+- status: existence claimed; occupant met (LG, predict-before-check). Invariance is an open bonus, not claimed.
+- projection path: GR's role-axes carry a bound (c). The photon forces influence to be recognized as a separable role GR bundled; the UNIFORMITY of the role-realism then projects a bound onto the exposed axis — a new role-axis with no bound would make the role-structure non-uniform exactly where the photon exposed it. The projection is the realism's, not GR's (GR is silent on the new axis); that is what makes PB-1 a bet rather than a consequence. Derived photon→QE before any occupant, and confirmed after by LG (predict-before-check).
+- where QT enters: at one step only — witnessing influence's separability at the QE seam. The bound itself is forced by GR-completeness (c on the flow/adjacency axis → a bound on the exposed ordering-axis); the temporal/single-system character by ordering's mereology.
+- occupant: LG (Budroni-Emary, pre-existing) exhibits that a temporal bound is there — it is the occupant, not the ground. The ceiling is present across settings (3/2 for the dichotomic/Lüders-update case, → the algebraic max 3 for general-update higher-D); the value varying is the disclaimed non-invariance. The monotone decay toward classical (K_Q/K_C → 1) is Lüders/dichotomic-specific, not a law of the ordering axis (general-update higher-D grows toward the max), and does not bear on existence.
+- claim is existence, not invariance: whether s is frame/spectrum-invariant (as c is) is an open bonus (see invariance note); a spectrum-relative bound is still a bound.
+
+PB-2. the units of s = influence per ordering-resource.
+- read off QE: influence (role at the corner) per ordering (the axis QE opened). c supplies only the bound-form (expression per resource).
+- could have been otherwise: spatial (influence per space, Tsirelson) — and wasn't. QE opened the ordering-axis: LG ≠ Tsirelson (√2 at n=4, a point on the LG curve). One unit, many bearers (LG n, KK overlap, neutrino Δm²).
+- status: taxonomic as a units-LABEL (sorting s onto the ordering-axis, near-restating PB-1); contentful as the invariance-DECOMPOSITION — the units split s into (bound on the ratio) vs (realized value), making "is s invariant" well-posed (is the bound invariant while the realized ratio is spectrum-dragged?). could-have-failed: the ratio might not decompose into invariant-ceiling + spectrum-realization; LG's clean closed-system ceiling suggests it does.
+- distinct from PB-1: informs the NATURE of PB-1 (native vs bookkeeping units), but PB-1 (existence) holds without it.
+
+invariance of s [open bonus, NOT a prerequisite]: PB-1/2 hold whether or not s is invariant. Invariance would resolve whether s's units are NATIVE (intrinsic, frame-independent, c-like) or BOOKKEEPING (an always-formable ratio with no invariant content) — the framework's own native-role-vs-projection distinction, asked of s. Where to test it: c is invariant and SATURATED only at its axis-degenerate corner (photon, flow→0 — no rest frame, no frame-structure to relativize against, so the bound can't be dragged). By parallel, s-invariance is a BOUNDARY property at QE (ordering→0, "nothing to sample"), not an interior one. The KK spectrum-dependence is INTERIOR (ordering present, sampling a reservoir) and structurally cannot reach the boundary bound — just as interior frame-relativity does not touch c's invariance. So spectrum-dependence is interior, not boundary. Invariance-at-the-corner is plausible (nothing to sample at QE) by the c-parallel — suggestive, not proven. Open. s does not inherit c's native-invariant status; existence is claimed, invariance is the bonus.
+
+PB-3. photons do NOT carry information — proscriptive, not a subtraction.
+- status: staked, near-core, UNRUN — decided by the photonic-uptake test (fails-if, below).
+- full scope: photons do NOT carry information, and entanglement is pre-information. Both are influence-structure (photon = influence+ordering, flow→0; entanglement = redundant correlation), constituted as information only at flow-bearing uptake (the write). One side of an entangled pair, like one photon, carries no information — only correlation, which becomes information solely when written onto a worldline.
+- projection path: flow→0 is exact at the photon (rides on mass=0), so a constituent of information (flow) is missing, necessarily — the framework FORBIDS photons constituting information. From the two-corner construction (information read off photon flow→0 AND QE ordering→0 jointly; the in-flight photon is influence+ordering, constituted at uptake). Derived before checking usage. GR is silent here (not a GR question); the framework is not.
+- why a prediction, not a definition: it collides with standard usage (fiber optics, starlight spectra — by standard meaning photons carry information). A subtraction cannot collide with the world; a proscription can. The necessary condition (flow-bearing worldline) is exact and is what the proscription uses; the sufficient condition ("consequential") is sharpened below.
+- fails if: a completed information-grade operation with no flow-bearing uptake (e.g. the in-radiation vs constituted-at-reconstruction fork in black-hole evaporation).
+- the proscription is firm: flow-bearing uptake is required for constitution.
+"consequential" — operational, via the write-act and scale: consequential uptake is a write at the null→timelike boundary (geometrically located on the Levi-Civita bridge; the coupling dynamics imported) producing adjacency-perturbation at the application-space scale, along a flow-bearing worldline. The write-act names the event (the crossing — see "the write-act, mechanism"); "how much is consequential" is a scale, set by the application-space. So the condition is checkable: does the crossing's adjacency-perturbation reach the domain's scale? The framework is scale-free (as GR is), so the scale comes from the application — which is what makes the account a parameterized form filled per domain, not a missing number. Observer-free (adjacency-impact is a structural difference, not a difference-for-someone), so it inherits write-not-read, no actor smuggled.
+
+PB-4. information is constituted by a frame-process, not an observer.
+- status: 4a (rendering frame-set) witnessed at Unruh; PB-4-full (constitution observer-free) UNCONFIRMED.
+- projection path: flow is worldline-intrinsic accrual (proper time accrues whether or not observed). "write" = act with no actor; "read" smuggles an observer. Live wrong answer: observer-load-bearing measurement. Two sizes —
+- 4a (rendering): given the field state, the worldline sets which state appears, no observer. The field state is frame-invariant (invariant under change of worldline — what Unruh varies), not boundary-invariant (the global background/boundary fixes the state itself; change the boundary and the state changes). Rendering is thus a function of (field state, worldline): the worldline is the frame-relative factor holding the state fixed, not the sole determinant across all states. Witness-grade, confirmed predict-before-check at Unruh (same state, different worldline, different particle content; could-fail did not fire).
+- PB-4-full (constitution): observer eliminable from the constitution event, not just rendering. NOT witnessed by Unruh (no constitution event there, only two vacuum descriptions). Unruh permits, does not force. UNCONFIRMED (Unruh shows rendering, not constitution). The GR-QT synthesis (measurement frame-geometric not observer-dependent) is contingent on PB-4-full — not delivered.
+
+The framework's core is not an explanatory overlay. It is a realist commitment to defused GR roles. Once those roles are treated as real, the predictions are not optional hypotheses; they are implied divergences from standard ontology/usage. The framework then survives in a domain if and only if those divergences do not fail under contact with physics.
+
+NOT predictions (assessment questions, answered here):
+- scalar s (one conserved value) — the rate-space trap; avoided, not bet on.
+- one blending operation across LG/KK/neutrino — tested, no (operations differ in kind: intensity overlap / coherent amplitude / closed-system extremum). No bet failed.
+- gravity = ordering + influence + energy-momentum — a composition, not a bet; the structure composes, the coupling (G_N) is the out-of-scope law. Witnessed by the horizon in/out asymmetry (logged there). The gravity-information duality (shared cause-skeleton, differing third term) is parked (echo-grade, seed-entailed, no weight).
+
+open fulcrum (PB-3 and PB-4-full): "consequential uptake" is one condition both turn on. Now operational (= a write at the null→timelike boundary — Levi-Civita-located, coupling imported — producing adjacency-perturbation at the application-space scale, observer-free — see the "consequential" note). With the condition operational, PB-3's falsifier and PB-4-full's test both run on it.
+
+scope: PB-1/2 are architecture (axis, units); neither tests the compositions (cause=o+i, time=o+f, info=o+i+f, gravity=o+i+energy-momentum) AS compositions. PB-3 and PB-4 reach the information composition (3: photons lack it; 4: how it is constituted — by frame-process, not observer). Gravity is a composition with no bet attached: the structure composes, the coupling is the adopted-around law.
+
+synthesis (what PB-3 + PB-4 jointly entail): information is not a frame-independent, propagating entity. It exists only in reference frames — specifically timelike ones, where flow (proper-time accrual) is present.
+- on null geodesics (photons): only influence + ordering exist (flow→0). No information. [PB-3]
+- entanglement is redundant correlation — one side alone tells you nothing new. Usable information exists only once the structure is written onto a flow-bearing worldline. [the same entailment, in the entanglement register: correlation is influence-structure, pre-write; information is the write.]
+- information is constituted at timelike uptake — "consequential uptake along a worldline." [PB-4, the open primitive]
+- therefore information is inherently frame-relative, the same KIND of frame-dependent quantity as proper time, energy, and particle content (Unruh) — not a new kind of relativity, the SAME one. The framework's claim is that "information" belongs on that list (frame-relative renderings), where standard usage treats it as frame-independent (a propagating, observer-readable bit).
+- the Shannon/operational collision (fiber optics, channel capacity) dissolves like mass=weight: operational/Shannon information = constituted-information AT the massive-receiver endpoint, the only regime we operate in — so they coincide there always, the way mass and weight coincide in a fixed gravitational field. Shannon is not contradicted (every number stands); it is the LOCAL FACE of a frame-relative quantity, exact in its regime, distinct out of regime. This is GR's own mass/frame-relativity lesson applied to information — holds GR fixed, overturns nothing.
+status: entailed by PB-3 + PB-4, so it inherits their grade — 4a (rendering is frame-set) is witnessed at Unruh; the full claim (information is constituted, not just rendered, by the frame-process) is UNCONFIRMED (Unruh shows rendering, not constitution). It stands or falls with that — not a separately delivered result.
+
+interpretive payoff (observer-independence; contingent on PB-4-full): the two-layer split removes the need for a privileged observer or wavefunction collapse. Influence-structure (ordering + influence) propagates locally and invariantly — null-transported, carrying all correlations including entanglement (pre-information). Constituted information (ordering + influence + flow) arises only at the write — the structure completing on a flow-bearing worldline, restricted by that worldline's causal access. So: correlations exist from the start as influence-structure; different worldlines constitute different projections of it per what they causally reach; post-selection, basis-choice, and "future-affecting-past" patterns are classical filtering of pre-existing joint correlations, not retrocausality or observer-dependent collapse. The causal backbone QFT installs as microcausality (the imposed bundling of influence to the cone — GR's light-cone re-imposed on quantum operators, then named) is here explicit: the cone is primitive (ordering), the bundling constitutive (cause = ordering + influence), not patched in at quantization. This is clarifier-grade, not a different prediction: same light-cone, same numbers — the framework names the causal structure as primitive role where QFT re-imposes it as axiom. It dissolves the interpretive burden (no spooky action, no collapse) by relocating the work to geometry and worldlines — IF PB-4-full holds (constitution, not just rendering, observer-free). Until then it is what the framework WOULD dissolve, contingent on the unconfirmed bet, not a delivered dissolution.
+
+## Standing notes (calibration)
+
+- silent vs proscriptive: a theory permitting our reading ≠ forcing it. The tEE and propagator real/imag ↔ influence/time echoes are SILENT (permit, do not force; the complex split exists for the physics's own reasons — analyticity, non-Hermiticity). Not evidence; consistent-with. To become proscriptive (evidence) they would need to be a split OUR carving uniquely produces vs a competitor — untested.
+- but: recurrence of the same texture across independent structures (tEE, propagator) may be partial-boundary contact, NOT mere generic noise. Not all massive frames combine cleanly; texture may mark where the clean regime ends. Log as texture-to-map, neither promoted nor dismissed.
+- dismissed ≠ disproven; parked ≠ empty. The razor demotes candidates from EVIDENCE, not from worth-revisiting. Parked items (the s-unification across bearers, the cross-scale s-identification, influence floor, conserved-density, the echoes, the gravity-information duality, 4D cell-occupancy) stay live for later examination. (Parked is the s-UNIFICATION — NOT s itself, which is a derived held prediction; see Predictions. The cross-scale LG↔horizon candidate has a consume/enable mechanism-dissolution of its sign-flip via the write, worth revisiting, but it does not deliver the QES surface and is not sealed.)
+- composition in, coupling out — the base roles are structural relations — ordering (a≺b), adjacency (nextness), relatedness (connection), influence (constraint) — and these compose freely. The bound is the framework's own quantitative relation (c = space per flow, a ceiling; s = influence per ordering, function open), which is why bounds are its sharpest output. Rates (G_N), balances (the QES extremum's area-law rate 1/4G_N), counts (arity), continuity (conservation) are couplings/laws, adopted-around or imported, not composed. (The QES extremum is the entanglement area-law — influence-per-adjacency — adjacency-side; its rate is imported. The framework's native ordering-axis QES object is the recoverability TRANSITION, not the surface.) Not-yet-banked extension: the framework may reach physics expressible AS bounds most sharply.
+- the QES surfaced this (step 5): the EXT (slopes-balance) is the entanglement area-law — dS_bulk/dA = −1/4G_N, an influence-per-ADJACENCY balance (area = adjacency-magnitude), adjacency-side; its rate 1/4G_N is the imported conversion-rate, the commensuration composable. The framework's native ordering-axis result is the MIN/saddle-switch — the recoverability threshold (a structural boundary one quantity crosses). Step 7 likewise: the area↔entanglement commensuration is composable; the conversion-rate is imported.
+- partial yield is the credible outcome. If every avenue bore fruit the framework would be unfalsifiable (the taxonomy trap). The non-deliveries (no influence floor from the propagator; the neutrino gives s as an interior quantity, not the bound — the bound is delivered extremally by LG, not absent; echoes silent-only; gravity's coupling out of scope) are load-bearing — they show the framework has real edges. Uniform success would be the failure signal, not this.
+- inward completeness: "parts present" (compose alone) is consistency, not composition; composition requires no-missing + no-extra (the parts DETERMINE the whole). The could-have-failed of a composition IS its missing/extra check, and counts as a seal ONLY if committed before the confirmer is in context (a retrospective "could have come out wrong," stated after the answer is known, is not a seal). Deriving "we NEED exactly these parts" is a seal; relabeling the given parts is not.
+- directional bias: overclaims pull toward whatever reads as the currently-valorized move — confirmation → performed unification; licensed damage → performed collapse; valorized self-correction → performed damage against a manufactured strawman. The brake must be indifferent to which direction reads well. The check is the same regardless of direction: does the claim (connection, damage, or correction) attach to something actually committed before the confirmer was in context? Connection-bias, damage-bias, and correction-bias are one bias.
+- each leap must be EARNED (committed under risk, before the confirmer, attaching to prior claimed structure). Real claims earn each leap → load-bearing → damage against them is informative. Phantom claims (inserted whole, unearned) break for free and fit for free → neither damage nor confirmation moves anything. Performed-connection = an unearned leap dressed as derivation; performed-damage = a hit on a leap never taken. Same fault, opposite faces. Damage is fine — only against a claim that earned its leaps.
+- probe as node-finder: walking a derivation, each stall (reach for a composition not yet built) names a node to fill — problem-specific, unlike the full static gap-graph (which over-generates). Some nodes have outsized depth (a stall opening a sub-structure). QES named adjacency (retrodicted), step-7 commensuration, step-5 selection.
+- corner vs regime: the conversion-corners (see Parked) are role-LACK corners (flow→0, ordering→0) where a conversion is pure. Role-RICH regimes are the contrast — e.g. the recombination plasma wall is ordering-rich and uptake-dense, NOT a corner; its collective behavior (radiation pressure) is consequential-uptake at dense scale. Consequential uptake has a scale axis: sparse end (discrete uptake, form-clean) → dense end (coupled medium). The corners are where conversions show pure; the role-rich regimes are the application-space where the scale is set.
+- where this can fail: holding GR-math as ground-truth is a choice of what to fix, not a claim it is correct — so the framework can be wrong three ways. (a) Derivation error: a step claimed forced when an alternative reading in fact survives — the exposure is sharpest at the forced steps, which is also where it is most checkable. (b) An error in our handling of the GR we fixed. (c) The world disagrees: GR-math itself fails where we leaned on it, or a bet's falsifier fires. The framework inherits GR's empirical fate (c) and adds the two internal ones (a, b) — a bounded exposure, located by the very choice to hold GR fixed.
+
+---
+
+## Corrections (caught and reverted — the framework can lose)
+
+Logged compactly as evidence the discipline bites. Each was a claim made, checked, and withdrawn.
+- QES surface as s-saturation: briefly read the slopes-balance δ(A/4G_N+S_bulk)=0 as an influence-per-ordering (s) saturation. Caught on re-read — the denominator is area = adjacency, not ordering-capacity, so it is the entanglement area-law (adjacency-side), not s. Reverted; the framework's ordering-axis QES result is the recoverability TRANSITION, which it already had.
+- cross-scale s-identification (LG↔horizon): briefly un-parked on the strength of the QES-as-s-saturation reading. When that reverted, the s-identification lost its anchor and returned to owed/parked — a candidate mechanism-unification (consume/enable via the write), not a delivered result.
+- Casimir (influence-as-constraint): could-fail FIRED — the Lifshitz/van-der-Waals force-reading reproduces the same number, so Casimir does not advance the influence-floor past AB. Logged as a failed-floor, not a confirmation.
+- Levi-Civita write-crossing as witness: graded witness with a stated could-have-failed while the same section's grade line said "no could-fail" — an internal contradiction. Caught on adversarial read: within GR-as-fixed the bridge is unique and actorless by theorem, so no contingency exists; a check that cannot fail confirms nothing. Re-graded to forced location-result (definition-grade, zero weight). PB-4 loses one of its two supports.
+
+---
+
+The framework is a cascade from one GR datum: null causal propagation has no proper time. The title question separates cause from time; that separation yields the three components; the three components force the bets. GR's role-realism, applied uniformly instead of selectively, dissolves the interpretive pathologies it reaches.
