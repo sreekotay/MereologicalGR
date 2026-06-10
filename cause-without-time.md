@@ -1,8 +1,10 @@
 # What could cause without time mean? — a decomposition from the photon
 
-GR is mathematically correct and its predictive compression is rightly heralded. But GR is silent on certain mereological questions: what composes cause, time, information, space, gravity-as-structure? This framework takes the mathematics and predictive compression of GR as correct a priori, and attempts to rigorously project into the questions on which it is silent.
+GR is mathematically correct and its predictive compression is rightly heralded. But GR is silent on certain mereological questions, and the photom in GR, in particular, is both elegant and vexing.
 
-Method: mereological completeness (compose / missing / extra), not taxonomic.
+This framework takes the mathematics and predictive compression of GR as correct a priori, and attempts to rigorously project into the questions on which it is silent: what composes cause, time, information, space, gravity-as-structure?
+
+**Method**: mereological completeness (compose / missing / extra), not taxonomic.
 
 - **compose** — parts present.
 - **missing** — a part needed but absent.
