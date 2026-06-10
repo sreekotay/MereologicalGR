@@ -46,6 +46,7 @@ Individuation by role is fundamental physics' default mode, not an exotic postur
 
 - **definition** — a stipulation or composition (a carve). Judged by carve-quality, not truth; carries **no** confirmatory weight - that work follows. Most of the framework's construction is definitions (the compositions, the roles, the perimeter).
 - **label** — inert re-description of one thing in the framework's vocabulary. No weight; rare.
+- **exhibit (seed)** — the datum at a projection's launch site: the corner a carve was read off. Zero collision-room at the site itself (the carve fits it by construction), so it can hold no confirmatory weight; its value is exhibition — the decomposition shown — and what it forces downstream. The photon corner is the framework's exhibit; the weight is carried by the independent landings (QE onward).
 - **witness** — phenomenon run through compose/missing/extra; could have failed mereologically, didn't (or failed correctly). Carries confirmatory weight.
 - **probe** — interior/non-extremal reading that **bounds** a term without reaching its boundary. Carries bounding weight only.
 - **echo** — independent structure our reading maps onto; **silent** (permits, doesn't force). Carries **no** weight; consistent-with, not evidence.
@@ -55,13 +56,15 @@ Individuation by role is fundamental physics' default mode, not an exotic postur
 
 **Discipline**: only witness confirms; i.e. probe bounds; echo / failed-floor / parked carry no confirmatory weight and may **not** be cited as support. This attempts to keep broad exploration from collapsing into "everything confirms me." An object can hold different labels in different contexts (neutrino = witness mereologically, probe on the s-axis).
 
+**Landing-site rule** (the discipline's general form): every check tests a projection — seed + imports + derivation steps — never the bare seed; what a pass confirms is graded by where the projection *lands*, not where it launches. (i) Landing = launch site (the output restates the seed in another register): zero collision-room; a pass verifies the translation and nothing more — exhibit-grade ("the seed cannot witness itself" is this endpoint). (ii) Independent landing, already resolved when the projection was forced: witness-by-retrodiction — chronology does not disqualify (Mercury's perihelion is the canonical license); the weight is gated by the use/lineage audit (the confirmer must not have been an input to the construction). (iii) Independent landing, unresolved: a bet — the later check produces the witness. The grade-assignments encode this: bets are reserved for live exposure; resolved independent landings enter as witnesses with lineage doing the anti-tuning work; launch sites hold neither. (Three distinct zero-weight failure modes follow, and they must not be conflated: tautology — could not have been false, a failure of *form*; retrofit — tuned to fit the confirmer, a failure of *use*; identity-landing — the premise offered back as its own evidence, a failure of *independence*. Retrodiction is none of these: known-early is not used-in-construction.)
+
 **Status-scope**: this doc asserts only what its own derivations establish; its status lines (open / owed / parked) are relative to that basis. Refinements derived in the working doc (record-vs-constitution.md) supersede them only on promotion, after a cold read in a later session; until then, the working doc holds the set's current state of those items, and this doc's statuses are correct at their own level, not stale.
 
 Descriptive move-names (excavation, reflection, quant-composition) name **how** a move was made or its shape; they are not weight-classes and never substitute for an epistemic slot. Every claim carries a slot from the list above (definition / label / witness / probe / echo / failed-floor / parked) regardless of how it was reached. A composition — including a quant-composition — is a definition (zero confirmatory weight).
 
 ### 1.6 Structure of the paper
 
-§2 names the components (three derived roles, one imported role, a substrate, one dimensionful primitive); §3 builds and bounds the compositions (time, space, c); §4 states the write-act — the constitution mechanism, its strict scope, and its located result; §5 sorts the imports and the perimeter. §6 runs the corner analyses — photon, quantum entanglement (QE), neutrino, event horizon, singularity — each as a witness or probe. §7–10 develop influence/information and place the surrounding phenomena (the verdict table, the propagator, the GR/QT boundary). §11 runs the contact analyses (decoherence, the quantum eraser, Aharonov–Bohm, Unruh, quantum Zeno, Casimir, radiation reaction, tunneling, photoemission delay, CPT). §12 collects what is open and what is parked. The closing sections (§13–18) state the status and method, the lineage (one seed, unfolding), the four priced bets with their falsifiers (Predictions), the standing calibration notes, and the corrections log — the record of what fired, failed, or was downgraded, retained because a framework that cannot lose is not making claims. §19 states the conclusion; §20 collects the references as cited in the body.
+§2 names the components (three derived roles, one imported role, a substrate, one dimensionful primitive); §3 builds and bounds the compositions (time, space, c); §4 states the write-act — the constitution mechanism, its strict scope, and its located result; §5 sorts the imports and the perimeter. §6 runs the corner analyses — photon, quantum entanglement (QE), neutrino, event horizon, singularity — the photon as the seed/exhibit, the others as witnesses or probes. §7–10 develop influence/information and place the surrounding phenomena (the verdict table, the propagator, the GR/QT boundary). §11 runs the contact analyses (decoherence, the quantum eraser, Aharonov–Bohm, Unruh, quantum Zeno, Casimir, radiation reaction, tunneling, photoemission delay, CPT). §12 collects what is open and what is parked. The closing sections (§13–18) state the status and method, the lineage (one seed, unfolding), the four priced bets with their falsifiers (Predictions), the standing calibration notes, and the corrections log — the record of what fired, failed, or was downgraded, retained because a framework that cannot lose is not making claims. §19 states the conclusion; §20 collects the references as cited in the body.
 
 ---
 
@@ -203,13 +206,15 @@ Charge is handled for the electric case, and only that case. Electric charge is 
 
 ## 6. Corner analyses
 
-Each corner is run as a witness or probe under the grading of §1.5 — a place where GR's own mathematics degenerates a role, read for what survives.
+Each corner is a place where GR's own mathematics degenerates a role, read for what survives — graded per §1.5: the photon as the seed/exhibit (the launch site), the others as witnesses or probes (independent landings).
 
-### 6.1 Photon [witness] — null / flow → 0 (time degenerates)
+### 6.1 Photon [seed / exhibit — re-graded from witness; see §18] — null / flow → 0 (time degenerates)
 
 The privileged null boundary case: not a frame, but the limit at which the frame-dependent component (flow / proper time) vanishes. That is what makes it the clean seed — it isolates {ordering, influence} by degenerating flow, without itself being a vantage that could relativize them. The photon travels through space at c with proper time → 0; ordering is present (cone-direction), influence is present (interventional: wiggle the emitter, the detector responds), and flow is absent. So cause composes and the clock is excluded — the photon carries influence, **not** information. Cause-witness, not-information, and at-c are **one** fact, flowlessness: flowless → influence, not information; massless → at c; information needs flow → never at c.
 
 mereology: { ordering ✓, influence ✓, proper-time ✗ } → cause composes (missing none, extra none); time fails, information fails (no proper-time). At proper-time = 0 the clock **and** flow vanish together (one dimension); the clock is excluded from cause.
+
+Grade: seed/exhibit, not witness (re-graded; §1.5 landing-site rule, logged §18). The compose-check at this corner has no collision-room — the roles were read off this very corner, so the carve fits it by construction, and a check that cannot fail confirms nothing. The corner exhibits the decomposition; the occupant-risk is carried downstream, first at QE (§6.2), which is why the lineage gates derivation behind discovery there (§15).
 
 ### 6.2 QE [witness] — spacelike (space degenerates)
 
@@ -408,12 +413,12 @@ QT: no contradiction. Witnesses the components. State-structure (superposition, 
 
 Each contact analysis runs the framework's reading against an established phenomenon or formalism, graded per §1.5; the predict-before-check entries state their commitments before their sources.
 
-### 11.1 Decoherence / einselection [witness for record ≠ information; echo for constitution] — record vs information
+### 11.1 Decoherence / einselection [witness for the record-register; the ≠-information clause rides PB-3 (re-scoped; see §18); echo for constitution] — record vs information
 
 Source: Zurek, einselection/quantum Darwinism (Rev. Mod. Phys. 75, 715, 2003).
 Standard: environment monitors system → off-diagonal terms decay → pointer states; records proliferate redundantly across environment subsystems (incl. photons); irreversibility ~ large N (Poincaré-recurrence only).
 
-What einselection **forces** (witness-grade): records proliferate and stabilize, and a redundant environmental record is ordered influence-structure (**cause**-profile), not yet information — the record ≠ information distinction. Zurek's "objective information in the environment" is, read here, a **record** (structure), not constituted information. This distinction is the core contribution and it is witnessed.
+What einselection **forces** (witness-grade, re-scoped): records proliferate and stabilize — the record-register exists, as einselection's own structure. That much is the occupant met, and it is witnessed. The other half of the distinction — that a redundant environmental record (ordered influence-structure, a **cause**-profile) is **not yet information** — is the framework's carve, and its world-test (does unread redundant record ever do information-work with no flow-bearing uptake?) is PB-3's falsifier, unresolved: that half is staked on the bet-register, not witnessed here. Zurek's "objective information in the environment" is, read here, a **record** (structure), not constituted information — the framework's reading, riding on PB-3.
 
 What is **overlay** (echo-grade, not forced): that information is constituted at "consequential uptake along a worldline" (= PB-4-full). Einselection does not force **where** constitution happens; the uptake reading is the framework's identification, on the same cross-scale uncommitted primitive as PB-3 (see open fulcrum). Permitted, not forced.
 
@@ -425,7 +430,7 @@ The could-fail — can a decohering environment of photons (flowless) give infor
 
 ---
 
-### 11.2 Delayed-choice / quantum eraser [witness] — predict-before-check
+### 11.2 Delayed-choice / quantum eraser [clarifier — checks held, no number predicted] — predict-before-check
 
 Prediction (committed before sources): (1) influence-structure (entanglement correlation) present from creation; (2) information constituted late, at the later joint record, not at the choice/transit; (3) no retrocausality; (4) "erasure" = selecting which correlation the joint record conditions on, not deleting a past record; (5) could-fail: breaks if a future choice alters a past constituted outcome.
 
@@ -520,7 +525,7 @@ The verdict: relatedness (two-place) **survives** the challenge — self-force i
 
 ---
 
-### 11.8 Tunneling [witness, dissolution] — predict-before-check
+### 11.8 Tunneling [clarifier, dissolution — checks held, no number predicted] — predict-before-check
 
 Prediction (committed before checking): what is "fast"/"instantaneous" across the barrier is influence-structure (amplitude/phase), **not** information; information constituted only at the massive endpoint detection; no information/signal beats c; the apparent superluminality is a peak/group-delay effect while the signal **front** is luminal. could-fail: breaks if tunneling permits a usable signal to travel faster than c.
 
@@ -583,7 +588,7 @@ Next — formalize the adjacency→flow / handedness derivations the QES and CPT
 
 ## 14. Method (working notes)
 
-- forge on interpretation-free witnesses (photon, FTL) first, then laden ones (QE)
+- forge on interpretation-free corners (photon, FTL) first, then laden ones (QE)
 - mereological: compose/missing/extra can **fail** against phenomena (taxonomy fits everything); only "could have failed and didn't" is informative
 - declared base: three unitless roles unfused at the photon corner (ordering, influence, flow), plus adjacency — the laying-out role of the same kind, imported whole from GR's metric rather than corner-unfused (§2) — and one dimensionful primitive (energy-momentum, via E=mc²). Compositions are from this base (space and frame draw on the imported adjacency; cause, time, and information on the three unfused roles). Quantities used must be either composed from the base or declared; couplings are imported-or-excluded, not composed (see §5 (Imports and perimeter)).
 - quant-composition: a composition whose output is a quantitative **form** (a power, a dimension-relation), not only a role-set. A definition like any composition — zero import, zero confirmatory weight. Admissible **only** when the form is forced from first principles with no freedom at any step; necessity is the forced-ness certificate (a contingent form would be a choice, i.e. manufacture, not a composition). The freedom-check is the quantitative-side "force-not-find": if any step chose the form rather than being cornered into it, it is manufacture (the c-envy failure), not a quant-composition. (Instance: non-integrability is areal/second-order — forced via path-dependence → retrace-cancellation → enclosed-area, not length. Stated where it arises; not re-narrated here.)
@@ -697,6 +702,7 @@ Logged compactly as evidence the discipline bites. Each was a claim made, checke
 - cross-scale s-identification (LG↔horizon): briefly un-parked on the strength of the QES-as-s-saturation reading. When that reverted, the s-identification lost its anchor and returned to owed/parked — a candidate mechanism-unification (consume/enable via the write), not a delivered result.
 - Casimir (influence-as-constraint): could-fail **fired** — the Lifshitz/van-der-Waals force-reading reproduces the same number, so Casimir does not advance the influence-floor past AB. Logged as a failed-floor, not a confirmation.
 - Levi-Civita write-crossing as witness: graded witness with a stated could-have-failed while the same section's grade line said "no could-fail" — an internal contradiction. Caught on adversarial read: within GR-as-fixed the bridge is unique and actorless by theorem, so no contingency exists; a check that cannot fail confirms nothing. Re-graded to forced location-result (definition-grade, zero weight). PB-4 loses one of its two supports.
+- Landing-site re-grades (one rule, three sites — the Levi-Civita rule generalized; see §1.5): (i) the photon corner's [witness] tag re-graded to seed/exhibit — the roles were read off that corner, the carve fits by construction, no collision-room; the occupant-weight lives downstream (QE onward), where it already lived. (ii) The decoherence witness re-scoped to the record-register — the ≠-information clause's world-test is PB-3's unrun falsifier, so that half sits on the bet-register, not the witness-register. (iii) EB-1's CMB (companion doc) re-labeled instance — a round-trip has no could-have-failed for it to attest. Header tags on the eraser and tunneling contact analyses aligned to their bodies' own clarifier verdicts.
 
 ---
 
