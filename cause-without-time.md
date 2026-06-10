@@ -183,19 +183,21 @@ This reinforces PB-3 / GB-3 (companion document): in-flight is the crossing not 
 
 ## 5. Imports and perimeter
 
-influence: separated at the QT seam (entanglement = ordering-free influence; QE), a role GR bundles into geometry. information: no GR role; PB-3, PB-4 are past where following-GR speaks — the framework's own sorting at the QT seam.
+This section sorts what the framework takes from outside its own roles — at two scales. At the role scale, influence and information are placed relative to GR and QT. At the quantity scale, the perimeter is drawn around the forces, orientation, and charge, and the couplings are sorted into imported or excluded. Nothing here is composed; the sort is what holds GR-as-fixed honest about its own boundary.
 
-Forces, orientation, charge (the perimeter):
-- the fundamental forces are kinds of influence (ways one relatum constrains another). They are not separate cells.
-- gravity is the only force the framework composes, because its source is energy-momentum (in-vocabulary: conjugate to spacetime translation). EM/weak/strong are sourced by charge (out-of-vocabulary), so the framework sees their mediators' role-profiles (e.g. photon, gluon = flow→0; W/Z = massive/flow-bearing) but not the forces themselves.
-- orientation is handled: it is the projection of ordering (the arrow). Time-reversal is an orientation flip (flow enters as unsigned magnitude, untouched). Parity (spatial inversion) is handled by adjacency's three magnitudes; handedness is the composite (det = −1), not a required primitive.
-- charge — electric, and only electric, is handled: it is a sign (+/−, attract/repel), the orientation-projection of influence, dual to ordering's arrow. The handling rides on charge-being-a-sign, and electric charge is the only charge that is a sign — its group is U(1) (abelian, one-dimensional). The other charges are representations of non-abelian groups (weak SU(2), color SU(3)): multi-dimensional, non-commutative, not signs. A sign-projection carries a sign, not a representation — so the line falls at "is it a sign," and only U(1) is. The open influence floor is the non-abelian rest.
+**Influence and information.** Influence is separated at the QT seam — entanglement is ordering-free influence (QE), a role GR bundles into geometry. Information has no GR role at all: PB-3 and PB-4 are past the point where following-GR still speaks, so they are the framework's own sorting at the QT seam, not a reading of GR.
 
-Couplings (import / exclude — none composed; the sort is licensed by GR assumed correct, which makes couplings things-to-sort, not to derive):
-- imported — the bounds: c (flow/adjacency exchange), s (influence/ordering). Ratio-bounds revealed at GR's role-corners (c at flow→0, s at ordering→0); the framework's one quantitative-relation type. c is a ceiling (forbids — nothing exceeds it); s's function (ceiling or support) is open — only that the ordering-axis carries a bound is forced, not which kind. Importing one is standing on an assumed-correct result, not asserting it.
-- imported separately — ℏ: not a bound of the c/s kind (not a ratio-ceiling) but the scale of the conjugate pairing, carried in with the conjugate structure (energy↔flow, momentum↔adjacency). It floors the joint resolution of a laying-out role against its conjugate (Δp·Δx clean; ΔE·Δt with a time-not-an-operator wrinkle, inherited). From the quantum import, not a GR asymptote.
-- excluded — the interior rates: G_N, α, the gauge/force strengths (the dynamical law). Left to GR (assumed correct), not adopted.
-- criterion: import the bounds, exclude the interior rates.
+**The perimeter: forces, orientation, charge.** The fundamental forces are kinds of influence (ways one relatum constrains another); they are not separate cells. Gravity is the only force the framework composes, because its source is energy-momentum — in-vocabulary, conjugate to spacetime translation. EM, weak, and strong are sourced by charge (out-of-vocabulary), so the framework sees their mediators' role-profiles (e.g. photon, gluon: flow→0; W/Z: massive, flow-bearing) but not the forces themselves.
+
+Orientation is handled: it is the projection of ordering (the arrow). Time-reversal is an orientation flip (flow enters as unsigned magnitude, untouched); parity (spatial inversion) is handled by adjacency's three magnitudes, and handedness is the composite (det = −1), not a required primitive.
+
+Charge is handled for the electric case, and only that case. Electric charge is a sign (+/−, attract/repel) — the orientation-projection of influence, dual to ordering's arrow. The handling rides entirely on charge-being-a-sign, and electric charge is the only charge that is a sign: its group is U(1), abelian and one-dimensional. The other charges are representations of non-abelian groups (weak SU(2), color SU(3)) — multi-dimensional, non-commutative, not signs — and a sign-projection carries a sign, not a representation. So the line falls at "is it a sign," and only U(1) is; the open influence floor is the non-abelian rest.
+
+**The couplings (import or exclude).** None of the couplings is composed. The sort is licensed by GR-assumed-correct, which makes couplings things to sort, not to derive — and the criterion is one line: import the bounds, exclude the interior rates.
+
+- *Imported — the bounds.* c (the flow/adjacency exchange) and s (influence/ordering), the ratio-bounds revealed at GR's role-corners (c at flow→0, s at ordering→0); these are the framework's one quantitative-relation type. c is a ceiling (it forbids — nothing exceeds it); s's function (ceiling or support) is open — only that the ordering-axis carries a bound is forced, not which kind. Importing one is standing on an assumed-correct result, not asserting it.
+- *Imported separately — ℏ.* Not a bound of the c/s kind (not a ratio-ceiling) but the scale of the conjugate pairing, carried in with the conjugate structure (energy↔flow, momentum↔adjacency). It floors the joint resolution of a laying-out role against its conjugate (Δp·Δx clean; ΔE·Δt with a time-not-an-operator wrinkle, inherited). It comes from the quantum import, not a GR asymptote.
+- *Excluded — the interior rates.* G_N, α, the gauge/force strengths — the dynamical law. Left to GR (assumed correct), not adopted.
 
 ---
 
