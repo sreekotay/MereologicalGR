@@ -789,6 +789,7 @@ Logged compactly as evidence the discipline bites. Each was a claim made, checke
 ## 18. Conclusion
 
 The framework is a cascade from one GR datum: null causal propagation has no proper time. The title question separates cause from time; that separation yields the three components; the three components force the bets. GR's role-realism, applied uniformly instead of selectively, de-conflates the standard puzzle-narrations it reaches; the dissolution of the deeper interpretive pathologies (collapse, the privileged observer) is what it would deliver, contingent on PB-4-full (§15, interpretive payoff).
+
 ---
 
 ## 19. References
