@@ -4,7 +4,9 @@ Keystone: GR/SR assumed correct. Imported SR/GR is substrate (checkable, not a f
 
 Assertion-scope: this doc asserts only what it derives from its stated substrate and the parent doc's committed structure. Refinements derived in the working doc (record-vs-constitution.md) supersede its statements only on promotion, after a later-session cold read; until then its statements are correct at their own derivational level.
 
-## Imported SR/GR Substrate
+Structure: §1–§3 state the imported substrate, the framework definitions, and the imported labels. §4 states the gravity bets (GB-1–GB-3) and §5 their witness pressure tests; §6 collects the result, with §6.1 the Weyl two-face structure at the ordering-collapse corner. §7 draws the scope/perimeter and §8 the open items. §9 is the conjugate layer. §10–§13 develop the entropy bets — EB-1 (the photon-box's mass), EB-2 (its interior: entropy and temperature), scale as relational imputation, and the EB-1/EB-2 relation.
+
+## 1. Imported SR/GR Substrate
 
 Checkable physics, not framework claims — the ground the bets project from.
 
@@ -14,7 +16,7 @@ Checkable physics, not framework claims — the ground the bets project from.
 - E² = (pc)² + (mc²)². Photon (m=0): E = |p|c.
 - T_μν sources gravity (G_μν = 8πG/c⁴ T_μν): T⁰⁰ energy density, T⁰i momentum density, T^ij stress.
 
-## Framework Definitions
+## 2. Framework Definitions
 
 Stipulated carves in the framework's vocabulary — judged by carve-quality, not truth.
 
@@ -26,14 +28,14 @@ Stipulated carves in the framework's vocabulary — judged by carve-quality, not
 - "information" is framework-structural (cause + flow), not Shannon/von Neumann (a count, out-by-kind).
 - ordering is one role (causal precedence) across both compositions: gravity's ordering = spacetime causal structure; information's ordering = precedence among recorded events (a subset of the same events). Same relation.
 
-## Framework Imported Labels
+## 3. Framework Imported Labels
 
 Inert re-descriptions of imported substrate in the framework's vocabulary — they carry no confirmatory weight.
 
 - energy = flow's face (mc², the flow-projection) for massive systems; momentum = adjacency-conjugate. The flow→energy register-shift (kinematic τ ↔ energetic mc²) is the same role, not a new constituent — massive only.
 - T_μν spacelike sector (momentum + stress) = adjacency; timelike sector (energy) = flow's face (massive) or adjacency-borne (null).
 
-## Gravity Bets
+## 4. Gravity Bets
 
 Shared premise P (ordering-identity): ordering is the same role — causal precedence — in gravity and information (gravity's = the spacetime causal structure; information's = precedence among recorded events, a subset of the same events). Status: definitional and MET — information's events are a subset of the same events, so its ordering is the same relation restricted; this is true by construction, not an open assumption. GB-1 and GB-2 both project through P; since P is met, the shared risk is only that the framework use "ordering" inconsistently (an internal-consistency check, not an empirical one). GB-3 does not project through P.
 
@@ -51,7 +53,7 @@ Shared premise P (ordering-identity): ordering is the same role — causal prece
   - projection path: flow=0 → no constituted information (info = cause + flow; main-doc PB-3 + the bets-3+4 synthesis), projected onto all null structure. Independent of P. Widens PB-3's photon proscription to all null structure (horizon generators, GW null rays) — a failure mode the photonic test does not reach.
   - fails if: a horizon null generator or a GW constitutes (not merely records) information with no flow-bearing uptake anywhere in the loop. (A GW perturbs adjacency in flight — LIGO arm-length — but that is transit, not constitution: the flow-bearing-worldline clause is not met by the null wave; constitution is at the flow-bearing receiver, as with the photon/detector split.)
 
-## Gravity Bets Witness Pressure Test
+## 5. Gravity Bets — Witness Pressure Test
 
 Separate, after-the-fact verdicts: each records that a could-have-failed check on a bet was run, and whether it stood. Not part of the bets.
 
@@ -61,13 +63,13 @@ Separate, after-the-fact verdicts: each records that a could-have-failed check o
 - GB-3, CMB test (cosmological instance): recombination is the transit/uptake boundary for the photon. Inside the last-scattering surface the photon is in continual flow-bearing uptake (dense medium, λ small — absorbed and re-emitted by the massive plasma); at decoupling it transitions to pure transit (free-streaming, influence+ordering, no uptake — the GB-3 photon). The CMB we observe is the pure-transit photon population since last scattering. Consistent with GB-3: the photon constitutes nothing in free flight; what was constituted (the plasma's record) was at the flow-bearing matter, before decoupling. (The plasma wall is NOT a role-lack corner — it is ordering-rich and uptake-dense; its collective behavior, e.g. radiation pressure, is consequential-uptake at dense scale. So the wall is a role-rich regime, the contrast to the role-lack corners, not a fourth corner.)
 - GB-2: partial verdict. Loss edge — STANDS via the black-hole case (Page curve / islands): the loss-pathology localizes where ordering collapses, the could-have-failed did not fire. Unaccountability edge — UNWITNESSED: it maps onto the past hypothesis, itself contested as an information problem, so no clean check has been run. The ⟹ direction and the per-clause operational tests remain owed (see GB-2 run-status above); P (ordering-identity) is met (definitional), not an owed check. Verdict: the loss edge stands; the biconditional is not yet sealed.
 
-## Gravity Bets Result
+## 6. Gravity Bets — Result
 
 Gravity = information + adjacency (massive sector). Shared cause-core (ordering + influence); the timelike flow-role (energetic in gravity, kinematic in information); gravity adds the spacelike sector of T_μν (momentum + stress = adjacency). At the null limit the flow-role vanishes and energy is itself adjacency-borne (E = |p|c), so the massless extreme is maximal-adjacency / zero-flow — the opposite end from rest-massive (flow-term / zero-momentum). [This is GB-1 — re-graded to a definition + consistency-check (not a bet; its failure condition is not operational — see the GB-1 grade note): the conclusion of the cascade (P met + influence-identity checked + energy-momentum = flow-term + adjacency-term), a definitional decomposition standing on the three links and carrying no confirmatory weight. The bet-register holds GB-2 and GB-3.]
 
 The singularity collapses ordering — shared by both compositions — so one event acts on gravity's decomposition and information's fate together. [This is GB-2.] (Ordering's fate — loss or transformation → influence — is open; see Open, and main-doc singularity section.)
 
-### Weyl two-face structure at the ordering-collapse corner [load-bearing on approach — sharpens GB-2; see grade by regime]
+### 6.1 Weyl two-face structure at the ordering-collapse corner [load-bearing on approach — sharpens GB-2; see grade by regime]
 
 The Weyl tensor splits into an electric/tidal face (E_μν = C_μανβ u^α u^β, the tidal field projected along a timelike u) and a magnetic/areal face (space-space). The index-types map onto the laying-out roles the same way the conjugate split does: time-space → ordering's directed axis; space-space → adjacency's transverse sector. That index-map is the forced, grounded part (the same diagnostic the gauge question turned on — read the indices, do not assert).
 
@@ -79,17 +81,17 @@ The cross-layer question this raises: ordering-collapse lives at the cone/causal
 
 Flagged import: the Weyl decomposition and index-types are forced-from-ground (importable). The frame-adapted sharpness of the split, and the BKL wall-drive, are imported, not framework-derived. The new GB-2 falsifier (electric-Weyl signature on stranding) is forced only in the monotonic regime; in the generic regime it inherits the rotating wall-structure (S₃, the wall-symmetry — see main-doc structural-seam).
 
-## Scope
+## 7. Scope
 
 - The framework labels substrate (T_μν's parts → roles) and forces bets into GR-silences; it does not derive p^μ = m u^μ, T_μν, or the Einstein equation.
 - Perimeter: the role-decomposition places the terms and the conversion factor c; it does not derive the signature/count (1 timelike, 3 spacelike). The combining-law — the quadrature E² = (pc)² + (mc²)² — is NOT a separately imported law but a theorem of the already-licensed imports [re-graded, promoted]: the metric's norm (imported with adjacency/signature) on the leg-decomposition, with p^μ = m u^μ and u·u = −c² (listed substrate). Single-counting: it is required and it round-trips, but it is a consequence of licensed imports, not an independent import. (The metric and signature remain the imports; the mass-shell is still not from roles — it is from the imported metric.) [Cross-doc: doc-1 §3 still states the quadrature as a separate import; the matching re-grade there is owed — flagged, not silently half-promoted.] A partial-relabel standing on imported structure, not a numeric derivation.
 
-## Open
+## 8. Open
 
 - ordering destroyed or transformed (→ influence) at the singularity = the information paradox. Physics (unitarity, Page curve) favors transformed.
 - influence and ordering interconvertible like mass and energy, with s the conversion factor? Symmetric projection from c-as-conversion-factor (c is the unit-shadow of the primitive signature/cone structure — the converter, not itself primitive; E=mc² uses it; photon = c saturated, the spine made manifest; the limit is downstream). NOT in evidence for s. The singularity is where an ordering→influence (s) conversion, if real, would accompany the evidenced mass→radiation (c) flow-crossing.
 
-## The conjugate layer
+## 9. The conjugate layer
 
 The conjugate table closes by a CATEGORY FACT, not by filling a slot.
 - two conjugate pairs: energy↔flow, momentum↔adjacency. [Reading clause, promoted: these are ROLE-conjugacies — dynamical/Fourier duality — NOT operator-pairs. Under an operator-pair reading the table collides with Pauli's theorem (energy bounded below denies a self-adjoint conjugate time operator, while momentum, unbounded, gets its x); the table survives only as dynamical/Fourier duality, the operator machinery imported and asymmetric between the pairs, the asymmetry owned by the spectrum. A forced specification of which reading is tenable, not a kill. (The conjugate layer is duplicated in doc-1 §3; the canonical-home dedupe — doc-1 as derivation-parent, doc-2 pruned to a pointer plus gravity-specific uses — is a structural decision flagged, not executed here.)]
@@ -101,7 +103,7 @@ Ordering and influence are CONJUNCTS (cause = their conjunction; they degrade se
 
 Gravity's content is the four-momentum (time-momentum + space-momentum); information uses the ordered content (cause + flow); the de-ordered adjacency-spread is space-momentum with its ordering cancelled, and entropy is its measure GIVEN mixedness — the same re-scope as EB-2 (the de-ordered remainder is forced; its entropic reading is mixedness-mediated, imported, and scopes to thermal/typical radiation). (Mass, the invariant leg, carries no entropy — it is not a spread.)
 
-## EB-1 — "what is a photon at rest?"
+## 10. EB-1 — "what is a photon at rest?"
 
 **The forced chain:**
 1. Photon: massless — no rest frame, no time-momentum (restless by nature, c in all frames).
@@ -120,7 +122,7 @@ Gravity's content is the four-momentum (time-momentum + space-momentum); informa
 
 **Not claimed (uncolored):** that "multiplicity" is a thing / operation / general role; that any flow→0 aggregate behaves this way; that this is an "aggregate corner"; that other part-impossibilities force their own boxes (a general method). One projection — "photon at rest" → the box — is forced, nothing more. (It does NOT generalize as "multiplicity": massive parts aggregating give pressure, not a leg-flip; a single massive worldline has time-momentum with no aggregation and resolves no impossibility — a massive part can already be at rest, so no box is forced. The box is forced only because rest was impossible at the part.)
 
-## EB-2 — "given the box, what does the mereology force about its interior?"
+## 11. EB-2 — "given the box, what does the mereology force about its interior?"
 
 **The claim** [re-scoped, promoted]: the same cancellation that gives the photon-box its mass forces a remainder — an isotropic, de-ordered adjacency-spread. That remainder is forced; identifying it with entropy holds GIVEN mixedness (imported — see step 5 and the ‡ note). For thermal/typical radiation, mass and entropy are two faces of one cancellation; the forced core is the remainder, the entropic reading is mixedness-scoped.
 
@@ -152,10 +154,10 @@ EB-1 establishes the box (the whole — its mass). EB-2 asks what the mereology 
 - "seamless/continuous" is CONDITIONAL on the ℏ-convergence: the entropy count needs a cell (ℏ); is ℏ-as-cell the same as ℏ-as-conjugate-floor (one imputation) or a rhyme? If a rhyme, a seam (added machinery) appears. Seamless only if the convergence holds.
 - scale-as-relational-imputation is NOT part of this projection — pulled out (see note below); it rode in on the temperature vehicle but stands alone.
 
-## Scale as Relational Imputation
+## 12. Scale as Relational Imputation
 - scalars are imputed from non-linear relationships, not absolute imports (GR: curvature scalars are contractions). c from the quadrature; ℏ from conjugacy (Δp·Δx); T from E(S); σ from ℏ³c²k⁴.
 - the framework FORCES the relationships; the relationships IMPUTE the scalars (relational, frame-independent — invariant because contracted). Only the unit-convention is free (vanishes in natural units, c=ℏ=k=1).
 - so "scale-free" = free of the unit-convention, NOT free of scales. GR-faithful (GR already does this); definition-grade. Distinct from EB-1/EB-2 — a general statement about scale, surfaced by the temperature derivation but standing on its own.
 
-## EB-1 / EB-2 Relation
+## 13. EB-1 / EB-2 Relation
 - EB-1 round-trips to GR (the box-has-mass); EB-2 bridges from GR continuously into thermodynamics (the box's interior: entropy, T). Related (EB-2 decomposes EB-1's box) — NOT fused; grades differ (GR-round-trip vs thermo-bridging bet).
