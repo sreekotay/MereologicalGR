@@ -12,13 +12,13 @@ General relativity is held fixed as ground truth throughout: nothing here modifi
 
 ### 1.1 The question, and GR held fixed
 
-GR is mathematically correct and its predictive compression is rightly heralded. But GR is silent on certain mereological questions, and the photon in particular is both elegant and vexing: it traverses, orders, and acts, while accruing no proper time at all. The standard response is to treat this as a curiosity of the null limit. This paper treats it instead as data — an exhibited decomposition, performed by GR's own mathematics, of a notion (cause) that the theory uses but never anatomizes.
+GR is mathematically correct and its predictive compression is rightly heralded. But GR is silent on certain mereological questions, and the photon in particular is both elegant and vexing: it traverses, orders, and acts, while accruing no proper time at all. The standard response is to treat this as a curiosity of the null limit. This paper treats it instead as data — an exhibited fused composition, decomposed and performed by GR's own mathematics, of a notion (cause) that the theory uses but never anatomizes.
 
 The framework therefore takes the mathematics and predictive compression of GR as correct a priori, and attempts to rigorously project into the questions on which it is silent: what composes cause, time, information, space, gravity-as-structure? The stance is following GR further, not refuting it. GR is sound; where it is silent or bundles roles into one object (metric, source), that is read as a mereological gap — a role not yet separated — not a foundational gap. The default on a GR silence or bundle is to separate the role, never to supply missing physics. The working expectation is that GR's regularities (e.g. a bound like c on a role-exchange) extend to separated roles.
 
 ### 1.2 Method
 
-The method, in one paragraph: from the photon under GR-fixed, unfuse exactly three unitless component-roles (no more, no fewer) — the two the corner exhibits and the one it strips. Treat those roles as composable constituents for real: this realism is the paper's declared wager, not a forced step. Then project what **must** be true under GR's mathematics if the roles compose — the compositions, the mandatory questions (e.g. the dual cell the photon's profile forces), and the bounds. The realism is paid for in falsifiable bets; the bets are the realism's price, and their failure conditions are stated where they are made.
+The method: from the photon under GR-fixed, unfuse exactly three unitless component-roles (no more, no fewer) — the two the corner exhibits and the one it strips. Treat those roles as composable constituents for real: this realism is the paper's declared wager, not a forced step. Then project what **must** be true under GR's mathematics if the roles compose — the compositions, the mandatory questions (e.g. the dual cell the photon's profile forces), and the bounds. The realism is paid for in falsifiable bets; the bets are the realism's price, and their failure conditions are stated where they are made.
 
 The mereological instrument is completeness — compose / missing / extra — not taxonomy:
 
@@ -30,13 +30,13 @@ A composition holds only with no missing and no extra — the parts determine th
 
 **Forced** is the gate the method runs under: a move carries weight only if no alternative reading survives once GR is held fixed as ground-truth math — exactly one reading live. If two or more remain, the move is chosen, not forced (manufacture) — a move declined under this methodology. The compose / missing / extra checks test whether a decomposition is complete; forced tests whether the step was necessary. Completeness can pass and still be taxonomy — only forced makes it carry weight.
 
-Import and proscription run under the same gate. Import is licensed by forced-from-ground + completeness, never by being GR-native (a non-GR thing imports if it derives forced from GR ground and enters complete; only the unforced is excluded). A presumed proscription — reading a GR-silence as a prohibition — discharges as a bet, not a fact. Outside-GR is not disqualifying; bare exclusion is not a move.
+Import and proscription run under the same gate. Import is licensed by forced-from-ground + completeness, never by being GR-native (a non-GR thing imports if it derives forced from GR + method ground and enters complete; only the unforced is excluded). A presumed proscription — reading a GR-silence as a prohibition — discharges as a bet, not a fact. Outside-GR is not disqualifying; bare exclusion is not a move.
 
 The method and measures (compose / missing / extra) are tools for reducing epistemic incompleteness, not a claim that any decomposition here is complete or its parts irreducible.
 
 ### 1.3 Claims and non-claims
 
-What the paper claims: a set of role-separations read off GR's own corners; compositions built from them (time, space, c) graded individually; contact-grade readings of standard phenomena in which every standard number is left standing and only the narration changes; and four bets — projections into GR-silences — each priced with a falsifier. What it does not claim: no new dynamics (the field equations and couplings are imported or out by kind); no derivation of magnitudes (dimensional counts are presently open, couplings are out by kind); no substance-ontology (the components are roles, not stuff — §2); and no adjudication among interpretations of quantum mechanics beyond the specific role-content checked. Where the framework's reading merely re-describes, the re-description is labeled as carrying no weight (§1.5).
+What the paper claims: a set of role-separations read off GR's own corners; compositions built from them (time, space, c) graded individually; contact-grade readings of standard phenomena in which every standard number is left standing and only the narration changes; and four bets — projections into GR-silences — each priced with a falsifier. What it does not claim: no new dynamics (the field equations and couplings are imported or out by kind); no derivation of magnitudes as GR is scale-free (dimensional counts are presently open, couplings are out by kind); no substance-ontology (the components are roles, not stuff — §2); and no adjudication among interpretations of quantum mechanics beyond the specific role-content checked. Where the framework's reading merely re-describes, the re-description is labeled as carrying no weight (§1.5).
 
 ### 1.4 Relation to existing work
 
@@ -44,18 +44,18 @@ Individuation by role is fundamental physics' default mode, not an exotic postur
 
 ### 1.5 Epistemic grading (labels — applied per claim, not per object)
 
-- definition — a stipulation or composition (a carve). Judged by carve-quality, not truth; carries **no** confirmatory weight. Most of the framework's construction is definitions (the compositions, the roles, the perimeter).
-- label — inert re-description of one thing in the framework's vocabulary. No weight; rare.
-- witness — phenomenon run through compose/missing/extra; could have failed mereologically, didn't (or failed correctly). Carries confirmatory weight.
-- probe — interior/non-extremal reading that **bounds** a term without reaching its boundary. Carries bounding weight only.
-- echo — independent structure our reading maps onto; **silent** (permits, doesn't force). Carries **no** weight; consistent-with, not evidence.
-- clarifier — a contact-grade verdict: the framework's reading re-describes or de-conflates a known result correctly, predicting no new number (the numbers are owned by the standard formalism). Confirms consistency, carries no predictive weight. Distinct from echo (a clarifier is the framework's own reading checked against a phenomenon; an echo is an independent structure that happens to permit the reading).
-- failed floor — attempted reduction that didn't deliver; logged as negative.
-- parked texture — not precluded, not suggested; demoted from evidence, live to revisit; do-not-hunt where hunting is the fitting trap.
+- **definition** — a stipulation or composition (a carve). Judged by carve-quality, not truth; carries **no** confirmatory weight - that work follows. Most of the framework's construction is definitions (the compositions, the roles, the perimeter).
+- **label** — inert re-description of one thing in the framework's vocabulary. No weight; rare.
+- **witness** — phenomenon run through compose/missing/extra; could have failed mereologically, didn't (or failed correctly). Carries confirmatory weight.
+- **probe** — interior/non-extremal reading that **bounds** a term without reaching its boundary. Carries bounding weight only.
+- **echo** — independent structure our reading maps onto; **silent** (permits, doesn't force). Carries **no** weight; consistent-with, not evidence.
+- **clarifier** — a contact-grade verdict: the framework's reading re-describes or de-conflates a known result correctly, predicting no new number (the numbers are owned by the standard formalism). Confirms consistency, carries no predictive weight. Distinct from echo (a clarifier is the framework's own reading checked against a phenomenon; an echo is an independent structure that happens to permit the reading).
+- **failed floor** — attempted reduction that didn't deliver; logged as negative.
+- **parked texture** — not precluded, not suggested; demoted from evidence, live to revisit; do-not-hunt where hunting is the fitting trap.
 
-Discipline: only witness confirms; probe bounds; echo / failed-floor / parked carry no confirmatory weight and may **not** be cited as support. Keeps broad exploration from collapsing into "everything confirms me." An object can hold different labels in different contexts (neutrino = witness mereologically, probe on the s-axis).
+**Discipline**: only witness confirms; i.e. probe bounds; echo / failed-floor / parked carry no confirmatory weight and may **not** be cited as support. This attempts to keep broad exploration from collapsing into "everything confirms me." An object can hold different labels in different contexts (neutrino = witness mereologically, probe on the s-axis).
 
-Status-scope: this doc asserts only what its own derivations establish; its status lines (open / owed / parked) are relative to that basis. Refinements derived in the working doc (record-vs-constitution.md) supersede them only on promotion, after a cold read in a later session; until then, the working doc holds the set's current state of those items, and this doc's statuses are correct at their own level, not stale.
+**Status-scope**: this doc asserts only what its own derivations establish; its status lines (open / owed / parked) are relative to that basis. Refinements derived in the working doc (record-vs-constitution.md) supersede them only on promotion, after a cold read in a later session; until then, the working doc holds the set's current state of those items, and this doc's statuses are correct at their own level, not stale.
 
 Descriptive move-names (excavation, reflection, quant-composition) name **how** a move was made or its shape; they are not weight-classes and never substitute for an epistemic slot. Every claim carries a slot from the list above (definition / label / witness / probe / echo / failed-floor / parked) regardless of how it was reached. A composition — including a quant-composition — is a definition (zero confirmatory weight).
 
