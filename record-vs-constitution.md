@@ -542,6 +542,24 @@ POSITION v3 (the converged statement): a candidate natural vocabulary for existi
 
 ---
 
+## The final census (the bet-register rerun through position v3 — register, provenance, earned closure-status)
+
+ROW 2 (resolved recognitions, discounted, gated on the queued amendment): dual cell ← Bell (receipted); s-axis ← LG (PB-1); ordering-no-conjugate ← Pauli (rhyme-grade); operator-pattern + T ← QM inventory (strongest candidate). Four, not five; recognition not derivation; in-context discounts standing.
+
+ROW 3 (live exposure, each with earned outside-closure status checked):
+- PB-3 — the lens's key finding: the SPAD instancing was the DECISIVE move, because "constitution" is framework-native vocabulary; un-instanced, the bet's target is outside standard closure only definitionally (a win would adjudicate our concept, not the world). Q_th converts it to a circuit-event question; falsifier self-indexes. Earned; binary; staked.
+- PB-4-full — FR-passed on pre-FR commitments, bounded; live.
+- GB-2 — loss-edge stands via the Page curve (earned: outside classical GR's closure); unaccountability edge unwitnessed; edge-labeling orientation-forced (arrow-conjugates). Half-witnessed, half-exposed; the strongest GR-silence bet.
+- GB-3 — three pressure tests stood; inherits PB-3's instanced status at the null end.
+- EB-2 — world-exposure thin by its own re-scope (forced core = faithfulness; entropic identification mixedness-scoped, imported). The grade is the honesty.
+- the siren fork — the only temporally-novel stake; pre-registered against the current lean. Cleanest provenance in the register.
+- the SBS-trajectory bet — tracked, ex-ante inclusion rule, graduation/falsification committed.
+RE-SORTED OUT by this session: GB-1 (definition + consistency-check), EB-1 (round-trip), all meshes (faithfulness — calibration, not exposure). FLAG: PB-2 not re-derived this session — owes the lens at the next cold read; no grade asserted from memory.
+
+One sentence: four discounted recognitions behind the gate, five-and-a-half live stakes in front of it — two instanced or pre-registered down to a number (Q_th; the siren fork), which is where a structure-machine's entire claim on the world should sit.
+
+---
+
 ## The open-stamp audit (Rule 6 applied to every standing open item, all three docs — RUN)
 
 Inventory typed; process items (queued promotions, strictest-gate amendments) excluded as scheduling.
