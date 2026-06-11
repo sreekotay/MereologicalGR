@@ -512,6 +512,19 @@ GRADE: corrections (2 at source, 1 one-word), one upgrade-derivation (queued), o
 
 ---
 
+## The lineage path and the three registers (the seam-crossing asymmetry — author-prompted correction of a chat mis-sort)
+
+A zoom-out summary stated "the framework's world-content is exactly the bet-register — nothing else." MIS-SORT, by the landing-site taxonomy's own row 2: RESOLVED independent landings are world-register, not faithfulness — and the corpus holds five of them, all outside-GR-closure (GR entails no operator inventory, no entanglement, no LG bound). The corrected three-register position:
+- FAITHFULNESS: the meshes (redshift ~9 deepest) — calibration, heavily evidenced.
+- WORLD, RESOLVED (row 2): the seam-crossings — (1) the dual cell, derived before its occupant, filled by entanglement, Bell-receipted, escapes costed; (2) the s-axis, LG met (PB-1, sealed); (3) ordering-as-spine landing on Pauli's theorem — QM's own textbook embarrassment as the carve's category fact; (4) the inversion's operator-pattern + T-antiunitarity landing on QM's independently-fixed inventory (lineage-witness candidate); (5) the Wigner little-group certificate — QM's own individuation machinery marking the seed-corner. Each discounted by retrodiction-lineage, each receipted, none zero.
+- WORLD, UNRESOLVED (row 3): the bet-register (PB-3 instanced to Q_th; GB-2's edges; GB-3; the siren fork).
+
+THE ASYMMETRY THAT MAKES ROW 2 CATEGORICALLY STRONG (author's point): QT never crosses the GR-QM seam derivationally in either direction — microcausality AXIOMATICALLY imports the cone, and curved-space QFT imports GR wholesale as background (the fudge, named in the shield-audit). The framework's lineage is an audited derivational crossing, GR→QM, with receipts: a GR-native carve at GR's own degenerate corner (the photon, dτ=0) forcing slots — and five times running, the occupant found in QM's independently-built structure fits. The full path with licenses: substrate commitment (§1.2, imports audited — what QT never does for its causal substrate) → seed (exhibit) → carve (definitions, met) → dual cell (witness + Bell receipt) → s-axis (PB-1) → conjugate layer (Pauli, forced specification) → inversion (operator-pattern, candidate) → little-group certificate (corroborating) → record/constitution (two-place, scale-freedom-forced; FR passed on pre-FR commitments) → the reverse-direction audit (the shield: the other crossing, the one physics uses daily, is axiomatic and unaudited; defensive, zero weight).
+
+Stated at corrected strength: one coordinate system whose forced consequences span the seam NEITHER theory derives — not a relabel of one theory. The discounts stand (retrodiction, in-context, deriver-carries-answers — the lineage-witness amendment still gated); the CATEGORY is what changed: row 2 is world-register, and QT's foundations hold nothing of its kind.
+
+---
+
 ## The open-stamp audit (Rule 6 applied to every standing open item, all three docs — RUN)
 
 Inventory typed; process items (queued promotions, strictest-gate amendments) excluded as scheduling.
