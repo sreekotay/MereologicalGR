@@ -1,7 +1,7 @@
 # Gravity and Expansion
 
 Status: working external-form note.  
-Grade: lineage-witness candidate for the Hubble slot-count; clarifier for the field taxonomy; magnitude remains calibration-disowned.
+Grade: lineage-witness candidate (under the queued lineage-witness amendment, doc-3) for the Hubble slot-count; clarifier for the field taxonomy; magnitude remains calibration-disowned.
 
 This note states the framework's expansion result cleanly: what follows from the role carve, what is protected by GR identities, where Hubble tension can live, and what current theory classes are doing in the graph.
 
@@ -54,13 +54,13 @@ photons lose information in flight
 H contains a hidden information-loss term
 ```
 
-The framework therefore predicts a null:
+The framework therefore predicts a null — this is PB-3 / GB-3 (the parent docs' photon/null proscription) instanced to the cosmological register, not a fresh prediction:
 
 ```text
 ε_info-propagation = 0
 ```
 
-Any information-like residual in cosmological propagation must first appear as an ordinary physical channel effect, detector threshold, opacity, scattering, lensing, selection, or record-constitution failure. It is not supplied by the role theory.
+Any information-like residual in cosmological propagation must first appear as an ordinary physical channel effect, detector threshold, opacity, scattering, lensing, selection, or record-constitution failure. It is not supplied by the role theory. Its could-fail is PB-3's family: a propagation anomaly that resists all channel-effect accounting.
 
 ## 3. Protected identities
 
@@ -142,12 +142,15 @@ Slot 1: adjacency constitution
   local records become distances;
   early records become rulers.
 
-Slot 2: ordering / transport bridge
-  early structure is transported to present H0;
+Slot 2: gravity / expansion-history bridge
+  the ordering-transport that carries early structure to present H0,
+  AND the energy-momentum content that shapes H(z) along the way;
   local samples are indexed into a global scalar.
 ```
 
-There is no third information/clock slot:
+Slot 2 is gravity, not bare geometry: `gravity = ordering + influence + energy-momentum` is three-role, and the cosmological bridge is gravity acting (Friedmann). Integrating `a(τ)` from early records to present `H0` requires the expansion history `H(z)`, which is set by the energy-momentum content — the dark sector — not by ordering alone. So the entire energy-momentum-content solution class rides inside slot 2: dark-sector, modified-gravity, interacting, and dynamical-dark-energy proposals are content-edits within the bridge, not a separate slot. (EDE and dynamical DE are the same energy-momentum currency sorted by *when* it acts: pre-recombination content pays in the slot-1 ruler `r_s`; late content pays in the slot-2 transport.)
+
+The count is two because two of three roles differ between the compared inferences (adjacency and the gravity-bridge), while flow is shared. The denied third is specifically a *flow / clock / information* slot, not an energy-momentum role:
 
 ```text
 No semantic-redshift slot.
@@ -202,10 +205,10 @@ So the full burden is:
 ≈ 0.178 mag in local distance-modulus currency
 ```
 
-For local distance constitution, the relevant conversion is:
+For local distance constitution, the relevant conversion is (a low-redshift linearization, `cz ≈ H0 D`, valid for the Hubble-flow SN sample):
 
 ```text
-H0 ∝ 1 / D
+H0 ∝ 1 / D   (at fixed z, low-z)
 Δμ = 5 log10(H_high / H_low)
 ```
 
@@ -257,15 +260,15 @@ Distance-ladder systematics
   → record → luminosity conditioner → adjacency magnitude
 
 Early dark energy / pre-recombination changes
-  → early adjacency-ruler constitution
+  → slot-2 content acting early, paid in the slot-1 ruler
   → shrink r_s or r_d so early records infer higher H0
 
 Dynamical dark energy / late-time expansion changes
-  → ordering / transport bridge
+  → slot 2, gravity/expansion-history bridge (late energy-momentum content)
   → alter the flow-history or adjacency-history bridge from ruler records to present H0
 
 Modified gravity / interacting dark sector / exotic species
-  → gravity/model side
+  → slot 2, gravity/expansion-history bridge (energy-momentum import + dynamics)
   → change energy-momentum import, ruler physics, growth, or bridge dynamics
 
 Local void / cosmic variance
@@ -294,8 +297,10 @@ photon record → luminosity conditioner → distance
 with:
 
 ```text
-GW waveform record → GR amplitude-distance identity → distance
+GW waveform record → GR amplitude-distance relation → distance
 ```
+
+(relation, not identity: it is GR-model-based and ladder-free, but not assumption-free — the inclination/waveform/host caveats above ride on it.)
 
 The fork:
 
@@ -352,7 +357,7 @@ Under shared FRW flow, there are two burden slots and no third:
 
 ```text
 adjacency constitution
-ordering / transport bridge
+gravity / expansion-history bridge (ordering-transport + energy-momentum content)
 ```
 
 The live forward test is the standard-siren fork. High sirens bill early ruler/bridge. Low sirens bill late luminosity constitution. Depth or direction dependence tests the shared-congruence assumption itself.
