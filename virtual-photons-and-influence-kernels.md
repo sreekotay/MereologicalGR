@@ -115,7 +115,7 @@ The framework's role-realism here is not object-realism. The virtual photon is r
 
 ## 4. Role registers
 
-Under the role graph, virtual-photon processes have two role registers:
+For the virtual-photon question, the role graph exposes two relevant registers:
 
 ```text
 Register 1: exchange kernel
@@ -130,6 +130,8 @@ Register 2: observable endpoint constitution
   final-state thresholds
   information constituted at flow-bearing uptake
 ```
+
+This is not a count of all QFT ingredients. QFT has vertices, loops, external legs, gauge-fixing, LSZ/asymptotic-state structure, detector observables, and many other calculational components. The count here is narrower: it counts the candidate role-locations relevant to the virtual-photon confusion — exchange-kernel, endpoint constitution, and whether any carrier/information register is licensed.
 
 There is no third carrier/information register:
 
@@ -146,7 +148,7 @@ The field already knows that virtual particles are not detected particles. The f
 kernel ≠ carrier ≠ signal ≠ information
 ```
 
-That is the slot-count. The exchange kernel can be indispensable to a computation without becoming a particle, a worldline, or an information-bearing event.
+That is the slot discipline. The exchange kernel can be indispensable to a computation without becoming a particle, a worldline, or an information-bearing event.
 
 ## 5. Microcausality seam
 
@@ -203,6 +205,8 @@ The framework does not compute QED cross-sections. QED does.
 The framework assigns the role boundary. External physics prices it.
 
 The following are schematic currencies, not universal cross-section claims. Real calculations require the full gauge-invariant amplitude, including form factors, PDFs where relevant, phase space, spin structure, loop and radiative corrections, experimental cuts, and the chosen observable.
+
+Virtuality is a boundary currency, not a role-strength scalar. `q²` / `Q²` prices the off-shell exchange inside QED. It does not measure how much influence the framework assigns, and it should not be promoted into a hidden universal magnitude of influence.
 
 ```text
 virtuality:
@@ -333,7 +337,7 @@ physical observables are gauge-invariant
 
 The framework should concede this. It is not ahead of the field on the empirical taxonomy.
 
-Its contribution is the role-count:
+Its contribution is the role discipline:
 
 ```text
 exchange kernel
@@ -374,9 +378,10 @@ Absence-type distinction:
   discounted-nonzero
   uses pre-existing photon / flow / information carve
 
-Role register count:
-  lineage-witness candidate
+Role register discipline:
+  lineage-consistent slot discipline
   kernel + endpoint constitution, no carrier/information third register
+  not a count of all QFT ingredients
 
 Microcausality seam:
   diagnostic-witness candidate
