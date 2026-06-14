@@ -1,9 +1,9 @@
 # B4 — Hawking Radiation and Ordering Collapse
 
 Status: working proof/contact note.  
-Grade: GB-2 loss-edge contact candidate; PB-4 / GB-3 clarifier for exterior radiation constitution; magnitude remains QFT-in-curved-spacetime / QG-priced and framework-disowned.
+Grade: GB-2 loss-edge contact candidate; PB-4 / GB-3 clarifier for exterior radiation constitution; quantitative role-assignment note; magnitudes remain QFT-in-curved-spacetime / QG-priced and framework-disowned.
 
-This note pulls the Hawking-radiation / singularity contact into its own proof paper. It separates four role-sites that ordinary black-hole narration often fuses: the horizon, the Hawking radiation channel, the singularity, and the Page/QES correction. The aim is not to derive Hawking radiation. Standard QFT in curved spacetime owns that result. The framework asks what role-problem Hawking radiation exposes under the parent carve.
+This note pulls the Hawking-radiation / singularity contact into its own proof paper. It separates four role-sites that ordinary black-hole narration often fuses: the horizon, the Hawking radiation channel, the singularity, and the Page/QES correction. The aim is not to derive Hawking radiation, its temperature, or the Page curve. Standard QFT in curved spacetime and quantum-gravity entropy calculations own those results. The framework imports the standard quantities, assigns their role-location, and states the null it forbids: no independent information-constitution term on null horizon generators or in radiation transit.
 
 ## 1. Claims under test
 
@@ -39,44 +39,134 @@ PB-4 family:
 
 For Hawking radiation, the relevant clause is not that the radiation is null-ish or massless. The relevant clause is where the radiation becomes a constituted record: at flow-bearing exterior uptake, detection, reconstruction, or measurement.
 
-## 2. Standard physics owned externally
+## 2. Quantitative imports owned externally
 
-The framework does not derive:
+The framework does not derive the following quantities. They are imported from standard black-hole thermodynamics and QFT in curved spacetime.
+
+For a four-dimensional, neutral, non-rotating Schwarzschild black hole:
 
 ```text
-Hawking temperature
-greybody factors
-Bogoliubov coefficients
-mode mixing
-black-hole evaporation rate
-Page curve magnitude
-island formula
+Schwarzschild radius:
+  r_s = 2GM / c^2
+
+Horizon area:
+  A = 4π r_s^2 = 16π G^2 M^2 / c^4
+
+Bekenstein-Hawking entropy:
+  S_BH / k_B = A c^3 / (4Gℏ)
+            = 4π G M^2 / (ℏ c)
+
+Hawking temperature:
+  T_H = ℏ c^3 / (8π G M k_B)
+
+Evaporation power, schematic:
+  P(M) ∝ 1 / M^2
+
+Mass loss, schematic:
+  dM/dt ∝ -1 / M^2
+
+Evaporation time, schematic:
+  t_evap ∝ M_0^3
 ```
 
-Those are priced by external physics.
+In the simplest idealized Schwarzschild estimate, suppressing species/greybody complications except for the standard coefficient:
+
+```text
+P_ideal = ℏ c^6 / (15360π G^2 M^2)
+
+t_evap,ideal = 5120π G^2 M_0^3 / (ℏ c^4)
+```
+
+Caveat: the numerical coefficients are not framework claims. They shift with species, greybody factors, charge, angular momentum, dimensionality, and quantum-gravity completion. The framework uses only the role-location and scaling:
+
+```text
+S_BH ∝ M^2
+T_H  ∝ M^-1
+P    ∝ M^-2
+t_evap ∝ M^3
+```
+
+## 3. Quantitative role assignment
+
+The imported scalings locate the roles sharply.
+
+```text
+S_BH(M) ∝ M^2
+  boundary count / capacity / area record
+  not constituted information
+  not semantic payload
+  not null-generator constitution
+
+T_H(M) ∝ M^-1
+  exterior thermality of the Hawking channel
+  not singularity temperature
+  not a direct measure of information content
+
+P(M) ∝ M^-2
+  exterior channel output rate
+  late evaporation accelerates as M decreases
+
+τ_evap(M_0) ∝ M_0^3
+  exterior flow-time over which the loss-edge test unfolds
+  large black holes preserve the operational paradox for cubic mass time
+
+S_rad(t)
+  entropy of the exterior radiation region
+  Page-curve diagnostic of whether the exterior record channel remains thermally stranded
+```
+
+Direct framework statement:
+
+```text
+The quantitative black-hole information problem lives in standard imported functions:
+  S_BH(M), T_H(M), P(M), t_evap(M_0), S_rad(t), S_gen[X].
+
+The framework adds no fourth scalar for information constitution.
+```
+
+Null term:
+
+```text
+ε_null-constitution = 0
+```
+
+Meaning:
+
+```text
+No independent contribution is allowed for information constituted on null horizon generators
+or in Hawking radiation's null/near-null transit.
+```
+
+Any quantitative correction to the black-hole information story must enter through standard entropy accounting, QFT radiation-channel dynamics, greybody/species corrections, Page/QES generalized entropy, or quantum-gravity completion — not through a new null-constitution term.
+
+## 4. Standard role-sites
 
 The standard roles, stated schematically:
 
 ```text
 horizon / exterior geometry:
   global causal structure and mode split
+  null/accessibility boundary
+  area-count term
 
 Hawking radiation:
   outgoing exterior quantum field channel
   approximately thermal semiclassically
+  exterior record channel at uptake
 
 singularity:
   classical interior geodesic termination
   invariant edge in GR
+  ordering-collapse threat
 
 Page curve / islands / QES:
   fine-grained entropy correction / reconstruction assignment
   prevents radiation entropy from growing thermally forever
 ```
 
-The contact is role-diagnostic, not magnitude-generating.
+The contact is role-diagnostic and role-quantitative, not magnitude-generating.
 
-## 3. Role map
+## 5. Role map
 
 The framework role map is:
 
@@ -87,7 +177,8 @@ horizon:
   not constitution as null generator
 
 Hawking radiation:
-  exterior flow-bearing record channel once taken up by detectors/observers/systems
+  exterior quantum record channel once taken up by detectors/observers/systems
+  priced by T_H(M), P(M), greybody factors, and species
   not emitted by the singularity as a mechanism
   not constituted in null transit as such
 
@@ -99,6 +190,7 @@ singularity:
 
 Page/QES/island correction:
   reconstruction / entropy-wedge assignment
+  priced by generalized entropy
   tells the exterior radiation entropy calculation which interior degrees count
   does not make the QES a receiver or the horizon a semantic container
 ```
@@ -112,7 +204,7 @@ area/count ≠ fine-grained constituted information
 island reconstruction ≠ information sitting on the QES
 ```
 
-## 4. What Hawking radiation is not, in this framework
+## 6. What Hawking radiation is not, in this framework
 
 Hawking radiation is not:
 
@@ -143,11 +235,12 @@ The safer statement:
 ```text
 Classically, the singularity is the ordering-collapse edge that creates the stranding problem.
 Semiclassically, Hawking radiation is the exterior quantum record channel.
+Quantitatively, that channel is priced by T_H(M), P(M), greybody factors, and species.
 In the Page/QES account, the exterior channel's fine-grained entropy must be computed with an interior island,
 so the loss edge is not allowed to remain a one-way sink.
 ```
 
-## 5. The singularity / radiation split
+## 7. The singularity / radiation split
 
 The singularity and the Hawking channel should not be fused.
 
@@ -161,6 +254,7 @@ Hawking radiation:
   exterior channel produced by horizon/global-state/mode-mixing physics
   becomes constituted only at exterior flow-bearing uptake
   appears thermal in the semiclassical calculation
+  has T_H ∝ M^-1 and channel power P ∝ M^-2
 ```
 
 So the paradox arises because:
@@ -184,7 +278,7 @@ PB-4 / GB-3 discipline lives at the radiation uptake and horizon/null-carrier bo
 The Page/QES correction bridges the accounting between them.
 ```
 
-## 6. Hawking radiation as exterior record channel
+## 8. Hawking radiation as exterior record channel
 
 Hawking radiation is the exterior channel by which the black hole becomes experimentally and informationally consequential for outside systems.
 
@@ -204,31 +298,73 @@ Hawking radiation in fine-grained entropy accounting:
   Page curve / island formula evaluates S(R)
 ```
 
+Quantitatively:
+
+```text
+large M:
+  low T_H
+  low P
+  slow exterior channel
+  long-lived stranding test
+
+small M:
+  high T_H
+  high P
+  accelerated exterior channel
+  late-time evaporation dominates output
+```
+
 So the exterior radiation is not dismissed. It is the relevant record channel. But constitution is at uptake, and the fine-grained entropy of `R` is not the same as an in-flight semantic substance.
 
-## 7. Page curve and island correction
+## 9. Page curve and island correction
 
 The semiclassical Hawking calculation produces a problem because the radiation appears thermal and entangled with an interior that eventually disappears.
 
-The Page/QES correction says the fine-grained entropy of the radiation is not computed by the naive exterior region alone after the Page time. It includes an island contribution.
+The Page/QES correction says the fine-grained entropy of the radiation is not computed by the naive exterior region alone after the Page transition. It includes an island contribution.
+
+Schematic entropy comparison:
+
+```text
+S_rad(t) = min saddle {
+  S_no-island(R),
+  ext_X [ Area(X)c^3/(4Gℏ) + S_bulk(R ∪ I_X) ]
+}
+```
+
+Natural-unit shorthand:
+
+```text
+S_rad(t) = min ext_X [ Area(X)/(4G) + S_bulk(R ∪ I_X) ]
+```
+
+with ℏ = c = k_B = 1.
 
 Role reading:
 
 ```text
-before Page-time / semiclassical exterior-only reading:
-  radiation record appears increasingly stranded from the interior
+before Page transition / semiclassical exterior-only reading:
+  S_no-island(R) grows
+  exterior radiation record appears increasingly stranded from the interior
 
-Page/QES correction:
-  radiation entropy calculation includes island degrees
+after Page transition / island-dominant reading:
+  island saddle dominates the entropy calculation
+  radiation entropy is computed with interior degrees included
   exterior record channel is not independent of the interior reconstruction wedge
 
 framework consequence:
   the loss edge is checked by the island/radiation generalized-entropy structure
 ```
 
+Direct quantitative statement:
+
+```text
+The Page transition is the point where the exterior record channel stops being describable
+by the naive monotonically-growing thermal entropy curve.
+```
+
 This helps GB-2, but it does not erase the singularity as the classical site of the problem. It says the full quantum-gravity accounting does not allow the classical ordering-collapse edge to function as a permanent information sink.
 
-## 8. Could-have-failed
+## 10. Could-have-failed
 
 The GB-2 / Hawking contact would fail or weaken if:
 
@@ -250,16 +386,25 @@ Hawking quanta constituted information in null transit without flow-bearing upta
 or the horizon null generators themselves constituted the fine-grained information.
 ```
 
+The quantitative null would fail if:
+
+```text
+ε_null-constitution ≠ 0
+```
+
+meaning a necessary, independent entropy/information term had to be added specifically for null-generator or in-transit constitution, not reducible to area/count, bulk entropy, radiation dynamics, greybody/species factors, detector/uptake effects, or QG completion.
+
 The current field does not force those failures. Instead:
 
 ```text
 semiclassical radiation creates the exterior record channel;
 classical singularity supplies the ordering-collapse threat;
 Page/QES supplies the reconstruction correction;
-constitution remains at flow-bearing uptake.
+constitution remains at flow-bearing uptake;
+no independent null-constitution scalar is required.
 ```
 
-## 9. Residuals
+## 11. Residuals
 
 Open or residual items:
 
@@ -280,14 +425,22 @@ final evaporation:
 
 inside/outside reconstruction:
   QG-owned; framework-disowned in mechanism and magnitude
+
+coefficients:
+  Hawking temperature, greybody factors, Page time, and evaporation constants remain externally priced
 ```
 
-## 10. Grade
+## 12. Grade
 
 ```text
 Field taxonomy:
   convergent with standard black-hole information-paradox structure
   thin by itself
+
+Quantitative role assignment:
+  imports S_BH(M), T_H(M), P(M), t_evap(M), S_rad(t)
+  assigns their role-location
+  carries no magnitude-derivation weight
 
 GB-2 loss-edge contact:
   candidate witness for the loss edge
@@ -299,6 +452,10 @@ PB-4 / GB-3 radiation discipline:
   Hawking radiation is the exterior record channel, but constitution occurs at flow-bearing uptake
   horizon/null structure does not constitute information as such
 
+Null quantitative claim:
+  ε_null-constitution = 0
+  no independent entropy/information term for null-generator or in-transit constitution
+
 Magnitude:
   externally priced
   framework-disowned
@@ -307,25 +464,31 @@ Magnitude:
 Collision-room:
   information loss with no ordering-collapse would break GB-2
   null/horizon constitution without flow-bearing uptake would break GB-3/PB-4
+  ε_null-constitution ≠ 0 would break the quantitative null
   singularity-to-radiation mechanism claims would exceed the framework
 ```
 
-## 11. Compact result
+## 13. Compact result
 
 Do not fuse the four sites:
 
 ```text
 horizon
   null/accessibility/area-count boundary
+  S_BH ∝ M^2
 
 Hawking radiation
   exterior quantum record channel
+  T_H ∝ M^-1
+  P ∝ M^-2
 
 singularity
   classical ordering-collapse edge
+  source of the loss-edge pathology
 
 Page/QES/island
   reconstruction / generalized-entropy correction
+  Page transition in S_rad(t)
 ```
 
 The clean reading:
@@ -333,16 +496,23 @@ The clean reading:
 ```text
 Classical GR creates the stranding problem at the singularity.
 Semiclassical Hawking radiation supplies the exterior record channel.
-The Page/QES correction prevents that channel from remaining thermally stranded from the interior.
+The channel is priced by T_H(M), P(M), and greybody/species factors.
+The Page/QES correction prevents S_rad(t) from remaining the naive thermal-growth curve.
 Constitution occurs at flow-bearing uptake, not on null structure in flight.
 ```
 
-Therefore Hawking radiation is not the singularity speaking. It is the exterior channel whose entropy exposes the singularity's ordering-collapse threat and whose Page/QES correction shows that the threat cannot be the final accounting.
+Therefore Hawking radiation is not the singularity speaking. It is the exterior channel whose entropy exposes the singularity's ordering-collapse threat and whose Page/QES correction shows that the threat cannot be the final accounting. The framework's quantitative addition is a null, not a new number:
+
+```text
+ε_null-constitution = 0
+```
 
 ## References / external anchors
 
 - Hawking — particle creation by black holes / black-hole evaporation.
 - Page — average entropy of a subsystem / Page curve.
+- Bekenstein — black-hole entropy / area law.
 - Almheiri, Engelhardt, Marolf, Maxfield — islands and entropy of Hawking radiation.
 - Penington — entanglement wedge reconstruction and the information paradox.
+- Engelhardt and Wall — quantum extremal surfaces / generalized entropy.
 - Standard QFT in curved spacetime and black-hole information-paradox literature.
