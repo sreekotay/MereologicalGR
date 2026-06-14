@@ -1,9 +1,9 @@
 # B4 — Hawking Radiation and Ordering Collapse
 
 Status: working proof/contact note.  
-Grade: GB-2 loss-edge contact candidate; PB-4 / GB-3 clarifier for exterior radiation constitution; quantitative role-assignment note; magnitudes remain QFT-in-curved-spacetime / QG-priced and framework-disowned.
+Grade: GB-2 loss-edge contact candidate; PB-4 / GB-3 clarifier for exterior radiation constitution; quantitative role-assignment note; observational-status constrained; magnitudes remain QFT-in-curved-spacetime / QG-priced and framework-disowned.
 
-This note pulls the Hawking-radiation / singularity contact into its own proof paper. It separates four role-sites that ordinary black-hole narration often fuses: the horizon, the Hawking radiation channel, the singularity, and the Page/QES correction. The aim is not to derive Hawking radiation, its temperature, or the Page curve. Standard QFT in curved spacetime and quantum-gravity entropy calculations own those results. The framework imports the standard quantities, assigns their role-location, and states the null it forbids: no independent information-constitution term on null horizon generators or in radiation transit.
+This note pulls the Hawking-radiation / singularity contact into its own proof paper. It separates four role-sites that ordinary black-hole narration often fuses: the horizon, the Hawking radiation channel, the singularity, and the Page/QES correction. The aim is not to derive Hawking radiation, its temperature, or the Page curve. Standard QFT in curved spacetime and quantum-gravity entropy calculations own those results. The framework imports the standard quantities, assigns their role-location, states the observational status, and states the null it forbids: no independent information-constitution term on null horizon generators or in radiation transit.
 
 ## 1. Claims under test
 
@@ -139,7 +139,58 @@ or in Hawking radiation's null/near-null transit.
 
 Any quantitative correction to the black-hole information story must enter through standard entropy accounting, QFT radiation-channel dynamics, greybody/species corrections, Page/QES generalized entropy, or quantum-gravity completion — not through a new null-constitution term.
 
-## 4. Standard role-sites
+## 4. Observational status
+
+The observational situation is asymmetric: exterior black-hole behavior is strongly constrained; Hawking evaporation, the Page curve, and the singularity are not directly observed in astrophysical black holes.
+
+```text
+Exterior GR black-hole behavior:
+  observed / strongly constrained
+  shadows, accretion environments, mergers, and ringdown are broadly GR-like
+  tests exterior geometry and near-horizon boundary behavior
+  does not observe the singularity
+  does not observe constitution on the horizon
+
+Astrophysical Hawking radiation:
+  not directly observed
+  stellar and supermassive black holes are far colder than the CMB
+  searches for evaporating primordial black holes constrain populations
+  no confirmed evaporation event
+
+Analogue Hawking radiation:
+  observed/reported in analogue systems
+  supports horizon/mode-mixing kinematics
+  not a gravitational black-hole test
+  does not test singularities, Page curves, or QES islands
+
+Page curve / QES / islands:
+  theoretical entropy-accounting result
+  not experimentally observed for a real black hole
+  contact is with the field's theoretical accounting, not measured S_rad(t)
+
+Singularity:
+  unobserved
+  inferred as the classical GR boundary/termination
+  not experimentally accessible as an interior event
+```
+
+Observationally disciplined read:
+
+```text
+Observed black-hole exteriors are GR-like.
+No observation currently requires an additional information-constitution term on a horizon/null generator.
+No direct observation of Hawking radiation or Page-curve recovery currently forces a revision of the role map.
+```
+
+So the framework's quantitative null is not experimentally proven. It remains unfalsified and consistent with present observations:
+
+```text
+ε_null-constitution = 0
+```
+
+This section constrains the grade: B4 is not an experimental witness of Hawking radiation or QES. It is a quantitative role-assignment and theoretical contact, with exterior-GR observational support and no observed collision.
+
+## 5. Standard role-sites
 
 The standard roles, stated schematically:
 
@@ -166,7 +217,7 @@ Page curve / islands / QES:
 
 The contact is role-diagnostic and role-quantitative, not magnitude-generating.
 
-## 5. Role map
+## 6. Role map
 
 The framework role map is:
 
@@ -204,7 +255,7 @@ area/count ≠ fine-grained constituted information
 island reconstruction ≠ information sitting on the QES
 ```
 
-## 6. What Hawking radiation is not, in this framework
+## 7. What Hawking radiation is not, in this framework
 
 Hawking radiation is not:
 
@@ -240,7 +291,7 @@ In the Page/QES account, the exterior channel's fine-grained entropy must be com
 so the loss edge is not allowed to remain a one-way sink.
 ```
 
-## 7. The singularity / radiation split
+## 8. The singularity / radiation split
 
 The singularity and the Hawking channel should not be fused.
 
@@ -278,7 +329,7 @@ PB-4 / GB-3 discipline lives at the radiation uptake and horizon/null-carrier bo
 The Page/QES correction bridges the accounting between them.
 ```
 
-## 8. Hawking radiation as exterior record channel
+## 9. Hawking radiation as exterior record channel
 
 Hawking radiation is the exterior channel by which the black hole becomes experimentally and informationally consequential for outside systems.
 
@@ -316,7 +367,7 @@ small M:
 
 So the exterior radiation is not dismissed. It is the relevant record channel. But constitution is at uptake, and the fine-grained entropy of `R` is not the same as an in-flight semantic substance.
 
-## 9. Page curve and island correction
+## 10. Page curve and island correction
 
 The semiclassical Hawking calculation produces a problem because the radiation appears thermal and entangled with an interior that eventually disappears.
 
@@ -364,7 +415,7 @@ by the naive monotonically-growing thermal entropy curve.
 
 This helps GB-2, but it does not erase the singularity as the classical site of the problem. It says the full quantum-gravity accounting does not allow the classical ordering-collapse edge to function as a permanent information sink.
 
-## 10. Could-have-failed
+## 11. Could-have-failed
 
 The GB-2 / Hawking contact would fail or weaken if:
 
@@ -394,17 +445,27 @@ The quantitative null would fail if:
 
 meaning a necessary, independent entropy/information term had to be added specifically for null-generator or in-transit constitution, not reducible to area/count, bulk entropy, radiation dynamics, greybody/species factors, detector/uptake effects, or QG completion.
 
+The observational status would change if:
+
+```text
+direct astrophysical Hawking radiation were observed;
+a real black-hole Page curve were measured;
+a horizon-surface information-storage signal were required by data;
+or exterior observations forced a hard-surface / non-GR boundary inconsistent with the role map.
+```
+
 The current field does not force those failures. Instead:
 
 ```text
+observed exteriors are GR-like;
 semiclassical radiation creates the exterior record channel;
 classical singularity supplies the ordering-collapse threat;
-Page/QES supplies the reconstruction correction;
+Page/QES supplies the theoretical reconstruction correction;
 constitution remains at flow-bearing uptake;
 no independent null-constitution scalar is required.
 ```
 
-## 11. Residuals
+## 12. Residuals
 
 Open or residual items:
 
@@ -428,14 +489,24 @@ inside/outside reconstruction:
 
 coefficients:
   Hawking temperature, greybody factors, Page time, and evaporation constants remain externally priced
+
+observations:
+  Hawking radiation, Page curves, QES islands, and singularities are not directly observed in real black holes
 ```
 
-## 12. Grade
+## 13. Grade
 
 ```text
 Field taxonomy:
   convergent with standard black-hole information-paradox structure
   thin by itself
+
+Observational status:
+  exterior GR black-hole behavior observed / strongly constrained
+  astrophysical Hawking radiation not directly observed
+  Page curve / QES not experimentally observed for real black holes
+  singularity unobserved
+  analogue Hawking systems support mode-mixing kinematics but not gravitational singularity/QES claims
 
 Quantitative role assignment:
   imports S_BH(M), T_H(M), P(M), t_evap(M), S_rad(t)
@@ -443,9 +514,9 @@ Quantitative role assignment:
   carries no magnitude-derivation weight
 
 GB-2 loss-edge contact:
-  candidate witness for the loss edge
+  candidate theoretical witness for the loss edge
   black-hole information loss localizes at ordering-collapse / invariant edge in the classical story
-  Page/QES correction checks that the edge is not a permanent sink
+  Page/QES correction checks theoretically that the edge is not a permanent sink
 
 PB-4 / GB-3 radiation discipline:
   clarifier / diagnostic support
@@ -455,6 +526,7 @@ PB-4 / GB-3 radiation discipline:
 Null quantitative claim:
   ε_null-constitution = 0
   no independent entropy/information term for null-generator or in-transit constitution
+  consistent with observations, not experimentally proven
 
 Magnitude:
   externally priced
@@ -465,10 +537,11 @@ Collision-room:
   information loss with no ordering-collapse would break GB-2
   null/horizon constitution without flow-bearing uptake would break GB-3/PB-4
   ε_null-constitution ≠ 0 would break the quantitative null
+  direct observation of horizon constitution or a real Page-curve conflict would move the grade
   singularity-to-radiation mechanism claims would exceed the framework
 ```
 
-## 13. Compact result
+## 14. Compact result
 
 Do not fuse the four sites:
 
@@ -476,19 +549,23 @@ Do not fuse the four sites:
 horizon
   null/accessibility/area-count boundary
   S_BH ∝ M^2
+  exterior behavior observed indirectly / strongly constrained
 
 Hawking radiation
   exterior quantum record channel
   T_H ∝ M^-1
   P ∝ M^-2
+  not directly observed astrophysically
 
 singularity
   classical ordering-collapse edge
   source of the loss-edge pathology
+  unobserved
 
 Page/QES/island
   reconstruction / generalized-entropy correction
   Page transition in S_rad(t)
+  theoretical, not experimentally observed for real black holes
 ```
 
 The clean reading:
@@ -498,6 +575,7 @@ Classical GR creates the stranding problem at the singularity.
 Semiclassical Hawking radiation supplies the exterior record channel.
 The channel is priced by T_H(M), P(M), and greybody/species factors.
 The Page/QES correction prevents S_rad(t) from remaining the naive thermal-growth curve.
+Current observations strongly constrain the exterior geometry but do not directly observe Hawking radiation, QES, Page recovery, or singularities.
 Constitution occurs at flow-bearing uptake, not on null structure in flight.
 ```
 
@@ -515,4 +593,8 @@ Therefore Hawking radiation is not the singularity speaking. It is the exterior 
 - Almheiri, Engelhardt, Marolf, Maxfield — islands and entropy of Hawking radiation.
 - Penington — entanglement wedge reconstruction and the information paradox.
 - Engelhardt and Wall — quantum extremal surfaces / generalized entropy.
+- Event Horizon Telescope — horizon-scale observations of M87* and Sgr A*.
+- LIGO/Virgo/KAGRA — binary black-hole mergers and ringdown constraints on exterior GR behavior.
+- Analogue Hawking radiation literature — horizon/mode-mixing support in non-gravitational systems.
+- Primordial-black-hole evaporation searches — constraints, no confirmed astrophysical Hawking detection.
 - Standard QFT in curved spacetime and black-hole information-paradox literature.
