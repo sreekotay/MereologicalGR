@@ -1,9 +1,9 @@
 # Virtual Photons and Influence Kernels
 
 Status: working external-form note.  
-Grade: lineage-witness candidate for the role slot-count; diagnostic-witness candidate at the microcausality seam; magnitude remains QED-priced and framework-disowned.
+Grade: lineage-witness candidate for the absence-type distinction; diagnostic-witness candidate at the microcausality seam; magnitude remains QED-priced and framework-disowned.
 
-This note states the framework's virtual-photon result cleanly: what follows from the role carve, what is protected by standard field identities, where the computation belongs to QED, and what the framework contributes by refusing carrier-substance talk.
+This note states the framework's virtual-photon result cleanly: what follows from the prior role carve, what standard QFT already owns, and what the framework contributes by refusing to treat an internal exchange kernel as a carrier-substance.
 
 ## 1. Starting role carve
 
@@ -28,7 +28,17 @@ virtual photon:
   no flow because no physical carrier/worldline
 ```
 
-This distinction is the whole point. The shared word `photon` carries no role-weight by itself.
+This distinction is the core result. The shared word `photon` carries no role-weight by itself.
+
+The contact is therefore not another photon case. It is the negative-control for photon-language:
+
+```text
+real photon:
+  influence without flow by null carrier degeneracy
+
+virtual photon:
+  influence-kernel without carrierhood
+```
 
 ## 2. Identity gate
 
@@ -50,7 +60,7 @@ Schematic amplitude form:
 M ~ j_1μ D^μν(q) j_2ν
 ```
 
-with the schematic propagator behavior:
+with schematic photon-propagator behavior:
 
 ```text
 D(q) ~ 1/q²
@@ -84,7 +94,7 @@ The virtual photon is not directly observed. The observed objects are external p
 
 The internal photon line is representation-dependent: gauge choice and perturbative organization affect how the calculation is written. Physical cross-sections and S-matrix elements are the gauge-invariant outputs.
 
-So the admissible identity is:
+So the admissible provenance is:
 
 ```text
 external records
@@ -101,17 +111,19 @@ detect virtual photon as a particle
 
 This is the first guardrail against substance-smuggling.
 
-## 4. Slot-count
+The framework's role-realism here is not object-realism. The virtual photon is role-real as an exchange kernel in a licensed computation and provenance path. It is not object-real as an isolable carrier.
 
-Under the role graph, virtual-photon processes have two burden slots:
+## 4. Role registers
+
+Under the role graph, virtual-photon processes have two role registers:
 
 ```text
-Slot 1: exchange kernel
+Register 1: exchange kernel
   off-shell propagator between currents
   virtuality q² or Q²
   gauge/formalism-conditioned internal structure
 
-Slot 2: observable endpoint constitution
+Register 2: observable endpoint constitution
   external particles
   detector records
   cross-sections
@@ -119,7 +131,7 @@ Slot 2: observable endpoint constitution
   information constituted at flow-bearing uptake
 ```
 
-There is no third carrier slot:
+There is no third carrier/information register:
 
 ```text
 No hidden photon-carrier in flight.
@@ -133,6 +145,8 @@ The field already knows that virtual particles are not detected particles. The f
 ```text
 kernel ≠ carrier ≠ signal ≠ information
 ```
+
+That is the slot-count. The exchange kernel can be indispensable to a computation without becoming a particle, a worldline, or an information-bearing event.
 
 ## 5. Microcausality seam
 
@@ -173,13 +187,22 @@ Causal prohibition applies when influence becomes consequential for flow-bearing
 
 This is not a derivation of the QFT commutator algebra. QFT owns that result. The framework explains why the commutator, not the propagator magnitude, is the correct causality diagnostic.
 
+The diagnostic consequence is:
+
+```text
+Do not test causal order on internal kernel support.
+Test causal order on physical observable commutators / signal possibility.
+```
+
+That is exactly where standard QFT places the test.
+
 ## 6. Numerical crossover
 
 The framework does not compute QED cross-sections. QED does.
 
 The framework assigns the role boundary. External physics prices it.
 
-The currencies are:
+The following are schematic currencies, not universal cross-section claims. Real calculations require the full gauge-invariant amplitude, including form factors, PDFs where relevant, phase space, spin structure, loop and radiative corrections, experimental cuts, and the chosen observable.
 
 ```text
 virtuality:
@@ -189,7 +212,7 @@ amplitude scaling:
   roughly ~ 1/q² for simple photon exchange
 
 rate / cross-section scaling:
-  often ~ 1/q⁴ after squaring, before form factors, PDFs, phase space, and radiative corrections
+  often ~ 1/q⁴ after squaring in simple exchange limits
 
 spatial resolution:
   length ~ ħc / sqrt(Q²)
@@ -256,20 +279,18 @@ That validates the standard exchange role. It does not validate a hidden photon-
 
 The role-count could have failed.
 
-It would fail if standard physics forced the internal line to carry any of:
+There are two distinct collision sites.
+
+### 8.1 Microcausality collision
+
+The microcausality reading would fail if the correct causality diagnostic had to be propagator support rather than observable commutators or signal possibility.
 
 ```text
-worldline
-proper-time accrual
-flow-bearing state
-detected carrier identity
-information-bearing in-flight content
-controllable spacelike signal
+failure shape:
+  internal propagator support itself is the causality diagnostic
 ```
 
-It would also fail if the correct causality diagnostic were propagator support rather than observable commutators.
-
-Current field theory lands the other way:
+Current QFT lands the other way:
 
 ```text
 internal propagator:
@@ -281,6 +302,21 @@ physical observables:
 causality:
   tested by commutators / signal possibility
 ```
+
+### 8.2 Carrier collision
+
+The carrier reading would fail if a gauge-invariant observable could isolate carrier-like content of the off-shell exchange itself:
+
+```text
+worldline
+proper-time accrual
+flow-bearing state
+detected carrier identity
+information-bearing in-flight content
+controllable spacelike signal
+```
+
+Current field theory also lands the other way. The internal line is not an asymptotic state, not a detector event, and not a carrier of constituted information.
 
 So the collision-room is live, but the field sits on the framework-friendly side.
 
@@ -302,7 +338,7 @@ Its contribution is the role-count:
 ```text
 exchange kernel
 observable endpoint constitution
-no carrier/information third slot
+no carrier/information third register
 ```
 
 and the absence-type distinction:
@@ -317,6 +353,15 @@ virtual photon no-flow:
 
 That distinction is not standard vocabulary, but it maps cleanly onto standard practice.
 
+The canonical statement is:
+
+```text
+Virtual photons are not another photon case.
+They are the negative-control for photon-language.
+```
+
+Real photons show influence without flow by nullness. Virtual photons show influence-kernel without carrierhood. QFT's own microcausality structure then lands exactly where the framework says it should: causality is tested at observable endpoint commutators, not internal kernel support.
+
 ## 10. Grade
 
 ```text
@@ -324,10 +369,14 @@ Field taxonomy:
   convergent with standard QFT
   thin weight by itself
 
-Role slot-count:
+Absence-type distinction:
   lineage-witness candidate
   discounted-nonzero
   uses pre-existing photon / flow / information carve
+
+Role register count:
+  lineage-witness candidate
+  kernel + endpoint constitution, no carrier/information third register
 
 Microcausality seam:
   diagnostic-witness candidate
@@ -339,12 +388,13 @@ Magnitude:
   no new cross-section prediction
 
 Collision-room:
-  need to treat off-shell exchange as carrier, worldline, or information would break the count
+  propagator-support-as-causality would break the diagnostic reading
+  gauge-invariant carrier/worldline/information content would break the role count
 ```
 
 Chronology is not the criterion. The relevant criterion is lineage: the role carve used in the derivation existed before the virtual-photon contact. It did.
 
-The ceiling is not that virtual photons were known first. The ceiling is that QED prices the kernel. The framework can assign role slots and state the correct causality diagnostic. It cannot derive the scattering amplitudes from inside the role theory.
+The ceiling is not that virtual photons were known first. The ceiling is that QED prices the kernel. The framework can assign role registers and state the correct causality diagnostic. It cannot derive the scattering amplitudes from inside the role theory.
 
 ## 11. Compact result
 
