@@ -3,7 +3,9 @@
 Status: working external-form note.  
 Grade: lineage-witness candidate for the absence-type distinction; diagnostic-witness candidate at the microcausality seam; magnitude remains QED-priced and framework-disowned.
 
-This note states the framework's virtual-photon result cleanly: what follows from the prior role carve, what standard QFT already owns, and what the framework contributes by refusing to treat an internal exchange kernel as a carrier-substance.
+This note states the framework's virtual-photon result cleanly: what follows from the prior role carve, what standard QFT already owns, and what the framework contributes by refusing to treat an internal exchange kernel as a carrier-substance. It extracts and supersedes the virtual-photon / Feynman-propagator material in doc-1 §9; on adoption, §9 prunes to a pointer here.
+
+Register note (the substrate point, stated once): the framework's substrate is GR, and the structure this note lands on — microcausality, the on-shell/off-shell distinction, LSZ/asymptotic-state status — is QFT, *outside* GR's closure. So these are seam-crossing recognitions (GR-role carve landing on QM's independently-built structure, discounted by lineage), not faithfulness re-descriptions of the substrate's own complete account. "QFT already owns it" is not "the substrate owns it"; retrodiction against QFT does not disqualify, it discounts.
 
 ## 1. Starting role carve
 
@@ -149,6 +151,14 @@ kernel ≠ carrier ≠ signal ≠ information
 ```
 
 That is the slot discipline. The exchange kernel can be indispensable to a computation without becoming a particle, a worldline, or an information-bearing event.
+
+Analytic grounding (extracted from doc-1 §9): the two registers are not imposed by hand — they are the Sokhotski-Plemelj split of the propagator itself. For the photon,
+
+```text
+1/(q² + iε) = PV(1/q²) − iπ δ(q²)
+```
+
+The real principal-value part is the off-shell exchange kernel (Register 1); the imaginary on-shell `δ(q²)` part is the absorptive / real-particle piece — endpoint constitution (Register 2). "No third register" is then a statement about the propagator's own analytic structure: `G_F` has no part outside this split. (This is the second complex-structure instance the corpus notes splitting real ↔ influence-kernel, imaginary ↔ on-shell/endpoint — the first being timelike entanglement entropy. Each is silent/echo on its own; here the split is load-bearing as the registers' grounding.)
 
 ## 5. Microcausality seam
 
@@ -398,6 +408,8 @@ Collision-room:
 ```
 
 Chronology is not the criterion. The relevant criterion is lineage: the role carve used in the derivation existed before the virtual-photon contact. It did.
+
+[Label note: "diagnostic-witness" is not yet in the doc-1 §1.5 label list — it names a witness whose independent landing is a method/diagnostic fact (here: which object is the correct causality test) rather than a number or a forced cell. Proposed for the label system on the same gate as the lineage-witness amendment; until then, read it as a lineage-witness whose landing is diagnostic. Both grades are seam-crossing recognitions (the structure landed on is QFT's, outside GR's closure), discounted by lineage, world-register — not faithfulness: no new number, but no-new-number ≠ no-weight.]
 
 The ceiling is not that virtual photons were known first. The ceiling is that QED prices the kernel. The framework can assign role registers and state the correct causality diagnostic. It cannot derive the scattering amplitudes from inside the role theory.
 
