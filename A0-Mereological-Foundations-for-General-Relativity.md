@@ -6,23 +6,7 @@ Status: theoretical root / method document.
 Scope: foundations, photon seed, grammar, components, composition discipline, ledger rules, and foundation-form PB bets for MGR.  
 Out of scope: witness catalog, phenomenon runs, PB evidence/status accounting, numerical derivations, and evidentiary claims.
 
-Companion documents:
-
-```text
-A1 — Cause Without Time
-  full photon-seed run, priced bets, witness/contact runs
-
-A2 — Gravity, Information, Adjacency
-  four-momentum / gravity-side applications
-
-A3 — Record vs Constitution
-  write-act, redshift, coverage frame, uptake work
-
-B-notes
-  focused refinements / corrections / perimeter audits
-```
-
-A0 states the theory's grammar and the bets that follow from that grammar. It also states the founding seed that motivates the grammar: null causal propagation without proper-time flow. It does not try to earn the theory's empirical weight. That work belongs in A1/A2/A3 and the B-notes.
+A0 states the theory's grammar and the bets that follow from that grammar. It also states the founding seed that motivates the grammar: null causal propagation without proper-time flow. It does not try to earn the theory's empirical weight.
 
 ---
 
@@ -58,7 +42,7 @@ A0 therefore provides:
 9. the foundation-form PB bets implied by role-realism.
 ```
 
-A0 carries no witness weight. It is the map and method by which later claims are formed, graded, narrowed, or rejected.
+A0 carries no witness weight. It is the map and method by which claims are formed, graded, narrowed, or rejected.
 
 ---
 
@@ -96,10 +80,10 @@ tetrad / frame:
   basis for projection, not necessarily uptake
 
 source / T_μν:
-  imported dimensionful content with flow/adjoining projections
+  imported dimensionful content with flow/adjacency projections
 
 connection:
-  comparison / transport structure, later splitable by perimeter audits
+  comparison / transport structure, auditable by perimeter rules
 ```
 
 A0 does not settle these bundles by assertion. It gives the rules for testing them.
@@ -181,7 +165,7 @@ energy-momentum:
   dimensionful primitive / grading imported from GR/SR
 ```
 
-A1 runs the seed in full. A0 only states why the seed belongs at the foundation.
+A0 only states why the seed belongs at the foundation.
 
 ---
 
@@ -387,7 +371,7 @@ energy-momentum:
   mass is the rest / flow-projection face
 ```
 
-Energy-momentum is not a fifth boolean axis in the role lattice. It grades cells where flow/adjoining legs provide a place for dimensionful content.
+Energy-momentum is not a fifth boolean axis in the role lattice. It grades cells where flow/adjacency legs provide a place for dimensionful content.
 
 ---
 
@@ -450,6 +434,9 @@ Operations act through or upon roles/composites.
 ```text
 rendering:
   content-through-frame
+
+frame-transport:
+  change of frame-basis along flow
 
 uptake:
   influence-into-flow
@@ -526,6 +513,10 @@ frame:
 rendering:
   content-through-frame
 
+frame-transport:
+  change of frame-basis along flow;
+  acceleration is its scalar projection
+
 uptake:
   influence-through-flow / influence entering a flow-bearing register
 
@@ -538,6 +529,9 @@ Rendering is not uptake.
 ```text
 rendering:
   content becomes frame-relative
+
+frame-transport:
+  frame changes through flow
 
 uptake:
   influence enters flow
@@ -552,10 +546,13 @@ The reducibility question:
 Does rendering reduce to:
   content + frame + projection/contraction?
 
+Does frame-transport reduce to:
+  frame + flow + connection / covariant transport?
+
 Does uptake reduce to:
   influence + flow + coupling + flow-bearing register + threshold?
 
-Or does either leave a missing / extra remainder?
+Or does any of these leave a missing / extra remainder?
 ```
 
 No answer is asserted in A0. The point is to locate the audit.
@@ -678,6 +675,9 @@ Default placements:
 
 ```text
 rendering:
+  operation under audit
+
+frame-transport:
   operation under audit
 
 uptake:
@@ -887,9 +887,9 @@ settle torsion;
 settle black-hole information.
 ```
 
-Those belong in the application documents and B-notes.
+These are outside A0.
 
-A0's job is to make the later documents legible:
+A0's job is to make claims legible:
 
 ```text
 what kind of move is being made?
@@ -933,6 +933,7 @@ Compositions:
 
 Operations under audit:
   rendering = content-through-frame
+  frame-transport = change of frame-basis along flow
   uptake = influence-into-flow
   constitution = uptake reaching application consequence
 
