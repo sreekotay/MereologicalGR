@@ -4,7 +4,7 @@
 
 Status: consolidated B-note / positive-computation chain.  
 Primary target: A0 rendering/uptake seam, A1 PB-4, B6 Unruh temperature, and the scalar-response boundary between GR/MGR and QFT.  
-Grade: positive partial derivation + boundary audit. Not a derivation of full QFT.
+Grade: positive partial derivation + scalar calibration boundary. Not a derivation of full QFT.
 
 Core claim:
 
@@ -27,6 +27,14 @@ MGR earns:
   positive frequency as future-flow energy orientation;
   need for a stability floor.
 
+Calibration may supply:
+  dimensionful constants;
+  normalizations;
+  coupling strengths;
+  detector gaps;
+  threshold scales;
+  empirically measured scalar values.
+
 QFT / quantum-state structure still imports:
   vacuum / state selection;
   Wightman two-point sampling;
@@ -40,8 +48,20 @@ Maximal honest statement:
 MGR + GR/LC can derive the scalar interval-response skeleton
 and the Unruh 2π period.
 
+Calibrated scalars do not disqualify the result.
+
 It cannot yet derive the quantum state prescription
 that makes the skeleton a Wightman/KMS detector response.
+```
+
+Calibration rule:
+
+```text
+Calibration is not failure.
+Fitting is failure.
+
+A scalar may be observed.
+A structure must be earned.
 ```
 
 ---
@@ -216,7 +236,7 @@ so:
 P = □
 ```
 
-The curvature-coupling ambiguity `ξR` is invisible in flat spacetime but would matter in a curved extension. It remains imported or separately fixed; do not claim it is derived here.
+The curvature-coupling ambiguity `ξR` is invisible in flat spacetime but would matter in a curved extension. It remains imported, calibrated, or separately fixed; do not claim it is derived here.
 
 ---
 
@@ -308,6 +328,13 @@ GR-owned:
   transport/focusing factors along geodesics;
   the local null-cone singular locus;
   the leading 1/σ scalar skeleton in 4D.
+
+calibration / scalar choices may supply:
+  normalization;
+  scalar mass;
+  curvature coupling;
+  threshold scales;
+  application-specific detector parameters.
 
 not GR-owned here:
   global state;
@@ -404,7 +431,7 @@ So:
 
 The `2π` period is GR-owned at the scalar-skeleton level. What remains imported is the quantum reading that turns the analytic periodicity into Wightman/KMS thermal response.
 
-Convert proper-time period to temperature only after importing the thermodynamic/quantum scalars:
+Convert proper-time period to temperature only after importing or calibrating the thermodynamic/quantum scalars:
 
 ```text
 β_E = β_τ / ℏ
@@ -422,11 +449,20 @@ T = ℏ a/(2π c k_B)
 
 given scalar relatedness, the skeleton, and the temperature-reading imports.
 
+If some dimensionless scalar had remained unforced, that would not disqualify the structure. It would make the result:
+
+```text
+structure-derived;
+coefficient-calibrated.
+```
+
+In this particular run, the `2π` itself is not calibrated; it follows from the hyperbolic pullback.
+
 ---
 
 ## 6. Gate 4 — positive frequency and iε
 
-The B8/B7 skeleton is:
+The B7 skeleton is:
 
 ```text
 R_skel(x,x′) ∝ 1/σ(x,x′)
@@ -796,6 +832,9 @@ MGR earns:
   positive frequency as future-flow energy orientation;
   need for stability floor.
 
+calibration may supply:
+  scalars, normalizations, couplings, thresholds, detector parameters.
+
 QFT imports:
   the Minkowski vacuum as the state;
   Wightman two-point sampling;
@@ -922,21 +961,31 @@ Derived / framework-owned:
 9. need for a stability floor.
 ```
 
-Imported / not derived:
+Calibrated / allowed scalars:
+
+```text
+1. dimensionful constants such as ℏ and k_B;
+2. normalization factors;
+3. coupling strengths;
+4. detector gaps;
+5. threshold scales;
+6. empirically measured coefficients, if the structural form was fixed first;
+7. curvature coupling ξ in curved sectors, unless separately derived.
+```
+
+Imported / not derived machinery:
 
 ```text
 1. existence of scalar relatedness/probe;
 2. second-order linear local scalar dynamics;
 3. massless/scale-free scalar sector;
-4. ℏ and k_B;
-5. curvature coupling ξ in curved sectors;
-6. stable state / vacuum selection;
-7. Wightman two-point sampling;
-8. KMS/detailed-balance thermal interpretation;
-9. detector transition probabilities;
-10. Hilbert space / operator algebra / particle machinery;
-11. spin, gauge fields, interactions, renormalization;
-12. non-abelian influence floor.
+4. stable state / vacuum selection;
+5. Wightman two-point sampling;
+6. KMS/detailed-balance thermal interpretation;
+7. detector transition probabilities;
+8. Hilbert space / operator algebra / particle machinery;
+9. spin, gauge fields, interactions, renormalization;
+10. non-abelian influence floor.
 ```
 
 Not derived:
@@ -947,6 +996,15 @@ field quantization;
 unique vacuum in generic curved spacetime;
 full detector dynamics;
 full information constitution.
+```
+
+Calibration note:
+
+```text
+If MGR derives a role-route, dependency, scale-form, or period,
+then observing the scalar that fills that slot does not demote the structure.
+
+Demotion occurs when the structure itself was selected because it fit.
 ```
 
 ---
@@ -966,6 +1024,7 @@ F7. Negative-frequency partners must be treated as independent physical negative
 F8. Stable detector response does not require any lower energy reference.
 F9. The thermal interpretation cannot be separated from the analytic period itself.
 F10. The scalar assumptions are judged to smuggle in too much field theory.
+F11. A coefficient or dependency was selected by fitting rather than derived before calibration.
 ```
 
 Current status:
@@ -1000,6 +1059,9 @@ F9:
 
 F10:
   live — scalar field assumptions are smaller than QFT but not zero.
+
+F11:
+  not fired for the 2π result; it follows from hyperbolic pullback, not coefficient fitting.
 ```
 
 ---
@@ -1019,6 +1081,13 @@ MGR + GR/LC can derive the scalar interval-response skeleton
 and the Unruh 2π period.
 ```
 
+Calibration rule:
+
+```text
+Calibration is not failure.
+Fitting is failure.
+```
+
 Boundary:
 
 ```text
@@ -1029,6 +1098,9 @@ MGR roles:
   retarded causal support;
   positive frequency as future-flow energy orientation;
   need for a stability floor
+
+calibration:
+  scalars, normalizations, couplings, thresholds, detector parameters
 
 QFT/imported quantum state:
   existence / selection of the vacuum;
