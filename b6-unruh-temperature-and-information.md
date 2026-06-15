@@ -9,8 +9,8 @@ Grade: machinery-routing and role-reduction. Not a new temperature derivation, n
 Core result:
 
 ```text
-Unruh temperature is the temperature obtained when vacuum phasic relatedness is
-pulled back onto an accelerated flow-worldline and satisfies the KMS thermal test.
+Unruh temperature is the temperature obtained when vacuum phase-bearing relatedness
+is pulled back onto an accelerated flow-worldline and satisfies the KMS thermal test.
 ```
 
 Companion result:
@@ -18,7 +18,8 @@ Companion result:
 ```text
 temperature is not information itself;
 it is a flow-indexed rendering parameter of accessible mixedness / response.
-It becomes information only when taken up in a record-bearing application.
+It becomes informational only when an ordered consequence is taken up
+into a flow-bearing record.
 ```
 
 The exact Unruh coefficient remains QFT-owned:
@@ -45,7 +46,7 @@ The parent Unruh section held five claims:
 
 That remains correct.
 
-The refinement under consideration is the influence-floor candidate:
+The refinement under consideration is the influence-floor carve:
 
 ```text
 influence = consequence-capable phase-bearing relatedness
@@ -60,10 +61,11 @@ old:
   field state / influence-structure
 
 new:
-  consequence-capable phasic relatedness of the field
+  phase-bearing relatedness of the field,
+  made consequence-capable when coupled to the detector
 ```
 
-The accelerated detector does not discover a pre-existing invariant particle bath. It samples the same vacuum relatedness through a different flow-path and access structure, and that pullback has a thermal response.
+The accelerated detector does not discover a pre-existing invariant particle bath. It samples the same vacuum phase-bearing relatedness through a different flow-path and access structure, and that pullback has a thermal response.
 
 ---
 
@@ -127,7 +129,8 @@ But the machinery has role-slots.
 The role-route is:
 
 ```text
-phasic relatedness
+phase-bearing relatedness
+→ detector coupling / consequence-capacity
 → flow-sampling
 → thermal test
 → temperature parameter
@@ -138,8 +141,11 @@ Mapped:
 
 ```text
 what is sampled:
-  consequence-capable phase-bearing relatedness
+  phase-bearing relatedness of the field
   formal representative: field correlations / two-point function
+
+what makes it influence in this setup:
+  detector coupling gives the relatedness consequence-capacity
 
 where it is sampled:
   a flow-bearing worldline x(τ)
@@ -167,8 +173,9 @@ where information enters:
 So the framework can say:
 
 ```text
-The computation of Unruh temperature is a computation on vacuum phasic relatedness
-as sampled by a flow-worldline.
+The computation of Unruh temperature is a computation on vacuum phase-bearing
+relatedness as sampled by a flow-worldline and made consequence-capable through
+detector coupling.
 ```
 
 It may not say:
@@ -201,7 +208,7 @@ different worldline rendering.
 After:
 
 ```text
-same consequence-capable phasic relatedness;
+same vacuum phase-bearing relatedness;
 different flow-path sampling;
 different rendered particle / temperature content.
 ```
@@ -212,7 +219,7 @@ In role form:
 
 ```text
 Minkowski vacuum:
-  invariant phasic relatedness
+  invariant phase-bearing relatedness
 
 inertial worldline:
   samples it as vacuum / no thermal bath
@@ -331,7 +338,7 @@ Answer:
 temperature is not information itself.
 ```
 
-Temperature is a parameter of rendering, distribution, or response. It can become information only when a record-bearing application takes it up.
+Temperature is a parameter of rendering, distribution, or response. It can become informational only when an ordered consequence is taken up into a flow-bearing record.
 
 Three distinctions matter.
 
@@ -388,7 +395,7 @@ A thermal radiation temperature is therefore a property of a rendered distributi
 For Unruh, the same lesson appears without a real photon gas:
 
 ```text
-same vacuum relatedness
+same vacuum phase-bearing relatedness
 + accelerated worldline sampling
 → thermal response temperature
 ```
@@ -402,7 +409,7 @@ Temperature belongs to the access/rendering machinery.
 Candidate definition:
 
 ```text
-temperature = a flow-indexed scale parameter of accessible phasic/mixed response.
+temperature = a flow-indexed scale parameter of accessible phase-bearing / mixed response.
 ```
 
 Expanded:
@@ -418,7 +425,7 @@ scale parameter:
 accessible:
   temperature depends on what degrees of freedom are available to the renderer / subsystem / detector
 
-phasic/mixed response:
+phase-bearing / mixed response:
   in quantum-field settings, temperature can arise from KMS structure of correlations;
   in ordinary thermal settings, from mixed ensembles / statistical distributions
 ```
@@ -453,6 +460,9 @@ then temperature sits below constituted information:
 relatedness:
   bare connection / substrate
 
+phase-bearing relatedness:
+  coherent / holonomic / order-sensitive connection
+
 influence:
   consequence-capable phase-bearing relatedness
 
@@ -475,6 +485,7 @@ actual detector click:
   uptake event
 
 recorded click above threshold:
+  ordered consequence taken up in flow;
   constituted information for the application
 ```
 
@@ -484,14 +495,14 @@ Candidate phrasing:
 
 ```text
 Temperature is the flow-indexed price of accessible mixedness;
-information is the write that makes some consequence of that mixedness count.
+information is the write that makes some ordered consequence of that mixedness count.
 ```
 
 This is suggestive, not final. The safer version is:
 
 ```text
-Temperature is the flow-indexed response scale of accessible mixedness / phasic relatedness;
-information requires uptake into a consequential record.
+Temperature is the flow-indexed response scale of accessible mixedness / phase-bearing relatedness;
+information requires ordered uptake into a consequential record.
 ```
 
 ---
@@ -583,6 +594,24 @@ Temperature requires a flow/evolution parameter in the machinery: proper time, K
 
 This does not mean temperature is subjective. It means temperature is indexed to the flow structure that defines response/equilibrium.
 
+### 11.5 Phase-bearing is not only U(1) phase
+
+The term `phase-bearing` is deliberately broader than abelian phase angle.
+
+```text
+simple face:
+  U(1) phase / AB holonomy / scalar interference
+
+richer interiors:
+  non-abelian holonomy
+  mode mixing
+  representation transport
+  path-ordering
+  KMS analytic periodicity
+```
+
+The Unruh case uses phase-bearing relatedness through field correlations and their analytic / periodic structure under accelerated pullback. It does not reduce the entire phenomenon to a single U(1) phase.
+
 ---
 
 ## 12. What B6 updates in A1 §11.4
@@ -592,14 +621,15 @@ Replace the parent Unruh summary with this sharper form:
 ```text
 Unruh / Rindler [machinery-routing; PB-4a sharpened]
 
-The invariant layer is not particle content but field relatedness: consequence-capable
-phasic structure represented by vacuum correlations. Pulling that relatedness back
-onto different flow-worldlines yields different renderings. Along a uniformly
-accelerated worldline, the pulled-back two-point function has KMS / imaginary-
-proper-time periodicity, so the detector response is thermal with
-T_U = ℏ a/(2π c k_B), a value derived by QFT. The framework does not derive the
-coefficient. It derives the role-route: phasic relatedness → flow-sampling →
-thermal test → temperature rendering → possible uptake/write.
+The invariant layer is not particle content but field relatedness: phase-bearing
+structure represented by vacuum correlations and made consequence-capable when
+coupled to a detector. Pulling that relatedness back onto different flow-worldlines
+yields different renderings. Along a uniformly accelerated worldline, the pulled-back
+two-point function has KMS / imaginary-proper-time periodicity, so the detector
+response is thermal with T_U = ℏ a/(2π c k_B), a value derived by QFT. The framework
+does not derive the coefficient. It derives the role-route: phase-bearing relatedness
+→ detector coupling / consequence-capacity → flow-sampling → thermal test →
+temperature rendering → possible uptake/write.
 
 This strengthens PB-4a: rendering is worldline-set, observer-free. It does not
 confirm PB-4-full: Unruh still supplies rendering, not constitution-completion.
@@ -616,13 +646,13 @@ confirm PB-4-full: Unruh still supplies rendering, not constitution-completion.
    QFT owns the Wightman function, detector response, KMS theorem, and coefficient.
 
 3. **The temperature-computation machinery is role-routable.**  
-   Once influence is read as consequence-capable phasic relatedness, the Unruh computation has natural role-slots: relatedness, flow-pullback, thermal/KMS test, temperature parameter, possible uptake.
+   Once influence is read as consequence-capable phase-bearing relatedness, the Unruh computation has natural role-slots: relatedness, detector coupling, flow-pullback, thermal/KMS test, temperature parameter, possible uptake.
 
 4. **CMB/redshift is the sibling, not the same case.**  
    CMB temperature is a real radiation aggregate rendered by a congruence. Unruh temperature is vacuum relatedness rendered thermally by accelerated access. Both reject one-place in-flight temperature.
 
 5. **Temperature is below information.**  
-   Temperature is a rendering/response scale. It becomes information only when taken up in a consequential record.
+   Temperature is a rendering/response scale. It becomes informational only when an ordered consequence is taken up in a flow-bearing record.
 
 6. **Hawking is a controlled contact.**  
    Hawking temperature belongs to the same horizon/access temperature-family, but B4 still blocks over-reading Hawking/Page/QES as sealing the information-loss bet.
@@ -632,11 +662,15 @@ confirm PB-4-full: Unruh still supplies rendering, not constitution-completion.
 ## 14. Compact result
 
 ```text
+Relatedness:
+  bare connection / substrate
+
 Influence:
   consequence-capable phase-bearing relatedness
 
 Unruh:
-  vacuum influence pulled back onto accelerated flow
+  vacuum phase-bearing relatedness coupled to a detector
+  and pulled back onto accelerated flow
   → KMS periodicity
   → thermal response
 
