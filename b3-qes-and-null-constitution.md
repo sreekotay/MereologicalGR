@@ -82,8 +82,11 @@ The role map is:
 
 ```text
 Area(X)/(4G_N)
-  geometric count / boundary-capacity / record-like term
-  at the extremal cut
+  the entanglement AREA-LAW term at the extremal cut: an influence-per-
+  ADJACENCY balance (area = adjacency-magnitude), adjacency-side, rate
+  1/4G_N imported (a1 §6.4, a3 QES). "count / capacity / record-like" is
+  the loose gloss; it is NOT an s-axis (influence-per-ordering) object and
+  NOT a constitution site.
 
 S_bulk(R ∪ I_X)
   fine-grained entropy of bulk/radiation degrees
@@ -259,13 +262,14 @@ GB-3 asks:
   does null structure itself constitute information?
 ```
 
-QES helps GB-2 by showing the loss edge is resolved through the island/radiation generalized-entropy calculation. It helps GB-3 more directly by refusing to place constitution on null generators.
+QES bears on GB-2 by showing the loss edge is *resolved* through the island/radiation generalized-entropy calculation — but it does **not** *witness* GB-2's localization claim (that loss sits at invariant ordering-collapse), because the island resolution may route around the singularity (see b4 §8, singularity-as-fifth-wheel). It helps GB-3 more directly by refusing to place constitution on null generators.
 
 So the grade should not be fused:
 
 ```text
 GB-2 yield:
-  loss-edge partial witness / Page-curve consistency
+  loss-edge CANDIDATE, not sealed; Page-curve consistency only.
+  the QES resolution may route around the singularity GB-2 localizes to (b4 §8).
 
 GB-3 yield:
   diagnostic-witness candidate for no-null-constitution

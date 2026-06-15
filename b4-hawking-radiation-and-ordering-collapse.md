@@ -5,7 +5,7 @@ Grade: **clarifier / role-diagnostic**, with two genuine increments over the par
 
 ## 0. Scope, and what is *not* re-derived here
 
-The Page-curve reading, the moving recoverability cut, the static-cut could-have-failed, and the QES split (recoverability **transition** = ordering-axis, derived; extremal **surface** = entanglement area-law, adjacency-side, rate imported) are **already developed in a1 §6.4** and are not re-derived in this note. a1 §6.4 owns that material. The parent claims this note touches — GB-2 (a2), GB-3 / PB-4 (a1 §16) — are likewise owned upstream.
+The Page-curve reading, the moving recoverability cut, the static-cut could-have-failed, and the QES split (recoverability **transition** = ordering-axis, derived; extremal **surface** = entanglement area-law, adjacency-side, rate imported) are **already developed in a1 §6.4** and are not re-derived in this note. a1 §6.4 owns that material. The parent claims this note touches — GB-2 (a2), GB-3 / PB-4 (a1 §16), and the QES / no-null-constitution splitter (b3) — are likewise owned upstream.
 
 What B4 adds over a1 §6.4 is narrow and is the reason it exists:
 
@@ -25,7 +25,7 @@ GB-2 (a2):
   information-stranding-at-an-edge ⟺ ordering-collapse
   black-hole-relevant clause: the loss edge.
 
-GB-3 (a1 §16):
+GB-3 (a1 §16; QES/horizon analysis owned by b3):
   no null structure constitutes information.
 
 PB-4 family (a1 §16):
@@ -215,6 +215,9 @@ Page / QES / island correction:
   reconstruction / generalized-entropy assignment (a1 §6.4); fixes which
   interior degrees the radiation entropy must count after the Page transition.
   Does NOT make the QES a receiver or the horizon a container.
+  The QES-as-record/constitution-splitter analysis (area-law vs bulk
+  fine-grained vs flow-bearing uptake; why null generators do not constitute)
+  is owned by b3 and not re-derived here.
 ```
 
 The separations:
@@ -402,4 +405,4 @@ Hawking radiation is not the singularity speaking. It is the exterior channel wh
 - Abbott, B. P. et al. (LIGO/Virgo), "Observation of gravitational waves from a binary black hole merger," Phys. Rev. Lett. 116, 061102 (2016).
 - Unruh, W. G., "Experimental black-hole evaporation?," Phys. Rev. Lett. 46, 1351 (1981) [analogue proposal]; Steinhauer, J., "Observation of quantum Hawking radiation and its entanglement in an analogue black hole," Nat. Phys. 12, 959 (2016).
 - Carr, B., Kohri, K., Sendouda, Y. & Yokoyama, J., "Constraints on primordial black holes," Rep. Prog. Phys. 84, 116902 (2021), arXiv:2002.12778.
-- Standard QFT in curved spacetime and the black-hole information-paradox literature; see also a1 §6.4 (event horizon / Page-curve reading) and a2 (GB-2, GB-3).
+- Standard QFT in curved spacetime and the black-hole information-paradox literature; see also a1 §6.4 (event horizon / Page-curve reading), a2 (GB-2, GB-3), and b3 (QES / no-null-constitution splitter).
