@@ -1,0 +1,14 @@
+object,role,R_mean_km,Delta_R_km,Delta_R_over_R,rough_Delta_Lambda_over_Lambda,triage,framework_status,notes
+PSR J0740+6620,first calibration target,12.920,-0.900,-0.0697,-0.3483,below but near current uncertainty: worth modeling,testable,High-mass NICER/XMM radius anchor; sub-km ΔR is below but near current radius uncertainty.
+PSR J0740+6620,first calibration target,12.920,-0.500,-0.0387,-0.1935,below but near current uncertainty: worth modeling,testable,High-mass NICER/XMM radius anchor; sub-km ΔR is below but near current radius uncertainty.
+PSR J0740+6620,first calibration target,12.920,0.500,0.0387,0.1935,hidden under current radius uncertainty,testable,High-mass NICER/XMM radius anchor; sub-km ΔR is below but near current radius uncertainty.
+PSR J0740+6620,first calibration target,12.920,0.900,0.0697,0.3483,below but near current uncertainty: worth modeling,testable,High-mass NICER/XMM radius anchor; sub-km ΔR is below but near current radius uncertainty.
+PSR J0030+0451,lower-mass control,12.400,-0.900,-0.0726,-0.3629,"sensitivity-only: large enough to model, no object uncertainty",control,Working radius is compactness-led/updated-analysis placeholder; verify before promotion.
+PSR J0030+0451,lower-mass control,12.400,-0.500,-0.0403,-0.2016,sensitivity-only: small relative shift,control,Working radius is compactness-led/updated-analysis placeholder; verify before promotion.
+PSR J0030+0451,lower-mass control,12.400,0.500,0.0403,0.2016,sensitivity-only: small relative shift,control,Working radius is compactness-led/updated-analysis placeholder; verify before promotion.
+PSR J0030+0451,lower-mass control,12.400,0.900,0.0726,0.3629,"sensitivity-only: large enough to model, no object uncertainty",control,Working radius is compactness-led/updated-analysis placeholder; verify before promotion.
+PSR J0952-0607,high-spin/high-mass stress target,,,,,no radius anchor: cannot compute ΔR/R,stress,Extreme spin and mass; not radius-ready.
+GW170817-like BNS,population tidal constraint,13.000,-0.900,-0.0692,-0.3462,"sensitivity-only: large enough to model, no object uncertainty",constraint,Use R≈13 km only as generic sensitivity placeholder for ΔΛ/Λ.
+GW170817-like BNS,population tidal constraint,13.000,-0.500,-0.0385,-0.1923,sensitivity-only: small relative shift,constraint,Use R≈13 km only as generic sensitivity placeholder for ΔΛ/Λ.
+GW170817-like BNS,population tidal constraint,13.000,0.500,0.0385,0.1923,sensitivity-only: small relative shift,constraint,Use R≈13 km only as generic sensitivity placeholder for ΔΛ/Λ.
+GW170817-like BNS,population tidal constraint,13.000,0.900,0.0692,0.3462,"sensitivity-only: large enough to model, no object uncertainty",constraint,Use R≈13 km only as generic sensitivity placeholder for ΔΛ/Λ.
