@@ -3,14 +3,14 @@
 *Sree Kotay — working draft, June 2026.*
 
 Status: theoretical root / method document.  
-Scope: foundations, grammar, components, composition discipline, ledger rules, and foundation-form PB bets for MGR.  
+Scope: foundations, photon seed, grammar, components, composition discipline, ledger rules, and foundation-form PB bets for MGR.  
 Out of scope: witness catalog, phenomenon runs, PB evidence/status accounting, numerical derivations, and evidentiary claims.
 
 Companion documents:
 
 ```text
 A1 — Cause Without Time
-  seed decomposition, priced bets, witness/contact runs
+  full photon-seed run, priced bets, witness/contact runs
 
 A2 — Gravity, Information, Adjacency
   four-momentum / gravity-side applications
@@ -22,13 +22,15 @@ B-notes
   focused refinements / corrections / perimeter audits
 ```
 
-A0 states the theory's grammar and the bets that follow from that grammar. It does not try to earn the theory's empirical weight. That work belongs in A1/A2/A3 and the B-notes.
+A0 states the theory's grammar and the bets that follow from that grammar. It also states the founding seed that motivates the grammar: null causal propagation without proper-time flow. It does not try to earn the theory's empirical weight. That work belongs in A1/A2/A3 and the B-notes.
 
 ---
 
 ## Abstract
 
 General relativity is held fixed as the mathematical ground. MGR does not modify, extend, quantize, or replace GR. It asks a different kind of question: when GR uses or bundles notions such as cause, time, frame, information, space, gravity-as-structure, source, and measurement, what role-parts are being composed?
+
+The founding datum is the photon under GR: along null propagation, proper time is zero, yet causal ordering and effect-capacity remain. The photon therefore exhibits cause without flow. That does not refute GR; it unfuses a role-bundle GR already permits. Cause cannot be identical with temporal flow. The seed separates ordering, influence, and flow: ordering and influence remain at the null corner; flow is stripped.
 
 The central claim of A0 is methodological: some GR-native objects are mereologically fused. The metric, source, frame, tetrad, and worldline machinery already perform multiple roles, but GR has no reason to name those roles separately because its equations work without doing so. MGR names the roles and tests whether the named parts compose cleanly.
 
@@ -46,13 +48,14 @@ A0 therefore provides:
 
 ```text
 1. the GR-held-fixed stance;
-2. the distinction between roles, composites, operations, gradings, and thresholds;
-3. the import / perimeter rules;
-4. the epistemic grading ledger;
-5. the current component roster;
-6. the composition grammar;
-7. the current open seam around rendering, uptake, and information;
-8. the foundation-form PB bets implied by role-realism.
+2. the photon seed / cause-without-time defusion;
+3. the distinction between roles, composites, operations, gradings, and thresholds;
+4. the import / perimeter rules;
+5. the epistemic grading ledger;
+6. the current component roster;
+7. the composition grammar;
+8. the current open seam around rendering, uptake, and information;
+9. the foundation-form PB bets implied by role-realism.
 ```
 
 A0 carries no witness weight. It is the map and method by which later claims are formed, graded, narrowed, or rejected.
@@ -103,7 +106,77 @@ A0 does not settle these bundles by assertion. It gives the rules for testing th
 
 ---
 
-## 2. Mereology, not taxonomy
+## 2. The seed: cause without time
+
+The founding seed is the photon under GR held fixed.
+
+```text
+null propagation:
+  dτ = 0
+
+yet:
+  cone-direction remains;
+  causal ordering remains;
+  the photon can constrain later states;
+  absorption, blocking, redirection, and detection remain possible.
+```
+
+So the null corner separates roles that ordinary language and many physical narrations fuse:
+
+```text
+ordering remains
+influence remains
+flow is stripped
+```
+
+The seed claim is not that the photon proves the whole framework. It is the launch-site carve. It shows that cause cannot require proper-time flow.
+
+```text
+cause = ordering + influence
+
+time = ordering + flow
+```
+
+The phrase "cause without time" means:
+
+```text
+phase-bearing influence with ordering,
+without proper-time flow.
+```
+
+This is seed/exhibit grade. The seed has no confirmatory weight at its own launch site, because the carve is read from that site. Any weight must land downstream where the projection could have failed.
+
+The seed unfuses the core derived roles:
+
+```text
+ordering:
+  invariant cone-direction / causal precedence structure
+
+influence:
+  consequence-capable relatedness, later floored as phase-bearing
+
+flow:
+  proper-time accrual along a timelike worldline
+```
+
+The seed does **not** by itself supply every entry in the roster. It opens the defusion. The rest of the foundation adds what GR imports or presupposes:
+
+```text
+adjacency:
+  spatial laying-out, imported from GR's metric as flow's peer
+
+relatedness:
+  bare connectability presupposed by all roles
+
+energy-momentum:
+  dimensionful primitive / grading imported from GR/SR
+```
+
+A1 runs the seed in full. A0 only states why the seed belongs at the foundation.
+
+---
+
+## 3. Mereology, not taxonomy
 
 The mereological instrument is:
 
@@ -142,7 +215,7 @@ The method does not require all named entries to be ontological peers. It requir
 
 ---
 
-## 3. Forced, chosen, imported, parked
+## 4. Forced, chosen, imported, parked
 
 A move carries weight only if it survives the forced gate:
 
@@ -169,7 +242,7 @@ Import is licensed only when its status is explicit. Imported things may be used
 
 ---
 
-## 4. Epistemic grades
+## 5. Epistemic grades
 
 Grades attach to claims, not objects.
 
@@ -224,7 +297,7 @@ Uniform success is a failure signal.
 
 ---
 
-## 5. The ledger rule
+## 6. The ledger rule
 
 A claim's grade is ledger-indexed. It depends on the assumptions, imports, and carvings currently active.
 
@@ -255,11 +328,11 @@ A ledger change reopens dependent claims. Re-audit is dependency-triggered, not 
 
 ---
 
-## 6. Component roster
+## 7. Component roster
 
 A0's current roster separates role, substrate, and primitive.
 
-### 6.1 Derived roles
+### 7.1 Derived roles
 
 ```text
 ordering:
@@ -276,7 +349,7 @@ flow:
   clock is its magnitude projection
 ```
 
-### 6.2 Imported role
+### 7.2 Imported role
 
 ```text
 adjacency:
@@ -285,7 +358,7 @@ adjacency:
   imported from GR's metric and named as peer of flow
 ```
 
-### 6.3 Substrate
+### 7.3 Substrate
 
 ```text
 relatedness:
@@ -294,7 +367,7 @@ relatedness:
   not a peer-role
 ```
 
-### 6.4 Dimensionful primitive / grading
+### 7.4 Dimensionful primitive / grading
 
 ```text
 energy-momentum:
@@ -309,7 +382,7 @@ Energy-momentum is not a fifth boolean axis in the role lattice. It grades cells
 
 ---
 
-## 7. Composition grammar
+## 8. Composition grammar
 
 The current grammar is:
 
@@ -333,11 +406,11 @@ A role may later decompose. A composite may later unfuse. A named operation may 
 
 ---
 
-## 8. Layers: roles, composites, operations, projections, gradings, thresholds
+## 9. Layers: roles, composites, operations, projections, gradings, thresholds
 
 To avoid over-unfusing, A0 distinguishes layers.
 
-### 8.1 Roles
+### 9.1 Roles
 
 Roles are component-functions in the composition grammar.
 
@@ -348,7 +421,7 @@ flow
 adjacency
 ```
 
-### 8.2 Composites
+### 9.2 Composites
 
 Composites are role-sums or role-compositions.
 
@@ -361,7 +434,7 @@ information
 gravity
 ```
 
-### 8.3 Operations
+### 9.3 Operations
 
 Operations act through or upon roles/composites.
 
@@ -381,7 +454,7 @@ constitution:
 
 Operations are not automatically peer roles. They become candidates only if compose / missing / extra leaves a remainder.
 
-### 8.4 Projections
+### 9.4 Projections
 
 Projections are rendered faces of content through a basis.
 
@@ -399,7 +472,7 @@ temperature:
   flow-indexed response scale of accessible mixedness / relatedness
 ```
 
-### 8.5 Gradings and primitives
+### 9.5 Gradings and primitives
 
 ```text
 energy-momentum:
@@ -409,7 +482,7 @@ couplings:
   out by kind unless specifically imported as part of the standard formalism
 ```
 
-### 8.6 Thresholds
+### 9.6 Thresholds
 
 Thresholds belong to applications.
 
@@ -424,7 +497,7 @@ constitution threshold:
 
 ---
 
-## 9. Rendering and uptake: current open seam
+## 10. Rendering and uptake: current open seam
 
 The present seam is the gap between content and information.
 
@@ -480,7 +553,7 @@ No answer is asserted in A0. The point is to locate the audit.
 
 ---
 
-## 10. Mass and the content-information gap
+## 11. Mass and the content-information gap
 
 Mass is not information and not an uptake primitive.
 
@@ -504,7 +577,7 @@ This is not a new primitive. It is a projection-side bridge between rendered con
 
 ---
 
-## 11. Quantum reference frames as stress test, not source
+## 12. Quantum reference frames as stress test, not source
 
 Relativistic quantum reference frames should be used as a stress test of GR-derived grammar, not as the source of the grammar.
 
@@ -542,7 +615,7 @@ A0 does not answer this. It names the seam.
 
 ---
 
-## 12. Import and perimeter rules
+## 13. Import and perimeter rules
 
 MGR may use imported mathematics, but it must not relabel imports as derivations.
 
@@ -577,7 +650,7 @@ This split prevents both underclaim and overclaim.
 
 ---
 
-## 13. Anti-over-unfusing rule
+## 14. Anti-over-unfusing rule
 
 Do not make every named seam a peer role.
 
@@ -618,7 +691,7 @@ Promote nothing to peer-role unless compose / missing / extra forces it.
 
 ---
 
-## 14. Foundation bets (PB)
+## 15. Foundation bets (PB)
 
 A0 states the PB bets in their foundation form because they flow from the GR-fixed role grammar plus role-realism. A0 does **not** cash them, grade their current evidence, or run their witness/contact history.
 
@@ -787,7 +860,7 @@ Gravity has no PB here. Its structure composes in the grammar; the coupling law 
 
 ---
 
-## 15. What A0 does not do
+## 16. What A0 does not do
 
 A0 does not:
 
@@ -822,11 +895,15 @@ what foundation bet is being priced or tested?
 
 ---
 
-## 16. Compact foundation
+## 17. Compact foundation
 
 ```text
 GR is held fixed.
 MGR asks what role-parts GR bundles.
+
+Seed:
+  photon = ordering + influence + adjacency, with flow → 0
+  therefore cause ≠ flow
 
 Roles:
   ordering, influence, flow, adjacency
