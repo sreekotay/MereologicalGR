@@ -1,0 +1,25 @@
+curve_index,EOS,rotation_spec,rotation_value,target_mass_Msun,radius_km,pure_baseline_radius_km,Delta_R_vs_pure_km,all_crossing_radii_km,curve_max_mass_Msun,reaches_target_mass,read_method,confidence,notes
+124,DD2,pure,Pure DD2,1.40,13.230,13.230,0.000,13.230,2.424,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+124,DD2,pure,Pure DD2,2.08,13.113,13.113,0.000,13.113,2.424,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+125,DD2,f_Hz,100,1.40,13.152,13.230,-0.079,13.152,2.419,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+125,DD2,f_Hz,100,2.08,13.052,13.113,-0.060,13.052,2.419,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+126,DD2,f_Hz,300,1.40,12.635,13.230,-0.595,12.635,2.381,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+126,DD2,f_Hz,300,2.08,12.634,13.113,-0.478,12.634,2.381,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+127,DD2,omega_frac_kep,0.1,1.40,13.070,13.230,-0.160,13.070,2.401,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+127,DD2,omega_frac_kep,0.1,2.08,12.927,13.113,-0.186,12.927,2.401,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+128,DD2,omega_frac_kep,0.2,1.40,12.615,13.230,-0.616,12.615,1.577,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+128,DD2,omega_frac_kep,0.2,2.08,,13.113,,,1.577,false,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+129,DD2,omega_frac_kep,0.3,1.40,,13.230,,,0.590,false,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+129,DD2,omega_frac_kep,0.3,2.08,,13.113,,,0.590,false,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+130,APR,pure,Pure APR,1.40,11.573,11.573,0.000,11.573,2.198,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+130,APR,pure,Pure APR,2.08,10.846,10.846,0.000,10.846,2.198,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+131,APR,f_Hz,100,1.40,11.521,11.573,-0.052,11.521,2.198,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+131,APR,f_Hz,100,2.08,10.819,10.846,-0.027,10.819,2.198,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+132,APR,f_Hz,200,1.40,11.378,11.573,-0.195,11.378,2.196,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+132,APR,f_Hz,200,2.08,10.743,10.846,-0.103,10.743,2.196,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+133,APR,omega_frac_kep,0.1,1.40,11.415,11.573,-0.158,11.415,2.195,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+133,APR,omega_frac_kep,0.1,2.08,10.701,10.846,-0.144,10.701,2.195,true,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+134,APR,omega_frac_kep,0.2,1.40,,11.573,,,0.624,false,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+134,APR,omega_frac_kep,0.2,2.08,,10.846,,,0.624,false,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+135,APR,omega_frac_kep,0.3,1.40,,11.573,,,0.296,false,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
+135,APR,omega_frac_kep,0.3,2.08,,10.846,,,0.296,false,vector_extract_from_uploaded_Figure4_pdf,medium,Rightmost radius at target mass selected from vector path crossings.
