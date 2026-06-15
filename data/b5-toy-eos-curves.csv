@@ -1,0 +1,6 @@
+curve,R14_GR_km,R21_GR_km,class,notes
+compact-soft,11.8,11.7,compact,compact; lower-radius baseline
+middle,12.4,12.3,middle,middle baseline
+bns-upper,13.0,13.4,high,near BNS upper edge at 1.4; high-ish at J0740
+stiff-high-support,13.4,13.8,high,stiff/high-radius baseline
+very-stiff-risk,13.8,14.2,very-high,very high radius; likely tidal risk unless corrected/source-dependent
