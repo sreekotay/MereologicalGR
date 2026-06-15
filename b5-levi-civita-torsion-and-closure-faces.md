@@ -1,11 +1,13 @@
 # B5 — Levi-Civita, Torsion, and the Missing Closure Face
 
 Status: working internal-audit / structural-bet note.  
-Grade: missing-cell audit against the gravity composition; upward correction to any parent curvature-form derivation that used torsion-free / first Bianchi; PB-1-grade structural-bet candidate for spin → torsion; Levi-Civita remains correct in GR-owned contexts but torsion-free is not yet framework-forced; magnitude remains Einstein-Cartan / Poincaré-gauge / QG-priced and framework-disowned.
+Grade: missing-cell audit against the gravity composition; upward correction to any parent curvature-form derivation that used torsion-free / first Bianchi; PB-1-grade structural-bet candidate for spin → torsion; quantitative-output procedure stated; Levi-Civita remains correct in GR-owned contexts but torsion-free is not yet framework-forced; magnitude remains Einstein-Cartan / Poincaré-gauge / QG-priced and framework-disowned.
 
 This note pulls the Levi-Civita / torsion question out of the parent framework. The target is narrow: the framework often treats non-integrability / loop-failure-to-close as the primitive geometric signal and then reads the GR import as curvature. But affine loop-failure-to-close has two structurally distinct faces: rotational holonomy and translational closure failure. Curvature is the rotational face. Torsion is the translational face. If the framework claims to compose the full non-integrable gravity mode, it must either force the torsion cell empty by role-reason or book torsion as a structural bet. Inheriting GR's torsion-free Levi-Civita connection as if it were forced is not allowed by the method.
 
 Sharper correction: torsion-free is not merely the exclusion of an extra companion cell. If a parent derivation of curvature's algebraic form used torsion-free to obtain the first Bianchi identity, then demoting torsion-free also demotes that curvature-form derivation. The Riemann / Bianchi / rank-4 curvature package is forced only inside the Levi-Civita sector unless torsion-free is separately earned.
+
+Quantitative correction: the torsion bet is not merely a prohibition. If independent spin current is retained, the framework routes the calculation to a torsion-sector equation and expects a number: a torsion tensor, torsion scale, effective correction term, or bound, externally priced by Einstein-Cartan / Poincaré-gauge dynamics. The framework does not derive the coupling; it specifies which number must be computed from which input.
 
 ## 1. Claim under audit
 
@@ -328,7 +330,7 @@ Grade:
 
 ```text
 PB-1-grade structural bet candidate
-magnitude disowned
+magnitude externally priced
 standard extensions price the coupling
 ```
 
@@ -434,9 +436,108 @@ energy-momentum → curvature-sector equation
 spin / rotational current → torsion-sector equation
 ```
 
-with magnitude disowned.
+with magnitude externally priced.
 
-## 11. Rank-2 remainder and Belinfante warning
+## 11. Quantitative output: torsion burden
+
+The torsion bet should produce a number when the input data exist. It is not just a prohibition.
+
+The framework-owned routing is:
+
+```text
+independent spin current retained
+→ torsion-sector equation live
+→ torsion tensor / torsion scale / effective correction is computed
+```
+
+The externally owned pricing is schematic:
+
+```text
+Torsion ~ κ × spin density
+```
+
+or, more carefully:
+
+```text
+T^a{}_{bc} + trace terms = κ × spin-current^a{}_{bc}
+```
+
+where the exact index placement, trace convention, and coefficient are owned by the chosen Einstein-Cartan / Poincaré-gauge formulation. The framework owns the route, not the coefficient.
+
+Algorithm:
+
+```text
+Input:
+  connection assumption
+  matter-current inventory
+  spin density / spin current, if retained
+  metric / frame / coframe choice
+  external EC / Poincaré-gauge coupling convention
+
+Step 1 — split the import:
+  Levi-Civita = metric-compatible + torsion-free.
+
+Step 2 — keep the forced part:
+  if adjacency requires separation-magnitude preservation,
+  retain metric-compatibility as role-forced or role-licensed.
+
+Step 3 — test the empty cell:
+  if torsion-free is asserted,
+  require a role-reason that empties translational closure failure.
+
+Step 4 — inspect matter current:
+  if spin current is absent or Belinfante-absorbed,
+  output GR-sector torsion burden = 0 in that description.
+
+Step 5 — retain spin independently:
+  if spin current survives as an independent matter current,
+  route it to the torsion-sector equation.
+
+Step 6 — compute externally:
+  apply the selected EC / Poincaré-gauge field equation to obtain
+  T^a{}_{bc}, axial torsion, contortion K, an effective four-fermion term,
+  or a torsion scale/bound.
+
+Step 7 — grade the result:
+  cell/source routing = framework-owned structural bet;
+  numeric value = externally priced;
+  empirical accessibility = regime-dependent.
+```
+
+Outputs:
+
+```text
+LC-sector / spin-absorbed:
+  torsion burden = 0 in the chosen GR-sector description
+
+spin retained independently:
+  torsion burden = EC-priced number from spin density
+
+torsion-free claimed globally:
+  forced-empty proof owed
+
+curvature-form using first Bianchi:
+  Levi-Civita-sector only unless torsion-free is earned
+```
+
+Positive prediction:
+
+```text
+In regimes with independent spin density, the first non-GR affine closure-failure correction
+should scale with spin density through the torsion-sector equation, not with mass-energy
+alone.
+```
+
+This is a number-generating claim:
+
+```text
+spin density in
+→ torsion burden out
+```
+
+The magnitude is expected to be tiny in ordinary regimes because the imported gravitational coupling is tiny, but tiny is not zero-by-role. In extreme spin-density regimes, the torsion burden is the first place this framework would look for a positive, non-prohibitive divergence.
+
+## 12. Rank-2 remainder and Belinfante warning
 
 The parent four-momentum / stress-energy decomposition already contains a warning: the rank-2 remainder is not verified remainder-free.
 
@@ -465,12 +566,12 @@ remainder-free symmetric T_μν:
   torsion-free may remain a successful GR import
 
 independent spin current retained:
-  torsion cell is live
+  torsion cell is live and number-producing
 ```
 
 The framework has not yet earned the first outcome by role-reason.
 
-## 12. Wigner receipt
+## 13. Wigner receipt
 
 The parent framework cites Wigner's classification approvingly as role-individuation.
 
@@ -494,7 +595,7 @@ In gravitational gauge completions such as Einstein-Cartan, its independent coup
 
 So Wigner does not prove torsion. But it flags that a role-catalogue which keeps mass and drops spin has likely not finished the audit.
 
-## 13. Photon / write-act containment
+## 14. Photon / write-act containment
 
 This torsion audit does not automatically damage the photon or write-act sections.
 
@@ -520,9 +621,9 @@ the gravity composition has not yet shown that curvature exhausts
 all affine closure-failure faces.
 ```
 
-## 14. Prediction bundle
+## 15. Prediction bundle
 
-The framework should state the torsion prediction as a structural bet, not a magnitude claim.
+The framework should state the torsion prediction as a structural, number-generating bet with externally priced magnitude.
 
 ```text
 1. Affine non-integrability splits into two faces:
@@ -544,26 +645,32 @@ The framework should state the torsion prediction as a structural bet, not a mag
 6. The structural bet is:
    spin / rotational current → torsion-sector equation.
 
-7. Magnitude is externally priced and likely tiny in ordinary regimes;
-   the framework does not derive the coupling strength.
+7. The quantitative output is:
+   spin density / spin current → torsion tensor, contortion, effective correction,
+   torsion scale, or bound, externally priced by EC/Poincaré-gauge dynamics.
 
-8. If torsion is absent, the framework owes a forced-empty role-reason,
-   not merely GR inheritance.
+8. The correction should scale with spin density, not mass-energy density alone.
+
+9. In ordinary regimes the number should be tiny; in extreme spin-density regimes,
+   the torsion burden is the positive divergence to compute.
+
+10. If torsion is absent, the framework owes a forced-empty role-reason,
+    not merely GR inheritance.
 ```
 
-Compact null/positive form:
+Compact status:
 
 ```text
 ε_torsion-forced-empty is not yet earned.
 ```
 
-or, as a bet:
+Positive number-producing bet:
 
 ```text
-spin → torsion
+spin density in → torsion burden out
 ```
 
-## 15. Could-have-failed
+## 16. Could-have-failed
 
 The torsion bet would fail or be forced-empty if:
 
@@ -592,6 +699,20 @@ a complete decomposition of T_μν and the connection remainder shows no missing
 without reading GR's torsion-free choice as a prohibition.
 ```
 
+The quantitative bet would weaken if:
+
+```text
+all observable spin effects remain fully and non-residually Belinfante-absorbed
+with no independent torsion-sector burden in every admissible completion;
+```
+
+or if:
+
+```text
+spin-density regimes demand corrections that do not route through translational closure failure,
+contortion, axial torsion, or an EC/Poincaré-gauge torsion-sector equation.
+```
+
 The critique would strengthen if:
 
 ```text
@@ -606,7 +727,7 @@ the parent curvature-form derivation does not actually rely on torsion-free,
 or torsion-free is separately forced-empty.
 ```
 
-## 16. Grade
+## 17. Grade
 
 ```text
 Field taxonomy:
@@ -629,7 +750,11 @@ Native role-home:
 Structural bet candidate:
   spin / rotational current → torsion-sector equation
   PB-1-grade companion-cell projection
-  magnitude disowned
+
+Quantitative output:
+  number-generating with external pricing
+  spin density / spin current → torsion tensor, contortion, effective correction, torsion scale, or bound
+  exact coupling and index form EC/Poincaré-gauge-owned
 
 Levi-Civita import:
   remains correct for GR-owned torsion-free calculations
@@ -642,7 +767,7 @@ Collision-room:
   treating GR omission as prohibition violates the method
 ```
 
-## 17. Compact result
+## 18. Compact result
 
 Levi-Civita is not one import. It is two claims:
 
@@ -686,9 +811,20 @@ curvature-form derivations using first Bianchi:
 spin → torsion:
   structural bet candidate
   magnitude externally priced
+
+spin density → torsion burden:
+  positive quantitative output
+  exact number owned by EC/Poincaré-gauge dynamics
 ```
 
 The photon/write-act Levi-Civita use can remain intact. The correction belongs at the gravity-composition level and at any parent curvature-form derivation that used torsion-free: curvature is not automatically the whole of affine non-integrability, and the Levi-Civita curvature package is not globally forced before torsion-free is earned.
+
+The non-prohibitive output is the algorithmic number:
+
+```text
+independent spin current retained
+→ compute the torsion burden
+```
 
 ## References / external anchors
 
