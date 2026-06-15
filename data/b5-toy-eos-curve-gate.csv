@@ -1,0 +1,101 @@
+curve,R14_GR_km,R21_GR_km,Delta_R_high_source_km,BNS_source_factor,R_J0740_after_km,R_BNS_after_km,J0740_pass,BNS_pass,gate,action,notes
+compact-soft,11.80,11.70,-0.90,0.00,10.80,11.80,false,true,j0740-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,-0.90,0.25,10.80,11.58,false,true,j0740-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,-0.90,0.50,10.80,11.35,false,false,both-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,-0.90,1.00,10.80,10.90,false,false,both-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,-0.50,0.00,11.20,11.80,false,true,j0740-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,-0.50,0.25,11.20,11.68,false,true,j0740-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,-0.50,0.50,11.20,11.55,false,true,j0740-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,-0.50,1.00,11.20,11.30,false,false,both-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.00,0.00,11.70,11.80,false,true,j0740-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.00,0.25,11.70,11.80,false,true,j0740-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.00,0.50,11.70,11.80,false,true,j0740-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.00,1.00,11.70,11.80,false,true,j0740-fail,do-not-model-first,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.50,0.00,12.20,11.80,true,true,positive-compatible,low-priority,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.50,0.25,12.20,11.93,true,true,positive-compatible,low-priority,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.50,0.50,12.20,12.05,true,true,positive-compatible,low-priority,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.50,1.00,12.20,12.30,true,true,positive-compatible,low-priority,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.90,0.00,12.60,11.80,true,true,positive-compatible,low-priority,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.90,0.25,12.60,12.03,true,true,positive-compatible,low-priority,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.90,0.50,12.60,12.25,true,true,positive-compatible,low-priority,compact; lower-radius baseline
+compact-soft,11.80,11.70,0.90,1.00,12.60,12.70,true,true,positive-compatible,low-priority,compact; lower-radius baseline
+middle,12.40,12.30,-0.90,0.00,11.40,12.40,false,true,j0740-fail,do-not-model-first,middle baseline
+middle,12.40,12.30,-0.90,0.25,11.40,12.18,false,true,j0740-fail,do-not-model-first,middle baseline
+middle,12.40,12.30,-0.90,0.50,11.40,11.95,false,true,j0740-fail,do-not-model-first,middle baseline
+middle,12.40,12.30,-0.90,1.00,11.40,11.50,false,true,j0740-fail,do-not-model-first,middle baseline
+middle,12.40,12.30,-0.50,0.00,11.80,12.40,true,true,negative-compatible,model,middle baseline
+middle,12.40,12.30,-0.50,0.25,11.80,12.28,true,true,negative-compatible,model,middle baseline
+middle,12.40,12.30,-0.50,0.50,11.80,12.15,true,true,negative-compatible,model,middle baseline
+middle,12.40,12.30,-0.50,1.00,11.80,11.90,true,true,negative-compatible,model,middle baseline
+middle,12.40,12.30,0.00,0.00,12.30,12.40,true,true,baseline-compatible,control,middle baseline
+middle,12.40,12.30,0.00,0.25,12.30,12.40,true,true,baseline-compatible,control,middle baseline
+middle,12.40,12.30,0.00,0.50,12.30,12.40,true,true,baseline-compatible,control,middle baseline
+middle,12.40,12.30,0.00,1.00,12.30,12.40,true,true,baseline-compatible,control,middle baseline
+middle,12.40,12.30,0.50,0.00,12.80,12.40,true,true,positive-compatible,low-priority,middle baseline
+middle,12.40,12.30,0.50,0.25,12.80,12.53,true,true,positive-compatible,low-priority,middle baseline
+middle,12.40,12.30,0.50,0.50,12.80,12.65,true,true,positive-compatible,low-priority,middle baseline
+middle,12.40,12.30,0.50,1.00,12.80,12.90,true,true,positive-compatible,low-priority,middle baseline
+middle,12.40,12.30,0.90,0.00,13.20,12.40,true,true,positive-compatible,low-priority,middle baseline
+middle,12.40,12.30,0.90,0.25,13.20,12.63,true,true,positive-compatible,low-priority,middle baseline
+middle,12.40,12.30,0.90,0.50,13.20,12.85,true,true,positive-compatible,low-priority,middle baseline
+middle,12.40,12.30,0.90,1.00,13.20,13.30,true,true,positive-compatible,low-priority,middle baseline
+bns-upper,13.00,13.40,-0.90,0.00,12.50,13.00,true,true,negative-compatible,model,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,-0.90,0.25,12.50,12.78,true,true,negative-compatible,model,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,-0.90,0.50,12.50,12.55,true,true,negative-compatible,model,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,-0.90,1.00,12.50,12.10,true,true,negative-compatible,model,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,-0.50,0.00,12.90,13.00,true,true,negative-compatible,model,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,-0.50,0.25,12.90,12.88,true,true,negative-compatible,model,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,-0.50,0.50,12.90,12.75,true,true,negative-compatible,model,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,-0.50,1.00,12.90,12.50,true,true,negative-compatible,model,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.00,0.00,13.40,13.00,true,true,baseline-compatible,control,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.00,0.25,13.40,13.00,true,true,baseline-compatible,control,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.00,0.50,13.40,13.00,true,true,baseline-compatible,control,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.00,1.00,13.40,13.00,true,true,baseline-compatible,control,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.50,0.00,13.90,13.00,true,true,positive-compatible,low-priority,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.50,0.25,13.90,13.12,true,true,positive-compatible,low-priority,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.50,0.50,13.90,13.25,true,true,positive-compatible,low-priority,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.50,1.00,13.90,13.50,true,true,positive-tidal-risk,deprioritize,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.90,0.00,14.30,13.00,true,true,positive-compatible,low-priority,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.90,0.25,14.30,13.22,true,true,positive-compatible,low-priority,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.90,0.50,14.30,13.45,true,true,positive-tidal-risk,deprioritize,near BNS upper edge at 1.4; high-ish at J0740
+bns-upper,13.00,13.40,0.90,1.00,14.30,13.90,true,false,bns-fail,do-not-model-first,near BNS upper edge at 1.4; high-ish at J0740
+stiff-high-support,13.40,13.80,-0.90,0.00,12.90,13.40,true,true,best-negative-lane,promote,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,-0.90,0.25,12.90,13.18,true,true,best-negative-lane,promote,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,-0.90,0.50,12.90,12.95,true,true,best-negative-lane,promote,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,-0.90,1.00,12.90,12.50,true,true,negative-compatible,model,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,-0.50,0.00,13.30,13.40,true,true,best-negative-lane,promote,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,-0.50,0.25,13.30,13.28,true,true,best-negative-lane,promote,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,-0.50,0.50,13.30,13.15,true,true,best-negative-lane,promote,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,-0.50,1.00,13.30,12.90,true,true,negative-compatible,model,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.00,0.00,13.80,13.40,true,true,baseline-compatible,control,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.00,0.25,13.80,13.40,true,true,baseline-compatible,control,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.00,0.50,13.80,13.40,true,true,baseline-compatible,control,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.00,1.00,13.80,13.40,true,true,baseline-compatible,control,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.50,0.00,14.30,13.40,true,true,positive-tidal-risk,deprioritize,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.50,0.25,14.30,13.52,true,false,bns-fail,do-not-model-first,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.50,0.50,14.30,13.65,true,false,bns-fail,do-not-model-first,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.50,1.00,14.30,13.90,true,false,bns-fail,do-not-model-first,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.90,0.00,14.70,13.40,true,true,positive-tidal-risk,deprioritize,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.90,0.25,14.70,13.62,true,false,bns-fail,do-not-model-first,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.90,0.50,14.70,13.85,true,false,bns-fail,do-not-model-first,stiff/high-radius baseline
+stiff-high-support,13.40,13.80,0.90,1.00,14.70,14.30,true,false,bns-fail,do-not-model-first,stiff/high-radius baseline
+very-stiff-risk,13.80,14.20,-0.90,0.00,13.30,13.80,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,-0.90,0.25,13.30,13.58,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,-0.90,0.50,13.30,13.35,true,true,best-negative-lane,promote,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,-0.90,1.00,13.30,12.90,true,true,negative-compatible,model,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,-0.50,0.00,13.70,13.80,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,-0.50,0.25,13.70,13.68,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,-0.50,0.50,13.70,13.55,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,-0.50,1.00,13.70,13.30,true,true,best-negative-lane,promote,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.00,0.00,14.20,13.80,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.00,0.25,14.20,13.80,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.00,0.50,14.20,13.80,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.00,1.00,14.20,13.80,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.50,0.00,14.70,13.80,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.50,0.25,14.70,13.93,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.50,0.50,14.70,14.05,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.50,1.00,14.70,14.30,true,false,bns-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.90,0.00,15.10,13.80,false,false,both-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.90,0.25,15.10,14.03,false,false,both-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.90,0.50,15.10,14.25,false,false,both-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
+very-stiff-risk,13.80,14.20,0.90,1.00,15.10,14.70,false,false,both-fail,do-not-model-first,very high radius; likely tidal risk unless corrected/source-dependent
