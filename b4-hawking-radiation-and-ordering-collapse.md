@@ -1,9 +1,9 @@
 # B4 — Hawking Radiation and Ordering Collapse
 
 Status: working proof/contact note.  
-Grade: GB-2 loss-edge contact candidate; PB-4 / GB-3 clarifier for exterior radiation constitution; quantitative role-assignment note; observational-status constrained; magnitudes remain QFT-in-curved-spacetime / QG-priced and framework-disowned.
+Grade: GB-2 loss-edge contact candidate; PB-4 / GB-3 clarifier for exterior radiation constitution; quantitative role-assignment note; prediction-bundle stated; observational-status constrained; magnitudes remain QFT-in-curved-spacetime / QG-priced and framework-disowned.
 
-This note pulls the Hawking-radiation / singularity contact into its own proof paper. It separates four role-sites that ordinary black-hole narration often fuses: the horizon, the Hawking radiation channel, the singularity, and the Page/QES correction. The aim is not to derive Hawking radiation, its temperature, or the Page curve. Standard QFT in curved spacetime and quantum-gravity entropy calculations own those results. The framework imports the standard quantities, assigns their role-location, states the observational status, and states the null it forbids: no independent information-constitution term on null horizon generators or in radiation transit.
+This note pulls the Hawking-radiation / singularity contact into its own proof paper. It separates four role-sites that ordinary black-hole narration often fuses: the horizon, the Hawking radiation channel, the singularity, and the Page/QES correction. The aim is not to derive Hawking radiation, its temperature, or the Page curve. Standard QFT in curved spacetime and quantum-gravity entropy calculations own those results. The framework imports the standard quantities, assigns their role-location, states the observational status, and states the prediction bundle it suggests: no independent information-constitution term on null horizon generators or in radiation transit; horizon terms remain count/capacity rather than receivers; recovery, if unitary, enters through correlations, islands, reconstruction, or non-null microstructure rather than singularity speech.
 
 ## 1. Claims under test
 
@@ -139,7 +139,68 @@ or in Hawking radiation's null/near-null transit.
 
 Any quantitative correction to the black-hole information story must enter through standard entropy accounting, QFT radiation-channel dynamics, greybody/species corrections, Page/QES generalized entropy, or quantum-gravity completion — not through a new null-constitution term.
 
-## 4. Observational status
+## 4. Prediction bundle
+
+The framework suggests predictions of exclusion, localization, and theory-trajectory. These are not new values for `T_H`, `S_BH`, or the Page time; they are constraints on where future black-hole information accounting is allowed to place information constitution.
+
+```text
+1. Null-constitution term:
+   ε_null-constitution = 0.
+   No black-hole observable should require an independent entropy/information term
+   for constitution on null horizon generators or in radiation transit.
+
+2. Horizon role:
+   horizon area terms remain count / capacity / record-like boundary terms,
+   not flow-bearing receivers or semantic containers.
+
+3. Hawking-channel role:
+   Hawking radiation is the exterior record channel at uptake,
+   not singularity speech and not in-flight semantic constitution.
+
+4. Recovery mechanism:
+   if evaporation is unitary, recovery appears through correlations,
+   Page/QES island inclusion, entanglement-wedge reconstruction,
+   radiation degrees, or non-null microstructure — not through a direct
+   singularity-to-radiation information broadcast.
+
+5. Loss localization:
+   true information stranding, if present, localizes at invariant
+   ordering-collapse / geodesic termination, not merely observer-relative horizons.
+
+6. Propagation discipline:
+   degradation in the exterior channel must enter through ordinary physics —
+   greybody filtering, scattering, opacity, detector thresholds, finite collection,
+   coding/decoding limits, backreaction, or QG completion — not through
+   semantic aging or information loss in null transit.
+
+7. Theory-trajectory expectation:
+   sharper black-hole information accounts should continue separating
+   record/count/capacity from constitution/reconstruction, rather than collapsing
+   them into the literal null horizon as a constituted-information site.
+```
+
+Compact version:
+
+```text
+Successful black-hole information resolutions should separate:
+  area/count/record
+from
+  bulk/radiation/reconstruction
+from
+  flow-bearing uptake.
+
+They should not identify constituted information with the null horizon itself.
+```
+
+A future theory or observation would pressure this bundle if it required:
+
+```text
+S_total = S_BH + S_bulk + S_null-constitution
+```
+
+where `S_null-constitution` is irreducible to area/count, bulk entropy, radiation dynamics, detector/uptake effects, or quantum-gravity microstructure.
+
+## 5. Observational status
 
 The observational situation is asymmetric: exterior black-hole behavior is strongly constrained; Hawking evaporation, the Page curve, and the singularity are not directly observed in astrophysical black holes.
 
@@ -190,7 +251,7 @@ So the framework's quantitative null is not experimentally proven. It remains un
 
 This section constrains the grade: B4 is not an experimental witness of Hawking radiation or QES. It is a quantitative role-assignment and theoretical contact, with exterior-GR observational support and no observed collision.
 
-## 5. Standard role-sites
+## 6. Standard role-sites
 
 The standard roles, stated schematically:
 
@@ -217,7 +278,7 @@ Page curve / islands / QES:
 
 The contact is role-diagnostic and role-quantitative, not magnitude-generating.
 
-## 6. Role map
+## 7. Role map
 
 The framework role map is:
 
@@ -255,7 +316,7 @@ area/count ≠ fine-grained constituted information
 island reconstruction ≠ information sitting on the QES
 ```
 
-## 7. What Hawking radiation is not, in this framework
+## 8. What Hawking radiation is not, in this framework
 
 Hawking radiation is not:
 
@@ -291,7 +352,7 @@ In the Page/QES account, the exterior channel's fine-grained entropy must be com
 so the loss edge is not allowed to remain a one-way sink.
 ```
 
-## 8. The singularity / radiation split
+## 9. The singularity / radiation split
 
 The singularity and the Hawking channel should not be fused.
 
@@ -329,7 +390,7 @@ PB-4 / GB-3 discipline lives at the radiation uptake and horizon/null-carrier bo
 The Page/QES correction bridges the accounting between them.
 ```
 
-## 9. Hawking radiation as exterior record channel
+## 10. Hawking radiation as exterior record channel
 
 Hawking radiation is the exterior channel by which the black hole becomes experimentally and informationally consequential for outside systems.
 
@@ -367,7 +428,7 @@ small M:
 
 So the exterior radiation is not dismissed. It is the relevant record channel. But constitution is at uptake, and the fine-grained entropy of `R` is not the same as an in-flight semantic substance.
 
-## 10. Page curve and island correction
+## 11. Page curve and island correction
 
 The semiclassical Hawking calculation produces a problem because the radiation appears thermal and entangled with an interior that eventually disappears.
 
@@ -415,7 +476,7 @@ by the naive monotonically-growing thermal entropy curve.
 
 This helps GB-2, but it does not erase the singularity as the classical site of the problem. It says the full quantum-gravity accounting does not allow the classical ordering-collapse edge to function as a permanent information sink.
 
-## 11. Could-have-failed
+## 12. Could-have-failed
 
 The GB-2 / Hawking contact would fail or weaken if:
 
@@ -445,6 +506,20 @@ The quantitative null would fail if:
 
 meaning a necessary, independent entropy/information term had to be added specifically for null-generator or in-transit constitution, not reducible to area/count, bulk entropy, radiation dynamics, greybody/species factors, detector/uptake effects, or QG completion.
 
+The prediction bundle would fail or weaken if:
+
+```text
+successful black-hole information accounting required the exact null horizon
+as a constituted-information site;
+
+or if recovery required direct singularity-to-radiation broadcast;
+
+or if true information stranding occurred without invariant ordering-collapse;
+
+or if a semantic/information-propagation scalar were required in addition to
+standard entropy, radiation, detector, and QG terms.
+```
+
 The observational status would change if:
 
 ```text
@@ -465,7 +540,7 @@ constitution remains at flow-bearing uptake;
 no independent null-constitution scalar is required.
 ```
 
-## 12. Residuals
+## 13. Residuals
 
 Open or residual items:
 
@@ -494,7 +569,7 @@ observations:
   Hawking radiation, Page curves, QES islands, and singularities are not directly observed in real black holes
 ```
 
-## 13. Grade
+## 14. Grade
 
 ```text
 Field taxonomy:
@@ -512,6 +587,13 @@ Quantitative role assignment:
   imports S_BH(M), T_H(M), P(M), t_evap(M), S_rad(t)
   assigns their role-location
   carries no magnitude-derivation weight
+
+Prediction bundle:
+  ε_null-constitution = 0
+  horizon = count/capacity boundary, not receiver
+  Hawking channel = exterior record channel at uptake, not singularity speech
+  recovery = correlations/islands/reconstruction/non-null microstructure, not null constitution
+  stranding = invariant ordering-collapse, not merely observer-relative horizon
 
 GB-2 loss-edge contact:
   candidate theoretical witness for the loss edge
@@ -541,7 +623,7 @@ Collision-room:
   singularity-to-radiation mechanism claims would exceed the framework
 ```
 
-## 14. Compact result
+## 15. Compact result
 
 Do not fuse the four sites:
 
@@ -566,6 +648,17 @@ Page/QES/island
   reconstruction / generalized-entropy correction
   Page transition in S_rad(t)
   theoretical, not experimentally observed for real black holes
+```
+
+The prediction bundle:
+
+```text
+ε_null-constitution = 0.
+Horizon area terms stay count/capacity/record-like.
+Hawking radiation is the exterior record channel, not singularity speech.
+Recovery, if unitary, appears through correlations/islands/reconstruction/non-null microstructure.
+True stranding localizes at invariant ordering-collapse.
+No black-hole observable should require an extra semantic/information-propagation scalar.
 ```
 
 The clean reading:
