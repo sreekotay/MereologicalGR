@@ -813,7 +813,75 @@ observed spin-correlated residuals route through ordinary magnetic, thermal, cru
 or EOS effects with no torsion/contortion improvement.
 ```
 
-## 13. Rank-2 remainder and Belinfante warning
+## 13. Experimental / diagnostic daylight
+
+The experimental daylight is not simply a nonzero deviation from a GR neutron-star model. Neutron-star modeling has many ordinary knobs: equation of state, magnetic field, crust, temperature, rotation, merger dynamics, and inference priors. The framework-positive edge is narrower:
+
+```text
+not:
+  any mass-radius anomaly
+
+but:
+  a spin/current-correlated torsion burden
+  not absorbed by pure GR + EOS / magnetic / crustal / thermal modeling
+```
+
+Diagnostic signals:
+
+```text
+1. Neutron-star structure deviations correlated with spin/current rather than
+   mass-energy density alone.
+
+2. Smaller radii, higher central densities, shifted maximum masses, or altered
+   tidal deformabilities in torsion-priced models, with the sign and scale tied
+   to the torsion-sector source model.
+
+3. Spin-up / spin-down anomalies, moment-of-inertia shifts, or rotation-dependent
+   corrections that are not absorbed by ordinary EOS, magnetic, crustal, thermal,
+   or centrifugal effects.
+
+4. Frame-dragging, precession, or propagation corrections traceable to contortion
+   rather than pure Levi-Civita curvature.
+```
+
+Candidate platforms / stress cases:
+
+```text
+neutron-star and compact-object channels:
+  NICER mass-radius inference
+  pulsar timing
+  moment-of-inertia constraints
+  frame-dragging / precession observables
+  neutron-star merger and post-merger signals
+  tidal deformability constraints from gravitational waves
+
+laboratory / analogue stress cases:
+  dense spin-polarized matter analogues
+  spin-current systems where an effective translational closure defect can be modeled
+```
+
+Status discipline:
+
+```text
+A detected torsion-like signature supports the open torsion cell only if it is
+source-routed:
+  spin / rotational current → torsion-sector equation → contortion / observable shift.
+
+A null result does not by itself force torsion empty.
+It tightens bounds and weakens the live bet.
+Forced-empty requires a role-level closure argument showing that no independent
+spin-current torsion burden can survive the framework's allowed imports.
+```
+
+So the positive daylight is:
+
+```text
+spin/current in → torsion burden out
+```
+
+with an observable correction not reproducible by pure GR plus ordinary matter modeling. That is still B5-grade: structural bet and externally priced magnitude, not a framework-owned coefficient.
+
+## 14. Rank-2 remainder and Belinfante warning
 
 The parent four-momentum / stress-energy decomposition already contains a warning: the rank-2 remainder is not verified remainder-free.
 
@@ -847,7 +915,7 @@ independent spin current retained:
 
 The framework has not yet earned the first outcome by role-reason.
 
-## 14. Wigner receipt
+## 15. Wigner receipt
 
 The parent framework cites Wigner's classification approvingly as role-individuation.
 
@@ -871,7 +939,7 @@ In gravitational gauge completions such as Einstein-Cartan, its independent coup
 
 So Wigner does not prove torsion. But it flags that a role-catalogue which keeps mass and drops spin has likely not finished the audit.
 
-## 15. Photon / write-act containment
+## 16. Photon / write-act containment
 
 This torsion audit does not automatically damage the photon or write-act sections.
 
@@ -897,7 +965,7 @@ the gravity composition has not yet shown that curvature exhausts
 all affine closure-failure faces.
 ```
 
-## 16. Prediction bundle
+## 17. Prediction bundle
 
 The framework should state the torsion prediction as a structural, number-generating bet with externally priced magnitude.
 
@@ -946,7 +1014,7 @@ Positive number-producing bet:
 spin density in → torsion burden out
 ```
 
-## 17. Could-have-failed
+## 18. Could-have-failed
 
 The torsion bet would fail or be forced-empty if:
 
@@ -1017,7 +1085,7 @@ the parent curvature-form derivation does not actually rely on torsion-free,
 or torsion-free is separately forced-empty.
 ```
 
-## 18. Grade
+## 19. Grade
 
 ```text
 Field taxonomy:
@@ -1051,6 +1119,10 @@ Neutron-star target:
   intrinsic-spin channel is cleaner but likely hidden in current realistic models
   rotation-induced channel is more visible but more model-dependent
 
+Experimental daylight:
+  positive only if source-routed through spin/current → torsion burden
+  null results bound and weaken but do not force-empty without role closure
+
 Levi-Civita import:
   remains correct for GR-owned torsion-free calculations
   not globally promoted to forced unless torsion cell is emptied
@@ -1062,7 +1134,7 @@ Collision-room:
   treating GR omission as prohibition violates the method
 ```
 
-## 19. Compact result
+## 20. Compact result
 
 Levi-Civita is not one import. It is two claims:
 
@@ -1113,6 +1185,9 @@ spin density → torsion burden:
 
 neutron-star worksheet:
   folded into B5 as the first experimental target table
+
+experimental daylight:
+  spin/current-correlated torsion burden not reproducible by pure GR plus ordinary matter modeling
 ```
 
 The photon/write-act Levi-Civita use can remain intact. The correction belongs at the gravity-composition level and at any parent curvature-form derivation that used torsion-free: curvature is not automatically the whole of affine non-integrability, and the Levi-Civita curvature package is not globally forced before torsion-free is earned.
