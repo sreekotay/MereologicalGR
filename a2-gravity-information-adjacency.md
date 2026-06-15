@@ -1,143 +1,542 @@
-# Gravity = Information + Adjacency — via four-momentum
+# A2 — Gravity, Information, and Adjacency
 
-*Sree Kotay — working draft, June 2026. Companion to `cause-without-time.md` (the parent framework; its §1.5 states the label system, including the landing-site rule), `a3-record-vs-constitution.md` (working derivations), and the B-notes that split out external contacts / audits.*
+*Sree Kotay — working draft, June 2026.*
 
-**Abstract.** This document applies the parent framework's role-decomposition to the four-momentum. Holding GR/SR fixed as substrate, it labels T_μν's parts in the role vocabulary and projects three claims into GR-silences: GB-1, that gravity and information differ by the adjacency sector in the massive-sector decomposition (re-graded a definition + consistency-check — its failure condition is not operational); GB-2, that information-stranding at an edge and ordering-collapse are biconditional, and only there (a bet; the loss edge stands via the Page curve, the unaccountability edge is unwitnessed); and GB-3, that no null structure constitutes information (a bet; pressure tests stood, with the QES/island check split out to `b3-qes-and-null-constitution.md`). The result — gravity = information + adjacency (massive, torsion-free / symmetric-stress-energy / GR-owned sector) — is then carried into the conjugate layer and two entropy projections: EB-1 (the photon-box's mass; a GR round-trip) and EB-2 (the box's interior: the forced de-oriented remainder, with the entropic identification scoped to mixedness). Grades are stated per claim; the corrections this document has absorbed are tagged in place. The Levi-Civita / torsion audit is split out to `b5-levi-civita-torsion-and-closure-faces.md`: torsion-free is not yet framework-forced, so GB-1 carries a torsion/spin remainder debt unless the torsion cell is later forced empty.
+Status: application document / gravity-side role decomposition.  
+Foundation: A0 grammar and A1 photon-run commitments are assumed.  
+Forward-reference rule: this document states its own debts internally; later notes may refine them, but A2 does not rely on later documents for its claims.
 
-Keystone: GR/SR assumed correct. Imported SR/GR is substrate (checkable, not a framework claim). Framework claims are labeled: definition (stipulated), label (inert re-description), bet (forced projection into a GR-silence, could fail). A bet is the projection and its failure condition only — not how confirmed it is. A witness is not a kind of claim and not part of a bet: it is the separate, after-the-fact verdict that a could-have-failed check on a bet was run and stood. A phenomenon predating a bet does not pre-confirm it; confirmation is the check, after the forcing. A failure condition must be operational — checkable against the world, able to come out either way — else the bet is a tautology. Projection paths are shown, with the grounding-status of each link. (The full label system — including the landing-site rule that grades exhibits, witnesses-by-retrodiction, and bets — is doc-1 §1.5; the definitions here are its working subset.)
+Core result:
 
-Assertion-scope: this doc asserts only what it derives from its stated substrate and the parent doc's committed structure. Refinements derived in the working doc (record-vs-constitution.md) or split-out B-notes supersede its statements only on promotion, after a later-session cold read; until then its statements are correct at their own derivational level.
+```text
+gravity = ordering + influence + energy-momentum
+information = ordering + influence + flow
 
-Structure: §1–§3 state the imported substrate, the framework definitions, and the imported labels. §4 states the gravity bets (GB-1–GB-3) and §5 their witness pressure tests; §6 collects the result, with §6.1 the Weyl two-face structure at the ordering-collapse corner. §7 draws the scope/perimeter, including the torsion/Levi-Civita perimeter now split to B5, and §8 the open items. §9 is the conjugate layer. §10–§13 develop the entropy projections — EB-1 (the photon-box's mass), EB-2 (its interior: entropy and temperature), scale as relational imputation, and the EB-1/EB-2 relation.
+massive-sector reading:
+  energy-momentum = flow-face + adjacency-face
 
-## 1. Imported SR/GR Substrate
+therefore:
+  gravity and information share ordering + influence;
+  their difference, in the massive torsion-free sector, is the adjacency / energy-momentum sector.
+```
 
-Checkable physics, not framework claims — the ground the bets project from.
+Short form:
 
-- proper time: dτ² = −g_μν dx^μ dx^ν / c² (signature −+++); four-velocity u^μ = dx^μ/dτ, u·u = −c².
-- four-momentum: p^μ = m u^μ. Energy-momentum = mass × four-velocity.
-- p⁰ = m u⁰ = γmc = E/c → E = γmc²; rest E = mc². p^i = m u^i = γm v^i = momentum.
-- E² = (pc)² + (mc²)². Photon (m=0): E = |p|c.
-- T_μν sources gravity (G_μν = 8πG/c⁴ T_μν): T⁰⁰ energy density, T⁰i momentum density, T^ij stress.
+```text
+gravity = information + adjacency
+```
 
-## 2. Framework Definitions
+Scope:
 
-Stipulated carves in the framework's vocabulary — judged by carve-quality, not truth.
+```text
+massive sector;
+torsion-free / symmetric-stress-energy / GR-owned sector;
+role-decomposition only;
+no new field equation;
+no coupling derivation;
+no claim that torsion/spin remainder is closed.
+```
 
-- cause = ordering + influence
-- information = cause + flow = ordering + influence + flow
-- information is not influence-structure in transit, but ordered influence taken up in flow, consequentially perturbing adjacency (an effect at uptake, not a constituent).
-- gravity = cause + energy-momentum = ordering + influence + energy-momentum
-- shared core: ordering + influence. Difference: third term (flow vs energy-momentum).
-- "information" is framework-structural (cause + flow), not Shannon/von Neumann (a count, out-by-kind).
-- ordering is one role (causal precedence) across both compositions: gravity's ordering = spacetime causal structure; information's ordering = precedence among recorded events (a subset of the same events). Same relation.
+---
 
-## 3. Framework Imported Labels
+## 1. Imported SR/GR substrate
 
-Inert re-descriptions of imported substrate in the framework's vocabulary — they carry no confirmatory weight.
+Checkable physics, not framework claims:
 
-- energy = flow's face (mc², the flow-projection) for massive systems; momentum = adjacency-conjugate. The flow→energy register-shift (kinematic τ ↔ energetic mc²) is the same role, not a new constituent — massive only.
-- T_μν spacelike sector (momentum + stress) = adjacency; timelike sector (energy) = flow's face (massive) or adjacency-borne (null).
+```text
+proper time:
+  dτ² = -g_μν dx^μ dx^ν / c²  (signature -+++)
 
-## 4. Gravity Bets
+four-velocity:
+  u^μ = dx^μ/dτ;
+  u·u = -c²
 
-Shared premise P (ordering-identity): ordering is the same role — causal precedence — in gravity and information (gravity's = the spacetime causal structure; information's = precedence among recorded events, a subset of the same events). Status: definitional and **met** — information's events are a subset of the same events, so its ordering is the same relation restricted; this is true by construction, not an open assumption. GB-1 and GB-2 both project through P; since P is met, the shared risk is only that the framework use "ordering" inconsistently (an internal-consistency check, not an empirical one). GB-3 does not project through P.
+four-momentum:
+  p^μ = m u^μ
 
-- GB-1: in the massive-sector role-decomposition, gravity and information differ by the adjacency sector.
-  - grade [re-graded from bet — promoted from the working doc's adversarial read]: **definition** + consistency-check, not a bet. The stated failure condition is not operational — "information-like" is left undefined operationally — so by the keystone (a failure condition must be operational, else the bet is a tautology) GB-1 does not qualify as a bet. Its three links are P (definitional, met), influence-identity (a role-level consistency check — the influence-identity test below stands as that check), and the substrate p^μ = m u^μ. It carries no confirmatory weight; the bet-register holds GB-2 and GB-3, which carry genuine operational exposure.
-  - scope: "energy = flow's face" holds for massive systems only — at the null limit energy is adjacency-borne and flow vanishes, so this is the massive-sector decomposition, not unconditional. The spacelike-sector = adjacency identification is a label (inert re-description), not a derivation; "differ by the adjacency sector" is modulo the unverified rank-2 remainder of T_μν — pressure, stress, field/binding/vacuum/gauge contributions are re-described as adjacency, not yet shown remainder-free. After the Levi-Civita / torsion audit (B5), the result is explicitly torsion-free-sector only: curvature captures the rotational closure-failure face, while torsion remains the unbooked translational closure-failure face if spin is kept independent. Not "exactly, nothing else" until the T_μν/stress/spin/torsion remainder is closed or forced empty.
-  - projection path: P (ordering shared — met) + influence-identity (influence is the same role in both — checked, below) + energy-momentum = flow-term + adjacency-term (substrate p^μ = m u^μ, massive) → the difference reduces to adjacency in the torsion-free / symmetric-stress-energy / GR-owned sector.
-  - fails if: a system gravitates while information-like with no adjacency-difference, or carries information with gravity's full adjacency sector.
-- GB-2: information-stranding-at-an-edge ⟺ ordering-collapse (and only there). [biconditional]
-  - projection path: P (ordering shared) + the cone is invariantly two-lobed → collapse (geodesic incompleteness) has two edge-types, one with the cone opening toward the missing extension, one away → each forces a stranding-pathology (information with nothing on the far side), mirror images: at one edge no continuation (loss), at the other no antecedent (unaccountability). The two edge-types are forced by the two-lobe structure; which is loss and which is unaccountability awaits the orientation of ordering (open, GR-silent, inherited) — the pairing is forced up to that labeling.
-  - "only there": the cone gives exactly two edge-types, each forcing its pathology; a geodesically-complete cosmology (bounce) has no edges, hence no stranding-pathology. Invariance clause [promoted]: stranding means **invariant** unrecoverability. Observer-relative inaccessibility does not strand — a Rindler horizon (accelerated observer, flat spacetime) or a de Sitter horizon is horizon-rich yet geodesically complete, removable by a change of worldline. de Sitter (complete yet horizon-rich) is the test case the "only there" must clear, and it clears: its horizon is observer-relative, not an invariant edge, so no stranding is implied where there is no invariant ordering-collapse.
-  - fails if: a stranding-pathology (operational: information unrecoverable / unaccountable by any external reconstruction) occurs with no ordering-collapse, or an ordering-collapse occurs with neither stranding-pathology.
-  - run-status: the loss edge is probed by the black-hole case (Page curve / islands). The unaccountability edge maps onto the past hypothesis (a low-entropy boundary unaccountable from within), whose status as an information problem is itself contested. Residual: the unaccountability clause is not stress-tested; the ⟹ direction (stranding implies an edge) is unprobed; the labeling rests on the open orientation.
-- GB-3: no null structure constitutes information — not photons, not horizon null generators or gravitational-wave null rays.
-  - projection path: flow=0 → no constituted information (info = cause + flow; parent PB-3 (doc-1 §16) + the bets-3+4 synthesis (doc-1 §16, synthesis)), projected onto all null structure. Independent of P. Widens PB-3's photon proscription to all null structure (horizon generators, GW null rays) — a failure mode the photonic test does not reach.
-  - fails if: a horizon null generator or a GW constitutes (not merely records) information with no flow-bearing uptake anywhere in the loop. (A GW perturbs adjacency in flight — LIGO arm-length — but that is transit, not constitution: the flow-bearing-worldline clause is not met by the null wave; constitution is at consequential flow-bearing uptake — the receiver, as with the photon/detector split.)
+energy:
+  p⁰ = E/c;
+  E = γmc²;
+  rest E = mc²
 
-## 5. Gravity Bets — Witness Pressure Test
+momentum:
+  p^i = γm v^i
 
-Separate, after-the-fact verdicts: each records that a could-have-failed check on a bet was run, and whether it stood. Not part of the bets.
+mass shell:
+  E² = (pc)² + (mc²)²
 
-- GB-3, photonic test (PB-3's domain): linear-optical and cluster-state quantum computing constitute their result at photon detection — flow-bearing matter; the photon transports, the detector constitutes. All-unitary / measurement-free-mid-circuit photonic schemes remove mid-circuit measurement but still terminate the result at a flow-bearing readout. Measurement-free fault-tolerant logic exists but on trapped ions (massive substrate) — not null structure, irrelevant. Verdict: stands, contingently — no photonic operation found constituting a consequential result with zero flow-bearing uptake; rests entirely on transport-vs-constitution. Could-have-failed (a fully in-flight consequential operation would falsify); did not.
-- GB-3, horizon/QES test: split out to `b3-qes-and-null-constitution.md`. Verdict: stands. The QES/island formula separates area/count/cut from fine-grained bulk/radiation degrees and flow-bearing uptake; it does not force constituted information onto null horizon generators. See B3 for the role map, collision-room, residuals, and grade.
-- GB-1 / Levi-Civita / torsion audit: split out to `b5-levi-civita-torsion-and-closure-faces.md`. Verdict: torsion-free is not currently framework-forced. Metric-compatibility may be forced by adjacency, but torsion-free is a separate empty-cell claim. Curvature is the rotational closure-failure face; torsion is the unbooked translational closure-failure face. The spin → torsion companion is a structural-bet candidate; magnitude disowned. Consequence for this doc: GB-1 is torsion-free-sector only until the spin/torsion remainder is closed or forced empty.
-- GB-1, influence-identity test [this is the consistency-check the GB-1 re-grade names — not a witness of a bet, since GB-1 is a definition; it checks internal-consistency, not the world]: run, passes at the role level. Both gravity's influence (energy-momentum constraining causal structure) and information's influence (correlation constraining a partner) are constraint-relations satisfying the definition; the apparent differences are carried elsewhere, not by influence — transferring-vs-non-transferring by the energy-momentum term (third term), universal-vs-selective by the selection criterion (a configuration of the one role). Could-have-failed: if information's correlation-structure were an extra constituent rather than a configuration, GB-1 fails; it came out configuration. Verdict: stands at the role level; residual exposure reduced to the bare GB-1 falsifier (a system that gravitates while information-like with no adjacency-difference, or carries information with gravity's full adjacency sector) plus the torsion/spin perimeter above.
-- GB-3, CMB test (cosmological instance): recombination is the transit/uptake boundary for the photon. Inside the last-scattering surface the photon is in continual flow-bearing uptake (dense medium, λ small — absorbed and re-emitted by the massive plasma); at decoupling it transitions to pure transit (free-streaming, influence+ordering, no uptake — the GB-3 photon). The CMB we observe is the pure-transit photon population since last scattering. Consistent with GB-3: the photon constitutes nothing in free flight; what was constituted (the plasma's record) was at the flow-bearing matter, before decoupling. (The plasma wall is **not** a role-lack corner — it is ordering-rich and uptake-dense; its collective behavior, e.g. radiation pressure, is consequential-uptake at dense scale. So the wall is a role-rich regime, the contrast to the role-lack corners, not a fourth corner.)
-- GB-2: partial verdict. Loss edge — **stands** via the black-hole case (Page curve / islands): the loss-pathology localizes where ordering collapses, the could-have-failed did not fire. Unaccountability edge — **unwitnessed**: it maps onto the past hypothesis, itself contested as an information problem, so no clean check has been run. The ⟹ direction and the per-clause operational tests remain owed (see GB-2 run-status above); P (ordering-identity) is met (definitional), not an owed check. Verdict: the loss edge stands; the biconditional is not yet sealed.
+photon:
+  m = 0;
+  E = |p|c
 
-## 6. Gravity Bets — Result
+stress-energy:
+  T_μν sources curvature in standard GR;
+  T⁰⁰ energy density;
+  T⁰i momentum density;
+  T^ij stress
+```
 
-Gravity = information + adjacency (massive, torsion-free / symmetric-stress-energy / GR-owned sector). Shared cause-core (ordering + influence); the timelike flow-role (energetic in gravity, kinematic in information); gravity adds the spacelike sector of T_μν (momentum + stress = adjacency). At the null limit the flow-role vanishes and energy is itself adjacency-borne (E = |p|c), so the massless extreme is maximal-adjacency / zero-flow — the opposite end from rest-massive (flow-term / zero-momentum). [This is GB-1 — re-graded to a definition + consistency-check (not a bet; its failure condition is not operational — see the GB-1 grade note): the conclusion of the cascade (P met + influence-identity checked + energy-momentum = flow-term + adjacency-term), a definitional decomposition standing on the three links and carrying no confirmatory weight. The bet-register holds GB-2 and GB-3. The torsion/spin remainder is now explicitly owed: curvature is not automatically the whole affine non-integrable mode.]
+The framework may label this substrate. It does not derive the substrate here.
 
-The singularity collapses ordering — shared by both compositions — so one event acts on gravity's decomposition and information's fate together. [This is GB-2.] (Ordering's fate — loss or transformation → influence — is open; see §8, and the parent singularity section, doc-1 §6.5.)
+---
 
-### 6.1 Weyl two-face structure at the ordering-collapse corner [load-bearing on approach — sharpens GB-2; see grade by regime]
+## 2. Framework definitions used
 
-The Weyl tensor splits into an electric/tidal face (E_μν = C_μανβ u^α u^β, the tidal field projected along a timelike u) and a magnetic/areal face (space-space). The index-types map onto the laying-out roles the same way the conjugate split does: time-space → ordering's directed axis; space-space → adjacency's transverse sector. That index-map is the forced, grounded part (the same diagnostic the gauge question turned on — read the indices, do not assert).
+```text
+cause = ordering + influence
 
-The cross-layer question this raises: ordering-collapse lives at the cone/causal-structure level (the metric, which way futures point); the electric Weyl lives at the curvature level (the free curvature) **and** needs a chosen timelike u to be defined at all. Are they the same timelike alignment across the two layers? They are — because the collapse itself supplies the u. The singular approach picks out a preferred timelike direction (the collapse-time, the direction the cone tips shut along), and both the cone-tipping (ordering) and the electric-Weyl projection are referred to that one direction. One u, two layers using it — that is the cross-layer link, forced by the collapse breaking the u-ambiguity. Graded by regime:
+information = ordering + influence + flow
 
-- Monotonic approach (Kasner-like): the collapse-direction is a single fixed timelike axis, so ordering-collapse and electric-Weyl share one alignment. **Forced**. Here the block is load-bearing for GB-2: stranding (an ordering-collapse pathology) localizes to the electric/tidal face, so GB-2 acquires a Weyl-electric falsifier. **Scope** (corrected — the falsifier as first stated fired on GR's own inventory: closed-FRW recollapse is conformally flat, Weyl ≡ 0, electric face zero, yet geodesically incomplete — stranding with no signature; external catch, verified): the falsifier is **generic**-scoped — BKL: the generic approach to a spacelike singularity is Weyl-dominated ("matter doesn't matter"); the exactly conformally-flat stratum is measure-zero and unstable. Scoped claim: **generic** stranding must carry an electric-Weyl signature aligned with the collapse-time; generic stranding with no such signature would falsify. The conformally-flat exception class is exactly the Weyl-suppressed boundary of the Weyl curvature hypothesis — see the working doc, record-vs-constitution.md (the FRW catch + the edge-labeling question).
-- Generic oscillatory approach (BKL): the collapse-direction rotates (the Kasner axes permute each epoch — the S₃ chaos). Ordering-collapse and electric-Weyl stay aligned but dynamically — both track the rotating collapse-direction. So the alignment holds, but the u rotates with the spatial-curvature wall structure (S₃ = the wall's symmetry; the live-open residue is the Kac-Moody structure the walls encode — see the parent structural-seam, doc-1 §6.5). Load-bearing here is entangled with that: the magnetic/areal face supplies the BKL potential walls, but that BKL drive is standard GR (imported, forced-from-ground) — the framework maps its roles onto it, does not derive it.
-- Termination (singularity proper): both objects co-terminate — the cone has no continuation (ordering-collapse complete) and the electric Weyl has no u (the timelike direction it needs is the geodesic that terminates). They do not misalign; they end together, for the same reason (the timelike structure runs out). Non-distinct: the split collapses onto GR's own termination ("the determinations run out; no there-there"), adding nothing the framework didn't already have — the roles correctly inherit GR's boundary, going non-distinct exactly where GR terminates. (A decomposition that stayed distinct past the singularity would be the suspect one.)
+gravity = ordering + influence + energy-momentum
+```
 
-Flagged import: the Weyl decomposition and index-types are forced-from-ground (importable). The frame-adapted sharpness of the split, and the BKL wall-drive, are imported, not framework-derived. The new GB-2 falsifier (electric-Weyl signature on stranding) is forced only in the monotonic regime; in the generic regime it inherits the rotating wall-structure (S₃, the wall-symmetry — see the parent structural-seam, doc-1 §6.5). B5 perimeter: Weyl is curvature-sector only. It sharpens the rotational closure-failure face near ordering-collapse; it does not exhaust affine non-integrability or settle torsion.
+Information is not influence-structure in transit. It is ordered influence taken up in flow at application scale.
 
-## 7. Scope
+Gravity is not declared a substance. It is the GR-owned structural mode by which energy-momentum constrains causal structure.
 
-- The framework labels substrate (T_μν's parts → roles) and forces bets into GR-silences; it does not derive p^μ = m u^μ, T_μν, or the Einstein equation.
-- Perimeter: the role-decomposition places the terms and the conversion factor c; it does not derive the signature/count (1 timelike, 3 spacelike). The combining-law — the quadrature E² = (pc)² + (mc²)² — is **not** a separately imported law but a theorem of the already-licensed imports [re-graded, promoted]: the metric's norm (imported with adjacency/signature) on the leg-decomposition, with p^μ = m u^μ and u·u = −c² (listed substrate). Single-counting: it is required and it round-trips, but it is a consequence of licensed imports, not an independent import. (The metric and signature remain the imports; the mass-shell is still not from roles — it is from the imported metric.) [Cross-doc: doc-1 §3 still states the quadrature as a separate import; the matching re-grade there is owed — flagged, not silently half-promoted.] A partial-relabel standing on imported structure, not a numeric derivation.
-- Levi-Civita / torsion perimeter: split out to `b5-levi-civita-torsion-and-closure-faces.md`. Metric-compatibility may be role-forced by adjacency; torsion-free is not currently framework-forced. Therefore all claims here that rely on the standard GR connection are torsion-free-sector claims unless and until the torsion cell is forced empty. The live structural-bet candidate is spin / rotational current → torsion-sector equation; magnitude disowned.
+Shared core:
 
-## 8. Open
+```text
+ordering + influence
+```
 
-- ordering destroyed or transformed (→ influence) at the singularity = the information paradox. Physics (unitarity, Page curve) favors transformed.
-- influence and ordering interconvertible like mass and energy, with s the conversion factor? Symmetric projection from c-as-conversion-factor (c is the unit-shadow of the primitive signature/cone structure — the converter, not itself primitive; E=mc² uses it; photon = c saturated, the spine made manifest; the limit is downstream). **Not** in evidence for s. The singularity is where an ordering→influence (s) conversion, if real, would accompany the evidenced mass→radiation (c) flow-crossing.
-- spin / torsion remainder: torsion-free is not yet earned by role-reason. Either force the translational closure-failure cell empty, or book spin → torsion as a structural bet. Do not treat GR's torsion-free choice as a prohibition.
+Difference:
 
-## 9. The conjugate layer (canon: doc-1 §3)
+```text
+information adds flow;
+gravity adds energy-momentum.
+```
 
-The conjugate layer's canon lives in the parent document (doc-1 §3, the space-composition bullet): the two conjugate pairs (energy↔flow, momentum↔adjacency) with the role-conjugacy reading clause (dynamical/Fourier duality, not operator-pairs — the Pauli specification); mass as the invariant **magnitude** of the four-momentum, not a third conjugate; ordering's no-conjugate **category fact** (the spine of both legs, not a leg — why ordering cancels in c's units, leg over leg along the spine); and the conjuncts-not-conjugates status of ordering and influence (a ratio-bound on the ordering axis, no mass-shell — the c/s asymmetry). This section keeps only the gravity-specific uses.
+---
 
-The working vocabulary this document draws from that canon: the four-momentum's two legs, named by projection onto the laying-out roles — time-momentum = the (ordering+flow)-projection (timelike part; magnitude from flow; zero when flow→0, why the photon is massless) and space-momentum = the (ordering+adjacency)-projection (spacelike part; ordinary momentum).
+## 3. Imported labels / projection layer
 
-Gravity-specific use: gravity's content is the four-momentum (time-momentum + space-momentum); information uses the ordered content (cause + flow); the de-oriented adjacency-spread is space-momentum with its orientation cancelled, and entropy is its measure **given** mixedness — the same re-scope as EB-2 (the de-oriented remainder is forced; its entropic reading is mixedness-mediated, imported, and scopes to thermal/typical radiation). (Mass, the invariant leg, carries no entropy — it is not a spread.)
+Energy-momentum is imported as a dimensionful primitive. It has two projection faces:
 
-## 10. EB-1 — "what is a photon at rest?"
+```text
+energy:
+  flow-conjugate face
 
-**The forced chain:**
-1. Photon: massless — no rest frame, no time-momentum (restless by nature, c in all frames).
-2. Projection: apply "at rest" to the photon. Impossible at the part — a massless thing has no rest frame.
-3. Resolution (forced): "at rest" is answerable only at the aggregate — a box of photons has a rest frame the single photon cannot.†
-4. Therefore: in the box, the parts' space-momenta cancel (net-zero).
-5. Therefore: by the quadrature (net p=0 → E=mc²) — itself a theorem of the licensed imports (the metric's norm on the leg-decomposition), not a separate law (see Scope) — the energy lands on the time-momentum leg → the box has rest mass.
-6. So: the photon-at-rest *is* the box-at-rest — carrying the mass, rest, and rest-frame the part could not.
-7. Instance (not a witness): the CMB — a real photon aggregate with a rest frame (measurable via the dipole) and mass. The forced chain instanced in the world — but an *instance*, not a witness: EB-1 round-trips to GR (box-has-mass is GR), so there is no could-have-failed for the CMB to attest (a bounded photon gas necessarily has a rest frame, by GR). Illustration, zero confirmatory weight — the same discipline that re-graded the Levi-Civita write-locus in the parent doc.
+momentum:
+  adjacency-conjugate face
 
-†the aggregate is the *resolution* of an impossible part-condition, not a new posit. The box is forced only because rest was impossible at the part — a massive part can already rest, so it forces no box. "Multiplicity" is the resolution-mechanism here, not a projection or a general operation.
+mass:
+  invariant rest / flow-projection face
+```
 
-**Rest-frame status:** mass **invariant**; rest frame **content-selected** (not spacetime-preferred); the CMB dipole is measurable-not-absolute.
+For massive systems:
 
-**Grade:** round-trips to GR (box-has-mass is GR); the CMB (step 7) is an instance, not a witness — a round-trip has no could-have-failed. [The content-selected-rest framing is separate — open whether it carries its own bet-content.]
+```text
+energy-momentum = time-momentum + space-momentum
+                = flow-face + adjacency-face
+```
 
-**Not claimed (uncolored):** that "multiplicity" is a thing / operation / general role; that any flow→0 aggregate behaves this way; that this is an "aggregate corner"; that other part-impossibilities force their own boxes (a general method). One projection — "photon at rest" → the box — is forced, nothing more. (It does **not** generalize as "multiplicity": massive parts aggregating give pressure, not a leg-flip; a single massive worldline has time-momentum with no aggregation and resolves no impossibility — a massive part can already be at rest, so no box is forced. The box is forced only because rest was impossible at the part.)
+At the null limit:
 
-## 11. EB-2 — "given the box, what does the mereology force about its interior?"
+```text
+flow → 0
+energy is adjacency-borne
+E = |p|c
+```
 
-**The claim** [re-scoped, promoted]: the same cancellation that gives the photon-box its mass forces a remainder — an isotropic, de-oriented adjacency-spread. That remainder is forced; identifying it with entropy holds **given** mixedness (imported — see step 5 and the ‡ note). For thermal/typical radiation, mass and entropy are two faces of one cancellation; the forced core is the remainder, the entropic reading is mixedness-scoped.
+So the null case is not a counterexample. It is the opposite extreme from rest-massive content:
 
-**The forced chain:**
-1. Photon parts: each massless — nonzero momentum (p≠0, E=|p|c), zero rest mass.
-2. Resting box: total spatial momentum is zero.
-3. Therefore: the individual momenta survive but cancel in the net.
-4. Therefore: the interior holds a nonzero, net-directionless spread.
-5. Identification (forced remainder; entropic identification scoped) [re-scoped, promoted]: the spread is space-momentum with its orientation cancelled — **de-oriented** (directional cancellation) in the role vocabulary. Its measure is entropy **given** mixedness, an imported statistical premise, not forced here: a pure box (e.g. |k,−k⟩) has the de-oriented spread but S_vN = 0, so entropy tracks mixedness, not the spread itself. The de-oriented remainder is forced; its entropic reading scopes to thermal/typical radiation (the confirmation field below).‡
-6. So: mass and entropy are two faces of one cancellation — net face → mass;
-7. leftover face → entropy, the *measure* of that forced remainder. The magnitude is not admitted — it is imported, not forced here.
+```text
+rest-massive:
+  flow-face maximal, net momentum zero
 
-‡the syllogism fuses two senses the pure-state box separates: **de-oriented** (directional cancellation; present in the pure box) versus **disordered** (mixed; absent in the pure box). Entropy measures the latter. So entropy is not the measure of the de-oriented spread itself but of its mixedness — the remainder is forced, the entropic measure is mixedness-mediated (imported). [re-scoped, promoted]
+null:
+  flow-face zero, adjacency-borne momentum/energy
+```
 
-[FIDELITY-RULE CANDIDATE (Rule 8, doc-3 — workspace register, cold-read gated; now locally applied in this doc): earlier wording used "de-ordered" / "space-momentum with its ordering cancelled." Cold read flagged that this uses ordering's English connotation (directional) rather than its roster definition (causal precedence). What cancels in a resting box is adjacency-orientation — signed spatial directions (the CPT P-assignment) — not ordering/precedence. The sweep here uses de-oriented; grades do not move (the remainder still forced; entropic reading still mixedness-scoped).]
+---
+
+## 4. GB-1 — gravity and information differ by adjacency
+
+Claim:
+
+```text
+In the massive-sector role-decomposition,
+gravity and information differ by the adjacency / energy-momentum sector.
+```
+
+Grade:
+
+```text
+definition + consistency-check;
+not a bet;
+no confirmatory weight.
+```
+
+Reason:
+
+```text
+P1. ordering is the same role in both compositions;
+P2. influence is the same role in both compositions;
+P3. energy-momentum decomposes into flow-face + adjacency-face in the massive sector;
+therefore gravity's extra term over information is the adjacency / energy-momentum sector.
+```
+
+Scope guard:
+
+```text
+not unconditional;
+not null-sector;
+not torsion-complete;
+not a derivation of G_N or the Einstein equation.
+```
+
+Torsion / spin debt:
+
+```text
+The standard GR connection is torsion-free.
+Metric-compatibility may be role-licensed by adjacency / separation discipline.
+Torsion-free is not currently framework-forced.
+Therefore any claim here that relies on standard GR curvature is torsion-free-sector only.
+```
+
+Open cell:
+
+```text
+translational closure failure / torsion
+```
+
+must either be:
+
+```text
+forced empty by role-reason
+```
+
+or:
+
+```text
+booked as a structural bet, e.g. spin / rotational current → torsion-sector equation.
+```
+
+Do not treat GR's torsion-free choice as a prohibition.
+
+---
+
+## 5. GB-2 — stranding at an edge and ordering-collapse
+
+Claim:
+
+```text
+information-stranding-at-an-edge ⟺ ordering-collapse
+```
+
+Grade:
+
+```text
+bet;
+loss-edge partially pressure-tested;
+unaccountability-edge open.
+```
+
+Projection path:
+
+```text
+ordering is shared by gravity and information;
+cone structure has oriented continuation conditions;
+edge-types create stranding pathologies;
+therefore ordering-collapse and information-stranding should coincide at invariant edges.
+```
+
+Loss-edge reading:
+
+```text
+black-hole / singularity side:
+  geodesic termination;
+  invariant continuation failure;
+  stranding threat.
+```
+
+Unaccountability-edge reading:
+
+```text
+past-boundary / low-entropy boundary side:
+  antecedent not internally accounted for;
+  status contested as an information problem.
+```
+
+Failure condition:
+
+```text
+a stranding-pathology occurs with no ordering-collapse;
+or an ordering-collapse occurs with neither loss nor unaccountability pathology.
+```
+
+Observer-relative horizons do not automatically count:
+
+```text
+Rindler horizon / de Sitter access horizon:
+  horizon-rich;
+  not necessarily invariant ordering-collapse;
+  no stranding implied without invariant edge.
+```
+
+---
+
+## 6. GB-3 — no null structure constitutes information
+
+Claim:
+
+```text
+No null structure constitutes information by itself.
+```
+
+Projection path:
+
+```text
+information = ordering + influence + flow
+
+null structure:
+  ordering + influence + adjacency;
+  flow → 0
+
+therefore:
+  null structure carries influence-structure / transit structure,
+  not constituted information.
+```
+
+Failure condition:
+
+```text
+a horizon null generator, gravitational-wave null ray, or photon-in-flight
+constitutes a consequential result with no flow-bearing uptake anywhere in the loop.
+```
+
+Clarification:
+
+```text
+A null signal can perturb a flow-bearing receiver.
+Constitution occurs at the receiver / uptake chain, not in the null transit itself.
+```
+
+---
+
+## 7. Weyl two-face structure at the ordering-collapse corner
+
+The Weyl tensor has two projected faces relative to a timelike `u`:
+
+```text
+electric Weyl:
+  tidal / time-space face;
+  projected along timelike u
+
+magnetic Weyl:
+  areal / space-space face;
+  transverse / rotational structure
+```
+
+Role reading:
+
+```text
+electric face:
+  ordering-collapse / directed collapse alignment candidate
+
+magnetic / areal face:
+  adjacency / transverse wall structure candidate
+```
+
+Regime split:
+
+```text
+monotonic approach:
+  collapse direction supplies a single timelike u;
+  ordering-collapse and electric-Weyl alignment can be forced in the generic case.
+
+generic oscillatory approach:
+  collapse direction rotates / Kasner axes permute;
+  alignment is dynamic, not fixed.
+
+termination:
+  cone continuation and the u needed for Weyl projection terminate together.
+```
+
+Scope guard:
+
+```text
+Weyl decomposition is curvature-sector only.
+It sharpens the rotational closure-failure face near ordering-collapse.
+It does not exhaust affine non-integrability or settle torsion.
+```
+
+---
+
+## 8. Scope and perimeter
+
+A2 does not derive:
+
+```text
+p^μ = m u^μ;
+T_μν;
+Einstein field equation;
+G_N;
+metric signature/count;
+full torsion-free condition;
+non-abelian influence;
+entropy measures;
+QG completion.
+```
+
+A2 may use calibrated or imported scalars if the role route is explicit:
+
+```text
+Calibration is not failure.
+Fitting is failure.
+
+A scalar may be observed.
+A structure must be earned.
+```
+
+Therefore:
+
+```text
+role-decomposition:
+  framework-owned if cleanly composed
+
+mass-shell / metric norm:
+  consequence of licensed SR/GR imports
+
+couplings / coefficients:
+  imported or calibrated
+
+unearned new structure:
+  disallowed
+```
+
+---
+
+## 9. Open items
+
+```text
+1. Does the singularity destroy ordering or transform it into influence?
+
+2. Is there an ordering/influence conversion scale analogous in role-form to c?
+   Not in evidence.
+
+3. Can torsion-free be forced by role-reason?
+   If not, spin / torsion remains a structural-bet candidate.
+
+4. Does the Weyl-electric generic signature provide a useful falsifier for GB-2?
+   Scoped to generic, not conformally flat, collapse.
+
+5. Can the entropy reading of de-oriented adjacency-spread be stated only under mixedness,
+   without confusing de-oriented with disordered?
+```
+
+---
+
+## 10. EB-1 — photon at rest / box at rest
+
+Forced chain:
+
+```text
+1. A single photon is massless and has no rest frame.
+2. Asking for a photon at rest fails at the part.
+3. The question becomes answerable only at an aggregate: a photon box.
+4. In the box rest frame, individual spatial momenta cancel in the net.
+5. Net p = 0, total E nonzero.
+6. By the imported mass-shell, the box has rest mass.
+```
+
+Role reading:
+
+```text
+single photon:
+  no flow-face / no rest frame
+
+photon aggregate:
+  net adjacency orientation cancels;
+  total energy lands on the flow/rest face;
+  rest frame exists at aggregate level
+```
+
+Grade:
+
+```text
+round-trip to GR;
+illustration / consistency;
+no confirmatory weight.
+```
+
+---
+
+## 11. EB-2 — de-oriented interior and entropy
+
+Given the photon box:
+
+```text
+photon parts:
+  nonzero individual momenta;
+  zero rest mass
+
+resting box:
+  total spatial momentum zero
+
+therefore:
+  individual momenta survive but cancel in the net
+
+remainder:
+  nonzero, net-directionless adjacency-spread
+```
+
+The forced core is:
+
+```text
+de-oriented adjacency-spread
+```
+
+The entropy identification is scoped:
+
+```text
+entropy measures mixedness / multiplicity of that spread when the state is mixed.
+```
+
+A pure photon pair may have de-oriented spread while `S_vN = 0`. Therefore:
+
+```text
+de-oriented ≠ disordered
+```
+
+and:
+
+```text
+remainder forced;
+entropic measure mixedness-mediated and imported.
+```
+
+---
+
+## 12. Compact result
+
+```text
+Shared core:
+  ordering + influence
+
+Information:
+  ordering + influence + flow
+
+Gravity:
+  ordering + influence + energy-momentum
+
+Massive-sector decomposition:
+  energy-momentum = flow-face + adjacency-face
+
+Therefore:
+  gravity differs from information by the adjacency / energy-momentum sector
+  in the massive torsion-free GR-owned sector.
+
+Null limit:
+  flow → 0;
+  energy adjacency-borne;
+  transit not constitution.
+
+Torsion debt:
+  translational closure-failure cell remains open unless forced empty.
+
+Calibration rule:
+  scalars may be observed or externally supplied;
+  fitted structure is not derivation.
+```
