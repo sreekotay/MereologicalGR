@@ -1,76 +1,146 @@
-# What Could "Cause Without Time" Mean? — A Mereological Decomposition from the Photon
+# What Could "Cause Without Time" Mean? — The Photon Run of MGR
 
 *Sree Kotay — working draft, June 2026.*
 
-*Companion documents: `gravity-information-adjacency.md` (the four-momentum application) and `record-vs-constitution.md` (working derivations); see §1.5 for how refinements propagate between them.*
+*Foundation document: `A0-Mereological-Foundations-for-General-Relativity.md` states the GR-held-fixed stance, photon seed, role grammar, ledger discipline, rendering/uptake seam, and foundation-form PB bets. Companion documents: `a2-gravity-information-adjacency.md` applies the grammar to four-momentum and gravity; `a3-record-vs-constitution.md` develops write-act and record/constitution derivations; the B-notes hold focused refinements and perimeter audits.*
 
 ## Abstract
 
-General relativity (GR) is held fixed as ground truth throughout: nothing here modifies, extends, or quantizes GR. The paper instead addresses a class of questions on which GR's mathematics is silent — mereological questions: what composes cause, time, information, space, and gravity-as-structure. The method begins at a degenerate corner GR itself exhibits. Along a null ray dτ = 0, yet cone-direction and interventional effect remain intact: the photon is causal with no proper time, so whatever cause is, temporal flow is not a constituent of it. Read at this corner, cause unfuses into three unitless roles — ordering (invariant cone-direction), influence (effect-substrate, later floored as consequence-capable phase-bearing relatedness — past force/transfer at AB, the non-abelian generalization its open hinge), and flow (proper-time accrual along a timelike worldline) — two exhibited, one stripped. The paper's single wager is to treat these roles as composable constituents and to project, under GR held fixed, what must then be true. Every step is graded: forced (exactly one reading survives) or a bet (a projection into a GR-silence, carrying a stated failure condition). Principal results: a record/constitution distinction under which information is frame-relative in the same sense as proper time and particle content (rendering witnessed at Unruh as a seam-crossing recognition, discounted by lineage; full observer-free constitution an open bet, its fails-if stated); compositions for time, space, and the invariant speed (c as adjacency-per-flow, the shared ordering-spine cancelling); de-conflations of standard puzzle-narrations (tunneling "superluminality," delayed-choice "retrocausation") with every standard number left standing; and four priced bets (PB-1–PB-4), each with its falsifier stated. Failed checks and downgrades are retained in a corrections log. Uniform success would be the failure signal.
+A0 states the MGR foundation. A1 is the first extended run of that foundation. It begins from the photon under GR: null propagation strips proper-time flow while preserving ordering and influence. That seed gives the cause-without-time decomposition — `cause = ordering + influence`, while `time = ordering + flow` — and launches the downstream projections. A1 then tracks what the photon seed forces, what it merely suggests, where the projections land, how PB-1 through PB-4 are cashed or left open, and which checks fail, demote, or correct the framework.
 
-## Conceit
+The point of A1 is not to re-state the full foundation grammar. It is the photon seed's career under the A0 ledger: the detailed component run, the corner analyses, the contact analyses, the PB cashing/status history, the standing calibration notes, and the corrections log. Failed checks and downgrades are retained because a framework that cannot lose is not making claims.
 
-The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. (Influence, met first as effect-substrate, is later floored as consequence-capable phase-bearing relatedness — §2.) The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Retrodiction is therefore not disqualifying by itself: the judgment rests on whether the derivation lineage is distinct from the later landing.
+**Keystone.** GR/SR is held fixed as substrate. A0 owns the method and foundation definitions. A1 inherits that foundation and applies it. Claims here are local to the photon run unless promoted back into A0.
+
+---
 
 ## 1. Introduction
 
-### 1.1 The question, and GR held fixed
+### 1.1 What this document does
 
-GR is mathematically correct and its predictive compression is rightly heralded. But GR is silent on certain mereological questions, and the photon in particular is both elegant and vexing: it traverses, orders, and acts, while accruing no proper time at all. The standard response is to treat this as a curiosity of the null limit. This paper treats it instead as data — an exhibited fused composition, decomposed and performed by GR's own mathematics, of a notion (cause) that the theory uses but never anatomizes.
+A0 owns the foundation grammar. A1 runs it.
 
-The framework therefore takes the mathematics and predictive compression of GR as correct a priori, and attempts to rigorously project into the questions on which it is silent: what composes cause, time, information, space, gravity-as-structure? The stance is following GR further, not refuting it. GR is sound; where it is silent or bundles roles into one object (metric, source), that is read as a mereological gap — a role not yet separated — not a foundational gap. The default on a GR silence or bundle is to separate the role, never to supply missing physics. The working expectation is that GR's regularities (e.g. a bound like c on a role-exchange) extend to separated roles.
+The photon seed is stated in A0 because it motivates the whole defusion: under GR held fixed, null propagation has `dτ = 0` while ordering and effect-capacity remain. A1 keeps the full analysis of that seed and follows its downstream consequences.
 
-“Cause without time” is the philosophical elision of the physics underneath: phase-bearing influence without proper-time flow, as exhibited by the photon.
+So the governing split is:
 
-### 1.2 Method
+```text
+A0:
+  foundation grammar + photon seed + foundation bets
 
-The method: from the photon under GR-fixed, unfuse exactly three unitless component-roles (no more, no fewer) — the two the corner exhibits and the one it strips. Treat those roles as composable constituents for real: this realism is the paper's declared wager, not a forced step. Then project what **must** be true under GR's mathematics if the roles compose — the compositions, the mandatory questions (e.g. the dual cell the photon's profile forces), and the bounds. The realism is paid for in falsifiable bets; the bets are the realism's price, and their failure conditions are stated where they are made.
+A1:
+  full photon run + downstream checks + PB status/cashing + corrections
+```
 
-The mereological instrument is completeness — compose / missing / extra — not taxonomy:
+A1 therefore does not try to re-legislate the full method. It uses the A0 ledger to ask what happens when the photon seed is treated as real enough to project.
 
-- **compose** — parts present.
-- **missing** — a part needed but absent.
-- **extra** — present but unaccounted.
+### 1.2 Local method: the photon run under A0
 
-A composition holds only with no missing and no extra — the parts determine the whole, nothing left free. Parts merely present is consistency, not composition.
+The local method is inherited from A0:
 
-**Forced** is the gate the method runs under: a move carries weight only if no alternative reading survives once GR is held fixed as ground-truth math — exactly one reading live. If two or more remain, the move is chosen, not forced (manufacture) — a move declined under this methodology. The compose / missing / extra checks test whether a decomposition is complete; forced tests whether the step was necessary. Completeness can pass and still be taxonomy — only forced makes it carry weight.
+```text
+compose / missing / extra
+forced / chosen / imported / parked
+definition / seed / witness / probe / clarifier / failed floor / parked texture
+```
 
-Import and proscription run under the same gate. Import is licensed by forced-from-ground + completeness, never by being GR-native (a non-GR thing imports if it derives forced from GR + method ground and enters complete; only the unforced is excluded). A presumed proscription — reading a GR-silence as a prohibition — discharges as a bet, not a fact. Outside-GR is not disqualifying; bare exclusion is not a move.
+The photon run begins from one GR-native corner:
 
-The method and measures (compose / missing / extra) are tools for reducing epistemic incompleteness, not a claim that any decomposition here is complete or its parts irreducible.
+```text
+null propagation:
+  dτ = 0
 
-### 1.3 Claims and non-claims
+yet:
+  cone-direction remains;
+  causal ordering remains;
+  the photon can constrain later physical states.
+```
 
-What the paper claims: a set of role-separations read off GR's own corners; compositions built from them (time, space, c) graded individually; contact-grade readings of standard phenomena in which every standard number is left standing and only the narration changes; and four bets — projections into GR-silences — each priced with a falsifier. What it does not claim: no new dynamics (the field equations and couplings are imported or out by kind); no derivation of magnitudes as GR is scale-free (dimensional counts are presently open, couplings are out by kind); no substance-ontology (the components are roles, not stuff — §2); and no adjudication among interpretations of quantum mechanics beyond the specific role-content checked. Where the framework's reading merely re-describes, the re-description is labeled as carrying no weight (§1.5).
+A1's full body works out the consequence:
+
+```text
+ordering remains
+influence remains
+flow is stripped
+
+therefore:
+  cause = ordering + influence
+  time = ordering + flow
+```
+
+This local carve yields exactly three derived roles — ordering, influence, and flow — because those are the roles the photon corner exhibits or strips. Adjacency is added differently: imported whole from GR's metric as flow's spatial peer. Relatedness is the substrate presupposed by the roles. Energy-momentum is the dimensionful primitive imported from SR/GR as-is.
+
+Import and proscription follow A0's rule. An imported structure may be used if its status is explicit; it is not thereby derived by MGR. A presumed proscription — reading a GR silence as “therefore impossible” — is not a fact. It discharges as a bet or a perimeter claim.
+
+### 1.3 Claims and non-claims in this run
+
+A1 claims:
+
+```text
+the photon seed exhibits cause without proper-time flow;
+the component roster can be run from that seed;
+the compositions can be tested for missing/extra remainder;
+standard phenomena can be sorted as witnesses, probes, clarifiers, failures, or parked texture;
+PB-1 through PB-4 can be cashed, sharpened, or left open in application.
+```
+
+A1 does not claim:
+
+```text
+new dynamics;
+new field equations;
+a derivation of couplings or numerical constants;
+a replacement for GR, SR, or QFT;
+a complete influence floor;
+a settled quantum-measurement interpretation.
+```
+
+Where the framework only re-narrates a standard result while leaving every number intact, the result is marked as clarifier or echo, not confirmation.
 
 ### 1.4 Relation to existing work
 
-Individuation by role is fundamental physics' default mode, not an exotic posture: GR ontologizes gravity as laying-out structure rather than substance; Wigner's classification individuates particles as representation-profiles; gauge fields enter as connection coefficients, individuated by how they transform and couple. The mathematics has no further slot for what anything is beyond its role-profile. What is distinctive here is the procedure — individuation by corner-degeneration (what survives when GR's own math strips a constituent to zero) rather than by invariance — and the grading discipline attached to it. Adjacent programs are noted rather than adjudicated: relational quantum mechanics and the thermal-time program operate at the same constitution and flow seams (a consistency run against Frauchiger–Renner-type pressure is run in the working document — passed, on pre-FR commitments; promotion pending its gate); the quantum-Darwinism criteria literature is the live testing ground for the record/constitution boundary (reduced and tracked in the working document). Where the framework's readings collide with named formalisms, the collisions are run as checks and logged, in both directions.
+The local posture is role-individuation. GR already treats gravity as structure rather than substance; Wigner-style particle classification individuates by representation profile; gauge fields are connection-like structures individuated by transformation and coupling behavior. A1's distinctive move is not role-individuation itself. It is corner-degeneration: read what survives when GR's own mathematics strips a role to zero, then run the resulting composition under the A0 ledger.
 
-### 1.5 Epistemic grading (labels — applied per claim, not per object)
+Adjacent programs — relational quantum mechanics, thermal-time approaches, quantum Darwinism, quantum-reference-frame work, and the island/QES literature — are not adjudicated here. They enter only where the photon-run projections land on them under a stated grade.
 
-- **definition** — a stipulation or composition (a carve). Judged by carve-quality, not truth; carries **no** confirmatory weight - that work follows. Most of the framework's construction is definitions (the compositions, the roles, the perimeter).
-- **label** — inert re-description of one thing in the framework's vocabulary. No weight; rare.
-- **exhibit (seed)** — the datum at a projection's launch site: the corner a carve was read off. Zero collision-room at the site itself (the carve fits it by construction), so it can hold no confirmatory weight; its value is exhibition — the decomposition shown — and what it forces downstream. The photon corner is the framework's exhibit; the weight is carried by the independent landings (QE onward).
-- **witness** — phenomenon run through compose/missing/extra; could have failed mereologically, didn't (or failed correctly). Carries confirmatory weight.
-- **probe** — interior/non-extremal reading that **bounds** a term without reaching its boundary. Carries bounding weight only.
-- **echo** — independent structure our reading maps onto; **silent** (permits, doesn't force). Carries **no** weight; consistent-with, not evidence.
-- **clarifier** — a contact-grade verdict: the framework's reading re-describes or de-conflates a known result correctly, predicting no new number (the numbers are owned by the standard formalism). Confirms consistency, carries no predictive weight. Distinct from echo (a clarifier is the framework's own reading checked against a phenomenon; an echo is an independent structure that happens to permit the reading).
-- **failed floor** — attempted reduction that didn't deliver; logged as negative.
-- **parked texture** — not precluded, not suggested; demoted from evidence, live to revisit; do-not-hunt where hunting is the fitting trap.
+### 1.5 How to read grades here
 
-**Discipline**: only witness confirms; i.e. probe bounds; echo / failed-floor / parked carry no confirmatory weight and may **not** be cited as support. This attempts to keep broad exploration from collapsing into "everything confirms me." An object can hold different labels in different contexts (neutrino = witness mereologically, probe on the s-axis).
+The full label system is A0's. A1 uses it in application.
 
-**Landing-site rule** (the discipline's general form): every check tests a projection — seed + imports + derivation steps — never the bare seed; what a pass confirms is graded by where the projection *lands*, not where it launches. (i) Landing = launch site (the output restates the seed in another register): zero collision-room; a pass verifies the translation and nothing more — exhibit-grade ("the seed cannot witness itself" is this endpoint). (ii) Independent landing, already resolved when the projection was forced: witness-by-retrodiction — chronology does not disqualify (Mercury's perihelion is the canonical license); the weight is gated by the use/lineage audit (the confirmer must not have been an input to the construction). (iii) Independent landing, unresolved: a bet — the later check produces the witness. The grade-assignments encode this: bets are reserved for live exposure; resolved independent landings enter as witnesses with lineage doing the anti-tuning work; launch sites hold neither. (Three distinct zero-weight failure modes follow, and they must not be conflated: tautology — could not have been false, a failure of *form*; retrofit — tuned to fit the confirmer, a failure of *use*; identity-landing — the premise offered back as its own evidence, a failure of *independence*. Retrodiction is none of these: known-early is not used-in-construction.)
+Working subset:
 
-**Status-scope**: this doc asserts only what its own derivations establish; its status lines (open / owed / parked) are relative to that basis. Refinements derived in the working doc (record-vs-constitution.md) supersede them only on promotion, after a cold read in a later session; until then, the working doc holds the set's current state of those items, and this doc's statuses are correct at their own level, not stale.
+```text
+definition:
+  a carve or composition; zero confirmatory weight
 
-Descriptive move-names (excavation, reflection, quant-composition) name **how** a move was made or its shape; they are not weight-classes and never substitute for an epistemic slot. Every claim carries a slot from the list above (definition / label / witness / probe / echo / failed-floor / parked) regardless of how it was reached. A composition — including a quant-composition — is a definition (zero confirmatory weight).
+seed / exhibit:
+  launch-site carve; shows the decomposition but cannot confirm itself
 
-### 1.6 Structure of the paper
+witness:
+  a could-have-failed projection lands cleanly
 
-§2 names the components (three derived roles, one imported role, a substrate, one dimensionful primitive); §3 builds and bounds the compositions (time, space, c); §4 states the write-act — the constitution mechanism, its strict scope, and its located result; §5 sorts the imports and the perimeter. §6 runs the corner analyses — photon, quantum entanglement (QE), neutrino, event horizon, singularity — the photon as the seed/exhibit, the others as witnesses or probes. §7–10 develop influence/information and place the surrounding phenomena (the verdict table, the propagator, the GR/QT boundary). §11 runs the contact analyses (decoherence, the quantum eraser, Aharonov–Bohm, Unruh, quantum Zeno, Casimir, radiation reaction, tunneling, photoemission delay, CPT). §12 collects what is open and what is parked. The closing sections (§13–18) state the status and method, the lineage (one seed, unfolding), the four priced bets with their falsifiers (Predictions), the standing calibration notes, and the corrections log — the record of what fired, failed, or was downgraded, retained because a framework that cannot lose is not making claims. §19 states the conclusion; §20 collects the references as cited in the body.
+probe:
+  bounds an interior term without sealing the boundary
+
+clarifier:
+  re-describes or de-conflates a standard result; no new number
+
+failed floor:
+  attempted reduction did not deliver
+
+parked texture:
+  live, but not evidence; do-not-hunt where fitting risk is high
+```
+
+The landing-site rule is decisive for A1: the photon seed cannot witness itself. Weight, if any, comes from downstream landings where the projection had collision-room. Retrodiction is not disqualifying by chronology alone; the use/lineage audit decides whether the known result was an input or an independent landing.
+
+Status lines in A1 are local to this photon run. Later A3 or B-note refinements supersede A1 only when promoted back through a cold-read/ledger pass.
+
+### 1.6 Structure of the run
+
+§2 keeps the component discussion as applied to the photon lineage. §3 develops the compositions. §4 states the write-act mechanism and locus. §5 sorts imports and perimeter. §6 runs the corner analyses: photon, QE, neutrino, horizon, singularity, and related transitions. §7–§10 develop influence/information and the GR/QT boundary. §11 runs contact analyses. §12 collects open and parked items. §13–§18 state status, method notes, lineage, PB cashing, standing calibration notes, and corrections. §19 concludes. §20 lists references.
+
+The corrections log is part of the result: it records what fired, failed, or was downgraded under the same ledger that generated the claims.
 
 ---
 
