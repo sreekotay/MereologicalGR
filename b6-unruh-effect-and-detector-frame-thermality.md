@@ -1,7 +1,7 @@
 # B6 — Unruh Effect and Detector-Frame Thermality
 
 Status: working contact / detector-response note.  
-Grade: detector-response witness for the record/constitution split; quantitative uptake-temperature routing; bridge clarifier for B3/B4 horizon thermality; magnitude QFT-priced and framework-disowned.
+Grade: detector-response witness for the record/constitution split; pure-framework derivation ladder added; quantitative uptake-temperature routing; bridge clarifier for B3/B4 horizon thermality; coefficient / exact thermality QFT-priced and framework-disowned.
 
 This note tests a clean flat-spacetime case where thermality is not a globally intrinsic particle inventory. The Unruh effect says that an accelerated detector coupled to the Minkowski vacuum responds thermally with temperature
 
@@ -9,7 +9,9 @@ This note tests a clean flat-spacetime case where thermality is not a globally i
 T_U = ℏ a / (2π c k_B)
 ```
 
-The framework-owned question is not whether it can derive the coefficient. It cannot and should not. The coefficient is QFT-owned. The framework-owned question is the role assignment:
+The framework-owned question is not whether it can derive the full coefficient. It cannot and should not. The coefficient is QFT-owned. But the framework can run farther than role-labeling: it can force the constitution site, force trajectory-dependence, select acceleration as the relevant classical input, and derive the dimensional temperature scale up to a dimensionless coefficient once quantum / thermal units are licensed.
+
+The role question is:
 
 ```text
 field state alone
@@ -109,9 +111,10 @@ acceleration / Rindler horizon relation / detector flow
 Externally owned:
 
 ```text
-Unruh coefficient
-field quantization
+2π coefficient
+field quantization details
 Rindler mode decomposition
+KMS / Planckian thermality
 Unruh-DeWitt detector response function
 ```
 
@@ -129,7 +132,144 @@ Compact:
 Unruh = acceleration-priced uptake thermality.
 ```
 
-## 4. Record versus constitution
+## 4. Pure-framework derivation ladder
+
+The framework can run in layers. The point is to separate what is forced by role-composition from what is externally priced.
+
+### 4.1 Forced: constitution site
+
+A constituted thermal record requires a flow-bearing recorder.
+
+```text
+thermal record:
+  ordered response statistics
+  taken up by a system with proper time
+  physically consequential as detector transition / click / excitation
+```
+
+The field state can be structured. It can contain correlations. It can be restricted to an algebra or wedge. But the constituted detector record requires uptake.
+
+Therefore:
+
+```text
+field state alone:
+  not sufficient for constituted detector-temperature record
+
+detector uptake:
+  required constitution site
+```
+
+This is framework-forced, not QFT-priced.
+
+### 4.2 Forced: trajectory-dependence
+
+An inertial detector and an accelerated detector are different sampling operations over the same field state.
+
+```text
+same field state
++
+different detector worldline
+→ different possible constituted response record
+```
+
+Therefore any detector-temperature record belongs to:
+
+```text
+field state + detector worldline + coupling + detector flow
+```
+
+not to:
+
+```text
+field state alone
+```
+
+This is the record/constitution result in its cleanest form.
+
+### 4.3 Strong structural derivation: acceleration as the classical input
+
+In flat spacetime with uniform acceleration, there is no curvature scalar, no gravitational mass source, no horizon area term, and no global thermal bath in the inertial description.
+
+The accelerated detector introduces one invariant classical scale:
+
+```text
+proper acceleration magnitude:
+  a
+```
+
+So, before QFT pricing, the framework can derive the input selection:
+
+```text
+if a detector-frame thermal scale appears in this flat-spacetime setup,
+its classical trajectory input must be acceleration.
+```
+
+Not position. Not velocity. Not mass density. Not horizon area. The non-geodesic sampling burden is acceleration-priced.
+
+### 4.4 Dimensional bridge: temperature scale up to a coefficient
+
+Once the response is treated as quantum and thermal, dimensional closure gives the scale.
+
+```text
+a / c:
+  inverse time
+
+ℏ a / c:
+  energy
+
+ℏ a / (c k_B):
+  temperature
+```
+
+Therefore the framework plus quantum/thermal dimensional bridge reaches:
+
+```text
+T = C · ℏa/(c k_B)
+```
+
+where `C` is dimensionless.
+
+This is not yet the Unruh law. It is the forced scale form once the target is a quantum thermal response.
+
+### 4.5 Externally priced: exact thermality and coefficient
+
+QFT supplies the remaining content:
+
+```text
+Planckian response
+KMS condition
+Bogoliubov/Rindler mode relation
+analytic periodicity
+Unruh-DeWitt response function
+C = 1/(2π)
+```
+
+Thus:
+
+```text
+Framework owns:
+  constitution site
+  trajectory-dependence
+  acceleration as relevant scalar
+  scale form up to dimensionless coefficient
+
+QFT owns:
+  exact thermal spectrum
+  detector response function
+  C = 1/(2π)
+```
+
+Compact derivation ladder:
+
+```text
+flow-bearing detector required
+→ trajectory matters
+→ uniform acceleration supplies only invariant classical scale a
+→ quantum/thermal dimensional closure gives T = C·ℏa/(c k_B)
+→ QFT prices C = 1/(2π)
+```
+
+## 5. Record versus constitution
 
 The record/constitution distinction from A3 applies directly.
 
@@ -173,7 +313,16 @@ particle / thermal content is not always intrinsic to field state alone;
 it can be a relation between field state, trajectory, and uptake.
 ```
 
-## 5. Horizon role
+Guardrail:
+
+```text
+Do not deny wedge/algebraic thermal structure.
+Do not deny vacuum correlations.
+Do not deny detector clicks.
+Only deny detector-independent constituted thermal record in the inertial vacuum.
+```
+
+## 6. Horizon role
 
 The Rindler horizon is an accessibility boundary for the accelerated observer.
 
@@ -198,7 +347,7 @@ constitution:
 
 So B6 reinforces the B3/B4 null-boundary rule without importing black-hole singularity or QES complications.
 
-## 6. Relation to Hawking radiation
+## 7. Relation to Hawking radiation
 
 Unruh is a local / detector-response cousin of Hawking thermality, not a full replacement for it.
 
@@ -236,7 +385,7 @@ Hawking thermality should not be read as "the horizon contains constituted infor
 Unruh already shows thermality can arise from field state + worldline + detector response.
 ```
 
-## 7. Relation to redshift
+## 8. Relation to redshift
 
 Unruh also parallels the redshift note.
 
@@ -262,36 +411,52 @@ what becomes physically consequential depends on the flow-bearing receiver / det
 
 This does not make the effect subjective in the weak sense. It makes it relational and operational.
 
-## 8. Prediction bundle
+## 9. Prediction bundle
 
-The framework should state the Unruh predictions as role assignments and number-routing, not as a new derivation.
+The framework should state the Unruh predictions as role assignments and number-routing, not as a new derivation of the full QFT result.
 
 ```text
-1. Acceleration-priced thermality:
-   a → T_U = ℏa/(2πck_B).
+1. Constitution site:
+   thermal detector record is constituted at detector uptake / transition statistics.
 
-2. The thermal number is a detector-response number,
+2. Trajectory dependence:
+   same field state plus different detector worldline can yield different constituted response.
+
+3. Acceleration-priced route:
+   uniform acceleration supplies the classical input scale.
+
+4. Dimensional scale:
+   T = C·ℏa/(c k_B) once the response is quantum and thermal.
+
+5. QFT pricing:
+   C = 1/(2π), with Planckian/KMS response.
+
+6. The thermal number is a detector-response number,
    not a detector-independent particle-substance number for the inertial vacuum.
 
-3. The constituted thermal record occurs in detector uptake / transition statistics.
-
-4. The Rindler horizon is an accessibility / ordering boundary,
+7. The Rindler horizon is an accessibility / ordering boundary,
    not a semantic container or constituted information site.
 
-5. Changing the observer trajectory changes the particle/thermal decomposition
+8. Changing the observer trajectory changes the particle/thermal decomposition
    without changing the global Minkowski vacuum state.
 
-6. Field structure and vacuum correlations may be record-capable,
+9. Field structure and vacuum correlations may be record-capable,
    but constituted thermal records require flow-bearing sampling.
 
-7. B6 supports B3/B4 by separating horizon/accessibility structure
-   from information constitution.
+10. B6 supports B3/B4 by separating horizon/accessibility structure
+    from information constitution.
 ```
 
-Compact null/positive form:
+Corrected null/positive form:
 
 ```text
-ε_field-intrinsic-thermal-record = 0
+ε_detector-independent-constituted-thermal-record = 0
+```
+
+Not:
+
+```text
+ε_wedge-thermal-structure = 0
 ```
 
 Positive number-producing form:
@@ -300,7 +465,7 @@ Positive number-producing form:
 accelerated detector worldline in → Unruh temperature / response spectrum out
 ```
 
-## 9. Could-have-failed
+## 10. Could-have-failed
 
 B6 would fail or weaken if:
 
@@ -323,22 +488,43 @@ there were a convention-free global particle inventory that both inertial and ac
 observers must share while still yielding the Unruh thermal response.
 ```
 
+The pure-framework derivation ladder would weaken if:
+
+```text
+some classical invariant other than proper acceleration were needed as the leading input
+in flat spacetime uniform acceleration;
+```
+
+or if:
+
+```text
+quantum/thermal dimensional closure failed to select ℏa/(c k_B) as the response scale.
+```
+
 B6 would also weaken if the framework used Unruh to deny the physicality of detector clicks. That would be wrong. The detector response is physical. The point is the location of constitution.
 
-## 10. Grade
+## 11. Grade
 
 ```text
 Field taxonomy:
   standard QFT-in-curved-spacetime / detector-response result
-  no framework discovery of magnitude
+  no framework discovery of exact magnitude
+
+Pure-framework reach:
+  strong for constitution site
+  strong for trajectory-dependence
+  strong for acceleration as classical input
+  moderate for dimensional scale once quantum/thermal bridge is licensed
+  not sufficient for exact thermality or 2π coefficient
 
 Internal audit:
   strong
   cleanly separates field state, trajectory, horizon/accessibility, and detector uptake
 
 Quantitative output:
-  strong as externally priced number-routing
+  strong as number-routing
   a → T_U
+  exact C = 1/(2π) externally priced
 
 Record/constitution relevance:
   strong
@@ -353,7 +539,7 @@ Collision-room:
   denying detector-response physicality would also break the note
 ```
 
-## 11. Compact result
+## 12. Compact result
 
 Unruh is the cleanest flat-spacetime test of detector-frame thermality.
 
@@ -378,10 +564,28 @@ thermality is not always an intrinsic particle inventory of the field alone.
 In the Unruh setup, thermality is constituted as detector response under accelerated sampling.
 ```
 
+Pure-framework ladder:
+
+```text
+flow-bearing detector required
+→ trajectory matters
+→ acceleration is the flat-spacetime non-inertial scale
+→ T = C·ℏa/(c k_B)
+→ QFT prices C = 1/(2π)
+```
+
 Framework-native slogan:
 
 ```text
 Unruh = acceleration-priced uptake thermality.
+```
+
+Sharper slogan:
+
+```text
+Unruh is where the framework forces the route,
+dimensional closure fixes the scale,
+and QFT prices the coefficient.
 ```
 
 ## References / external anchors
@@ -390,5 +594,6 @@ Unruh = acceleration-priced uptake thermality.
 - Unruh-DeWitt detector model and response functions.
 - Rindler coordinates, Rindler wedges, and observer-relative horizons.
 - Bogoliubov transformations between Minkowski and Rindler modes.
+- KMS condition, analytic periodicity, and Planckian detector response.
 - Hawking-Unruh relation and QFT in curved spacetime.
 - Detector-based operational treatments of particle content.
