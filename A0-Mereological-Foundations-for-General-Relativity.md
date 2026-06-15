@@ -621,12 +621,12 @@ A0 does not answer this. It names the seam.
 
 ---
 
-## 13. Import and perimeter rules
+## 13. Import, calibration, and perimeter rules
 
-MGR may use imported mathematics, but it must not relabel imports as derivations.
+MGR may use imported mathematics, calibrated scalars, and observed constants, but it must not relabel imports or fitted structures as derivations.
 
 ```text
-Imported:
+Imported machinery:
   field equations
   couplings
   standard QFT kernels
@@ -634,12 +634,37 @@ Imported:
   statistical-mechanical laws
   known spectra / coefficients
 
+Calibrated / observed scalars:
+  dimensionful constants
+  normalization factors
+  coupling strengths
+  detector gaps
+  threshold scales
+  empirically measured coefficients
+
 Framework-owned if earned:
   role-route
   composition
+  forced dependency
   forced scale-form
+  forced dimensionless factor
   missing/extra diagnosis
-  correct separation of rendering, uptake, and information
+  correct separation of rendering, frame-transport, uptake, and information
+```
+
+Calibration rule:
+
+```text
+Calibration is not failure.
+Fitting is failure.
+
+Allowed:
+  derive the slot / form / dependency first;
+  then calibrate the scalar by observation.
+
+Not allowed:
+  shop coefficients, forms, or dependencies until a phenomenon fits;
+  then call the fitted structure derived.
 ```
 
 Example pattern:
@@ -647,12 +672,17 @@ Example pattern:
 ```text
 framework may derive:
   compute temperature from pulled-back relatedness through flow
+  T has the form C · ℏa/(ck_B)
 
-standard formalism supplies:
-  exact kernel, coefficient, spectrum, response integral
+calibration or external theory may supply:
+  C
+  exact kernel
+  normalization
+  spectrum
+  response integral
 ```
 
-This split prevents both underclaim and overclaim.
+This split prevents both underclaim and overclaim. A scalar may be observed; a structure must be earned.
 
 ---
 
@@ -895,6 +925,7 @@ A0's job is to make claims legible:
 what kind of move is being made?
 what layer is being named?
 what is imported?
+what is calibrated?
 what is composed?
 what is merely rendered?
 what is taken up?
@@ -947,8 +978,9 @@ Discipline:
   compose / missing / extra
   forced vs chosen
   imported vs derived
+  calibrated vs fitted
   witness vs clarifier
   no new peer role without remainder pressure
 ```
 
-A0 is the foundation ledger. It does not prove MGR; it states how MGR proves, fails, narrows, imports, parks, or prices claims.
+A0 is the foundation ledger. It does not prove MGR; it states how MGR proves, fails, narrows, imports, calibrates, parks, or prices claims.
