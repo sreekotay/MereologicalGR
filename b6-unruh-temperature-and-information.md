@@ -3,8 +3,8 @@
 *Working draft, June 2026.*
 
 Status: B-note / temperature-role refinement.  
-Primary target: A1 Unruh/Rindler material, A3 redshift / consequential uptake, B4 Hawking discipline.  
-Boundary note: the scalar-response derivation chain now lives in B7. B6 keeps the temperature/information role distinction.
+Primary target: A1 Unruh/Rindler material, A3 redshift / consequential uptake, and B4 Hawking discipline.  
+Boundary note: B6 keeps the temperature/information role distinction. The scalar-response derivation is outside B6.
 
 Grade: role-reduction + calibration-aware machinery routing. Not a new QFT calculation.
 
@@ -26,17 +26,17 @@ possible information only at detector uptake/write.
 
 ---
 
-## 1. Updated ownership split after B7
+## 1. Updated ownership split
 
-B7 sharpens the old B6 split.
+The current scalar-response boundary is:
 
 ```text
-GR / Levi-Civita earns:
+GR / Levi-Civita can earn:
   scalar interval skeleton;
   accelerated pullback;
   imaginary proper-time period β_τ = 2πc/a.
 
-MGR earns:
+MGR can earn:
   frame-transport as an operation;
   retarded causal orientation;
   positive frequency as future-flow energy orientation;
@@ -102,7 +102,7 @@ phase-bearing relatedness
 → possible uptake / write
 ```
 
-B7 now owns the skeleton route:
+Skeleton route:
 
 ```text
 uniform acceleration
@@ -420,8 +420,8 @@ The Unruh case uses phase-bearing relatedness through field correlations and ana
 1. **Unruh remains PB-4a, not PB-4-full.**  
    It sharpens observer-free worldline / frame-transport rendering. It does not by itself prove constitution by frame-process.
 
-2. **B7 now owns the scalar-response skeleton.**  
-   B7 derives the scalar interval skeleton, accelerated pullback, and `2π` imaginary proper-time period at the skeleton level.
+2. **The scalar-response skeleton is outside B6.**  
+   B6 records the updated ownership split, but its own job is temperature/information role discipline.
 
 3. **QFT still owns the state/response machinery.**  
    Vacuum selection, Wightman sampling, KMS/detailed balance, and detector transition probabilities remain imported.
@@ -459,21 +459,14 @@ Unruh / scalar-response machine:
   → Wightman/KMS detector interpretation when quantum-state machinery is supplied
   → T_U = ℏ a/(2π c k_B)
 
-Framework / GR-owned after B7:
-  scalar interval skeleton;
-  accelerated pullback;
-  2π period;
-  positive-frequency orientation;
-  temperature as rendering / response scale.
+Temperature role:
+  flow-indexed response scale of accessible relatedness / mixedness
 
 Calibrated / externally supplied:
   constants, couplings, detector gaps, thresholds, apparatus rates.
 
 QFT-owned:
   state selection, Wightman sampling, KMS/detailed balance, detector rates.
-
-Temperature:
-  flow-indexed response scale of accessible relatedness / mixedness
 
 Information:
   ordered influence taken up in flow at application scale
@@ -486,4 +479,4 @@ Temperature is not information; it is the flow-indexed rendering scale by which
 accessible relatedness can become informationally consequential.
 ```
 
-Status: B6 is now downstream of B7 for scalar-response derivation, and primary for temperature/information role discipline.
+Status: B6 is primary for temperature/information role discipline, not scalar-response derivation.
