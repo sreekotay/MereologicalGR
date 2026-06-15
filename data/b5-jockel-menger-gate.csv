@@ -1,0 +1,4 @@
+row_id,source_lane,reported_delta_R_km,gate,action,reason,next_required_data
+JM-abstract-01,microphysical spin,,JM-G2-formal-hidden,keep as formal note,Intrinsic-spin lane is framework-clean but reported as observationally negligible.,parameter assumptions showing why realistic spin is negligible; useful as null/formal constraint
+JM-abstract-02,macroscopic angular momentum,-0.9,JM-G1-promote-extract-curves,extract figures/tables next,This row matches sign and magnitude but high-mass and BNS/tidal gates are still unknown.,rotation rate; mass; R_GR; R_torsion; Delta_R; central density; mass shift; EOS/polytrope; M>=2.08 check
+JM-abstract-03,general torsion,,JM-G3-sign-support,use as qualitative support,General torsion trend supports negative compactification but lacks source/magnitude rows.,source-separated numeric rows
