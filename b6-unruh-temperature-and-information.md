@@ -544,9 +544,74 @@ The exact coefficient and radiation spectrum remain QFT-in-curved-spacetime owne
 
 ---
 
-## 11. Edge cases and guardrails
+## 11. Experimental / diagnostic daylight
 
-### 11.1 Zero temperature
+The experimental daylight is not merely that detector response depends on acceleration or worldline. Standard Unruh machinery already says that. The framework-positive edge is narrower:
+
+```text
+not:
+  detector response depends on acceleration / worldline
+
+but:
+  response, temperature, and record separate operationally;
+  intrinsic-bath / invariant in-flight-particle / pre-constituted-record readings fail
+  where pullback, coupling, and uptake models succeed.
+```
+
+Diagnostic signals:
+
+```text
+1. Analogue systems, cavity-enhanced setups, circuit QED, circular-motion detectors,
+   and channeling experiments should continue to favor worldline / access / coupling-
+   dependent response models over readings that treat Unruh quanta as invariant
+   in-flight particles or pre-constituted records.
+
+2. Varying acceleration profile, detector coupling window, detector gap, switching
+   function, or multi-detector arrangement should change the response in ways
+   controlled by pullback / coupling / uptake, not by a detector-independent particle bath.
+
+3. The cleanest framework-positive result would separate pre-uptake correlation / KMS
+   structure from post-uptake record constitution.
+```
+
+Candidate platforms / stress cases:
+
+```text
+analogue Unruh platforms:
+  Bose-Einstein condensates
+  optical cavities
+  superconducting / circuit QED
+  moving-mirror analogues
+  circular-motion detector setups
+
+high-acceleration stress cases:
+  channeling experiments such as CERN NA63-style contexts
+```
+
+Status discipline:
+
+```text
+Analogue or channeling evidence is not a direct proof of PB-4-full.
+It is positive only if it helps keep the layers separated:
+  field/correlation/KMS structure before uptake;
+  temperature as response rendering;
+  constituted information only at record-bearing detector uptake.
+```
+
+So the positive daylight is:
+
+```text
+experiments support response-as-worldline-rendering
+while resisting intrinsic-bath or in-flight-particle interpretations.
+```
+
+That is still B6-grade: machinery-routing and role-reduction, not a new numerical prediction.
+
+---
+
+## 12. Edge cases and guardrails
+
+### 12.1 Zero temperature
 
 Temperature zero is not absence of influence. It is a boundary in response/distribution structure:
 
@@ -564,7 +629,7 @@ not no information;
 not no possible consequence.
 ```
 
-### 11.2 Negative temperature
+### 12.2 Negative temperature
 
 Negative temperature, where defined, is not colder than zero. It is an inverted population in a bounded spectrum.
 
@@ -577,7 +642,7 @@ not an absolute magnitude below zero.
 
 This belongs to temperature's rendering/response side, not to the basic composition of information.
 
-### 11.3 Local temperature vs global state
+### 12.3 Local temperature vs global state
 
 Unruh warns against treating temperature as a global one-place property. The same invariant state can yield different temperature renderings under different access/flow structures.
 
@@ -588,13 +653,13 @@ Do not ask whether the state simply has temperature.
 Ask: relative to which flow, access algebra, subsystem, detector, or congruence?
 ```
 
-### 11.4 No temperature without a clock parameter
+### 12.4 No temperature without a clock parameter
 
 Temperature requires a flow/evolution parameter in the machinery: proper time, Killing time, comoving time, modular flow, detector time, or an application equivalent.
 
 This does not mean temperature is subjective. It means temperature is indexed to the flow structure that defines response/equilibrium.
 
-### 11.5 Phase-bearing is not only U(1) phase
+### 12.5 Phase-bearing is not only U(1) phase
 
 The term `phase-bearing` is deliberately broader than abelian phase angle.
 
@@ -614,7 +679,7 @@ The Unruh case uses phase-bearing relatedness through field correlations and the
 
 ---
 
-## 12. What B6 updates in A1 §11.4
+## 13. What B6 updates in A1 §11.4
 
 Replace the parent Unruh summary with this sharper form:
 
@@ -633,11 +698,15 @@ temperature rendering → possible uptake/write.
 
 This strengthens PB-4a: rendering is worldline-set, observer-free. It does not
 confirm PB-4-full: Unruh still supplies rendering, not constitution-completion.
+
+Experimental daylight, if any, lies in separating pre-uptake correlation/KMS
+structure from post-uptake record constitution, not in rediscovering ordinary
+worldline-dependence.
 ```
 
 ---
 
-## 13. Findings
+## 14. Findings
 
 1. **Unruh remains PB-4a, not PB-4-full.**  
    It sharpens observer-free worldline rendering. It does not by itself prove constitution by frame-process.
@@ -657,9 +726,12 @@ confirm PB-4-full: Unruh still supplies rendering, not constitution-completion.
 6. **Hawking is a controlled contact.**  
    Hawking temperature belongs to the same horizon/access temperature-family, but B4 still blocks over-reading Hawking/Page/QES as sealing the information-loss bet.
 
+7. **Experimental daylight is anti-misread daylight.**  
+   The framework does not predict a new Unruh coefficient. It predicts where the layers should stay separated: correlation/KMS structure, response-temperature rendering, and detector-record constitution.
+
 ---
 
-## 14. Compact result
+## 15. Compact result
 
 ```text
 Relatedness:
