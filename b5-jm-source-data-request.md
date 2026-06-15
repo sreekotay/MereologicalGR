@@ -72,13 +72,46 @@ manual digitization using WebPlotDigitizer or equivalent
 
 ---
 
-## 3. Where to look first
+## 3. Where to get it
 
-1. arXiv source package.
+### 3.1 Primary source: EC-Solver repository
 
-The arXiv page exposes a TeX source link. The source package may include the figure PDFs/EPS files but may or may not include the underlying data. The arXiv page lists the paper and exposes both PDF and TeX Source links. The abstract reports the sign/magnitude result directly: smaller radii/masses, higher central densities, realistic microphysical spin negligible, and rotation-induced radius decrease up to about `900 m`.
+The paper source explicitly says:
 
-2. Physical Review D article page / supplementary materials.
+```text
+Our version of the code – including the data used to make all figures – can be found online here \cite{Jockel-Menger2024}.
+```
+
+The bibliography entry resolves that citation to:
+
+```text
+EC-Solver
+https://github.com/xcex/EC-Solver/tree/Jockel2024
+```
+
+So the first source-data target is:
+
+```text
+GitHub repo:
+  xcex/EC-Solver
+
+branch:
+  Jockel2024
+```
+
+Expected payload:
+
+```text
+code used for the paper;
+data used to make all figures;
+possibly Fig. 4 curve arrays, plotting scripts, or generated table files.
+```
+
+### 3.2 arXiv source package
+
+The arXiv source package contains the TeX files and figure PDFs. It does **not** necessarily contain the underlying curve data, but it does contain the citation pointing to the EC-Solver repository/branch.
+
+### 3.3 Physical Review D page / supplementary materials
 
 The paper was published as:
 
@@ -88,9 +121,9 @@ Phys. Rev. D 110, 104022
 
 Check whether PRD provides supplemental material or a data availability statement.
 
-3. Author request.
+### 3.4 Author request
 
-If no data/code is attached, email the authors asking specifically for Fig. 4 numerical data or plotting scripts.
+If the EC-Solver branch lacks clear figure CSVs or plotting scripts, email the authors asking specifically for Fig. 4 numerical data or plotting scripts.
 
 ---
 
@@ -110,7 +143,11 @@ Dear Dr. Jockel and Dr. Menger,
 I am studying the observational implications of torsion-induced corrections to neutron-star structure and am using your paper,
 "Effect of Torsion on Neutron Star Structure in Einstein-Cartan Gravity" (Phys. Rev. D 110, 104022; arXiv:2406.05851), as a key reference.
 
-Would you be willing to share the numerical data or plotting script behind Fig. 4, especially the mass-radius curves for the DD2 and APR EOS with rotation-induced torsion at the different rotation rates?
+I found the paper's EC-Solver reference:
+
+  https://github.com/xcex/EC-Solver/tree/Jockel2024
+
+Would you be willing to confirm whether this branch contains the numerical data or plotting script behind Fig. 4, especially the mass-radius curves for the DD2 and APR EOS with rotation-induced torsion at the different rotation rates?
 
 The columns most useful for my comparison would be:
 
@@ -187,8 +224,31 @@ sign/magnitude support only
 ## 7. Immediate action
 
 ```text
-Check arXiv source.
-Check PRD supplementary material / data availability.
-If no source rows exist, send the author email.
-If no reply, digitize Fig. 4 manually.
+Clone/check:
+  https://github.com/xcex/EC-Solver/tree/Jockel2024
+
+Search for:
+  Figure4
+  fig4
+  mass-radius
+  DD2
+  APR
+  rotation
+  f=100
+  f=300
+  omega
+  kep
+
+If figure data exist:
+  copy rows into data/b5-jm-figure4-digitization-template.csv
+  or create data/b5-jm-figure4-source.csv
+
+If only plotting code exists:
+  run/inspect plotting script and extract arrays.
+
+If no source rows exist:
+  send the author email.
+
+If no reply:
+  digitize Fig. 4 manually.
 ```
