@@ -3,8 +3,8 @@
 *Sree Kotay — working draft, June 2026.*
 
 Status: theoretical root / method document.  
-Scope: foundations, grammar, components, composition discipline, and ledger rules for MGR.  
-Out of scope: witness catalog, phenomenon runs, prediction bundles, numerical derivations, and evidentiary claims.
+Scope: foundations, grammar, components, composition discipline, ledger rules, and foundation-form PB bets for MGR.  
+Out of scope: witness catalog, phenomenon runs, PB evidence/status accounting, numerical derivations, and evidentiary claims.
 
 Companion documents:
 
@@ -22,7 +22,7 @@ B-notes
   focused refinements / corrections / perimeter audits
 ```
 
-A0 states the theory's grammar. It does not try to earn the theory's empirical weight. That work belongs in A1/A2/A3 and the B-notes.
+A0 states the theory's grammar and the bets that follow from that grammar. It does not try to earn the theory's empirical weight. That work belongs in A1/A2/A3 and the B-notes.
 
 ---
 
@@ -51,7 +51,8 @@ A0 therefore provides:
 4. the epistemic grading ledger;
 5. the current component roster;
 6. the composition grammar;
-7. the current open seam around rendering, uptake, and information.
+7. the current open seam around rendering, uptake, and information;
+8. the foundation-form PB bets implied by role-realism.
 ```
 
 A0 carries no witness weight. It is the map and method by which later claims are formed, graded, narrowed, or rejected.
@@ -617,13 +618,182 @@ Promote nothing to peer-role unless compose / missing / extra forces it.
 
 ---
 
-## 14. What A0 does not do
+## 14. Foundation bets (PB)
+
+A0 states the PB bets in their foundation form because they flow from the GR-fixed role grammar plus role-realism. A0 does **not** cash them, grade their current evidence, or run their witness/contact history.
+
+The bets are not optional add-ons. They are the price of treating the unfused roles as real rather than as labels.
+
+```text
+role-realism:
+  the roles are composable constituents, not only names for equation-parts
+
+therefore:
+  projections into GR-silences become exposed claims
+```
+
+The PB bets are material because each converts a GR silence into a proscriptive or modal claim.
+
+### PB-1 — an ordering-axis bound exists
+
+Foundation form:
+
+```text
+The ordering/influence axis exposed by the decomposition carries a bound,
+as the flow/adjacency axis carries c.
+```
+
+What PB-1 names:
+
+```text
+the existence of a bounded seam-axis
+```
+
+Not claimed here:
+
+```text
+that the bound is numerically known;
+that the bound is invariant;
+that any particular phenomenon has already witnessed it.
+```
+
+Could fail if:
+
+```text
+the exposed ordering/influence axis has no bound,
+or role-structure is non-uniform exactly where the decomposition exposes it.
+```
+
+### PB-2 — the bound's interior is influence per ordering-resource
+
+Foundation form:
+
+```text
+The PB-1 bound is a ratio of influence-expression per ordering-resource.
+```
+
+What PB-2 does:
+
+```text
+PB-1 names the axis;
+PB-2 opens its interior:
+  what the ratio is of,
+  what its units mean,
+  how bound and realized value can separate.
+```
+
+Not claimed here:
+
+```text
+a single scalar value for all systems;
+a universal blending operation;
+that interior realizations are invariant.
+```
+
+Could fail if:
+
+```text
+the ratio is not per-ordering;
+it is instead per-space / per-adjacency;
+or it cannot decompose into bound vs realized value.
+```
+
+### PB-3 — photons do not carry information
+
+Foundation form:
+
+```text
+information = ordering + influence + flow
+
+photon in flight:
+  ordering + influence + adjacency
+  flow → 0
+
+therefore:
+  photons carry ordered influence-structure,
+  not constituted information.
+```
+
+This is not a subtraction of usefulness. It is a proscriptive composition claim: if flow is a constituent of information, then a flowless bearer cannot itself constitute information.
+
+What PB-3 requires:
+
+```text
+flow-bearing uptake is required for information constitution.
+```
+
+Could fail if:
+
+```text
+a completed information-grade operation occurs with no flow-bearing uptake
+anywhere in its constitution chain.
+```
+
+The later verification of such an operation may use ordinary detectors. That does not rescue the bet; the relevant chain is the operation's own constitution chain.
+
+### PB-4 — information is constituted by frame-process, not observer
+
+Foundation form:
+
+```text
+information is constituted when ordered influence is taken up in flow
+at application consequence scale.
+```
+
+The bet is not that observers are absent from the world. The bet is that observerhood is not a constitutive ingredient.
+
+Split:
+
+```text
+PB-4a rendering:
+  given content/state, rendering is frame/worldline-set, not observer-set
+
+PB-4-full constitution:
+  the constitution event supervenes on the physical write-chain,
+  not on observer-involvement as an extra factor
+```
+
+What PB-4 requires:
+
+```text
+write, not read;
+physical uptake-chain, not observer-act;
+application threshold supplied by the record-bearing system.
+```
+
+Could fail if:
+
+```text
+constitution facts covary with observer-involvement
+at fixed physical write-chain;
+
+or:
+
+constitution facts ignore the committed physical threshold
+while tracking observer-access instead.
+```
+
+### PB scope rule
+
+```text
+PB-1 / PB-2:
+  architecture bets about the exposed ordering/influence axis
+
+PB-3 / PB-4:
+  information-composition bets about flow-bearing uptake and constitution
+```
+
+Gravity has no PB here. Its structure composes in the grammar; the coupling law is imported/out-by-kind.
+
+---
+
+## 15. What A0 does not do
 
 A0 does not:
 
 ```text
 run witnesses;
-state PB-1 through PB-4;
+cash PB-1 through PB-4;
 argue from specific phenomena;
 claim experimental confirmation;
 derive numerical constants;
@@ -647,11 +817,12 @@ what is composed?
 what is merely rendered?
 what is taken up?
 what would count as missing or extra?
+what foundation bet is being priced or tested?
 ```
 
 ---
 
-## 15. Compact foundation
+## 16. Compact foundation
 
 ```text
 GR is held fixed.
@@ -679,6 +850,12 @@ Operations under audit:
   uptake = influence-into-flow
   constitution = uptake reaching application consequence
 
+Foundation bets:
+  PB-1 = ordering-axis bound exists
+  PB-2 = bound interior is influence per ordering-resource
+  PB-3 = photons carry influence-structure, not information
+  PB-4 = information constitution is frame-process/write-chain, not observer
+
 Discipline:
   compose / missing / extra
   forced vs chosen
@@ -687,4 +864,4 @@ Discipline:
   no new peer role without remainder pressure
 ```
 
-A0 is the foundation ledger. It does not prove MGR; it states how MGR proves, fails, narrows, imports, or parks claims.
+A0 is the foundation ledger. It does not prove MGR; it states how MGR proves, fails, narrows, imports, parks, or prices claims.
