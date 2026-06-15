@@ -1,0 +1,3 @@
+model,reference,gate,action,reason,next_extraction
+Jockel-Menger-2024,arXiv:2406.05851,G1-extract-curves,extract numeric mass-radius rows first,Sign and magnitude match the promoted lane but high-mass and tidal gates need real curves.,Extract rotation rate M R_GR R_torsion Delta_R central density mass shift; check whether M>=2.08 survives.
+Vashistha-Gannouji-Ganguly-2026,arXiv:2606.09786,G2-source-clean-high-mass-risk,extract Mmax and branch viability first,Source routing is clean but reported maximum-mass reduction may break the J0740/J0952 gate.,Extract coupling branch DD2 Mmax_GR Mmax_torsion R(M) Delta_R(M) binding energy central density.
