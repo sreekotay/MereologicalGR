@@ -1,0 +1,10 @@
+EOS,rotation_spec,rotation_value,mass_Msun,radius_km,Delta_R_vs_pure_km,compactness,k2_assumed,Lambda_proxy,Delta_Lambda_pct,I_proxy_1e45_g_cm2,Delta_I_pct,gate_note
+DD2,pure,Pure DD2,1.400,13.230,0.000,0.156261,0.090,644.011,0.000,1.975,0.000,baseline
+DD2,f_Hz,100,1.400,13.152,-0.079,0.157188,0.090,625.249,-2.913,1.957,-0.876,mild source response
+DD2,f_Hz,300,1.400,12.635,-0.595,0.163620,0.090,511.647,-20.553,1.845,-6.566,strong source response / BNS proxy pass
+DD2,omega_frac_kep,0.1,1.400,13.070,-0.160,0.158174,0.090,605.999,-5.902,1.939,-1.793,mild source response
+DD2,omega_frac_kep,0.2,1.400,12.615,-0.616,0.163879,0.090,507.610,-21.180,1.841,-6.781,strong source response / BNS proxy pass but high-mass cutoff
+DD2,pure,Pure DD2,2.080,13.113,0.000,0.234231,0.090,85.100,0.000,3.800,0.000,baseline
+DD2,f_Hz,100,2.080,13.052,-0.060,0.235326,0.090,83.139,-2.304,3.781,-0.502,mild source response
+DD2,f_Hz,300,2.080,12.634,-0.478,0.243112,0.090,70.652,-16.978,3.654,-3.847,strong source response / J0740 pass
+DD2,omega_frac_kep,0.1,2.080,12.927,-0.186,0.237601,0.090,79.233,-6.894,3.743,-1.520,mild source response
