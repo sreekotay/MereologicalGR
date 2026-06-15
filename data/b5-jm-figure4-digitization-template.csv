@@ -1,0 +1,11 @@
+source,panel_or_curve,EOS,rotation_spec,rotation_value,mass_Msun,R_GR_km,R_torsion_km,Delta_R_km,Delta_M_Msun,central_density_change,read_method,confidence,notes
+JM-Fig4,DD2 f=100Hz,DD2,constant_frequency_Hz,100,,,,,,,manual_digitization_pending,low,Extract from Fig. 4 mass-radius curves.
+JM-Fig4,DD2 f=300Hz,DD2,constant_frequency_Hz,300,,,,,,,manual_digitization_pending,low,Extract from Fig. 4 mass-radius curves; note possible cutoff/critical-density artifact.
+JM-Fig4,DD2 0.1Kep,DD2,fraction_keplerian,0.1,,,,,,,manual_digitization_pending,low,Extract from Fig. 4 mass-radius curves.
+JM-Fig4,DD2 0.2Kep,DD2,fraction_keplerian,0.2,,,,,,,manual_digitization_pending,low,Extract from Fig. 4 mass-radius curves.
+JM-Fig4,DD2 0.3Kep,DD2,fraction_keplerian,0.3,,,,,,,manual_digitization_pending,low,Extract from Fig. 4 mass-radius curves.
+JM-Fig4,APR f=100Hz,APR,constant_frequency_Hz,100,,,,,,,manual_digitization_pending,low,Extract from Fig. 4 mass-radius curves.
+JM-Fig4,APR f=200Hz,APR,constant_frequency_Hz,200,,,,,,,manual_digitization_pending,low,Extract from Fig. 4 mass-radius curves.
+JM-Fig4,APR 0.1Kep,APR,fraction_keplerian,0.1,,,,,,,manual_digitization_pending,low,Extract from Fig. 4 mass-radius curves.
+JM-Fig4,APR 0.2Kep,APR,fraction_keplerian,0.2,,,,,,,manual_digitization_pending,low,Extract from Fig. 4 mass-radius curves.
+JM-Fig4,APR 0.3Kep,APR,fraction_keplerian,0.3,,,,,,,manual_digitization_pending,low,Extract from Fig. 4 mass-radius curves.
