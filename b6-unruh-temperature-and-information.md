@@ -3,14 +3,30 @@
 *Working draft, June 2026.*
 
 Status: full B-note / refinement document.  
-Primary target: A1 §11.4 Unruh / Rindler, with contact to A2 EB-1/EB-2 and A3 redshift / consequential uptake.  
-Grade: machinery-routing and role-reduction. Not a new temperature derivation, not a new QFT calculation, not a new numerical prediction.
+Primary target: A1 §11.4 Unruh / Rindler, with contact to A2 EB-1/EB-2, A3 redshift / consequential uptake, and B4 Hawking / horizon discipline.  
+Grade: machinery-routing, scaling-form constraint, and role-reduction. Not a new QFT calculation and not a new value for the Unruh coefficient.
 
 Core result:
 
 ```text
 Unruh temperature is the temperature obtained when vacuum phase-bearing relatedness
 is pulled back onto an accelerated flow-worldline and satisfies the KMS thermal test.
+```
+
+Quantitative split:
+
+```text
+framework-owned:
+  compute on pulled-back phase-bearing relatedness, not particle inventory;
+  uniform acceleration supplies the flow-frequency scale a/c;
+  therefore T must have the form C · ℏ a/(c k_B);
+  the observable is detailed balance / thermal response.
+
+QFT-owned:
+  the exact two-point kernel G⁺(x,x′);
+  the pullback G⁺(s) on the accelerated worldline;
+  the KMS / imaginary-time period β_τ = 2πc/a;
+  therefore C = 1/(2π).
 ```
 
 Companion result:
@@ -22,7 +38,7 @@ It becomes informational only when an ordered consequence is taken up
 into a flow-bearing record.
 ```
 
-The exact Unruh coefficient remains QFT-owned:
+The exact Unruh value remains externally filled:
 
 ```text
 T_U = ℏ a / (2π c k_B)
@@ -54,7 +70,7 @@ influence = consequence-capable phase-bearing relatedness
 
 Here `phase-bearing` is role-language, not a claim that all influence is a U(1) phase angle. It means coherent, order-sensitive relatedness: abelian scalar phase at the simple face; holonomy, path-ordering, mixing, representation-dependent transport, and non-commuting structure in richer interiors.
 
-This refinement does not change the Unruh grade. It sharpens what the invariant layer is:
+This refinement does not change the Unruh parent grade. It sharpens what the invariant layer is:
 
 ```text
 old:
@@ -79,6 +95,7 @@ F2. The thermal response cannot be stated as a pullback of field correlations to
 F3. The same invariant field state is not shared between inertial and accelerated descriptions.
 F4. Temperature must be assigned to particles as one-place in-flight objects, rather than to response/distribution relative to a worldline or congruence.
 F5. The machinery requires a constituted record before the thermal response can be defined.
+F6. Uniform acceleration fails to supply the only available flow-frequency scale a/c for the temperature form.
 ```
 
 Current status: none fire. Standard QFT gives a worldline-only detector response from the field two-point function. The state can be the same Minkowski vacuum while particle content / response is frame-relative. Constitution enters only when a detector write or application record is completed.
@@ -120,7 +137,7 @@ T_U = ℏ a / (2π c k_B)
 
 The framework does not derive the Wightman function, the detector response integral, the KMS theorem, or the coefficient. Those are QFT-owned.
 
-But the machinery has role-slots.
+But the machinery has role-slots, and the scale-form has role pressure.
 
 ---
 
@@ -160,7 +177,7 @@ what makes it thermal:
 
 what sets the scale:
   acceleration as worldline curvature,
-  giving β_τ = 2π c/a
+  giving a flow-frequency scale a/c
 
 what converts to temperature:
   ℏ converts proper-time frequency to energy;
@@ -181,7 +198,7 @@ detector coupling.
 It may not say:
 
 ```text
-The framework derives the Unruh temperature value.
+The framework derives the exact Unruh temperature coefficient.
 ```
 
 The correct grade is:
@@ -190,13 +207,250 @@ The correct grade is:
 value:
   externally derived by QFT
 
+scaling form:
+  framework-constrained up to dimensionless constant
+
 machinery route:
   framework-licensed, if influence = consequence-capable phase-bearing relatedness
 ```
 
 ---
 
-## 5. What Unruh becomes under phasic influence
+## 5. Predictive quantification: what the framework can own
+
+The new influence view upgrades B6 from pure role-labeling to a limited quantitative prediction.
+
+If temperature is a flow-indexed response scale, then the quantity that can become temperature must be a proper-time frequency converted into energy and then into thermal units:
+
+```text
+flow-frequency
+→ ℏ × frequency = energy
+→ energy / k_B = temperature
+```
+
+For uniform acceleration, the worldline supplies one natural flow-frequency scale:
+
+```text
+ω_a = a/c
+```
+
+Therefore the role-form forces:
+
+```text
+k_B T ∝ ℏ a/c
+```
+
+or:
+
+```text
+T = C · ℏ a/(c k_B)
+```
+
+where `C` is dimensionless.
+
+This is not the Unruh value. It is the scaling slot. The framework owns the fact that the temperature, if present, should be an acceleration-frequency converted by `ℏ/k_B`, not a detector-independent particle count or an in-flight bath inventory.
+
+QFT then fills the dimensionless constant:
+
+```text
+C = 1/(2π)
+```
+
+So:
+
+```text
+T_U = ℏ a/(2π c k_B)
+```
+
+Status:
+
+```text
+framework-derived:
+  target of computation;
+  scale form T ∝ ℏ a/(c k_B);
+  observable type = detailed balance / thermal response.
+
+externally supplied:
+  kernel, analytic structure, coefficient, transition-rate integral.
+```
+
+---
+
+## 6. How QFT fills the kernel and coefficient
+
+QFT fills two different holes.
+
+```text
+framework supplies:
+  which object to compute on
+  = phase-bearing relatedness pulled back onto a flow-worldline
+
+QFT supplies:
+  the exact kernel
+  = the Wightman two-point function
+
+QFT + Rindler/KMS geometry supply:
+  the coefficient
+  = 1/(2π)
+```
+
+### 6.1 The kernel: pulled-back Wightman relatedness
+
+For an Unruh-DeWitt detector, QFT models the detector as a localized system coupled along its worldline:
+
+```text
+detector gap:
+  ΔE
+
+worldline:
+  x(τ)
+
+field relatedness:
+  G⁺(x,x′) = ⟨0| φ(x) φ(x′) |0⟩
+```
+
+The transition probability is computed from the field's two-point function sampled along the detector's proper time:
+
+```text
+F(ΔE) =
+  ∫ dτ dτ′
+    e^{-i ΔE(τ-τ′)/ℏ}
+    G⁺(x(τ), x(τ′))
+```
+
+For a stationary trajectory this becomes a response rate:
+
+```text
+ṪF(ΔE) =
+  ∫ ds
+    e^{-i ΔE s/ℏ}
+    G⁺(s)
+```
+
+with:
+
+```text
+s = τ - τ′
+G⁺(s) = G⁺(x(τ), x(τ′))
+```
+
+This is the exact formal representative of the framework phrase:
+
+```text
+phase-bearing relatedness sampled by flow
+```
+
+For a massless scalar field in the Minkowski vacuum, QFT supplies the standard kernel, schematically:
+
+```text
+G⁺(x,x′) =
+-1 / [4π² ((t-t′-iε)² - |x-x′|²)]
+```
+
+up to convention and units. The framework does not derive this object. It only says this is the kind of object the temperature computation must use.
+
+### 6.2 The accelerated pullback: hyperbolic kernel
+
+For uniform acceleration, the worldline is hyperbolic. In units with `c` restored schematically:
+
+```text
+t(τ) = (c/a) sinh(aτ/c)
+x(τ) = (c²/a) cosh(aτ/c)
+```
+
+Substituting this trajectory into the Minkowski kernel turns the invariant separation into a hyperbolic-sine expression:
+
+```text
+G⁺(s) ∝
+- (a²/c⁴)
+  / sinh²[ a(s-iε)/(2c) ]
+```
+
+The `sinh⁻²` form is the QFT-filled pullback of the vacuum relatedness onto accelerated flow.
+
+In framework terms:
+
+```text
+phase-bearing relatedness:
+  G⁺(x,x′)
+
+flow-sampling:
+  x(τ), x(τ′)
+
+accelerated-flow result:
+  G⁺(s) with sinh⁻²[a(s-iε)/2c]
+```
+
+### 6.3 The coefficient: imaginary-time periodicity
+
+The coefficient comes from the analytic periodicity of the pulled-back kernel.
+
+Since:
+
+```text
+sinh(z + iπ) = -sinh(z)
+```
+
+and the kernel contains `sinh²`, the pulled-back Wightman function has imaginary proper-time periodicity:
+
+```text
+s → s + i 2πc/a
+```
+
+Thus:
+
+```text
+β_τ = 2πc/a
+```
+
+This is the KMS period in proper-time units. Converting to thermodynamic inverse temperature:
+
+```text
+β_E = β_τ/ℏ
+    = 2πc/(ℏ a)
+```
+
+and therefore:
+
+```text
+T_U = 1/(k_B β_E)
+    = ℏ a/(2π c k_B)
+```
+
+So QFT fills the coefficient by showing that the pulled-back relatedness is not merely set by the scale `a/c`; it has the specific imaginary-time period `2πc/a`.
+
+### 6.4 The response observable: detailed balance
+
+Fourier-transforming the pulled-back kernel gives a thermal response. For detector gap `ΔE`, the detailed-balance relation is:
+
+```text
+R_excitation / R_de-excitation
+  = exp[-ΔE/(k_B T_U)]
+```
+
+so:
+
+```text
+R_excitation / R_de-excitation
+  = exp[-2πc ΔE/(ℏ a)]
+```
+
+This is the clean experimental target. Not:
+
+```text
+see an invariant bath of particles
+```
+
+but:
+
+```text
+measure detector response, transition rates, spectra, thermalization,
+or detailed balance controlled by the pulled-back field relatedness.
+```
+
+---
+
+## 7. What Unruh becomes under phase-bearing influence
 
 Before:
 
@@ -246,7 +500,7 @@ PB-4-full not confirmed:
 
 ---
 
-## 6. Relation to CMB / redshift work
+## 8. Relation to CMB / redshift work
 
 The CMB/redshift work already made the sibling move.
 
@@ -324,7 +578,7 @@ field/radiation relatedness
 
 ---
 
-## 7. Temperature and information — first reduction
+## 9. Temperature and information — first reduction
 
 Question:
 
@@ -342,7 +596,7 @@ Temperature is a parameter of rendering, distribution, or response. It can becom
 
 Three distinctions matter.
 
-### 7.1 Temperature is not entropy
+### 9.1 Temperature is not entropy
 
 Entropy measures accessible mixedness / multiplicity / uncertainty relative to a coarse-graining or state description.
 
@@ -366,7 +620,7 @@ temperature:
 
 So temperature is about how the accessible state answers energy-exchange, not the full information content of that state.
 
-### 7.2 Temperature is not microscopic content
+### 9.2 Temperature is not microscopic content
 
 A temperature does not specify the microstate. Many states can share the same temperature. Temperature is compression, not constitution.
 
@@ -382,7 +636,7 @@ microstate / full record:
 
 So temperature is information-bearing only in the weak sense that any measured scalar is information-bearing once recorded. It is not identical to the information constituted by the substrate.
 
-### 7.3 Temperature is not in-flight particle property
+### 9.3 Temperature is not in-flight particle property
 
 For null radiation, energy is rendered against a worldline or congruence:
 
@@ -404,7 +658,7 @@ Temperature belongs to the access/rendering machinery.
 
 ---
 
-## 8. Proposed role definition
+## 10. Proposed role definition
 
 Candidate definition:
 
@@ -440,7 +694,7 @@ compressed into an energy-response scale
 
 ---
 
-## 9. Information relation
+## 11. Information relation
 
 Given the parent composition:
 
@@ -507,7 +761,7 @@ information requires ordered uptake into a consequential record.
 
 ---
 
-## 10. Hawking contact
+## 12. Hawking contact
 
 Hawking temperature should be treated as the horizon sibling, not as support by slogan.
 
@@ -544,7 +798,7 @@ The exact coefficient and radiation spectrum remain QFT-in-curved-spacetime owne
 
 ---
 
-## 11. Experimental / diagnostic daylight
+## 13. Experimental / diagnostic daylight
 
 The experimental daylight is not merely that detector response depends on acceleration or worldline. Standard Unruh machinery already says that. The framework-positive edge is narrower:
 
@@ -572,6 +826,10 @@ Diagnostic signals:
 
 3. The cleanest framework-positive result would separate pre-uptake correlation / KMS
    structure from post-uptake record constitution.
+
+4. For uniform acceleration, the acceleration dependence should enter through the
+   detailed-balance combination 2πc ΔE/(ℏ a), with apparatus-specific rates layered
+   on top rather than replacing the KMS ratio.
 ```
 
 Candidate platforms / stress cases:
@@ -583,6 +841,7 @@ analogue Unruh platforms:
   superconducting / circuit QED
   moving-mirror analogues
   circular-motion detector setups
+  trapped-ion / timelike analogue setups
 
 high-acceleration stress cases:
   channeling experiments such as CERN NA63-style contexts
@@ -605,13 +864,13 @@ experiments support response-as-worldline-rendering
 while resisting intrinsic-bath or in-flight-particle interpretations.
 ```
 
-That is still B6-grade: machinery-routing and role-reduction, not a new numerical prediction.
+That is B6-grade: machinery-routing, scaling-form constraint, and role-reduction, not a new coefficient prediction.
 
 ---
 
-## 12. Edge cases and guardrails
+## 14. Edge cases and guardrails
 
-### 12.1 Zero temperature
+### 14.1 Zero temperature
 
 Temperature zero is not absence of influence. It is a boundary in response/distribution structure:
 
@@ -629,7 +888,7 @@ not no information;
 not no possible consequence.
 ```
 
-### 12.2 Negative temperature
+### 14.2 Negative temperature
 
 Negative temperature, where defined, is not colder than zero. It is an inverted population in a bounded spectrum.
 
@@ -642,7 +901,7 @@ not an absolute magnitude below zero.
 
 This belongs to temperature's rendering/response side, not to the basic composition of information.
 
-### 12.3 Local temperature vs global state
+### 14.3 Local temperature vs global state
 
 Unruh warns against treating temperature as a global one-place property. The same invariant state can yield different temperature renderings under different access/flow structures.
 
@@ -653,13 +912,13 @@ Do not ask whether the state simply has temperature.
 Ask: relative to which flow, access algebra, subsystem, detector, or congruence?
 ```
 
-### 12.4 No temperature without a clock parameter
+### 14.4 No temperature without a clock parameter
 
 Temperature requires a flow/evolution parameter in the machinery: proper time, Killing time, comoving time, modular flow, detector time, or an application equivalent.
 
 This does not mean temperature is subjective. It means temperature is indexed to the flow structure that defines response/equilibrium.
 
-### 12.5 Phase-bearing is not only U(1) phase
+### 14.5 Phase-bearing is not only U(1) phase
 
 The term `phase-bearing` is deliberately broader than abelian phase angle.
 
@@ -679,59 +938,67 @@ The Unruh case uses phase-bearing relatedness through field correlations and the
 
 ---
 
-## 13. What B6 updates in A1 §11.4
+## 15. What B6 updates in A1 §11.4
 
 Replace the parent Unruh summary with this sharper form:
 
 ```text
-Unruh / Rindler [machinery-routing; PB-4a sharpened]
+Unruh / Rindler [machinery-routing + scaling-form constraint; PB-4a sharpened]
 
 The invariant layer is not particle content but field relatedness: phase-bearing
 structure represented by vacuum correlations and made consequence-capable when
 coupled to a detector. Pulling that relatedness back onto different flow-worldlines
 yields different renderings. Along a uniformly accelerated worldline, the pulled-back
 two-point function has KMS / imaginary-proper-time periodicity, so the detector
-response is thermal with T_U = ℏ a/(2π c k_B), a value derived by QFT. The framework
-does not derive the coefficient. It derives the role-route: phase-bearing relatedness
+response is thermal with T_U = ℏ a/(2π c k_B). The framework does not derive the
+coefficient. It does derive the role-route and scale-form: phase-bearing relatedness
 → detector coupling / consequence-capacity → flow-sampling → thermal test →
-temperature rendering → possible uptake/write.
+T = C · ℏ a/(c k_B) → QFT fixes C = 1/(2π) → temperature rendering → possible
+uptake/write.
 
 This strengthens PB-4a: rendering is worldline-set, observer-free. It does not
 confirm PB-4-full: Unruh still supplies rendering, not constitution-completion.
 
 Experimental daylight, if any, lies in separating pre-uptake correlation/KMS
-structure from post-uptake record constitution, not in rediscovering ordinary
-worldline-dependence.
+structure from response-temperature rendering and detector-record constitution,
+and in recovering the detailed-balance combination 2πc ΔE/(ℏ a) rather than an
+invariant bath-object.
 ```
 
 ---
 
-## 14. Findings
+## 16. Findings
 
 1. **Unruh remains PB-4a, not PB-4-full.**  
    It sharpens observer-free worldline rendering. It does not by itself prove constitution by frame-process.
 
-2. **The exact temperature value is externally owned.**  
-   QFT owns the Wightman function, detector response, KMS theorem, and coefficient.
+2. **The exact coefficient is externally owned.**  
+   QFT owns the Wightman function, detector response integral, KMS theorem, and `1/(2π)` coefficient.
 
-3. **The temperature-computation machinery is role-routable.**  
-   Once influence is read as consequence-capable phase-bearing relatedness, the Unruh computation has natural role-slots: relatedness, detector coupling, flow-pullback, thermal/KMS test, temperature parameter, possible uptake.
+3. **The scaling form is framework-constrained.**  
+   Once temperature is read as a flow-indexed response scale and uniform acceleration supplies the frequency `a/c`, the form must be `T = C · ℏ a/(c k_B)`.
 
-4. **CMB/redshift is the sibling, not the same case.**  
+4. **The kernel/coefficient split is now explicit.**  
+   Framework: compute on phase-bearing relatedness pulled back to flow. QFT: `G⁺(x,x′)`, its accelerated `sinh⁻²` pullback, and the KMS period `β_τ = 2πc/a`.
+
+5. **The observable is detailed balance / thermal response.**  
+   The clean target is `R_exc/R_de-exc = exp[-2πc ΔE/(ℏ a)]`, not a literal invariant particle bath.
+
+6. **CMB/redshift is the sibling, not the same case.**  
    CMB temperature is a real radiation aggregate rendered by a congruence. Unruh temperature is vacuum relatedness rendered thermally by accelerated access. Both reject one-place in-flight temperature.
 
-5. **Temperature is below information.**  
+7. **Temperature is below information.**  
    Temperature is a rendering/response scale. It becomes informational only when an ordered consequence is taken up in a flow-bearing record.
 
-6. **Hawking is a controlled contact.**  
+8. **Hawking is a controlled contact.**  
    Hawking temperature belongs to the same horizon/access temperature-family, but B4 still blocks over-reading Hawking/Page/QES as sealing the information-loss bet.
 
-7. **Experimental daylight is anti-misread daylight.**  
-   The framework does not predict a new Unruh coefficient. It predicts where the layers should stay separated: correlation/KMS structure, response-temperature rendering, and detector-record constitution.
+9. **Experimental daylight is anti-misread plus quantitative-machinery daylight.**  
+   The framework does not predict a new Unruh coefficient. It predicts where the layers should stay separated and which quantitative combination should organize the response once the QFT kernel is supplied.
 
 ---
 
-## 15. Compact result
+## 17. Compact result
 
 ```text
 Relatedness:
@@ -740,11 +1007,20 @@ Relatedness:
 Influence:
   consequence-capable phase-bearing relatedness
 
-Unruh:
+Unruh machine:
   vacuum phase-bearing relatedness coupled to a detector
   and pulled back onto accelerated flow
-  → KMS periodicity
-  → thermal response
+  → G⁺(s) ∝ sinh⁻²[a(s-iε)/2c]
+  → KMS period β_τ = 2πc/a
+  → T_U = ℏ a/(2π c k_B)
+
+Framework-owned:
+  compute on pulled-back relatedness;
+  T = C · ℏ a/(c k_B);
+  look for detailed balance / thermal response.
+
+QFT-owned:
+  kernel, pullback, KMS coefficient, detector rates.
 
 Temperature:
   flow-indexed response scale of accessible relatedness / mixedness
