@@ -117,8 +117,9 @@ null propagation:
 yet:
   cone-direction remains;
   causal ordering remains;
-  the photon can constrain later states;
-  absorption, blocking, redirection, and detection remain possible.
+  the photon can constrain later physical states;
+  absorption, blocking, and redirection show effect-capacity;
+  detection belongs to the later uptake story.
 ```
 
 So the null corner separates roles that ordinary language and many physical narrations fuse:
@@ -140,9 +141,17 @@ time = ordering + flow
 The phrase "cause without time" means:
 
 ```text
-phase-bearing influence with ordering,
+ordering + influence
 without proper-time flow.
 ```
+
+Influence is later floored as:
+
+```text
+consequence-capable phase-bearing relatedness
+```
+
+That floor is a later carve of influence, not something the photon seed alone proves.
 
 This is seed/exhibit grade. The seed has no confirmatory weight at its own launch site, because the carve is read from that site. Any weight must land downstream where the projection could have failed.
 
@@ -207,7 +216,7 @@ role
 composite
 operation
 projection
-grating / primitive
+grading / primitive
 threshold / application scale
 ```
 
