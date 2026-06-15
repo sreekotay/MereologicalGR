@@ -20,6 +20,8 @@ GR is mathematically correct and its predictive compression is rightly heralded.
 
 The framework therefore takes the mathematics and predictive compression of GR as correct a priori, and attempts to rigorously project into the questions on which it is silent: what composes cause, time, information, space, gravity-as-structure? The stance is following GR further, not refuting it. GR is sound; where it is silent or bundles roles into one object (metric, source), that is read as a mereological gap — a role not yet separated — not a foundational gap. The default on a GR silence or bundle is to separate the role, never to supply missing physics. The working expectation is that GR's regularities (e.g. a bound like c on a role-exchange) extend to separated roles.
 
+“Cause without time” is the philosophical elision of the physics underneath: phase-bearing influence without proper-time flow, as exhibited by the photon.
+
 ### 1.2 Method
 
 The method: from the photon under GR-fixed, unfuse exactly three unitless component-roles (no more, no fewer) — the two the corner exhibits and the one it strips. Treat those roles as composable constituents for real: this realism is the paper's declared wager, not a forced step. Then project what **must** be true under GR's mathematics if the roles compose — the compositions, the mandatory questions (e.g. the dual cell the photon's profile forces), and the bounds. The realism is paid for in falsifiable bets; the bets are the realism's price, and their failure conditions are stated where they are made.
