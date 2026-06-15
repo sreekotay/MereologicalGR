@@ -1,0 +1,5 @@
+EOS,rotation_spec,rotation_value,mass_Msun,radius_km,compactness,k2_assumed,Lambda_proxy,I_proxy_1e45_g_cm2,source,Delta_Lambda_vs_pure,Delta_Lambda_pct,Delta_I_vs_pure_1e45_g_cm2,Delta_I_pct
+DD2,pure,Pure DD2,1.400,13.230,0.156261,0.090,644.011,1.975,Figure4 vector extraction,0.000,0.000,0.000,0.000
+DD2,f_Hz,300,1.400,12.635,0.163620,0.090,511.647,1.845,Figure4 vector extraction,-132.364,-20.553,-0.130,-6.566
+DD2,pure,Pure DD2,2.080,13.113,0.234231,0.090,85.100,3.800,Figure4 vector extraction,0.000,0.000,0.000,0.000
+DD2,f_Hz,300,2.080,12.634,0.243112,0.090,70.652,3.654,Figure4 vector extraction,-14.448,-16.978,-0.146,-3.847
