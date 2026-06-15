@@ -1,0 +1,8 @@
+key,value,units,notes
+J0740_R_mean,12.92,km,Working observed equatorial radius mean from current B5 seed.
+J0740_R_low_68,11.79,km,R_mean - R_minus = 12.92 - 1.13.
+J0740_R_high_68,15.01,km,R_mean + R_plus = 12.92 + 2.09.
+BNS_R_working_low,11.50,km,Working rough radius compatibility floor for BNS/EOS triage only; replace with real posterior in literature pass.
+BNS_R_working_high,13.50,km,Working rough radius compatibility ceiling for BNS/EOS triage only; replace with real posterior in literature pass.
+Generic_R_reference,13.00,km,Generic radius used for first ΔΛ/Λ sensitivity placeholder.
+Love_number_response,ignored,,First-pass estimate holds k2 and EOS response fixed; real model must recompute.
