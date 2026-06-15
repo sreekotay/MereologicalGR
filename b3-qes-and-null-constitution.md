@@ -1,7 +1,7 @@
 # B3 — QES and Null Constitution
 
 Status: working proof/contact note.  
-Grade: diagnostic-witness candidate for GB-3 / no-null-constitution; secondary clarifier for record ≠ constitution; magnitude remains QG-priced and framework-disowned.
+Grade: diagnostic-witness candidate for GB-3 / no-null-constitution; quantitative-null prediction stated; secondary clarifier for record ≠ constitution; magnitude remains QG-priced and framework-disowned.
 
 This note pulls the QES/island-formula contact out of `a2-gravity-information-adjacency.md`. It tests one narrow claim: whether the modern black-hole entropy calculation forces constituted information onto null horizon structure, or instead separates area/count/cut structure from fine-grained bulk/radiation degrees and flow-bearing uptake.
 
@@ -90,7 +90,8 @@ Area(X)/(4G_N)
 
 S_bulk(R ∪ I_X)
   fine-grained entropy of bulk/radiation degrees
-  represented in flow-bearing quantum fields, radiation, and island matter
+  represented in quantum fields, radiation, and island matter
+  not itself a constitution operation
 
 QES X
   accounting cut
@@ -174,13 +175,78 @@ QES surface:
   is not an uptake site
 
 bulk/radiation degrees:
-  carry the fine-grained entropy term
-  still require flow-bearing uptake for constitution
+  enter the fine-grained entropy term
+  do not themselves perform constitution merely by appearing in S_bulk
+  constitution occurs only when reconstructed, measured, or taken up by a flow-bearing system
 ```
 
 So QES is not a horizon-information proof. It is a record/constitution splitter.
 
-## 6. Could-have-failed
+## 6. Quantitative null
+
+The QES contact suggests a forbidden residual, not a new magnitude.
+
+```text
+ε_QES-constitution = 0
+ε_horizon-null-constitution = 0
+```
+
+Meaning:
+
+```text
+After accounting for:
+  Area(X)/(4G_N),
+  S_bulk(R ∪ I_X),
+  radiation degrees,
+  edge / gauge constraints,
+  reconstruction maps,
+  detector / observer uptake,
+  and QG corrections,
+
+there is no additional entropy/information term corresponding to constituted
+information living on the QES surface or on a null horizon generator itself.
+```
+
+Allowed corrections:
+
+```text
+higher-curvature terms
+bulk quantum corrections
+edge modes / gauge constraints
+replica-wormhole refinements
+entanglement-wedge reconstruction maps
+stretched-horizon or fuzzball-like non-null microstructure
+```
+
+Forbidden residual:
+
+```text
+S_total = Area/(4G_N) + S_bulk + S_QES-constitution
+```
+
+or:
+
+```text
+S_total = Area/(4G_N) + S_bulk + S_null-horizon-constitution
+```
+
+where the extra term is irreducible to area/count, bulk entropy, radiation dynamics, reconstruction maps, detector/uptake effects, or non-null QG microstructure.
+
+Failure condition:
+
+```text
+ε_QES-constitution ≠ 0
+```
+
+or:
+
+```text
+ε_horizon-null-constitution ≠ 0
+```
+
+would mean the QES/horizon surface is not merely a cut/count/capacity structure but a constituted-information site. That would break GB-3.
+
+## 7. Could-have-failed
 
 GB-3 would fail if the island/QES construction required:
 
@@ -196,6 +262,7 @@ Area term is the constituted fine-grained information itself.
 QES surface is a receiver / semantic container.
 Null generator carries constituted information without flow-bearing uptake.
 Reconstruction requires no bulk/radiation/matter degrees and no flow-bearing system.
+A nonzero S_QES-constitution or S_null-horizon-constitution term is required.
 ```
 
 The standard formula does not do this.
@@ -214,7 +281,7 @@ Area(X)/(4G_N)
 
 So the possible failure shape is live, but not realized by the island formula.
 
-## 7. Residuals
+## 8. Residuals
 
 Several black-hole interpretations remain compatible with this verdict, but only if their carriers are not null generators as such.
 
@@ -242,7 +309,7 @@ with no flow-bearing carrier or uptake anywhere in the loop
 
 That reading was not found in the QES/island structure.
 
-## 8. Relation to GB-2
+## 9. Relation to GB-2
 
 GB-2 concerns information-stranding at invariant edges:
 
@@ -275,7 +342,7 @@ GB-3 yield:
   diagnostic-witness candidate for no-null-constitution
 ```
 
-## 9. Grade
+## 10. Grade
 
 ```text
 Field taxonomy:
@@ -285,6 +352,12 @@ Field taxonomy:
 QES / horizon test:
   diagnostic-witness candidate for GB-3 / no-null-constitution
   discounted by lineage and by QG ownership of the formula
+
+Quantitative null:
+  ε_QES-constitution = 0
+  ε_horizon-null-constitution = 0
+  no independent entropy/information term for QES-surface or null-generator constitution
+  consistent with the island formula, not a derived magnitude
 
 Secondary yield:
   clarifier / support for record ≠ constitution
@@ -298,11 +371,12 @@ Magnitude:
 Collision-room:
   fine-grained constituted information on null generators would break GB-3
   QES-as-receiver or area-term-as-constituted-information would break the role map
+  nonzero S_QES-constitution or S_null-horizon-constitution would break the quantitative null
 ```
 
 Chronology is not the criterion. The relevant lineage question is whether GB-3 and the record/constitution distinction existed before the QES contact was used. They did in the corpus lineage. The QES result is known to the field; the framework's weight is not predictive novelty but role-diagnostic landing with a stated failure condition.
 
-## 10. Compact result
+## 11. Compact result
 
 QES is a good contact because it refuses the naive slogan:
 
@@ -321,11 +395,20 @@ Framework translation:
 ```text
 QES chooses the reconstruction cut.
 The area term is count / capacity / record-like boundary structure.
-The bulk term carries the fine-grained entropy of radiation plus island degrees.
-Constitution occurs only at flow-bearing uptake.
+The bulk term computes the fine-grained entropy of radiation plus island degrees.
+Constitution occurs only at flow-bearing uptake / reconstruction / measurement.
 ```
 
 Therefore QES does not force information onto null horizon generators. It splits record/count/cut from constitution.
+
+Quantitative prediction:
+
+```text
+ε_QES-constitution = 0
+ε_horizon-null-constitution = 0
+```
+
+The framework's prediction is a null residual: no correct accounting should require an irreducible constituted-information term living on the QES surface or null horizon generator itself.
 
 ## References / external anchors
 
