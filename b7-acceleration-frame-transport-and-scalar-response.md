@@ -1,10 +1,10 @@
-# B7 — Acceleration, Frame-Transport, and Scalar Response
+# B7 — Frame-Transport and Scalar Response
 
 *Working draft, June 2026.*
 
-Status: B-note / positive-computation probe.  
-Primary target: A0 rendering/uptake seam, A1 PB-4, B6 Unruh temperature, A3 write-act / record constitution.  
-Grade: frame-transport refinement and scalar-response derivation program. Not a derivation of full QFT.
+Status: consolidated B-note / positive-computation chain.  
+Primary target: A0 rendering/uptake seam, A1 PB-4, B6 Unruh temperature, and the scalar-response boundary between GR/MGR and QFT.  
+Grade: positive partial derivation + boundary audit. Not a derivation of full QFT.
 
 Core claim:
 
@@ -12,6 +12,41 @@ Core claim:
 velocity relates frames;
 acceleration transports frames through flow.
 ```
+
+Core result:
+
+```text
+GR / Levi-Civita earns:
+  scalar interval skeleton;
+  accelerated pullback;
+  imaginary proper-time period 2πc/a.
+
+MGR earns:
+  frame-transport as an operation;
+  retarded causal orientation;
+  positive frequency as future-flow energy orientation;
+  need for a stability floor.
+
+QFT / quantum-state structure still imports:
+  vacuum / state selection;
+  Wightman two-point sampling;
+  KMS / detailed-balance thermal interpretation;
+  detector transition probabilities.
+```
+
+Maximal honest statement:
+
+```text
+MGR + GR/LC can derive the scalar interval-response skeleton
+and the Unruh 2π period.
+
+It cannot yet derive the quantum state prescription
+that makes the skeleton a Wightman/KMS detector response.
+```
+
+---
+
+## 1. Placement: acceleration as frame-transport
 
 MGR placement:
 
@@ -25,41 +60,11 @@ frame-transport = change of frame-basis along flow
 proper acceleration = nonzero frame-transport along flow
 ```
 
-Acceleration is not a new role. It is an operation/derivative of the frame-process. It is the first clean place where the curvature of flow changes the rendering map itself.
+Acceleration is not a new role. It is an operation / derivative of the frame-process. It is the first clean place where the curvature of flow changes the rendering map itself.
 
-Run-1 result:
-
-```text
-partial success:
-  scalar Unruh response skeleton can be run from
-  GR hyperbolic frame-transport + scalar two-place relatedness.
-
-not derived:
-  the scalar relatedness kernel itself,
-  its positive-frequency / iε ordering prescription,
-  full detector dynamics,
-  full QFT.
-```
-
-The `2π` coefficient is not detector-specific machinery once the scalar kernel is admitted. It comes from the imaginary proper-time period of the hyperbolic pullback. The deep import is the scalar Wightman/Hadamard-style kernel and its `iε`/ordering structure.
-
----
-
-## 1. Trigger
-
-A0 already separates:
+The distinction:
 
 ```text
-content → rendering → uptake → information
-```
-
-B6 already states that Unruh temperature is not an invariant particle bath, but a flow-indexed rendering / response of vacuum relatedness pulled back onto an accelerated worldline.
-
-The missing sharpening is:
-
-```text
-not all worldline dependence is equal.
-
 velocity:
   selects a relative inertial rendering
 
@@ -68,34 +73,6 @@ proper acceleration:
 ```
 
 An inertial observer with constant velocity is not actively moving through frames. It carries one local rest frame along its worldline. An accelerated observer continually changes instantaneous comoving inertial frame. That change is not a subjective observer-act; it is frame-transport along flow.
-
----
-
-## 2. Layer placement
-
-Do not promote acceleration to a peer role.
-
-```text
-roles:
-  ordering
-  influence
-  flow
-  adjacency
-
-composite:
-  frame = ordering + flow + adjacency
-
-operation:
-  rendering = content-through-frame
-
-new operation under audit:
-  frame-transport = transport / turning of frame-basis along flow
-
-projection / scalar:
-  proper acceleration = magnitude of non-inertial frame-transport
-```
-
-This preserves the anti-over-unfusing rule. Acceleration is a derivative/curvature of the frame-process, not a fifth component.
 
 Operational shorthand:
 
@@ -107,25 +84,13 @@ accelerated flow:
   frame-basis turns through flow
 ```
 
----
-
-## 3. Why acceleration is stronger than velocity
-
-Velocity is a relation between inertial frames. It changes a rendering comparison but does not itself curve the observer's worldline.
-
-Proper acceleration changes the worldline's local frame basis from one moment of proper time to the next. It is the flow-derivative of the frame:
-
-```text
-proper acceleration ≈ d(frame-basis)/dτ
-```
-
-More precisely, in GR language, acceleration is the covariant derivative of the four-velocity along the worldline:
+In GR language:
 
 ```text
 a^μ = u^ν ∇_ν u^μ
 ```
 
-This expression is imported GR mathematics. MGR's role-reading is:
+MGR reading:
 
 ```text
 u^μ:
@@ -142,9 +107,9 @@ So acceleration is not merely a state of motion. It is frame-transport made nont
 
 ---
 
-## 4. Consequence for rendering and uptake
+## 2. Consequence for rendering and uptake
 
-Current A0 stack:
+A0 stack:
 
 ```text
 content → rendering → uptake → information
@@ -180,61 +145,188 @@ Thus acceleration is a positive-computation handle on the rendering/uptake seam.
 
 ---
 
-## 5. Scalar-only derivation probe
+## 3. Gate 1 — scalar kernel from Levi-Civita structure
 
-This is the suggestive part.
-
-B6 currently says:
+Question:
 
 ```text
-framework-owned:
-  compute on pulled-back phase-bearing relatedness;
-  uniform acceleration supplies the flow-frequency scale a/c;
-  therefore T = C · ℏ a/(c k_B)
-
-QFT-owned:
-  exact two-point kernel;
-  KMS period;
-  coefficient C = 1/(2π)
+How far can the scalar relatedness kernel be earned from pure GR structure,
+using the Levi-Civita import, before QFT must enter?
 ```
 
-B7 asks whether that ownership split can be tightened for the scalar sector.
-
-The proposed computation does **not** import QFT as a theory. It imports only a scalar two-place relatedness kernel and then lets GR geometry do the pullback.
-
-Minimal import:
+Levi-Civita matters because it gives more than vector transport. It also defines the natural scalar wave operator on the geometry:
 
 ```text
-scalar relatedness kernel:
-  R(x,x′) = F(σ(x,x′), iε)
-
-where:
-  σ(x,x′) = invariant interval / world-function data
+□_g φ = ∇_μ ∇^μ φ
 ```
 
-The scalar import may include:
+For a scalar:
 
 ```text
-singular short-distance form;
-choice of iε / ordering prescription;
-ℏ as phase-to-energy conversion;
-k_B as energy-to-temperature conversion.
+∇_μ φ = ∂_μ φ
 ```
 
-Everything else should be forced from GR worldline geometry and frame-transport.
+but the second derivative and divergence require the metric / Levi-Civita structure:
+
+```text
+□_g φ = |g|^{-1/2} ∂_μ( |g|^{1/2} g^{μν} ∂_ν φ )
+```
+
+MGR reading:
+
+```text
+metric:
+  ordering + adjacency + clock/separation magnitudes + signature
+
+Levi-Civita:
+  comparison / transport that preserves that metric structure
+
+scalar □_g:
+  minimal scalar relatedness propagation generated by that transport
+```
+
+Minimal scalar assumptions:
+
+```text
+S1. There is a scalar relatedness field / scalar probe.
+S2. It is local and covariant.
+S3. It has no internal indices.
+S4. It is massless / scale-free for the Unruh flat-sector run.
+S5. It is governed by a second-order linear propagation operator.
+```
+
+These assumptions are not QFT. They are scalar field-theory assumptions. They are still imports, but smaller than importing a finished Wightman function.
+
+Under S1–S5 plus GR metric structure, the operator is forced up to curvature and scale terms:
+
+```text
+P = □_g + ξR + m²
+```
+
+For the flat Unruh run:
+
+```text
+R = 0
+m = 0
+```
+
+so:
+
+```text
+P = □
+```
+
+The curvature-coupling ambiguity `ξR` is invisible in flat spacetime but would matter in a curved extension. It remains imported or separately fixed; do not claim it is derived here.
 
 ---
 
-## 6. Run 1 — scalar Unruh response from GR pullback
+## 4. Gate 2 — scalar interval skeleton
 
-### 6.1 Setup
+In flat 4D spacetime, the massless scalar operator is:
+
+```text
+□ = -c^{-2} ∂²_t + ∇²
+```
+
+or, with `x⁰ = ct`, schematically:
+
+```text
+□ = η^{μν} ∂_μ ∂_ν
+```
+
+The Green-object must solve:
+
+```text
+□ R(x,x′) ∝ δ⁴(x-x′)
+```
+
+Because the operator is Lorentz invariant and the scalar has no indices, away from coincidence the solution can depend only on invariant separation:
+
+```text
+R(x,x′) = F(σ)
+```
+
+where:
+
+```text
+σ ≈ (x-x′)²
+```
+
+This earns the dependence on interval/world-function data.
+
+In four spacetime dimensions, a massless scalar Green-object with no additional scale has dimension:
+
+```text
+[R] ∼ length^{-2}
+```
+
+The only available invariant with that dimension is:
+
+```text
+R ∝ 1/σ
+```
+
+So the leading scalar kernel skeleton is forced:
+
+```text
+R_skel(x,x′) ∝ 1 / σ(x,x′)
+```
+
+This is not yet a Wightman function. It is the scalar interval singularity skeleton.
+
+Because:
+
+```text
+σ(x,x′) = 0
+```
+
+on null separation, the skeleton is singular on the light cone.
+
+MGR reading:
+
+```text
+ordering boundary:
+  null cone
+
+scalar relatedness singularity:
+  concentrated at the ordering boundary
+```
+
+This matches the photon seed: massless scalar relatedness is organized around the null boundary, where flow is stripped but ordering remains.
+
+Curved-spacetime local form, schematically:
+
+```text
+G(x,x′) ∼ U(x,x′)/σ + V(x,x′) log σ + W(x,x′)
+```
+
+GR owns the leading local singular structure:
+
+```text
+GR-owned:
+  σ(x,x′), the geodesic interval/world-function;
+  transport/focusing factors along geodesics;
+  the local null-cone singular locus;
+  the leading 1/σ scalar skeleton in 4D.
+
+not GR-owned here:
+  global state;
+  boundary conditions;
+  vacuum selection;
+  state-dependent smooth part;
+  full quantum meaning of the two-point object.
+```
+
+---
+
+## 5. Gate 3 — accelerated pullback and the Unruh 2π
 
 Use flat spacetime and a uniformly accelerated timelike worldline.
 
 Coordinate convention:
 
 ```text
-x^0 = ct
+x⁰ = ct
 ```
 
 Uniformly accelerated trajectory:
@@ -253,8 +345,6 @@ x(τ) = (c²/a) cosh(aτ/c)
 
 This is GR/SR-owned. It is the hyperbolic worldline generated by constant proper acceleration.
 
-### 6.2 GR-owned invariant separation
-
 Let:
 
 ```text
@@ -269,281 +359,458 @@ The coordinate differences are:
 Δx    = (c²/a)[cosh(ατ) - cosh(ατ′)]
 ```
 
-Use the hyperbolic identities:
+Using hyperbolic identities:
 
 ```text
 sinh A - sinh B = 2 cosh((A+B)/2) sinh((A-B)/2)
 cosh A - cosh B = 2 sinh((A+B)/2) sinh((A-B)/2)
 ```
 
-Then:
+then:
 
 ```text
 (Δct)² - (Δx)²
 = (4c⁴/a²) sinh²[aΔτ/(2c)]
 ```
 
-up to the sign convention chosen for the interval.
+up to sign convention.
 
-This is the first real positive result:
+This is the first positive computation:
 
 ```text
 uniform acceleration + GR interval geometry
 forces the sinh² pullback denominator.
 ```
 
-No QFT operator algebra has entered.
-
-### 6.3 Minimal scalar relatedness import
-
-Now import a scalar two-place relatedness kernel with the massless short-distance form:
+Pull back the GR-earned skeleton:
 
 ```text
-R(x,x′) ∝ 1 / [ (ct-ct′-iε)² - |x-x′|² ]
+R_skel(τ,τ′) ∝ 1 / sinh²[a(τ-τ′)/(2c)]
 ```
 
-This is the largest import in the run. It is not full QFT as a theory, but it is not nothing. It imports:
+This already has imaginary periodicity because:
 
 ```text
-scalar two-place relatedness;
-null-cone singularity;
-positive-frequency / ordering prescription via iε.
+sinh(z+iπ) = -sinh(z)
 ```
 
-With that import, the accelerated pullback is forced:
+and the square removes the sign.
 
-```text
-R(Δτ)
-  ∝ 1 / sinh²[ a(Δτ-iε)/(2c) ]
-```
-
-This is the scalar-response object B7 needs.
-
-### 6.4 Imaginary proper-time periodicity
-
-Since:
-
-```text
-sinh(z + iπ) = -sinh(z)
-```
-
-and the kernel contains `sinh²`, the pulled-back relatedness satisfies the imaginary proper-time periodicity:
-
-```text
-Δτ → Δτ + i 2πc/a
-```
-
-Therefore:
+So:
 
 ```text
 β_τ = 2πc/a
 ```
 
-This is the second positive result:
+The `2π` period is GR-owned at the scalar-skeleton level. What remains imported is the quantum reading that turns the analytic periodicity into Wightman/KMS thermal response.
 
-```text
-the 2π comes from hyperbolic frame-transport plus scalar analytic structure.
-```
-
-It is not supplied by detector mechanics. It is not fitted from the known Unruh value once the scalar kernel is accepted.
-
-### 6.5 Temperature conversion
-
-The period is a proper-time period. To read it thermally, import the scalar conversions:
-
-```text
-proper-time frequency → energy:
-  ℏ
-
-energy → temperature:
-  k_B
-```
-
-Thus:
+Convert proper-time period to temperature only after importing the thermodynamic/quantum scalars:
 
 ```text
 β_E = β_τ / ℏ
     = 2πc/(ℏ a)
-```
 
-and:
-
-```text
 T = 1/(k_B β_E)
   = ℏ a/(2π c k_B)
 ```
 
-So Run 1 reaches the exact scalar Unruh temperature form:
+So the exact scalar Unruh temperature form follows conditionally:
 
 ```text
 T = ℏ a/(2π c k_B)
 ```
 
-### 6.6 What was actually derived
-
-Derived in Run 1:
-
-```text
-1. acceleration as frame-transport through flow;
-2. hyperbolic worldline from constant proper acceleration;
-3. invariant separation along that worldline;
-4. sinh² pulled-back scalar form, given the scalar kernel;
-5. imaginary proper-time period β_τ = 2πc/a;
-6. Unruh temperature coefficient for scalar response, given ℏ and k_B.
-```
-
-Imported in Run 1:
-
-```text
-1. scalar two-place relatedness exists;
-2. its massless short-distance/null-cone kernel form;
-3. the iε / positive-frequency ordering prescription;
-4. the legitimacy of reading imaginary proper-time periodicity thermally;
-5. ℏ and k_B;
-6. the minimal detector-response interpretation.
-```
-
-Not derived:
-
-```text
-QFT as a theory;
-field quantization;
-Hilbert space;
-commutators;
-particle operators;
-renormalization;
-spin/statistics;
-interactions;
-gauge fields;
-non-abelian influence.
-```
-
-### 6.7 Verdict of Run 1
-
-Run 1 succeeds at the narrower target:
-
-```text
-scalar Unruh response skeleton
-from GR frame-transport + scalar relatedness import.
-```
-
-Run 1 does **not** derive QFT from GR.
-
-The exact grade is:
-
-```text
-positive structural computation:
-  yes, within scalar response
-
-full QFT derivation:
-  no
-
-main remaining import:
-  scalar Wightman/Hadamard-style relatedness with iε ordering
-```
-
-The live next question is whether the scalar kernel itself can be derived from MGR's influence floor plus Lorentz/GR interval structure, or whether it must remain an imported scalar.
+given scalar relatedness, the skeleton, and the temperature-reading imports.
 
 ---
 
-## 7. What this would and would not derive
+## 6. Gate 4 — positive frequency and iε
 
-Derived / framework-owned if the probe succeeds:
-
-```text
-worldline pullback target;
-acceleration as frame-transport scale;
-hyperbolic-sine pulled-back form;
-imaginary proper-time period 2πc/a;
-Unruh scaling and coefficient for scalar response;
-thermal response as rendering, not invariant particle bath.
-```
-
-Imported scalar ingredients:
+The B8/B7 skeleton is:
 
 ```text
-there is scalar phase-bearing relatedness at all;
-its singular short-distance kernel form;
-the iε / ordering prescription;
-ℏ;
-k_B.
+R_skel(x,x′) ∝ 1/σ(x,x′)
 ```
 
-Still not derived:
+The missing piece is not interval dependence. GR earned that.
+
+The missing piece is the state / ordering prescription:
 
 ```text
-Hilbert space;
-canonical commutation relations;
-field operator algebra;
-particle creation/annihilation machinery;
-spin/statistics;
-interactions;
-gauge fields;
-renormalization;
-full detector dynamics;
-non-abelian influence floor.
+iε;
+positive-frequency split;
+which side of the singularity is approached;
+which vacuum / state is being sampled.
 ```
 
-So the maximal honest phrase is:
+Do not fuse the prescriptions:
 
 ```text
-scalar response skeleton from GR + scalar relatedness
+retarded / advanced prescription:
+  causal support choice;
+  does influence propagate only to the future or only to the past?
+
+Feynman prescription:
+  time-ordered propagation;
+  positive energy forward, negative energy backward in the time-ordering formalism.
+
+Wightman / positive-frequency prescription:
+  vacuum correlation / state sampling;
+  chooses positive-frequency modes relative to a time-flow.
 ```
 
-not:
+MGR can pressure the first most strongly, locate the second, and only conditionally reach the third.
+
+### 6.1 Retarded ordering from cause
+
+MGR composition:
 
 ```text
-full QFT derived from GR
+cause = ordering + influence
 ```
 
-unless later work shows that the scalar kernel itself is forced by the same machinery.
+If influence is to be causal influence, then influence-expression must respect ordering:
+
+```text
+future-directed ordering:
+  event x can influence event y only if y lies in x's future cone
+```
+
+So MGR earns a retarded/advanced fork:
+
+```text
+retarded:
+  influence follows ordering
+
+advanced:
+  influence runs against ordering
+```
+
+Given the photon seed and cause composition, the retarded choice is native:
+
+```text
+cause = ordering + influence
+⇒ influence-expression is future-ordered
+⇒ retarded support is role-natural
+```
+
+This derives the need for a causal boundary prescription at the null singularity and privileges the retarded prescription for causal response. It does not derive Wightman `iε`.
+
+### 6.2 Positive frequency from flow-conjugacy
+
+Energy is the flow-conjugate face of energy-momentum.
+
+```text
+flow:
+  proper-time accrual along a timelike worldline
+
+energy:
+  conjugate to flow
+```
+
+A frequency decomposition relative to timelike flow is natural:
+
+```text
+mode ∼ e^{-iωτ}
+
+ω:
+  flow-frequency
+
+ℏω:
+  energy
+```
+
+Positive frequency means:
+
+```text
+positive energy relative to future-directed flow
+```
+
+So MGR locates the positive-frequency slot:
+
+```text
+positive-frequency = future-flow-compatible energy orientation
+```
+
+But the step from this slot to a selected vacuum correlation needs a further premise:
+
+```text
+stability / spectral condition:
+  the physically relevant state has no excitations of negative energy
+  relative to the chosen future-directed flow.
+```
+
+That condition is not pure GR. It is a quantum/state postulate or stability import.
+
+### 6.3 iε status
+
+Start with:
+
+```text
+R_skel(x,x′) ∝ 1/σ(x,x′)
+```
+
+The singularity lies at:
+
+```text
+σ = 0
+```
+
+To make this into a usable distribution, one must specify how the singularity is approached.
+
+MGR role pressure:
+
+```text
+ordering:
+  supplies future/past distinction
+
+flow:
+  supplies proper-time orientation and frequency decomposition
+
+influence:
+  supplies consequence-capable relatedness across the singular support
+```
+
+This earns:
+
+```text
+some ordering prescription is required;
+it cannot be left as a naked singularity.
+```
+
+For causal response, this gives a retarded `i0`-type prescription.
+
+For Wightman response, the prescription is stronger:
+
+```text
+ct - ct′ → ct - ct′ - iε
+```
+
+which selects positive-frequency vacuum correlations.
+
+That selection requires:
+
+```text
+1. a time-flow relative to which frequency is defined;
+2. a positive-energy / stability condition;
+3. a state called vacuum;
+4. a rule that the detector samples that state through a two-point function.
+```
+
+MGR gives (1) and locates (2). It does not derive (3) or (4).
+
+So:
+
+```text
+retarded i0:
+  role-derived / causal-response natural
+
+Wightman iε:
+  conditionally located, not derived
+```
 
 ---
 
-## 8. Failure conditions
+## 7. Gate 5 — positive energy and stability floor
 
-This B-note fails or demotes if:
-
-```text
-F1. The scalar kernel import already smuggles in the whole QFT structure.
-F2. The 2π coefficient depends on QFT machinery not contained in scalar interval-relatedness plus GR pullback.
-F3. The iε prescription cannot be licensed as scalar ordering data without importing field quantization.
-F4. Detector response / detailed balance cannot be stated without full QFT operator structure.
-F5. Acceleration changes only rendering language, not any calculable response structure.
-F6. The computation works only because the standard QFT result was silently chosen as the scalar kernel.
-```
-
-Run-1 status:
+For a flow-bearing observer/worldline with four-velocity `u`, the locally rendered energy of a momentum `p` is:
 
 ```text
-F1:
-  partially live — the scalar kernel is a serious import, but not full QFT by itself.
-
-F2:
-  not fired for the coefficient; 2π follows from hyperbolic pullback once scalar analytic structure is admitted.
-
-F3:
-  live — iε is the deepest unresolved import.
-
-F4:
-  live for detector rates; not live for the period/temperature skeleton.
-
-F5:
-  not fired — acceleration produces calculable imaginary proper-time periodicity.
-
-F6:
-  live hygiene risk — kernel must be justified independently, not reverse-engineered from Unruh.
+E(u,p) = -p · u
 ```
 
-F6 is the main hygiene risk. To avoid it, the scalar kernel must be stated before the accelerated pullback and justified independently as the minimal scalar relatedness object, not reverse-engineered from Unruh.
+with signature `(-,+,+,+)` and future-directed `u`.
+
+If `p` is future-directed causal and `u` is future-directed timelike, then:
+
+```text
+E(u,p) > 0
+```
+
+for nonzero physical `p`.
+
+MGR reading:
+
+```text
+flow:
+  future-directed proper-time accrual
+
+energy-momentum:
+  imported dimensionful primitive
+
+energy:
+  flow-conjugate rendering of energy-momentum
+
+positive energy:
+  energy-momentum aligned with future-directed flow
+```
+
+This is a real local result. It does not use QFT.
+
+With `ℏ` imported:
+
+```text
+E = ℏω
+```
+
+so:
+
+```text
+ω > 0 ⇔ E > 0
+```
+
+Thus:
+
+```text
+positive frequency = energy-momentum rendered positive by future-directed flow
+```
+
+This is MGR/GR-owned conditional on importing `ℏ` as the conversion between flow-frequency and energy.
+
+### 7.1 No-extra / no-missing audit
+
+Without a positive-energy orientation, frequency decomposition relative to flow is ambiguous:
+
+```text
+ω and -ω both appear as independent candidates.
+```
+
+But energy is already the flow-conjugate face of energy-momentum. Once future-directed flow is fixed, allowing both signs as independent physical orientations would leave detector response without a stable reference direction.
+
+So:
+
+```text
+future-directed flow requires a compatible energy orientation.
+```
+
+Negative-frequency components need not be independent physical energy directions. In a real scalar field, negative-frequency modes pair with complex conjugates; in quantum theory they become creation/annihilation bookkeeping. Either way, treating negative frequency as an independent physical bearer of negative energy would double-count the scalar degree or introduce unbounded instability.
+
+MGR reading:
+
+```text
+positive-frequency mode:
+  future-flow energy orientation
+
+negative-frequency partner:
+  conjugate/bookkeeping face or reverse orientation,
+  not an independent extra physical energy-flow content
+```
+
+This is a no-extra result, not a full quantum derivation.
+
+### 7.2 Stability floor
+
+A detector response requires a stable reference state. If arbitrary negative-energy excitations are physical, the response has no lower floor; excitation/de-excitation cannot be measured against a stable ground.
+
+B7 can derive the need for a stability floor:
+
+```text
+flow-indexed response requires a lower energy reference
+relative to the sampling flow.
+```
+
+But it cannot derive which state fills that role.
+
+Distinct claims:
+
+```text
+C1. future-directed flow gives positive local energy orientation;
+C2. positive frequency means positive energy relative to that flow;
+C3. stable response requires a lower energy floor;
+C4. there exists a unique vacuum state realizing that floor;
+C5. the detector samples that vacuum through a Wightman two-point function.
+```
+
+B7 earns C1–C3. It does not earn C4–C5.
+
+A vacuum is not merely a sign choice. It is a state selection. In QFT it depends on spectral structure, boundary conditions, global symmetries, and observer/congruence structure. In generic curved spacetime there may be no unique global positive-frequency split and no unique vacuum.
+
+So:
+
+```text
+local energy orientation:
+  GR / MGR-owned
+
+global vacuum/state selection:
+  quantum-state import
+```
 
 ---
 
-## 9. Relation to PB-4
+## 8. Conditional theorem
+
+The chain supports a conditional theorem:
+
+```text
+If:
+  scalar interval relatedness exists;
+  a future-directed flow is chosen;
+  energy is the flow-conjugate rendering of energy-momentum;
+  the scalar sector admits a stable lower-energy state relative to that flow;
+  detector uptake samples that state's two-point relatedness;
+
+then:
+  positive frequency is fixed as future-flow positive energy,
+  the Wightman iε sign is fixed by that orientation,
+  and uniform acceleration gives β_τ = 2πc/a.
+```
+
+This moves the import from a finished Wightman object to a smaller set:
+
+```text
+old import:
+  Wightman iε as a finished QFT object
+
+new import:
+  existence / selection of stable state
+  + two-point sampling rule
+  + KMS/detailed-balance interpretation
+```
+
+That is progress. It is not full derivation.
+
+---
+
+## 9. Relation to Unruh
+
+For Unruh, the subtlety is:
+
+```text
+Minkowski vacuum:
+  stable positive-energy state relative to inertial time
+
+accelerated detector:
+  samples that same state along accelerated flow
+```
+
+The chain now says:
+
+```text
+GR / LC earns:
+  scalar interval skeleton;
+  accelerated pullback;
+  2π imaginary proper-time period.
+
+MGR earns:
+  retarded causal orientation;
+  positive frequency as future-flow energy orientation;
+  need for stability floor.
+
+QFT imports:
+  the Minkowski vacuum as the state;
+  Wightman two-point sampling;
+  KMS/detailed-balance detector response.
+```
+
+This is the cleanest current split.
+
+---
+
+## 10. Relation to PB-4
 
 PB-4 says information constitution is frame-process/write-chain, not observer.
 
-B7 sharpens the frame-process side:
+This note sharpens the frame-process side:
 
 ```text
 frame-process is not merely a selected inertial frame;
@@ -575,7 +842,7 @@ constitution requires uptake/write at application scale.
 
 ---
 
-## 10. Relation to horizons
+## 11. Relation to horizons
 
 Uniform acceleration is the clean flat-spacetime laboratory. Horizons are the curved / access-boundary continuation.
 
@@ -603,37 +870,179 @@ but this is a later run. Do not import the full Hawking derivation here.
 
 ---
 
-## 11. Standing result
+## 12. Relation to influence floor
 
-B7's standing claim:
-
-```text
-acceleration = frame-transport through flow
-```
-
-and its computation probe:
+Influence floor:
 
 ```text
-Can scalar-response physics be derived from:
-  GR frame-transport
-  + scalar two-place relatedness
-  + scalar conversion constants?
+influence = consequence-capable phase-bearing relatedness
 ```
 
-Run-1 answer:
+The scalar face now reads:
 
 ```text
-yes for the scalar Unruh response skeleton;
-no for full QFT;
-open for deriving the scalar kernel itself.
+relatedness:
+  GR / LC earns the interval scalar skeleton.
+
+phase-bearing:
+  analytic/frequency orientation is tied to future-flow energy orientation;
+  full quantum phase/vacuum structure still imported.
+
+consequence-capable:
+  causal/retarded response is role-natural;
+  actual detector uptake and threshold remain application-supplied.
 ```
 
-If the scalar kernel can later be earned, the framework gets a positive result stronger than a prohibition:
+Current scalar face:
 
 ```text
-GR geometry does not merely host QFT response;
-for the scalar response skeleton, GR frame-transport computes it
-once minimal scalar relatedness is imported.
+scalar phase-bearing relatedness
+= interval-governed two-place relatedness
+  with future-flow energy orientation,
+  sampled from a stable state when such a state is supplied.
 ```
 
-That is the live edge. It is not a completed derivation of QFT; it is the first clean place where MGR derives a QFT-like thermal response without importing QFT as a whole.
+This is not the whole influence floor. It is the scalar face.
+
+---
+
+## 13. What was actually derived
+
+Derived / framework-owned:
+
+```text
+1. acceleration as frame-transport through flow;
+2. scalar wave operator from Levi-Civita structure, given scalar assumptions;
+3. interval/world-function dependence;
+4. leading 1/σ scalar skeleton in 4D;
+5. hyperbolic pullback of scalar relatedness under uniform acceleration;
+6. imaginary proper-time period β_τ = 2πc/a;
+7. retarded causal support as role-natural;
+8. positive frequency as future-flow energy orientation;
+9. need for a stability floor.
+```
+
+Imported / not derived:
+
+```text
+1. existence of scalar relatedness/probe;
+2. second-order linear local scalar dynamics;
+3. massless/scale-free scalar sector;
+4. ℏ and k_B;
+5. curvature coupling ξ in curved sectors;
+6. stable state / vacuum selection;
+7. Wightman two-point sampling;
+8. KMS/detailed-balance thermal interpretation;
+9. detector transition probabilities;
+10. Hilbert space / operator algebra / particle machinery;
+11. spin, gauge fields, interactions, renormalization;
+12. non-abelian influence floor.
+```
+
+Not derived:
+
+```text
+QFT as a theory;
+field quantization;
+unique vacuum in generic curved spacetime;
+full detector dynamics;
+full information constitution.
+```
+
+---
+
+## 14. Failure / demotion conditions
+
+This chain demotes if:
+
+```text
+F1. Frame-transport cannot be distinguished from mere velocity/rendering relation.
+F2. The scalar operator is not forced by the stated scalar assumptions.
+F3. The 1/σ skeleton can be replaced by another interval function without adding a scale or violating the wave equation.
+F4. The accelerated pullback's 2π period depends on QFT iε rather than hyperbolic geometry.
+F5. Retarded causal support cannot be derived from ordering + influence.
+F6. Positive frequency cannot be tied to positive flow-energy orientation.
+F7. Negative-frequency partners must be treated as independent physical negative-energy content rather than conjugate/bookkeeping or reverse-orientation content.
+F8. Stable detector response does not require any lower energy reference.
+F9. The thermal interpretation cannot be separated from the analytic period itself.
+F10. The scalar assumptions are judged to smuggle in too much field theory.
+```
+
+Current status:
+
+```text
+F1:
+  not fired — acceleration is covariant frame-transport through flow.
+
+F2:
+  not fired in the flat massless scalar sector; curvature-coupling ambiguity remains.
+
+F3:
+  not fired for the leading local 4D skeleton.
+
+F4:
+  not fired for periodicity; iε matters for Wightman/KMS ordering, not for the existence of 2π.
+
+F5:
+  not fired — retarded causal support follows from cause = ordering + influence.
+
+F6:
+  not fired once ℏ is admitted as frequency-energy conversion.
+
+F7:
+  not fired as stated; independent negative-energy content would create extra/double-counting or instability.
+
+F8:
+  not fired; response needs a stable reference.
+
+F9:
+  live — KMS/detailed balance remains a quantum/statistical import.
+
+F10:
+  live — scalar field assumptions are smaller than QFT but not zero.
+```
+
+---
+
+## 15. Standing result
+
+Standing result:
+
+```text
+Acceleration = frame-transport through flow.
+```
+
+Scalar-response result:
+
+```text
+MGR + GR/LC can derive the scalar interval-response skeleton
+and the Unruh 2π period.
+```
+
+Boundary:
+
+```text
+GR/LC:
+  scalar interval skeleton
+
+MGR roles:
+  retarded causal support;
+  positive frequency as future-flow energy orientation;
+  need for a stability floor
+
+QFT/imported quantum state:
+  existence / selection of the vacuum;
+  Wightman two-point sampling;
+  KMS / detailed balance;
+  detector transition probabilities
+```
+
+The next disciplined run is not “derive the vacuum” in general. In generic curved spacetime, there may be no unique vacuum. The narrower next wall is:
+
+```text
+Can MGR derive a local Hadamard/stability condition
+as the minimal admissible scalar state condition,
+without choosing a global vacuum?
+```
+
+That is the live edge.
