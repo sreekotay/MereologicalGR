@@ -231,22 +231,48 @@ magnitude disowned
 standard extensions price the coupling
 ```
 
-This option is more natural because it preserves the framework's uniformity move: the geometry cell already pairs generator/coupling faces, and torsion is the obvious dual to curvature under affine closure failure.
+This option is more natural because it preserves the framework's uniformity move: the geometry cell already has companion closure-failure faces, and torsion is the obvious dual to curvature under affine closure failure.
 
 ## 7. Structural pairing
 
-In Einstein-Cartan / Poincaré-gauge gravity, the schematic pairing is clean:
+In Einstein-Cartan / Poincaré-gauge gravity, two related pairings are present and must not be fused.
+
+### 7.1 Gauge-field-strength pairing
+
+One kinematic/gauge-theoretic pairing is:
 
 ```text
 translation gauge structure:
   coframe / solder form
   field-strength face: torsion
-  current: energy-momentum
 
 Lorentz rotation gauge structure:
   spin connection
   field-strength face: curvature
-  current: spin / angular momentum
+```
+
+This is a gauge-geometry pairing. It says which field strengths correspond to which gauge structures.
+
+### 7.2 Source / field-equation pairing
+
+A different source/equation pairing, in Einstein-Cartan-type formulations, is:
+
+```text
+energy-momentum:
+  source in the curvature / metric field equation
+
+spin / angular-momentum current:
+  source in the torsion equation
+```
+
+This is the pairing the framework's structural bet uses.
+
+Guardrail:
+
+```text
+Do not infer "spin's geometric home is torsion" simpliciter.
+Spin's immediate mathematical home is Lorentz representation / spin-connection structure.
+In EC/Poincaré-gauge completions, an independent spin current sources or activates torsion.
 ```
 
 Different conventions distribute the currents and field strengths differently, and GR often Belinfante-symmetrizes spin into a symmetric stress-energy tensor. The framework does not own those technical choices.
@@ -262,8 +288,8 @@ torsion is the corresponding translational closure-failure face in EC/Poincaré-
 Framework projection:
 
 ```text
-energy-momentum → curvature
-spin / rotational current → torsion
+energy-momentum → curvature-sector equation
+spin / rotational current → torsion-sector equation
 ```
 
 with magnitude disowned.
@@ -368,7 +394,7 @@ The framework should state the torsion prediction as a structural bet, not a mag
    torsion is the natural companion cell.
 
 4. The structural bet is:
-   spin / rotational current → torsion.
+   spin / rotational current → torsion-sector equation.
 
 5. Magnitude is externally priced and likely tiny in ordinary regimes;
    the framework does not derive the coupling strength.
@@ -431,7 +457,7 @@ Internal audit:
   current torsion-free inheritance is not framework-forced unless a role-reason is supplied
 
 Structural bet candidate:
-  spin / rotational current → torsion
+  spin / rotational current → torsion-sector equation
   PB-1-grade companion-cell projection
   magnitude disowned
 
