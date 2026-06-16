@@ -1,59 +1,74 @@
 # B4 — Hawking Radiation and Ordering Collapse
 
-Status: working contact note / calibration-aware clarifier.  
-Grade: clarifier / role-diagnostic, with two genuine increments over the parent: a four-site disaggregation and an observational-status map. GB-2 loss-edge contact is a candidate, not sealed. The null-constitution statement is a stipulation-consequence of GB-3, not a Hawking-derived prediction.
+*Working draft, June 2026.*
 
-Core calibration rule:
+Status: B-note / Hawking black-hole contact / calibration-aware clarifier.  
+Primary target: GB-2 loss-edge, GB-3 null constitution, and PB-4 uptake/write discipline.  
+Grade: clarifier and role-diagnostic. Not a derivation of Hawking radiation, Page recovery, or quantum gravity.
+
+B4's claim is simple:
 
 ```text
-Calibration is not failure.
-Fitting is failure.
-
-A scalar may be observed or externally supplied.
-A structure must be earned.
+black-hole narration fuses four sites;
+B4 separates them.
 ```
 
-B4 therefore does not treat Hawking magnitudes as illegitimate. It treats them as externally supplied or calibrated unless the framework has actually earned the role-route, dependency, or scale-form.
+Those four sites are:
+
+```text
+horizon:
+  access boundary / area-law accounting / exterior slicing
+
+radiation:
+  outgoing channel / exterior record stream
+
+singularity:
+  classical ordering-collapse / invariant continuation failure
+
+Page-QES:
+  theoretical recoverability cut / entropy-accounting transition
+```
+
+The core result:
+
+```text
+No standard black-hole observable currently requires an independent
+information-constitution term located on null horizon generators or in null radiation transit.
+Constitution sits at flow-bearing exterior uptake.
+```
+
+B4 does not reject Hawking numbers. It refuses to treat unearned information-constitution structure as if it had been measured or derived.
+
+Calibration is not failure. Fitting is failure. A scalar may be observed; a structure must be earned.
 
 ---
 
-## 0. Scope, and what is not re-derived here
+## 1. The four-site separation
 
-The Page-curve reading, the moving recoverability cut, the static-cut could-have-failed, and the QES split are developed upstream. B4 does not re-derive them.
-
-What B4 adds is narrow:
+Ordinary black-hole narration often slides among horizon, radiation, singularity, and Page/QES accounting. MGR needs those kept apart.
 
 ```text
-1. a four-site disaggregation:
-   horizon / radiation / singularity / Page-QES;
+horizon:
+  boundary of exterior access;
+  area-law accounting surface;
+  not automatically a constitution site.
 
-2. an observational-status map:
-   what is observed, what is inferred, what is theoretical;
+radiation:
+  outgoing exterior channel;
+  can be taken up by detectors;
+  not constituted information while merely in null/near-null transit.
 
-3. a calibration-aware engine-eligibility reading:
-   where the framework owns role-location versus where standard theory supplies scalars.
+singularity:
+  classical geodesic termination;
+  invariant continuation failure;
+  candidate ordering-collapse edge.
+
+Page-QES:
+  entropy-accounting / recoverability transition;
+  theoretical, not direct observation.
 ```
 
-The note does **not** derive Hawking radiation, its temperature, the Page curve, greybody factors, species dependence, or evaporation time. It imports standard quantities, assigns their role-location, separates calibration from derivation, and records what GB-3 already entails for this case.
-
----
-
-## 1. Claims under test
-
-```text
-GB-2:
-  information-stranding-at-an-edge ⟺ ordering-collapse;
-  black-hole-relevant clause: the loss edge.
-
-GB-3:
-  no null structure constitutes information.
-
-PB-4 family:
-  information is constituted by flow-bearing uptake / frame-process,
-  not by a null carrier in flight.
-```
-
-For the loss edge:
+The loss-edge contact is therefore narrow:
 
 ```text
 classical singularity
@@ -63,11 +78,53 @@ classical singularity
 → stranding threat
 ```
 
-For GB-3/PB-4, the live clause is where radiation becomes a constituted record: at flow-bearing exterior uptake, not on null horizon generators or null radiation in transit.
+Observer-relative horizons do not automatically count as ordering-collapse. Rindler and de Sitter horizons can be horizon-rich without being invariant stranding edges.
 
 ---
 
-## 2. Quantitative imports and calibration boundary
+## 2. Null transit is not constitution
+
+GB-3 says:
+
+```text
+no null structure constitutes information by itself
+```
+
+For the black-hole case, the live clause is:
+
+```text
+radiation can become a record at flow-bearing exterior uptake;
+constitution does not occur on the null generator or in radiation transit itself.
+```
+
+It is tempting to introduce a magnitude-shaped statement:
+
+```text
+ε_null-constitution = 0
+```
+
+B4 declines to present that as a prediction.
+
+Why:
+
+```text
+1. It re-emits GB-3 rather than deriving something from Hawking physics.
+2. It risks an unfalsifiable absorbing re-description.
+3. A magnitude-shaped epsilon with no equation or measurement role is magnitude theater.
+```
+
+Honest statement:
+
+```text
+No black-hole observable in standard accounting currently requires a fourth
+information-constitution scalar on null structure.
+```
+
+This is a clarifier, not a witness.
+
+---
+
+## 3. Hawking scalars are calibrated/imported, not dirty
 
 Four-dimensional, neutral, non-rotating Schwarzschild quantities:
 
@@ -91,6 +148,7 @@ Calibration-aware split:
 
 ```text
 framework may own, where earned:
+  site separation;
   role-location;
   route through horizon/access/flow structure;
   scale-form or dependency;
@@ -105,23 +163,25 @@ external theory / calibration supplies:
   observed or bounded population parameters.
 ```
 
-So the framework may use:
+So B4 may use:
 
 ```text
 S_BH ∝ M² ; T_H ∝ M⁻¹ ; P ∝ M⁻² ; t_evap ∝ M³
 ```
 
-as externally supplied scale structure, but it does not own the coefficients or full radiation calculation unless separately earned.
+as externally supplied scale structure. It does not own the full radiation calculation or its coefficients.
 
 ---
 
-## 3. Role assignment from the scalings
+## 4. What the scalings locate
+
+The scalings are useful because they locate roles.
 
 ```text
 S_BH(M) ∝ M²:
-  boundary capacity / area record.
-  Sharp reading: entanglement area-law, adjacency-side, rate 1/4G_N externally supplied.
-  Not a constitution site.
+  boundary capacity / area record;
+  adjacency-side accounting;
+  not a constitution site.
 
 T_H(M) ∝ M⁻¹:
   exterior thermality of the Hawking channel;
@@ -141,69 +201,34 @@ S_rad(t):
   theoretical accounting, not directly measured for real black holes.
 ```
 
-The whole quantitative content lives in standard imported or calibrated functions. The framework adds no fourth scalar for information constitution.
-
----
-
-## 4. The null-constitution statement
-
-It is tempting to write:
-
-```text
-ε_null-constitution = 0
-```
-
-B4 declines to present that as a prediction.
-
-Reasons:
-
-```text
-1. It is GB-3 re-emitted, not derived from Hawking physics.
-2. The would-be falsifier risks being sealed by an absorbing re-description clause.
-3. A magnitude-shaped epsilon with no equation or measurement role is magnitude theater.
-```
-
-Honest statement:
-
-```text
-No black-hole observable in standard accounting currently requires an independent
-information-constitution term located on null horizon generators or in null/near-null
-radiation transit. Constitution sits at flow-bearing exterior uptake.
-```
-
-Grade:
-
-```text
-clarifier;
-consistent-not-proven;
-not a witness;
-not a new number.
-```
+The framework adds no fourth scalar for information constitution.
 
 ---
 
 ## 5. Observational status
 
+The observational map is uneven:
+
 ```text
 Exterior GR black-hole behavior:
-  observed / strongly constrained by shadows, accretion environments, mergers, and ringdown.
-  Tests exterior geometry / near-horizon boundary behavior.
-  Does not observe singularity or horizon constitution.
+  observed / strongly constrained by shadows, accretion environments, mergers, and ringdown;
+  tests exterior geometry / near-horizon boundary behavior;
+  does not observe singularity or horizon constitution.
 
 Astrophysical Hawking radiation:
-  not directly observed.
-  Stellar and supermassive holes are far colder than the CMB.
-  Primordial-black-hole evaporation searches constrain populations;
+  not directly observed;
+  stellar and supermassive holes are far colder than the CMB;
+  primordial-black-hole evaporation searches constrain populations;
   no confirmed evaporation event.
 
 Analogue Hawking radiation:
-  reported in analogue systems.
-  Supports horizon / mode-mixing kinematics only.
-  Not a gravitational test; tests no singularity, Page curve, or QES island.
+  reported in analogue systems;
+  supports horizon / mode-mixing kinematics only;
+  not a gravitational test of singularity, Page curve, or QES island.
 
 Page curve / QES / islands:
-  theoretical entropy-accounting result.
-  Not measured for any real black hole.
+  theoretical entropy-accounting result;
+  not measured for any real black hole.
 
 Singularity:
   unobserved;
@@ -215,146 +240,127 @@ Disciplined read:
 
 ```text
 Observed exteriors are GR-like.
-No observation currently requires an information-constitution term on a horizon /
-null generator. No direct observation of Hawking radiation or Page recovery currently
-forces a revision of the role map.
+No observation currently requires an information-constitution term on a horizon or null generator.
+No direct observation of Hawking radiation or Page recovery currently forces a revision of the role map.
 ```
 
-The null-constitution claim is unfalsified and consistent with observation, not experimentally proven.
+The null-constitution claim is consistent with observation and unfalsified. It is not experimentally proven.
 
 ---
 
 ## 6. Engine-eligibility
 
-The discriminator:
+A test carries forced-number weight only if it varies the write:
 
 ```text
-a test carries forced-number weight only if it varies the write
-(the flow-bearing constitution event),
-not merely the correlation fed into it.
+the flow-bearing constitution event
 ```
 
-For ordinary Hawking detection:
+not merely the correlation fed into it.
+
+Ordinary Hawking detection:
 
 ```text
 Detecting Hawking quanta
 = taking up exterior radiation on ordinary exterior detectors.
+```
 
 This varies the correlation:
-  which quanta, what spectrum, what entanglement.
+
+```text
+which quanta;
+what spectrum;
+what entanglement.
+```
 
 It holds the write fixed:
-  same-frame exterior uptake.
 
-Therefore:
-  clarifier by structure, however much correlation is manipulated.
+```text
+same-frame exterior uptake.
 ```
 
-The one sub-case that is not held-fixed is recovery requiring different causal access at constitution, such as trans-horizon / island reconstruction. That is the write-varying, engine-eligible part of the black-hole story.
+Therefore ordinary Hawking detection is clarifier-grade for PB-4/GB-3, however important it is physically.
+
+The potentially engine-eligible subcase is different causal access at constitution: trans-horizon / island reconstruction / causal-access-at-write. That is where the black-hole story could become more than correlation bookkeeping for MGR.
 
 ---
 
-## 7. Four-site disaggregation
+## 7. What B4 adds
 
-Ordinary black-hole narration fuses four sites:
+B4 adds three things:
 
 ```text
-horizon:
-  access boundary / area-law accounting / exterior slicing.
+1. site separation:
+   horizon ≠ radiation ≠ singularity ≠ Page-QES.
 
-radiation:
-  outgoing channel / exterior record stream.
+2. null-constitution discipline:
+   null transit is not constituted information;
+   exterior flow-bearing uptake is the constitution site.
 
-singularity:
-  classical ordering-collapse / invariant continuation failure.
-
-Page-QES:
-  theoretical recoverability cut / entropy-accounting transition.
+3. calibration-aware scalar discipline:
+   Hawking numbers are allowed;
+   unearned information-constitution scalars are not.
 ```
 
-B4's role is to keep them separated.
+It does not derive:
 
 ```text
-horizon ≠ constitution site by default;
-radiation transit ≠ constituted information by default;
-singularity = candidate ordering-collapse edge;
-Page-QES = theoretical recoverability accounting, not direct observation.
+Hawking radiation;
+Hawking temperature;
+Page curve;
+greybody factors;
+species dependence;
+evaporation time;
+QES islands;
+quantum gravity completion.
 ```
 
 ---
 
-## 8. Relation to calibration rule
-
-B4 now uses A0's calibration rule:
-
-```text
-Allowed:
-  derive or import the role-route / scale-form first;
-  then use external theory or observation to fill scalars.
-
-Not allowed:
-  choose a new information-constitution scalar because the black-hole story wants one;
-  then call its absence a prediction.
-```
-
-So B4's disciplined stance is not anti-number. It is anti-unearned-number.
-
----
-
-## 9. Findings
-
-1. **B4 remains a clarifier / role-diagnostic.**  
-   It separates horizon, radiation, singularity, and Page-QES sites.
-
-2. **Hawking magnitudes are externally supplied or calibrated.**  
-   The framework may use their role-location and scale behavior, but does not own their coefficients.
-
-3. **No fourth information-constitution scalar is introduced.**  
-   Not because calibrated scalars are disallowed, but because no independently earned structure requires such a slot.
-
-4. **The loss-edge contact is live but not sealed.**  
-   The black-hole case supports the loss-edge side of GB-2 only as a theoretical pressure test, not as direct observation.
-
-5. **Null constitution remains a GB-3 consequence.**  
-   Hawking does not derive it; Hawking remains consistent with it.
-
-6. **The engine-eligible part is causal-access-at-write.**  
-   Correlation manipulations alone remain clarifiers; changes to what can be reached at constitution are the live edge.
-
----
-
-## 10. Compact result
-
-```text
-Black-hole exterior:
-  observed / constrained; GR-like.
-
-Hawking radiation:
-  theoretical / indirectly constrained; not directly observed astrophysically.
-
-Page-QES:
-  theoretical entropy accounting; not direct measurement.
-
-Singularity:
-  classical ordering-collapse candidate; unobserved.
+## 8. Ledger
 
 Framework-owned:
-  site separation;
-  role-location;
-  no extra constitution scalar without earned structure;
-  engine-eligibility diagnosis.
+
+```text
+site separation;
+role-location;
+no extra constitution scalar without earned structure;
+engine-eligibility diagnosis;
+GB-3 consistency check for null transit.
+```
 
 Externally supplied / calibrated:
-  Hawking temperature;
-  entropy coefficient;
-  greybody/species corrections;
-  Page curve machinery;
-  evaporation rates;
-  QG completion.
+
+```text
+Hawking temperature;
+entropy coefficient;
+greybody/species corrections;
+Page curve machinery;
+evaporation rates;
+QG completion;
+observed or bounded black-hole populations.
+```
+
+Demotion / failure conditions:
+
+```text
+a black-hole observable requires an independent information-constitution term on null structure;
+constitution facts covary with horizon/null transit while exterior uptake is fixed;
+Page/QES recovery forces a different write-site rather than a recoverability accounting update;
+observational status changes and direct Hawking/Page evidence forces the role map to move.
+```
+
+Standing result:
+
+```text
+B4 is a clarifier / role-diagnostic.
+The loss-edge contact is live but not sealed.
+Null constitution remains a GB-3 consequence, not a Hawking-derived prediction.
 ```
 
 One-line form:
 
 ```text
-B4 does not reject Hawking numbers; it refuses to treat unearned information-constitution structure as if it had been measured or derived.
+B4 does not reject Hawking numbers; it refuses to treat unearned
+information-constitution structure as if it had been measured or derived.
 ```
