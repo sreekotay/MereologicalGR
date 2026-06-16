@@ -294,7 +294,7 @@ This gives A2 computational room without changing its scope. Redshift, geodesic 
 
 ## 6. Computational handles
 
-The transport reading is useful only if it points to real GR quantities. A2 therefore keeps the handles imported, and states only what role they expose.
+The transport reading is useful only if it points to real GR quantities. A2 therefore keeps the handles imported, and states only what role they expose. Importing GR wholesale is allowed here; the guardrail is only that pure coordinate choice or arbitrary tetrad relabeling is not counted as frame-transport unless an invariant or operationally fixed comparison, acceleration, holonomy, response, or closure fact changes.
 
 ```text
 redshift / rendered energy:

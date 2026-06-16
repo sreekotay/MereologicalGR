@@ -13,7 +13,7 @@ velocity relates frames;
 acceleration transports frames through flow.
 ```
 
-More precisely: proper acceleration is the non-geodesic / forced component of frame-transport along a timelike flow. Frame-transport is broader than proper acceleration; curvature, rotation, tetrad choice, and holonomy can also affect frame transport. B7 uses uniform proper acceleration because it gives the clean scalar-response computation.
+More precisely: proper acceleration is the non-geodesic / forced component of frame-transport along a timelike flow. Frame-transport is broader than proper acceleration, but it is not arbitrary tetrad relabeling or coordinate bookkeeping. It names invariant or operationally fixed frame change / comparison as priced by the imported GR transport structure: along a flow, between nearby flows, around loops, or through any live torsion sector. B7 uses uniform proper acceleration because it gives the clean scalar-response computation.
 
 Once acceleration is read this way, the scalar Unruh response has a GR/MGR skeleton. Metric/Levi-Civita structure gives the natural scalar propagation operator once a scalar sector is admitted. The flat massless scalar sector gives the local interval singularity. Uniform acceleration pulls that skeleton onto a hyperbolic worldline. The resulting `sinh²` form has imaginary proper-time period `2πc/a`.
 
@@ -35,7 +35,8 @@ rendering = content-through-frame
 B7 adds one operation:
 
 ```text
-frame-transport = change of frame-basis along flow
+frame-transport =
+  invariant or operationally fixed frame change / comparison through GR transport
 ```
 
 Four-acceleration is the covariant rate at which the flow-leg fails to transport inertially:
@@ -64,13 +65,15 @@ proper acceleration:
   changes the instantaneous comoving frame through flow
 ```
 
-An inertial worldline carries its local frame without turning. An accelerated worldline continually changes its instantaneous comoving inertial frame. That change is physical frame-transport, not observer psychology.
+An inertial worldline carries its local frame without turning. An accelerated worldline continually changes its instantaneous comoving inertial frame. That change is invariantly measurable frame-transport, not observer psychology.
 
 Guardrail:
 
 ```text
 frame-transport:
-  broader operation
+  GR-imported transport/comparison operation;
+  broader than proper acceleration;
+  not pure frame-gauge choice
 
 proper acceleration:
   non-geodesic / forced frame-transport along timelike flow

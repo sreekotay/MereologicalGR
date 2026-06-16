@@ -16,7 +16,7 @@ General relativity is held fixed as the mathematical ground. MGR does not modify
 
 The founding datum is the photon under GR: along null propagation, proper time is zero, yet causal ordering and effect-capacity remain. The photon therefore exhibits cause without flow. That does not refute GR; it unfuses a role-bundle GR already permits. Cause cannot be identical with temporal flow. The seed separates ordering, influence, and flow: ordering and influence remain at the null corner; flow is stripped.
 
-The second hinge is acceleration under GR. A flow-bearing worldline can transport its frame-basis non-inertially; proper acceleration is the cleanest local measurable face of that transport. Acceleration therefore shows that a frame is not merely a passive label: frame-transport can change how influence is rendered before any uptake/write occurs.
+The second hinge is acceleration under GR. A flow-bearing worldline can transport its physically carried frame-basis non-inertially; proper acceleration is the cleanest local measurable face of that transport. Acceleration therefore shows that a frame is not merely a passive label: frame-transport that changes an invariant or operationally fixed comparison can change how influence is rendered before any uptake/write occurs.
 
 The central claim of A0 is methodological: some GR-native objects are mereologically fused. The metric, source, frame, tetrad, and worldline machinery already perform multiple roles, but GR has no reason to name those roles separately because its equations work without doing so. MGR names the roles and tests whether the named parts compose cleanly.
 
@@ -50,7 +50,13 @@ A0 carries no witness weight. It is the map and method by which claims are forme
 
 ## Conceit
 
-The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. Influence, met first as effect-substrate, is floored as consequence-capable phase-bearing relatedness. Frame-transport then names the operation by which a flow-bearing frame changes while rendering that influence. The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Retrodiction is therefore not disqualifying by itself: the judgment rests on whether the derivation lineage is distinct from the later landing.
+The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. Influence, met first as effect-substrate, is floored as consequence-capable phase-bearing relatedness. Frame-transport then names the operation by which a physically carried or compared frame changes while rendering that influence. The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Retrodiction is therefore not disqualifying by itself: the judgment rests on whether the derivation lineage is distinct from the later landing.
+
+Consider: a working physical theory and a mereologically complete account of what the theory is talking about are different objects. Physical practice often treats "the equations close and predict" as if it also meant "the roles are named and audited." GR's equations work precisely because they can bundle ordering, influence, flow, adjacency, and energy-momentum into the metric and the connection without ever separating them; predictive success removed the pressure to disambiguate. So the bundling is not a defect that hurt physics. It is easy to miss exactly because the theory succeeds. A0 therefore treats success and mereological legibility as independent axes.
+
+The torsion-free GR sector is the in-house example. Levi-Civita transport closes the standard theory with extraordinary success, while the curvature / torsion split still shows that rotational closure failure and translational closure failure are distinct roles. GR can set torsion to zero and remain predictively complete; A0 can still ask what role was set empty, imported, or left unpriced.
+
+A note on rigor: A0 resists defining structural identities, or promoting compositions toward identity claims, until the audit has produced enough role, dependency, and missing/extra information to justify the move.
 
 ---
 
@@ -230,17 +236,20 @@ transports its rendering basis, and that this transport can change which
 influence becomes response-capable before any information is written.
 ```
 
-Proper acceleration is one measurable local face of frame-transport:
+Proper acceleration is one measurable local face of invariant / operational frame-transport:
 
 ```text
 proper acceleration:
   non-geodesic / forced frame-transport along timelike flow
 
 frame-transport:
-  broader operation;
-  includes comparison / transport of frame-basis along flow,
-  and can also be affected by curvature, rotation, tetrad choice,
-  holonomy, and any live torsion sector.
+  invariant or operationally fixed comparison / transport of a frame-basis
+  along flow, between nearby flows, or around loops;
+  imported from GR's connection / curvature machinery where GR is the live sector.
+
+not counted by itself:
+  arbitrary tetrad relabeling, coordinate choice, or pure basis bookkeeping
+  with no changed invariant comparison, acceleration, holonomy, response, or closure fact.
 ```
 
 This sharpens influence. Influence is floored as:
@@ -524,6 +533,8 @@ Energy-momentum is not a fifth boolean axis in the role lattice. It grades cells
 
 ## 9. Composition grammar
 
+In the grammar below, `+` is not numerical addition, set union, or fusion into a new substance. It means role co-requirement: the named whole is constituted only when each listed role is present and no unaccounted role is doing the work.
+
 The current grammar is:
 
 ```text
@@ -541,6 +552,8 @@ gravity = ordering + influence + energy-momentum
 ```
 
 These are compositions, not declarations of irreducible atoms.
+
+Thus `information = ordering + influence + flow` means that information-grade constitution requires ordering, consequence-capable influence, and flow-bearing uptake. It does not mean those roles are homogeneous terms.
 
 A role may later decompose. A composite may later unfuse. A named operation may reduce to a composition. Naming is not freezing; naming is auditability.
 
@@ -583,8 +596,10 @@ rendering:
   content-through-frame
 
 frame-transport:
-  change of frame-basis along flow;
-  broader than proper acceleration
+  invariant or operationally fixed change / comparison of frame-basis
+  along flow, between nearby flows, or around loops;
+  broader than proper acceleration;
+  not mere tetrad relabeling
 
 uptake:
   influence-into-flow
@@ -662,8 +677,10 @@ rendering:
   content-through-frame
 
 frame-transport:
-  change of frame-basis along flow;
-  broader than proper acceleration
+  invariant or operationally fixed change / comparison of frame-basis
+  along flow, between nearby flows, or around loops;
+  broader than proper acceleration;
+  not mere tetrad relabeling
 
 proper acceleration:
   non-geodesic / forced component of frame-transport along timelike flow;
@@ -683,7 +700,7 @@ rendering:
   content becomes frame-relative
 
 frame-transport:
-  frame changes through flow
+  physically carried or compared frame changes through GR transport
 
 proper acceleration:
   one measurable non-geodesic face of frame-transport
@@ -702,7 +719,7 @@ Does rendering reduce to:
   content + frame + projection/contraction?
 
 Does frame-transport reduce to:
-  frame + flow + connection / covariant transport?
+  frame + flow + invariant or operationally fixed connection / covariant transport?
 
 Does uptake reduce to:
   influence + flow + coupling + flow-bearing register + threshold?
@@ -747,7 +764,7 @@ GR-first extraction:
 ```text
 frame = ordering + flow + adjacency
 rendering = content-through-frame
-frame-transport = frame changes along flow
+frame-transport = invariant or operationally fixed frame change / comparison through GR transport
 ```
 
 Quantum stress test:
@@ -872,7 +889,9 @@ rendering:
 frame-transport:
   operation under audit;
   not a peer role;
-  broader than proper acceleration
+  invariant or operationally fixed GR-transport comparison;
+  broader than proper acceleration;
+  not pure basis bookkeeping
 
 uptake:
   operation under audit
@@ -1146,7 +1165,7 @@ Compositions:
 
 Operations under audit:
   rendering = content-through-frame
-  frame-transport = frame changes along flow
+  frame-transport = invariant or operationally fixed frame change / comparison through GR transport
   uptake = influence-into-flow
   constitution = uptake reaching application consequence
 
