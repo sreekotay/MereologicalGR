@@ -6,18 +6,32 @@ Status: B-note / positive-computation chain.
 Primary target: A0 rendering/uptake seam, A1 PB-4, and B6 temperature/information discipline.  
 Grade: positive partial derivation + boundary audit. Not a derivation of full QFT.
 
-B7's claim is simple:
+B7 separates three frame-transport bets:
 
 ```text
-velocity relates frames;
-acceleration transports frames through flow.
+FT-1:
+  frame-transport is physically real;
+  carried / comparison structure can change observables.
+
+FT-2:
+  proper acceleration is the local residue of non-geodesic self-transport of flow;
+  this is the Levi-Civita face of the frame-transport bet.
+
+FT-3:
+  the Unruh scalar-response skeleton can be role-located through
+  flow self-transport / rendering rather than only bare worldline pullback;
+  live projection, tested but not sealed by B7.
 ```
 
-More precisely: proper acceleration is the non-geodesic / forced component of frame-transport along a timelike flow. Frame-transport is broader than proper acceleration, but it is not arbitrary tetrad relabeling or coordinate bookkeeping. It names invariant or operationally fixed frame change / comparison as priced by the imported GR transport structure: along a flow, between nearby flows, around loops, or through any live torsion sector. B7 uses uniform proper acceleration because it gives the clean scalar-response computation.
+FT-1 is the broader axis. It is supported by ordinary GR and quantum handles: gyroscope precession, spin transport, holonomy, spin-rotation coupling, polarization transport, and related carried-vector / carried-frame effects. FT-2 and FT-3 are narrower. B7 reads proper acceleration first as a Levi-Civita self-transport fact: the flow direction is compared with itself along its own path, and the nonzero residue is `a^mu = u^nu nabla_nu u^mu`. That is stronger than a slogan and weaker than a full identity between acceleration and all frame-transport. It says acceleration exposes the flow-leg face of frame-transport.
 
-Once acceleration is read this way, the scalar Unruh response has a GR/MGR skeleton. Metric/Levi-Civita structure gives the natural scalar propagation operator once a scalar sector is admitted. The flat massless scalar sector gives the local interval singularity. Uniform acceleration pulls that skeleton onto a hyperbolic worldline. The resulting `sinh²` form has imaginary proper-time period `2πc/a`.
+The richer carried-frame-basis claim is separate. A tetrad, spin axis, polarization basis, or detector orientation can also be transported, and those richer cases are where FT-1 has broad external support. The scalar Unruh run does not display that orientation-sensitive basis. Its question is narrower: whether the response is exhausted by bare worldline pullback or whether the worldline already carries a flow/self-transport status that belongs in the rendering route.
 
-That earns the scalar-response skeleton and the Unruh period. It does not earn the quantum state layer: vacuum selection, Wightman sampling, KMS/detailed balance, or detector transition probabilities.
+Frame-transport is broader than proper acceleration, but it is not arbitrary tetrad relabeling or coordinate bookkeeping. It names invariant or operationally fixed frame change / comparison as priced by the imported GR transport structure: along a flow, between nearby flows, around loops, or through any live torsion sector. B7 uses uniform proper acceleration because it gives the clean scalar-response computation and a place to test FT-2 / FT-3.
+
+Once acceleration is read this way, the scalar Unruh response has a GR interval skeleton with an MGR role-location. Metric/Levi-Civita structure gives the natural scalar propagation operator once a scalar sector is admitted. The flat massless scalar sector gives the local interval singularity. Uniform acceleration pulls that skeleton onto a hyperbolic worldline. The resulting `sinh²` form has imaginary proper-time period `2πc/a`.
+
+That earns the scalar-response skeleton and the geometric Unruh period. QFT supplies the state and detector interpretation; it does not supply the geometric period.
 
 Calibration is not failure. Fitting is failure. A scalar may be observed; a structure must be earned.
 
@@ -32,7 +46,7 @@ frame = ordering + flow + adjacency
 rendering = content-through-frame
 ```
 
-B7 adds one operation:
+B7 uses one operation:
 
 ```text
 frame-transport =
@@ -55,17 +69,17 @@ a = sqrt(a^μ a_μ)
 
 with sign convention understood. This scalar `a` is the one that sets the uniform-acceleration scale in the Unruh calculation.
 
-So velocity and acceleration do different work:
+On this Levi-Civita reading, velocity and acceleration do different work:
 
 ```text
 velocity:
-  relates inertial frames
+  relates inertial frame descriptions
 
 proper acceleration:
-  changes the instantaneous comoving frame through flow
+  marks non-geodesic self-transport failure of the flow direction
 ```
 
-An inertial worldline carries its local frame without turning. An accelerated worldline continually changes its instantaneous comoving inertial frame. That change is invariantly measurable frame-transport, not observer psychology.
+An inertial worldline self-transports its flow direction. An accelerated worldline does not. A carried frame-basis adds the richer Fermi-Walker / tetrad question, but the local scalar acceleration already diagnoses failure of inertial self-transport of flow.
 
 Guardrail:
 
@@ -76,10 +90,10 @@ frame-transport:
   not pure frame-gauge choice
 
 proper acceleration:
-  non-geodesic / forced frame-transport along timelike flow
+  measurable local face of non-geodesic self-transport of timelike flow
 ```
 
-This matters for uptake because acceleration changes the sampling/rendering conditions:
+This matters for uptake if FT-3 is right, because acceleration changes the sampling/rendering conditions:
 
 ```text
 content
@@ -89,7 +103,29 @@ content
 → information
 ```
 
-Acceleration is not required for constitution. Inertial detectors can write records. The narrower claim is that acceleration changes what relatedness is sampled and how it is pulled back onto proper time.
+Acceleration is not required for constitution. Inertial detectors can write records. The narrower claim is that acceleration changes what relatedness is sampled and how it is pulled back onto proper time. The live question is whether that change is exhausted by bare worldline pullback or whether the worldline is already a compressed GR object: flow plus connection-comparison plus self-transport status.
+
+The reason FT-3 remains live even in a scalar case is phasic. MGR's influence floor is consequence-capable phase-bearing relatedness. The scalar pullback does not show an orientation-sensitive frame basis, but it does show phase-bearing relatedness rendered along accelerated flow into a response-capable proper-time structure. That is enough to keep the rendering/influence reading live. It does not prove the richer carried-frame-basis operation; it tests the flow self-transport face of the seam.
+
+This is the useful "naked flow" result, in the role sense. The scalar setup suppresses the richer frame-basis roles:
+
+```text
+spin axis;
+polarization basis;
+detector orientation tensor;
+spatial tetrad leg visible in the coupling.
+```
+
+What remains exposed is:
+
+```text
+proper-time indexing;
+energy-gap orientation relative to flow;
+self-transport status of flow;
+phase-bearing relatedness rendered along that flow.
+```
+
+So scalar Unruh does not prove full carried-frame-basis transport. It isolates the flow/self-transport face of frame-transport.
 
 ---
 
@@ -147,27 +183,27 @@ In flat four-dimensional spacetime, the massless scalar operator is schematicall
 □ = η^{μν} ∂_μ ∂_ν
 ```
 
-A scalar Green-object must solve:
+A scalar response object is constrained by the flat operator:
 
 ```text
 □ R(x,x′) ∝ δ⁴(x-x′)
 ```
 
-Away from coincidence, Lorentz invariance and absence of internal indices force dependence on invariant separation:
+Away from coincidence, Lorentz invariance and absence of internal indices force the local interval skeleton to depend on invariant separation:
 
 ```text
-R(x,x′) = F(σ)
+R_skel(x,x′) = F(σ)
 ```
 
 where `σ` is quadratic interval/world-function data.
 
-In four spacetime dimensions, a massless scalar Green-object with no additional scale has dimension `length⁻²`. The available invariant with that dimension is `1/σ`. Thus the leading local scalar skeleton is:
+In four spacetime dimensions, the leading local massless scalar singularity has dimension `length^-2`. With no additional scale in the flat massless run, the interval-governed local skeleton has the form:
 
 ```text
 R_skel(x,x′) ∝ 1 / σ(x,x′)
 ```
 
-This is not yet a Wightman function. It is the interval singularity skeleton. It is singular at `σ = 0`, the null cone.
+This is not a full Green function, and not yet a Wightman function. Distributional prescription, normalization, state choice, and global boundary conditions are not earned here. B7 uses only the leading local interval singularity, singular at `σ = 0`, the null cone.
 
 MGR reading:
 
@@ -261,7 +297,7 @@ and the square removes the sign. Therefore:
 β_τ = 2πc/a
 ```
 
-This `2π` is not fitted and not calibrated. It follows from the hyperbolic pullback.
+This `2π` is geometric. It is not fitted, not calibrated, and not supplied by QFT state machinery. It follows from the hyperbolic pullback.
 
 Converting a proper-time period into temperature requires the usual quantum/thermodynamic scalars:
 
@@ -279,9 +315,9 @@ So the scalar Unruh temperature form follows conditionally:
 T = ℏ a/(2π c k_B)
 ```
 
-given the scalar skeleton and the temperature-reading imports.
+given the geometric period and the temperature-reading imports.
 
-If a dimensionless coefficient had remained unforced, that would not kill the result. It would make the result structure-derived and coefficient-calibrated. In this run, the `2π` itself is structure-derived.
+In this run, the `2π` itself is structure-derived. What remains externally supplied is the thermal meaning of the period: state choice, Wightman/KMS sampling, detector response, and the quantum/thermodynamic constants.
 
 ---
 
@@ -439,18 +475,33 @@ without choosing a global vacuum?
 
 ## 9. Ledger
 
-Derived / framework-owned:
+Framework-owned / role-located / computed:
 
 ```text
-1. acceleration as non-geodesic frame-transport through flow;
-2. scalar wave operator from metric/Levi-Civita structure, given scalar assumptions;
-3. interval/world-function dependence;
-4. leading 1/σ scalar skeleton in 4D;
-5. hyperbolic pullback under uniform acceleration;
-6. imaginary proper-time period β_τ = 2πc/a;
-7. retarded causal support as role-natural;
-8. positive frequency as future-flow energy orientation;
-9. need for a stability floor.
+FT-1:
+  frame-transport as a real GR/QM-visible operation;
+  supported broadly, not derived from the scalar Unruh run.
+
+FT-2:
+  acceleration as local residue of non-geodesic self-transport of flow;
+  Levi-Civita face of the frame-transport bet.
+
+FT-3:
+  Unruh scalar response as phase-bearing relatedness rendered through
+  accelerated flow self-transport rather than only bare worldline pullback;
+  tested here, not sealed here.
+
+computed / structure-derived:
+  scalar wave operator from metric/Levi-Civita structure, given scalar assumptions;
+  interval/world-function dependence;
+  leading 1/σ scalar skeleton in 4D;
+  hyperbolic pullback under uniform acceleration;
+  imaginary proper-time period β_τ = 2πc/a.
+
+role-natural / boundary-located:
+  retarded causal support;
+  positive frequency as future-flow energy orientation;
+  need for a stability floor.
 ```
 
 Calibrated / allowed scalars:
@@ -483,14 +534,16 @@ non-abelian influence floor.
 Demotion conditions:
 
 ```text
-frame-transport collapses into mere velocity/rendering relation;
+FT-1 fails if carried / comparison structure never changes any invariant or operational observable;
+FT-2 fails if acceleration is only a worldline parameter, not self-transport failure of flow;
+FT-3 fails if the Unruh scalar skeleton is exhausted by bare worldline pullback with no phasic rendering role;
 the scalar operator is not forced by the stated scalar assumptions;
 the 1/σ skeleton can be replaced without adding a scale or violating the wave equation;
 the 2π period depends on QFT iε rather than hyperbolic geometry;
 retarded causal support does not follow from ordering + influence;
 positive frequency cannot be tied to future-flow energy orientation;
 stable detector response does not require a lower energy reference;
-thermal interpretation cannot be separated from the analytic period;
+the analytic period has no role in the thermal response once QFT state machinery is supplied;
 scalar assumptions smuggle in too much field theory;
 coefficient or dependency was selected by fitting rather than derived before calibration.
 ```
@@ -498,11 +551,12 @@ coefficient or dependency was selected by fitting rather than derived before cal
 Standing result:
 
 ```text
-MGR + GR/LC can derive the scalar interval-response skeleton
-and the Unruh 2π period.
+Uniform acceleration plus GR interval geometry derives the scalar pullback skeleton
+and the Unruh 2π imaginary proper-time period.
 
-It cannot yet derive the quantum state prescription
-that makes the skeleton a Wightman/KMS detector response.
+MGR owns the flow self-transport / rendering role-location as a live projection.
+QFT supplies the quantum state and detector interpretation
+that make the skeleton a Wightman/KMS thermal response.
 ```
 
 Calibration rule:

@@ -403,13 +403,15 @@ CMB:
   no individual photon rest box;
   content-selected rest frame / comoving congruence;
   mixed radiation distribution;
-  temperature rendered by congruence.
+  temperature rendered by congruence;
+  naked role: congruence-rendered distribution temperature.
 
 Unruh:
   no invariant real particle bath;
   accelerated worldline / Rindler access;
   vacuum correlations appear thermally in detector response;
-  temperature rendered by flow-worldline.
+  temperature rendered by flow-worldline;
+  naked role: flow / self-transport response rendering.
 ```
 
 Shared machine:
@@ -463,6 +465,20 @@ restricted access + horizon / flow / frame-transport structure
 → thermal rendering of field relatedness
 → temperature set by acceleration / surface-gravity scale
 → possible exterior uptake/write
+```
+
+Naked-role read:
+
+```text
+not exposed:
+  ordinary material bath;
+  detector-independent horizon information;
+  null-generator constitution.
+
+exposed:
+  access-boundary rendering;
+  surface-gravity response scale;
+  exterior uptake/write as the constitution site.
 ```
 
 B4's discipline applies. Hawking/Page/QES should not be over-read as sealing GB-2 or PB-4-full.

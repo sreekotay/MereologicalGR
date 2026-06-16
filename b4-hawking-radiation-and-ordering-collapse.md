@@ -46,6 +46,19 @@ not to horizon-constituted information.
 
 B4 does not reject Hawking numbers. It refuses to treat unearned information-constitution structure as if it had been measured or derived.
 
+B4 is also a naked-role case. "Naked" means role-exposed, not ontologically bare. Hawking thermality strips ordinary material-bath narration and horizon-constitution narration. What remains exposed is access-boundary rendering:
+
+```text
+field/state structure
++ horizon / exterior access
++ surface-gravity scale
++ frame-transport / slicing condition
+→ exterior thermal response
+→ possible detector uptake/write
+```
+
+So the exposed role is not information at the horizon. It is access-conditioned thermal rendering before exterior constitution.
+
 Calibration is not failure. Fitting is failure. A scalar may be observed; a structure must be earned.
 
 ---
@@ -177,6 +190,20 @@ Better reading:
 ```text
 horizon thermality is a response/rendering effect under access,
 state, and frame-transport conditions.
+```
+
+Naked-role read:
+
+```text
+not exposed:
+  ordinary material bath;
+  horizon-local information constitution;
+  null-generator storage.
+
+exposed:
+  access-boundary rendering;
+  surface-gravity response scale;
+  exterior uptake/write as constitution site.
 ```
 
 B4 therefore reads the near-horizon story as:

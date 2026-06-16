@@ -1,0 +1,5 @@
+handle_id,observed,predicted,difference_obs_minus_pred,one_sigma_used,sigma_residual,relative_difference_abs_pct,readout
+GPB_GEODETIC,-6601.8,-6606.1,4.3,18.3,0.235,0.065,observed carried-vector precession matches GR prediction well inside 1 sigma
+GPB_FRAME_DRAG,-37.2,-39.2,2.0,7.2,0.278,5.102,observed frame-dragging precession matches GR prediction well inside 1 sigma
+DOUBLE_PULSAR_2008,4.77,5.0734,-0.3034,0.655,-0.463,5.980,strong-field spin precession matches GR prediction inside 1 sigma
+DOUBLE_PULSAR_2024,5.16,5.07,0.09,0.33,0.273,1.775,updated strong-field spin precession matches GR prediction inside 1 sigma
