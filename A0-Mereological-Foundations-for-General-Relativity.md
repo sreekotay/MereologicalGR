@@ -3,10 +3,10 @@
 *Sree Kotay — working draft, June 2026.*
 
 Status: theoretical root / method document.  
-Scope: foundations, photon seed, grammar, components, composition discipline, ledger rules, and foundation-form PB bets for MGR.  
+Scope: foundations, photon seed, acceleration/frame-transport hinge, grammar, components, composition discipline, ledger rules, and foundation-form PB bets for MGR.  
 Out of scope: witness catalog, phenomenon runs, PB evidence/status accounting, numerical derivations, and evidentiary claims.
 
-A0 states the theory's grammar and the bets that follow from that grammar. It also states the founding seed that motivates the grammar: null causal propagation without proper-time flow. It does not try to earn the theory's empirical weight.
+A0 states the theory's grammar and the bets that follow from that grammar. It also states the two foundation hinges that motivate the grammar: null causal propagation without proper-time flow, and acceleration as frame-transport through flow. It does not try to earn the theory's empirical weight.
 
 ---
 
@@ -15,6 +15,8 @@ A0 states the theory's grammar and the bets that follow from that grammar. It al
 General relativity is held fixed as the mathematical ground. MGR does not modify, extend, quantize, or replace GR. It asks a different kind of question: when GR uses or bundles notions such as cause, time, frame, information, space, gravity-as-structure, source, and measurement, what role-parts are being composed?
 
 The founding datum is the photon under GR: along null propagation, proper time is zero, yet causal ordering and effect-capacity remain. The photon therefore exhibits cause without flow. That does not refute GR; it unfuses a role-bundle GR already permits. Cause cannot be identical with temporal flow. The seed separates ordering, influence, and flow: ordering and influence remain at the null corner; flow is stripped.
+
+The second hinge is acceleration under GR. A flow-bearing worldline can transport its frame-basis non-inertially; proper acceleration is the cleanest local measurable face of that transport. Acceleration therefore shows that a frame is not merely a passive label: frame-transport can change how influence is rendered before any uptake/write occurs.
 
 The central claim of A0 is methodological: some GR-native objects are mereologically fused. The metric, source, frame, tetrad, and worldline machinery already perform multiple roles, but GR has no reason to name those roles separately because its equations work without doing so. MGR names the roles and tests whether the named parts compose cleanly.
 
@@ -32,7 +34,7 @@ A0 therefore provides:
 
 ```text
 1. the GR-held-fixed stance;
-2. the photon seed / cause-without-time defusion;
+2. the photon seed / cause-without-time defusion and acceleration / frame-transport hinge;
 3. the distinction between roles, composites, operations, gradings, and thresholds;
 4. the import / perimeter rules;
 5. the epistemic grading ledger;
@@ -48,7 +50,7 @@ A0 carries no witness weight. It is the map and method by which claims are forme
 
 ## Conceit
 
-The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. Influence, met first as effect-substrate, is  floored as consequence-capable phase-bearing relatedness. The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Retrodiction is therefore not disqualifying by itself: the judgment rests on whether the derivation lineage is distinct from the later landing.
+The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. Influence, met first as effect-substrate, is floored as consequence-capable phase-bearing relatedness. Frame-transport then names the operation by which a flow-bearing frame changes while rendering that influence. The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Retrodiction is therefore not disqualifying by itself: the judgment rests on whether the derivation lineage is distinct from the later landing.
 
 ---
 
@@ -175,7 +177,146 @@ A0 only states why the seed belongs at the foundation.
 
 ---
 
-## 3. Mereology, not taxonomy
+## 3. The second hinge: acceleration as frame-transport
+
+The photon seed shows one separation:
+
+```text
+photon:
+  ordering + influence remain;
+  flow is stripped
+
+therefore:
+  cause cannot require flow.
+```
+
+Acceleration shows a second separation:
+
+```text
+acceleration:
+  flow remains;
+  the frame-basis changes through flow
+
+therefore:
+  rendering cannot be treated as passive frame-labeling.
+```
+
+Together:
+
+```text
+photon:
+  influence can exist without flow
+
+acceleration:
+  flow can change how influence is rendered before uptake
+
+therefore:
+  information is not influence-in-transit;
+  information is ordered influence rendered through a transported frame
+  and taken up in flow.
+```
+
+The hinge claim is not merely:
+
+```text
+acceleration changes detector response
+```
+
+The stronger claim is:
+
+```text
+Acceleration is the cleanest local indicator that a flow-bearing system
+transports its rendering basis, and that this transport can change which
+influence becomes response-capable before any information is written.
+```
+
+Proper acceleration is one measurable local face of frame-transport:
+
+```text
+proper acceleration:
+  non-geodesic / forced frame-transport along timelike flow
+
+frame-transport:
+  broader operation;
+  includes comparison / transport of frame-basis along flow,
+  and can also be affected by curvature, rotation, tetrad choice,
+  holonomy, and any live torsion sector.
+```
+
+This sharpens influence. Influence is floored as:
+
+```text
+influence = consequence-capable phase-bearing relatedness
+```
+
+Acceleration does not create influence. It can reveal influence's response-capacity:
+
+```text
+if changing frame-transport changes the response,
+then the sampled relatedness was capable of consequence
+under at least one flow-bearing rendering.
+```
+
+This sharpens information. The photon blocks:
+
+```text
+influence in transit = information
+```
+
+Acceleration blocks the opposite simplification:
+
+```text
+information = influence + any clock
+```
+
+The missing operation is frame-conditioned rendering and uptake:
+
+```text
+same relatedness
++ different frame-transport
+→ different response rendering
+→ possible different uptake/write
+```
+
+So A0 keeps the composition:
+
+```text
+information = ordering + influence + flow
+```
+
+but reads it operationally as:
+
+```text
+ordered influence
+→ rendered through frame
+→ transported through flow
+→ taken up / written
+→ information
+```
+
+This also clarifies the gravity side. Gravity is not frame-transport simpliciter. In the GR-owned torsion-free sector, gravity is visible as energy-momentum-conditioned transport structure:
+
+```text
+energy-momentum
+→ connection / curvature behavior
+→ frame-transport
+→ changed rendering / response conditions
+→ possible uptake/write
+```
+
+Information completes on the uptake side. Gravity lives on the transport side. The bridge is not that gravity is information; it is that both share ordering + influence while diverging at transport versus uptake.
+
+A0 does not cash this as a numerical derivation. The scalar-response / Unruh run belongs outside A0. A0 only fixes the root placement:
+
+```text
+The photon unfuses cause from flow.
+Acceleration unfuses rendering from passive frame-labeling.
+Together they make structural the content → rendering → frame-transport → uptake → information seam.
+```
+
+---
+
+## 4. Mereology, not taxonomy
 
 The mereological instrument is:
 
@@ -214,7 +355,7 @@ The method does not require all named entries to be ontological peers. It requir
 
 ---
 
-## 4. Forced, chosen, imported, parked
+## 5. Forced, chosen, imported, parked
 
 A move carries weight only if it survives the forced gate:
 
@@ -241,7 +382,7 @@ Import is licensed only when its status is explicit. Imported things may be used
 
 ---
 
-## 5. Epistemic grades
+## 6. Epistemic grades
 
 Grades attach to claims, not objects.
 
@@ -296,7 +437,7 @@ Uniform success is a failure signal.
 
 ---
 
-## 6. The ledger rule
+## 7. The ledger rule
 
 A claim's grade is ledger-indexed. It depends on the assumptions, imports, and carvings currently active.
 
@@ -327,11 +468,11 @@ A ledger change reopens dependent claims. Re-audit is dependency-triggered, not 
 
 ---
 
-## 7. Component roster
+## 8. Component roster
 
 A0's current roster separates role, substrate, and primitive.
 
-### 7.1 Derived roles
+### 8.1 Derived roles
 
 ```text
 ordering:
@@ -348,7 +489,7 @@ flow:
   clock is its magnitude projection
 ```
 
-### 7.2 Imported role
+### 8.2 Imported role
 
 ```text
 adjacency:
@@ -357,7 +498,7 @@ adjacency:
   imported from GR's metric and named as peer of flow
 ```
 
-### 7.3 Substrate
+### 8.3 Substrate
 
 ```text
 relatedness:
@@ -366,7 +507,7 @@ relatedness:
   not a peer-role
 ```
 
-### 7.4 Dimensionful primitive / grading
+### 8.4 Dimensionful primitive / grading
 
 ```text
 energy-momentum:
@@ -381,7 +522,7 @@ Energy-momentum is not a fifth boolean axis in the role lattice. It grades cells
 
 ---
 
-## 8. Composition grammar
+## 9. Composition grammar
 
 The current grammar is:
 
@@ -405,11 +546,11 @@ A role may later decompose. A composite may later unfuse. A named operation may 
 
 ---
 
-## 9. Layers: roles, composites, operations, projections, gradings, thresholds
+## 10. Layers: roles, composites, operations, projections, gradings, thresholds
 
 To avoid over-unfusing, A0 distinguishes layers.
 
-### 9.1 Roles
+### 10.1 Roles
 
 Roles are component-functions in the composition grammar.
 
@@ -420,7 +561,7 @@ flow
 adjacency
 ```
 
-### 9.2 Composites
+### 10.2 Composites
 
 Composites are role-sums or role-compositions.
 
@@ -433,7 +574,7 @@ information
 gravity
 ```
 
-### 9.3 Operations
+### 10.3 Operations
 
 Operations act through or upon roles/composites.
 
@@ -457,7 +598,7 @@ constitution:
 
 Operations are not automatically peer roles. They become candidates only if compose / missing / extra leaves a remainder.
 
-### 9.4 Projections
+### 10.4 Projections
 
 Projections are rendered faces of content through a basis.
 
@@ -475,7 +616,7 @@ temperature:
   flow-indexed response scale of accessible mixedness / relatedness
 ```
 
-### 9.5 Gradings and primitives
+### 10.5 Gradings and primitives
 
 ```text
 energy-momentum:
@@ -485,7 +626,7 @@ couplings:
   out by kind unless specifically imported as part of the standard formalism
 ```
 
-### 9.6 Thresholds
+### 10.6 Thresholds
 
 Thresholds belong to applications.
 
@@ -500,9 +641,9 @@ constitution threshold:
 
 ---
 
-## 10. Rendering and uptake: current open seam
+## 11. Rendering and uptake: current open seam
 
-The present seam is the gap between content and information.
+The present seam is the gap between content and information. The photon and acceleration hinges make this seam structural rather than decorative: the photon shows influence without flow, while acceleration shows flow changing how influence is rendered before uptake.
 
 ```text
 content → rendering → frame-transport → uptake → information
@@ -573,7 +714,7 @@ No answer is asserted in A0. The point is to locate the audit.
 
 ---
 
-## 11. Mass and the content-information gap
+## 12. Mass and the content-information gap
 
 Mass is not information and not an uptake primitive.
 
@@ -597,7 +738,7 @@ This is not a new primitive. It is a projection-side bridge between rendered con
 
 ---
 
-## 12. Quantum reference frames as stress test, not source
+## 13. Quantum reference frames as stress test, not source
 
 Relativistic quantum reference frames should be used as a stress test of GR-derived grammar, not as the source of the grammar.
 
@@ -642,7 +783,7 @@ A0 does not answer this. It names the seam.
 
 ---
 
-## 13. Import, calibration, and perimeter rules
+## 14. Import, calibration, and perimeter rules
 
 MGR may use imported mathematics, calibrated scalars, and observed constants, but it must not relabel imports or fitted structures as derivations.
 
@@ -707,7 +848,7 @@ This split prevents both underclaim and overclaim. A scalar may be observed; a s
 
 ---
 
-## 14. Anti-over-unfusing rule
+## 15. Anti-over-unfusing rule
 
 Do not make every named seam a peer role.
 
@@ -753,7 +894,7 @@ Promote nothing to peer-role unless compose / missing / extra forces it.
 
 ---
 
-## 15. Foundation bets (PB)
+## 16. Foundation bets (PB)
 
 A0 states the PB bets in their foundation form because they flow from the GR-fixed role grammar plus role-realism. A0 does **not** cash them, grade their current evidence, or run their witness/contact history.
 
@@ -936,7 +1077,7 @@ Gravity has no PB here. Its structure composes in the grammar; the coupling law 
 
 ---
 
-## 16. What A0 does not do
+## 17. What A0 does not do
 
 A0 does not:
 
@@ -973,15 +1114,18 @@ what foundation bet is being priced or tested?
 
 ---
 
-## 17. Compact foundation
+## 18. Compact foundation
 
 ```text
 GR is held fixed.
 MGR asks what role-parts GR bundles.
 
-Seed:
+Foundation hinges:
   photon = ordering + influence + adjacency, with flow → 0
   therefore cause ≠ flow
+
+  acceleration = flow persists while frame-basis changes through flow
+  therefore rendering ≠ passive frame-labeling
 
 Roles:
   ordering, influence, flow, adjacency
