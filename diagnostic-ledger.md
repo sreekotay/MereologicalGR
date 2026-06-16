@@ -4,7 +4,7 @@
 
 Status: diagnostic ledger, not a prediction ledger.  
 Purpose: track where MGR's role-separations touch existing computations, experiments, formal programs, or residual searches.  
-Grade: mixed and mostly low-weight. Most rows are route diagnostics, null guards, or failure conditions. Only the torsion / spin-current lane currently offers a plausible positive nonzero numerical search, and even there the magnitude is externally priced.
+Grade: mixed and mostly low-weight. Most rows are route diagnostics, null guards, or failure conditions. Torsion / spin-current remains a possible externally priced sensitivity lane, but it is not the repository's center of gravity.
 
 This document intentionally reduces the weight of the old prediction framing.
 
@@ -14,6 +14,12 @@ Do not read this ledger as:
 
 Read it as:
   where an existing formalism, experiment, or residual search would stress the role map.
+```
+
+Companion contrast file:
+
+```text
+contrast-diagnostic-program.md
 ```
 
 ---
@@ -29,7 +35,7 @@ route diagnostic:
 null guard:
   no extra term should appear if the role separation is correct
 
-positive nonzero lane:
+sensitivity lane:
   a live correction may exist, but only after an imported formalism prices it
 
 formal discriminator:
@@ -39,7 +45,7 @@ engine-eligible test:
   a test varies the write / uptake condition, not merely correlations before uptake
 ```
 
-Only the third kind resembles a prediction in the ordinary empirical sense, and even there MGR owns the route, not the coefficient.
+Only a sensitivity lane can become prediction-like in the ordinary empirical sense, and even there MGR owns the route, not the coefficient.
 
 ```text
 Framework-owned:
@@ -71,7 +77,7 @@ lane:
   experimental / theoretical arena
 
 contact type:
-  route diagnostic, null guard, positive nonzero lane, formal discriminator, or engine-eligible test
+  route diagnostic, null guard, sensitivity lane, formal discriminator, or engine-eligible test
 
 standard baseline:
   what orthodox physics already predicts or computes
@@ -106,29 +112,29 @@ unless the document has separately earned that stronger status.
 ## 3. Ranked contact lanes
 
 ```text
-1. Torsion / spin-current neutron-star observables
-   Contact type: positive nonzero lane.
-   Best actual residual-search target.
-
-2. Unruh / accelerated detector response and channeling stress cases
+1. Unruh / accelerated detector response and channeling stress cases
    Contact type: route diagnostic + null guard.
    Best lab-adjacent response-routing stress test.
 
-3. Horizon / Hawking / Page-QES accounting
+2. Horizon / Hawking / Page-QES accounting
    Contact type: route diagnostic + formal discriminator.
    Best access / frame-transport / constitution-separation stress test.
+
+3. Quantum Darwinism / spectrum broadcast structure / objectivity protocols
+   Contact type: record-vs-constitution discriminator.
+   Best uptake-threshold stress test.
 
 4. Holographic QEC / QES / magic / area operators
    Contact type: formal discriminator.
    Best theoretical term-placement lane.
 
-5. Quantum Darwinism / spectrum broadcast structure / objectivity protocols
-   Contact type: record-vs-constitution discriminator.
-   Best uptake-threshold stress test.
-
-6. CMB temperature-redshift and information-specific redshift
+5. CMB temperature-redshift and information-specific redshift
    Contact type: clean null guard.
    Useful guardrail, unlikely positive discovery lane.
+
+6. Torsion / spin-current compact-object observables
+   Contact type: archived sensitivity lane.
+   Legitimate B5 workbench lane, but not top-level project identity.
 ```
 
 ---
@@ -137,87 +143,19 @@ unless the document has separately earned that stronger status.
 
 | ID | Lane | Contact type | Standard baseline | MGR role route | Residual / guard | Failure / demotion condition |
 |---|---|---|---|---|---|---|
-| D1 | Torsion / spin-current compact objects | positive nonzero lane | GR + EOS + rotation + magnetic/crust/thermal modeling | independent spin/current retained -> torsion equation -> contortion -> observable shift or bound | nonzero only if spin/current survives as independent source; scale should track spin/current, not mass-energy alone | residual fully absorbed by ordinary matter/EOS modeling; no independent spin-current torsion burden; or role-level forced-empty proof |
-| D2 | Neutron-star torsion sensitivity | sensitivity target | standard TOV / rotating-star model | spin/current in -> externally priced torsion burden out | radius/tidal/moment-of-inertia shifts are possible only under a chosen EC/Poincare-gauge model | violates high-mass/radius/tidal constraints, or cannot be source-routed to torsion |
-| D3 | Unruh / accelerated detector response | route diagnostic + null guard | QFT detector response from Wightman pullback to worldline | phase-bearing relatedness -> frame-transport sampling -> response -> detector uptake | no invariant in-flight particle bath; no pre-constituted record | robust detector-independent bath term required; response ignores pullback/coupling/switching/detector gap |
-| D4 | CMB temperature-redshift | null guard | T(z)=T0(1+z), with standard deviations handled by cosmology/thermalization | temperature is congruence-rendered distribution scale | no information-specific temperature degradation term | deviation specifically tracks information/constitution rather than thermalization, foregrounds, injection, calibration, or cosmology |
-| D5 | Information-specific redshift | null guard | redshift via p dot u between emitter/receiver worldlines | carrier energy is rendered by flow-worldlines; semantic content is not a gravitational source term | no semantic/code/recoverability-dependent frequency residual | same carrier/channel but different information content gives reproducible gravitational redshift residual |
-| D6 | Horizon / null constitution | forbidden-term guard | BH area entropy, edge modes, horizon algebra, Hawking/QES accounting | horizon = access/accounting; radiation = channel; detector = uptake/write | no constituted information term living on null generator or null transit | required term exists specifically as constituted information on null structure and cannot be accounted otherwise |
-| D7 | QES / holographic entropy | formal discriminator | generalized entropy, area terms, bulk entropy, edge/reconstruction/backreaction terms | QES/Page = recoverability/accounting, not automatic write site | no independent QES-constitution term | entropy formalism requires constituted information on QES/null surface irreducible to allowed terms |
-| D8 | Quantum Darwinism / SBS | record-vs-constitution discriminator | redundancy, SBS, mutual-information plateau, objectivity diagnostics | record diagnostics are not constitution without operation/threshold/uptake | no purely state-functional constitution criterion | basis-intrinsic, convention-free state functional identifies constituted information without uptake/application threshold |
-| D9 | Temperature / information separation | role diagnostic | thermodynamic/statistical temperature as response/distribution parameter | temperature = flow-indexed response scale; information = uptake/write | temperature alone does not constitute information | temperature alone determines constituted information without record channel/coarse-graining/application threshold |
-| D10 | Virtual exchange / microcausality | null guard / route diagnostic | QFT propagators plus microcausality of observables | influence-kernel without carrier-flow; no constituted virtual-carrier information | endpoint observables respect microcausality; no virtual-carrier information term | virtual exchange requires carrier-like flow-bearing information propagation |
+| D1 | Unruh / accelerated detector response | route diagnostic + null guard | QFT detector response from Wightman pullback to worldline | phase-bearing relatedness -> frame-transport sampling -> response -> detector uptake | no invariant in-flight particle bath; no pre-constituted record | robust detector-independent bath term required; response ignores pullback/coupling/switching/detector gap |
+| D2 | Horizon / null constitution | route diagnostic + forbidden-term guard | BH area entropy, edge modes, horizon algebra, Hawking/QES accounting | horizon = access/accounting; radiation = channel; detector = uptake/write | no constituted information term living on null generator or null transit | required term exists specifically as constituted information on null structure and cannot be accounted otherwise |
+| D3 | QES / holographic entropy | formal discriminator | generalized entropy, area terms, bulk entropy, edge/reconstruction/backreaction terms | QES/Page = recoverability/accounting, not automatic write site | no independent QES-constitution term | entropy formalism requires constituted information on QES/null surface irreducible to allowed terms |
+| D4 | Quantum Darwinism / SBS | record-vs-constitution discriminator | redundancy, SBS, mutual-information plateau, objectivity diagnostics | record diagnostics are not constitution without operation/threshold/uptake | no purely state-functional constitution criterion | basis-intrinsic, convention-free state functional identifies constituted information without uptake/application threshold |
+| D5 | Temperature / information separation | role diagnostic | thermodynamic/statistical temperature as response/distribution parameter | temperature = flow-indexed response scale; information = uptake/write | temperature alone does not constitute information | temperature alone determines constituted information without record channel/coarse-graining/application threshold |
+| D6 | CMB temperature-redshift | null guard | T(z)=T0(1+z), with standard deviations handled by cosmology/thermalization | temperature is congruence-rendered distribution scale | no information-specific temperature degradation term | deviation specifically tracks information/constitution rather than thermalization, foregrounds, injection, calibration, or cosmology |
+| D7 | Information-specific redshift | null guard | redshift via p dot u between emitter/receiver worldlines | carrier energy is rendered by flow-worldlines; semantic content is not a gravitational source term | no semantic/code/recoverability-dependent frequency residual | same carrier/channel but different information content gives reproducible gravitational redshift residual |
+| D8 | Virtual exchange / microcausality | null guard / route diagnostic | QFT propagators plus microcausality of observables | influence-kernel without carrier-flow; no constituted virtual-carrier information | endpoint observables respect microcausality; no virtual-carrier information term | virtual exchange requires carrier-like flow-bearing information propagation |
+| D9 | Torsion / spin-current compact objects | archived sensitivity lane | GR + EOS + rotation + magnetic/crust/thermal modeling | independent spin/current retained -> torsion equation -> contortion -> observable shift or bound | nonzero only if spin/current survives as independent source; scale should track spin/current, not mass-energy alone | residual fully absorbed by ordinary matter/EOS modeling; no independent spin-current torsion burden; or role-level forced-empty proof |
 
 ---
 
-## 5. Positive nonzero lane: torsion / spin-current burden
-
-This is the only current lane with plausible positive nonzero numerical work.
-
-Framework route:
-
-```text
-independent spin / angular-momentum current retained
--> torsion-sector equation live
--> torsion tensor
--> contortion
--> torsion-live connection
--> transport correction / observable bound
-```
-
-Externally priced outputs:
-
-```text
-radius shift;
-moment-of-inertia shift;
-tidal-deformability shift;
-maximum-mass shift;
-central-density shift;
-binding-energy shift;
-frame-dragging / precession correction.
-```
-
-Route expectation:
-
-```text
-any live correction should correlate with spin/current structure,
-not mass-energy density alone.
-```
-
-Positive signal:
-
-```text
-the same EOS family fits slow / low-spin objects normally,
-but fast / high-spin objects require a correction,
-and the correction's sign and scale match torsion-sector pricing.
-```
-
-Null / weakening:
-
-```text
-all spin/current-correlated residuals route through ordinary EOS,
-magnetic, thermal, crustal, rotation, or inference effects;
-no torsion/contortion improvement remains.
-```
-
-Forced-empty requires more than null data:
-
-```text
-Persistent null results tighten bounds and weaken the live bet.
-They force torsion empty only if paired with a role-level argument showing that
-no independent spin-current torsion burden can survive the allowed imports.
-```
-
-Sensitivity note:
-
-```text
-A sub-km to km radius shift can be large in tidal observables,
-but this is a model sensitivity target, not a framework-owned prediction.
-```
-
----
-
-## 6. Route diagnostic: Unruh / accelerated response
+## 5. Route diagnostic: Unruh / accelerated response
 
 The useful contact is not the ordinary fact of acceleration dependence. Standard QFT already owns that.
 
@@ -248,24 +186,13 @@ response should route through pullback / coupling / switching / detector gap / u
 not through a detector-independent bath object treated as already constituted information.
 ```
 
-Candidate arenas:
-
-```text
-channeling stress cases;
-circuit QED;
-optical cavities;
-moving-mirror analogues;
-BEC analogue horizons;
-circular detector setups.
-```
-
 This lane is machinery-routing and anti-misread. It is not a new Unruh coefficient prediction.
 
 ---
 
-## 7. Route diagnostic: horizon / Hawking / Page-QES
+## 6. Route diagnostic: horizon / Hawking / Page-QES
 
-B4 now gives the route:
+B4 gives the route:
 
 ```text
 stationary / quasi-stationary horizon
@@ -310,7 +237,7 @@ backreaction, or non-null microstructure.
 
 ---
 
-## 8. Formal discriminator: QES / holographic QEC / magic
+## 7. Formal discriminator: QES / holographic QEC / magic
 
 Framework target:
 
@@ -344,7 +271,7 @@ This is a discriminator, not a prediction of what holography will discover next.
 
 ---
 
-## 9. Record-vs-constitution discriminator: QD / SBS
+## 8. Record-vs-constitution discriminator: QD / SBS
 
 Framework target:
 
@@ -387,7 +314,7 @@ identifies constituted information without operation, threshold, or uptake.
 
 ---
 
-## 10. Clean null guards: CMB and information-specific redshift
+## 9. Clean null guards: CMB and information-specific redshift
 
 These are useful because they should be boring.
 
@@ -424,6 +351,48 @@ Failure condition:
 a controlled experiment finds a reproducible frequency/energy/temperature residual
 that tracks information content or constitution specifically,
 after carrier, channel, detector, clock, thermalization, foreground, and calibration physics are controlled.
+```
+
+---
+
+## 10. Archived sensitivity lane: torsion / spin-current burden
+
+Torsion remains a legitimate B5 consequence because B5 audits a closure-face problem:
+
+```text
+curvature = rotational closure failure
+torsion = translational closure failure
+```
+
+But the numerical compact-object material is workbench material, not the repo's main outward claim.
+
+Current standing:
+
+```text
+canonical argument:
+  b5-levi-civita-torsion-and-closure-faces.md
+
+archive/workbench material:
+  archive/b5-torsion-experimental/
+```
+
+Route if reopened:
+
+```text
+independent spin / angular-momentum current retained
+-> torsion-sector equation live
+-> torsion tensor
+-> contortion
+-> torsion-live connection
+-> externally priced transport correction or observable bound
+```
+
+Sensitivity note:
+
+```text
+A compact-object residual can be investigated only through an imported EC/Poincare-gauge model,
+EOS choice, inference model, and observational dataset.
+MGR owns the route and missing-cell diagnosis, not the number.
 ```
 
 ---
@@ -466,7 +435,7 @@ route diagnostic:
 formal discriminator:
   a theory either needs or does not need a forbidden term
 
-positive nonzero lane:
+sensitivity lane:
   a live correction is priced by an imported formalism
 ```
 
@@ -474,40 +443,28 @@ positive nonzero lane:
 
 ## 12. Immediate next work items
 
-1. **Build the B5 neutron-star table numerically.**
+1. **Keep the top level role-first.**
 
 ```text
-rows:
-  J0740, J0030, J0952, GW170817, future moment-of-inertia measurement, post-merger spectra
-
-columns:
-  M, R, spin/frequency, tidal/moment data if available, EOS family,
-  torsion source channel, radius-shift target, tidal sensitivity,
-  source split, current status
+Top level should carry canonical argument documents and diagnostic summaries,
+not extraction logs or provisional numerical runs.
 ```
 
-2. **Make a mini-note for channeling / Unruh stress cases.**
+2. **Restore important workbench material below archive/workbench paths when needed.**
 
 ```text
-question:
-  Does the evidence support response-routing language,
-  or does it smuggle intrinsic-bath language?
+Important torsion extraction/readout files should not be lost;
+they should live below archive/b5-torsion-experimental/ or a future workbench path.
 ```
 
-3. **Make a QES/magic frontier note.**
+3. **Promote a workbench lane only if it becomes necessary for the main argument.**
 
 ```text
-question:
-  Are extra quantum resources in holographic codes reconstruction/area/backreaction-priced,
-  or constitution-priced?
-```
-
-4. **Make a QD/SBS test-design note.**
-
-```text
-question:
-  Can state-functional objectivity eliminate uptake/application threshold,
-  or only sharpen record diagnostics?
+Promotion requires:
+  stable source data;
+  external formalism identified;
+  role-route fixed before value fitting;
+  clear demotion/failure conditions.
 ```
 
 ---
@@ -515,23 +472,19 @@ question:
 ## 13. Compact result
 
 ```text
-Best positive nonzero lane:
-  spin/current-correlated torsion burden in compact-object observables
+Best role-stress lanes:
+  Unruh/temperature response routing;
+  horizon/access/frame-transport/write-site separation;
+  QD/SBS record versus constitution;
+  QES/holographic term placement.
 
-Best lab stress lane:
-  Unruh/channeling response routing, not intrinsic bath
+Clean null guards:
+  no information-specific redshift;
+  no in-flight information degradation;
+  no null/QES/horizon constitution term without changed write-chain.
 
-Best formal-theory lane:
-  QES/holographic QEC extra resources must be reconstruction/area/backreaction-priced,
-  not constitution-priced
-
-Best conceptual experiment lane:
-  QD/SBS record diagnostics versus uptake threshold
-
-Best clean null guards:
-  no information-specific redshift degradation;
-  no CMB information-degradation term;
-  no null/QES/horizon constitution term without a changed write-chain
+Archived sensitivity lane:
+  torsion/spin-current compact-object work, externally priced and non-canonical.
 ```
 
 One-line form:
