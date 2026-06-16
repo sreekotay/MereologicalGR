@@ -372,9 +372,24 @@ Photon energy is not a one-place in-flight property. It is a two-place rendering
 E(gamma, worldline) = -p dot u
 ```
 
-Different comoving worldlines render different energies. Nothing drains from an in-flight photon-register because there is no flow-bearing in-flight register for constituted energy to reside in.
+Different comoving worldlines render different photon energies. Nothing drains from an in-flight photon-register because there is no flow-bearing in-flight register for constituted energy or information to reside in.
 
-CMB temperature is likewise not a one-place property of each photon-in-itself. It is a distribution parameter rendered relative to a congruence:
+The important rest-frame guardrail:
+
+```text
+individual photon:
+  no rest frame;
+  no rest box;
+  no flow-bearing in-flight register
+
+CMB aggregate:
+  has a statistically preferred rest frame / comoving congruence;
+  temperature is rendered as a distribution parameter in that congruence
+```
+
+So the CMB rest frame is not the rest frame of the photons. It is the rest frame of the radiation aggregate / cosmological congruence. This is exactly why CMB temperature can be real and measured while photon energy remains a two-place rendering.
+
+CMB temperature is therefore not a one-place property of each photon-in-itself. It is a distribution parameter rendered relative to a congruence:
 
 ```text
 T(z) = T0(1+z)
@@ -385,6 +400,7 @@ Role map:
 ```text
 CMB:
   real photon aggregate;
+  no individual photon rest box;
   content-selected rest frame / comoving congruence;
   mixed radiation distribution;
   temperature rendered by congruence.
@@ -405,6 +421,21 @@ field/radiation relatedness
 + rendered energy scale
 + mixedness, restriction, or KMS response
 → temperature parameter
+```
+
+The tie to PB-3 is direct:
+
+```text
+PB-3:
+  photons carry ordered influence-structure, not constituted information
+
+CMB:
+  photon aggregate has a congruence-rendered temperature,
+  but individual photons still have no rest-box information store
+
+Unruh:
+  vacuum relatedness can be rendered thermally by accelerated sampling,
+  but no detector-independent bath or pre-written information is thereby created
 ```
 
 ---
@@ -628,7 +659,7 @@ The Unruh case uses phase-bearing relatedness through field correlations and ana
    Temperature is a rendering/response scale. It becomes informational only when an ordered consequence is taken up in a flow-bearing record.
 
 6. **CMB/redshift is the sibling, not the same case.**  
-   CMB temperature is a real radiation aggregate rendered by a congruence. Unruh temperature is vacuum relatedness rendered thermally by accelerated access. Both reject one-place in-flight temperature.
+   CMB temperature is a real radiation aggregate rendered by a congruence. It uses an aggregate rest frame, not a photon rest-box. Unruh temperature is vacuum relatedness rendered thermally by accelerated access. Both reject one-place in-flight temperature.
 
 7. **Hawking is a controlled contact.**  
    Hawking temperature belongs to the same horizon/access/frame-transport temperature-family, but B4 still blocks over-reading Hawking/Page/QES as sealing the information-loss bet.
@@ -670,6 +701,7 @@ Demotion / failure conditions:
 ```text
 a temperature observable requires information constitution before uptake/write;
 an invariant one-place particle-bath reading outperforms worldline/access/response machinery;
+a photon rest-box or one-place photon temperature is required;
 frame-transport/access placement fails to separate response from constitution;
 CMB/Unruh/Hawking sibling map collapses distinct mechanisms rather than role-locating them;
 calibration becomes coefficient-shopping rather than externally supplied scalar pricing.
@@ -693,6 +725,13 @@ Temperature response skeleton:
   → rendered response / distribution
   → temperature parameter
   → possible uptake/write
+
+CMB / redshift machine:
+  real photon aggregate
+  + no individual photon rest box
+  + comoving congruence / aggregate rest frame
+  + rendered photon energy distribution
+  → temperature parameter T(z)
 
 Unruh / scalar-response machine:
   vacuum phase-bearing relatedness coupled to a detector
