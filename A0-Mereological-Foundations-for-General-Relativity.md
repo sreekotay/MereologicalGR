@@ -46,6 +46,12 @@ A0 carries no witness weight. It is the map and method by which claims are forme
 
 ---
 
+**Conceit**
+
+The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. (Influence, met first as effect-substrate, is later floored as consequence-capable phase-bearing relatedness — §2.) The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Retrodiction is therefore not disqualifying by itself: the judgment rests on whether the derivation lineage is distinct from the later landing.
+
+---
+
 ## 1. The stance: GR held fixed
 
 MGR begins by holding GR correct as a mathematical and predictive structure.
