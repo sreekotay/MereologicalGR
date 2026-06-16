@@ -20,10 +20,24 @@ therefore:
   their difference, in the massive torsion-free sector, is the adjacency / energy-momentum sector.
 ```
 
-Short form:
+Punchy short form:
 
 ```text
 gravity = information + adjacency
+```
+
+Operational expansion:
+
+```text
+information:
+  ordered influence taken up in flow
+
+gravity:
+  ordered influence structured by energy-momentum-conditioned transport
+
+difference:
+  gravity owns the adjacency / energy-momentum / transport side;
+  information owns the uptake / write side.
 ```
 
 Scope:
@@ -217,7 +231,68 @@ Do not treat GR's torsion-free choice as a prohibition.
 
 ---
 
-## 5. GB-2 — stranding at an edge and ordering-collapse
+## 5. Gravity as energy-momentum-conditioned frame-transport
+
+The punchy line stays:
+
+```text
+gravity = information + adjacency
+```
+
+But the operational expansion is more precise.
+
+In the torsion-free GR-owned sector:
+
+```text
+Levi-Civita:
+  metric-compatible comparison / transport structure
+
+curvature:
+  nontrivial frame-transport around loops / rotational closure failure
+
+energy-momentum:
+  imported source of curvature in standard GR
+```
+
+So gravity can be read operationally as:
+
+```text
+energy-momentum conditions the transport structure;
+transport structure governs how frames compare and change;
+changed frame-transport changes rendering / sampling conditions;
+changed rendering / sampling can affect later uptake.
+```
+
+Computational chain:
+
+```text
+T_μν
+→ curvature / connection behavior
+→ frame-transport
+→ rendered energy, acceleration, redshift, tidal response, holonomy
+→ possible uptake/write
+```
+
+This is not a new field equation. It is the operational face of the standard GR import.
+
+Guardrail:
+
+```text
+gravity ≠ frame-transport simpliciter
+```
+
+Better statement:
+
+```text
+In the torsion-free GR sector,
+gravity is visible as energy-momentum-conditioned curvature of comparison / transport structure.
+```
+
+This gives A2 computational room without changing its scope. Redshift, geodesic deviation, acceleration response, Weyl tidal structure, and holonomy are all transport-side computations. Information constitution remains uptake/write-side.
+
+---
+
+## 6. GB-2 — stranding at an edge and ordering-collapse
 
 Claim:
 
@@ -277,7 +352,7 @@ Rindler horizon / de Sitter access horizon:
 
 ---
 
-## 6. GB-3 — no null structure constitutes information
+## 7. GB-3 — no null structure constitutes information
 
 Claim:
 
@@ -315,7 +390,7 @@ Constitution occurs at the receiver / uptake chain, not in the null transit itse
 
 ---
 
-## 7. Weyl two-face structure at the ordering-collapse corner
+## 8. Weyl two-face structure at the ordering-collapse corner
 
 The Weyl tensor has two projected faces relative to a timelike `u`:
 
@@ -333,10 +408,12 @@ Role reading:
 
 ```text
 electric face:
-  ordering-collapse / directed collapse alignment candidate
+  ordering-collapse / directed collapse alignment candidate;
+  tidal frame-transport face
 
 magnetic / areal face:
-  adjacency / transverse wall structure candidate
+  adjacency / transverse wall structure candidate;
+  rotational / holonomy-side frame-transport face
 ```
 
 Regime split:
@@ -358,13 +435,13 @@ Scope guard:
 
 ```text
 Weyl decomposition is curvature-sector only.
-It sharpens the rotational closure-failure face near ordering-collapse.
+It sharpens the rotational closure-failure / frame-transport face near ordering-collapse.
 It does not exhaust affine non-integrability or settle torsion.
 ```
 
 ---
 
-## 8. Scope and perimeter
+## 9. Scope and perimeter
 
 A2 does not derive:
 
@@ -396,6 +473,9 @@ Therefore:
 role-decomposition:
   framework-owned if cleanly composed
 
+transport / curvature route:
+  framework-owned as role-location where GR import supplies the mathematics
+
 mass-shell / metric norm:
   consequence of licensed SR/GR imports
 
@@ -408,7 +488,7 @@ unearned new structure:
 
 ---
 
-## 9. Open items
+## 10. Open items
 
 ```text
 1. Does the singularity destroy ordering or transform it into influence?
@@ -424,11 +504,15 @@ unearned new structure:
 
 5. Can the entropy reading of de-oriented adjacency-spread be stated only under mixedness,
    without confusing de-oriented with disordered?
+
+6. Can frame-transport supply a sharper computational bridge among redshift,
+   geodesic deviation, acceleration response, and holonomy without over-identifying gravity
+   with frame-transport itself?
 ```
 
 ---
 
-## 10. EB-1 — photon at rest / box at rest
+## 11. EB-1 — photon at rest / box at rest
 
 Forced chain:
 
@@ -463,7 +547,7 @@ no confirmatory weight.
 
 ---
 
-## 11. EB-2 — de-oriented interior and entropy
+## 12. EB-2 — de-oriented interior and entropy
 
 Given the photon box:
 
@@ -509,7 +593,7 @@ entropic measure mixedness-mediated and imported.
 
 ---
 
-## 12. Compact result
+## 13. Compact result
 
 ```text
 Shared core:
@@ -521,12 +605,22 @@ Information:
 Gravity:
   ordering + influence + energy-momentum
 
+Punchy short form:
+  gravity = information + adjacency
+
+Operational expansion:
+  gravity owns the adjacency / energy-momentum / transport side;
+  information owns the uptake / write side.
+
 Massive-sector decomposition:
   energy-momentum = flow-face + adjacency-face
 
 Therefore:
   gravity differs from information by the adjacency / energy-momentum sector
   in the massive torsion-free GR-owned sector.
+
+Transport reading:
+  T_μν → curvature / connection behavior → frame-transport → rendering / sampling consequences.
 
 Null limit:
   flow → 0;
