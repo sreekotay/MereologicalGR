@@ -1,7 +1,7 @@
 # Archived B5 Torsion Experimental Readouts
 
 Status: archive / low-weight working material.  
-Purpose: keep the repo's top-level thesis from being overweighted toward torsion, neutron-star numerics, or Jockel-Menger extraction work.
+Purpose: preserve the torsion numerical workbench while keeping the repo's top-level thesis from being overweighted toward torsion, neutron-star numerics, or Jockel-Menger extraction work.
 
 The current canonical torsion document is:
 
@@ -15,7 +15,7 @@ The current outward-facing diagnostic map is:
 diagnostic-ledger.md
 ```
 
-The following top-level experimental/readout notes were removed from the current tree and should be treated as archived working material recoverable from git history, not as primary project claims:
+The following experimental/readout notes were moved out of top-level and restored here as archived working material, not primary project claims:
 
 ```text
 b5-neutron-star-torsion-ledger.md
@@ -37,6 +37,14 @@ Reason for demotion:
 These notes are useful numerical/workbench scaffolding,
 but they make the repository read as torsion-experimental-first.
 The project is primarily a role/mereology framework with torsion as one diagnostic lane.
+```
+
+Read-warning:
+
+```text
+Some archived notes still contain older prediction-program language.
+That language is preserved for workbench continuity, not promoted as current repo posture.
+Current posture is set by diagnostic-ledger.md and contrast-diagnostic-program.md.
 ```
 
 Standing rule:
