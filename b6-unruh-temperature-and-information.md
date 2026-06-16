@@ -31,6 +31,17 @@ different rendered response temperature;
 possible information only at detector uptake/write.
 ```
 
+Guardrail:
+
+```text
+not:
+  acceleration turns the vacuum into an objective particle bath
+
+but:
+  an accelerated detector samples the same vacuum relatedness with a thermal response scale
+  once QFT state and detector machinery are supplied.
+```
+
 Influence's floor matters:
 
 ```text
@@ -136,6 +147,15 @@ Wightman G+ rather than retarded/Feynman object;
 i-epsilon / positive-frequency state prescription;
 KMS/detailed balance as thermal response;
 transition-rate integral and detector model.
+```
+
+Overread blocked:
+
+```text
+The scalar pullback gives a response skeleton.
+The Wightman/KMS layer gives thermal detector interpretation.
+Neither says that information has been constituted before detector uptake.
+Neither requires treating the vacuum as literally converted into a detector-independent bath.
 ```
 
 ---
@@ -314,6 +334,16 @@ detector click:
   possible constitution event, if application threshold is crossed
 ```
 
+The phrase `thermal detector bath` is response-language, not ontology-language:
+
+```text
+allowed:
+  accelerated detector response has a thermal spectrum
+
+not earned:
+  a detector-independent bath of already-constituted particles/information exists in flight
+```
+
 So:
 
 ```text
@@ -405,6 +435,24 @@ restricted access + horizon / flow / frame-transport structure
 ```
 
 B4's discipline applies. Hawking/Page/QES should not be over-read as sealing GB-2 or PB-4-full.
+
+Additional guardrail:
+
+```text
+not:
+  Hawking thermality is simply an artifact;
+  Hawking thermality by itself proves information destruction;
+  information is constituted on the null generator.
+
+but:
+  Hawking thermality is an exterior response/rendering effect under horizon access,
+  frame-transport, and QFT state machinery.
+
+still live:
+  recoverability / Page-QES accounting;
+  causal access at write;
+  singularity / ordering-collapse.
+```
 
 Calibration-aware statement:
 
