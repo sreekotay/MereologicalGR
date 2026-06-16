@@ -77,10 +77,10 @@ engine-eligible test:
 
 | ID | Arena | Baseline held fixed | Role-knob varied | Forbidden / non-live knob | Diagnostic read | Contact type |
 |---|---|---|---|---|---|---|
-| C1 | Unruh / accelerated response | field state and detector model class | worldline, acceleration, coupling, switching, detector gap | invariant in-flight particle bath | response routes through pullback/coupling/frame-transport/uptake | route diagnostic + null guard |
+| C1 | Unruh / accelerated response | field state and detector model class | worldline, acceleration, coupling, switching, detector gap | invariant in-flight particle bath | response routes through pullback/coupling/frame-transport/uptake; no detector-independent bath or pre-written information | route diagnostic + null guard |
 | C2 | Quantum Darwinism / SBS | global state and redundancy diagnostics | uptake operation, POVM, fragment access, threshold, coarse-graining | record redundancy alone as constituted information | record diagnostics improve, but constitution remains operation/application-indexed | record-vs-constitution discriminator |
 | C3 | virtual exchange / near-field / evanescent systems | interaction kernel / field theory | endpoint uptake and observable commutators | carrier-like in-flight information in virtual exchange | influence-kernel may be extended; constituted information remains endpoint/observable constrained | null guard + route diagnostic |
-| C4 | horizon / Hawking / Page-QES | field theory near horizon and entropy accounting | access, surface gravity, frame-transport, detector congruence, reconstruction | null-generator storage of constituted information | thermality/recoverability is not horizon/null constitution unless the write-chain changes | route diagnostic + formal discriminator |
+| C4 | horizon / Hawking / Page-QES | field theory near horizon and entropy accounting | access, surface gravity, frame-transport, detector congruence, reconstruction | null-generator storage of constituted information | thermality/recoverability is not horizon/null constitution; nor is it by itself information destruction | route diagnostic + formal discriminator |
 | C5 | CMB / redshift | standard photon/cosmology/thermalization model | congruence, redshift, distribution rendering | semantic/information content | no information-specific thermal/redshift degradation term | clean null guard |
 | C6 | information-specific redshift | carrier frequency, potential difference, clocks, channel | code semantics, compression, redundancy, recoverability | information content as gravitational frequency source | no semantic/code-dependent redshift residual | clean null guard |
 | C7 | QES / holographic QEC / magic | generalized entropy accounting | code resource, area operator, edge structure, backreaction | constituted information living on QES/null surface | extra terms should route to geometry/reconstruction/backreaction unless a changed write-site is forced | formal discriminator |
@@ -132,6 +132,19 @@ Framework read:
 ```text
 Unruh is not a proof of constituted information in flight.
 It is a worldline-indexed response rendering of phase-bearing relatedness.
+```
+
+Overread blocked:
+
+```text
+not:
+  acceleration creates information;
+  acceleration literally converts the vacuum into a detector-independent bath.
+
+but:
+  acceleration changes frame-transport;
+  frame-transport changes the detector's rendering of the same vacuum relatedness;
+  detector uptake/write is still required for constituted information.
 ```
 
 ---
@@ -269,6 +282,23 @@ not:
 ```text
 temperature observed
 -> information exists at the horizon
+```
+
+Additional guard:
+
+```text
+not:
+  Hawking thermality is simply an artifact;
+  Hawking thermality by itself proves information destruction.
+
+but:
+  Hawking thermality is an exterior response/rendering effect under access,
+  frame-transport, and QFT state machinery.
+
+still live:
+  recoverability / Page-QES accounting;
+  causal access at write;
+  singularity / ordering-collapse.
 ```
 
 ---
