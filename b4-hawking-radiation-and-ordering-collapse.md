@@ -359,7 +359,78 @@ recoverability accounting:
 
 ---
 
-## 7. Observational status
+## 7. Horizon response skeleton
+
+The handles above locate the pieces. The skeleton below gives the smallest honest route from horizon geometry to exterior thermal response without converting thermality into information constitution.
+
+```text
+stationary / quasi-stationary horizon
+→ surface gravity or access-acceleration scale
+→ static exterior frame-transport condition
+→ near-horizon Rindler rendering
+→ QFT state machinery supplies thermal response
+→ exterior detector uptake writes a record
+```
+
+Role split:
+
+```text
+surface gravity / acceleration:
+  prices access and frame-transport response
+
+near-horizon Rindler rendering:
+  prices the local acceleration-form of the response
+
+QFT state machinery:
+  prices thermality / mode mixing / detector spectrum
+
+exterior uptake:
+  prices constitution / write
+
+Page-QES:
+  prices recoverability / entropy accounting
+```
+
+B4 owns:
+
+```text
+access / frame-transport / write-site separation;
+location of the horizon response route;
+refusal of an extra null-constitution scalar.
+```
+
+QFT and external black-hole theory own:
+
+```text
+vacuum choice;
+mode mixing;
+Bogoliubov coefficients;
+Wightman / KMS response;
+detector transition rates;
+greybody and species corrections;
+Page-QES machinery.
+```
+
+So the route is:
+
+```text
+temperature / response rendering
+→ exterior detector uptake
+→ possible record
+```
+
+not:
+
+```text
+temperature observed
+→ information exists at the horizon
+```
+
+This skeleton is clarifier-grade. It does not derive Hawking radiation. It locates where imported Hawking machinery enters the role map.
+
+---
+
+## 8. Observational status
 
 The observational map is uneven:
 
@@ -402,7 +473,7 @@ The null-constitution claim is consistent with observation and unfalsified. It i
 
 ---
 
-## 8. Engine-eligibility
+## 9. Engine-eligibility
 
 A test carries forced-number weight only if it varies the write:
 
@@ -452,9 +523,9 @@ change of uptake/write site or causal access at write is required.
 
 ---
 
-## 9. What B4 adds
+## 10. What B4 adds
 
-B4 adds four things:
+B4 adds five things:
 
 ```text
 1. site separation:
@@ -468,7 +539,10 @@ B4 adds four things:
    horizon thermality belongs to access + frame-transport + state machinery,
    not horizon-constituted information.
 
-4. calibration-aware scalar discipline:
+4. horizon response skeleton:
+   stationary/access scale → frame-transport → Rindler rendering → QFT response → exterior uptake.
+
+5. calibration-aware scalar discipline:
    Hawking numbers are allowed;
    unearned information-constitution scalars are not.
 ```
@@ -488,7 +562,7 @@ quantum gravity completion.
 
 ---
 
-## 10. Ledger
+## 11. Ledger
 
 Framework-owned:
 
@@ -496,6 +570,7 @@ Framework-owned:
 site separation;
 role-location;
 frame-transport/access placement;
+horizon response skeleton as route-location;
 no extra constitution scalar without earned structure;
 engine-eligibility diagnosis;
 GB-3 consistency check for null transit.
@@ -522,6 +597,7 @@ a black-hole observable requires an independent information-constitution term on
 constitution facts covary with horizon/null transit while exterior uptake is fixed;
 Page/QES recovery forces a different write-site rather than a recoverability accounting update;
 frame-transport/access placement fails to separate thermality from constitution;
+horizon response skeleton fails to locate imported Hawking machinery without adding unearned structure;
 observational status changes and direct Hawking/Page evidence forces the role map to move.
 ```
 
