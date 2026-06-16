@@ -292,7 +292,73 @@ This gives A2 computational room without changing its scope. Redshift, geodesic 
 
 ---
 
-## 6. GB-2 — stranding at an edge and ordering-collapse
+## 6. Computational handles
+
+The transport reading is useful only if it points to real GR quantities. A2 therefore keeps the handles imported, and states only what role they expose.
+
+```text
+redshift / rendered energy:
+  imported handle: E(u,p) = -p · u
+  role exposed: energy is rendered by a flow-worldline;
+  computes: different worldlines render different energies from the same null momentum;
+  not derived: photon energy as a one-place in-flight property.
+
+proper acceleration:
+  imported handle: a^μ = u^ν ∇_ν u^μ, with scalar a = sqrt(a^μ a_μ)
+  role exposed: non-geodesic / forced frame-transport along flow;
+  computes: acceleration scale, response scale, Rindler/Unruh-style rendering;
+  not derived: detector response machinery or vacuum state.
+
+geodesic deviation / tidal response:
+  imported handle: D²ξ^μ/dτ² = -R^μ{}_{νρσ} u^ν ξ^ρ u^σ
+  role exposed: relative frame-transport of nearby flow-lines;
+  computes: tidal acceleration / differential rendering conditions;
+  not derived: Einstein equation or source coupling.
+
+holonomy / loop transport:
+  imported handle: ΔV^μ ~ R^μ{}_{νρσ} V^ν A^{ρσ}
+  role exposed: rotational closure failure of frame transport;
+  computes: curvature accumulated around an infinitesimal loop;
+  not derived: torsion-free condition.
+
+torsion, if live:
+  imported handle: closure gap ~ T(A,B)
+  role exposed: translational closure failure / adjacency-translation residue;
+  computes: torsion burden if an independent spin-current torsion equation is supplied;
+  not derived: EC/Poincaré-gauge coupling or exact coefficient.
+```
+
+Method reading:
+
+```text
+The handle is imported.
+The role-location is framework-owned if the decomposition is clean.
+The scalar or tensor value is computed by the imported formalism.
+A new MGR claim appears only where the role-route forces a missing/extra diagnosis.
+```
+
+So the concrete payoff is not a new formula. It is a better map of where existing GR formulas sit:
+
+```text
+rendering:
+  E = -p·u
+
+frame-transport along flow:
+  a^μ = u^ν ∇_ν u^μ
+
+relative frame-transport:
+  geodesic deviation
+
+loop frame-transport:
+  curvature / holonomy
+
+translational closure failure:
+  torsion, if the cell remains live
+```
+
+---
+
+## 7. GB-2 — stranding at an edge and ordering-collapse
 
 Claim:
 
@@ -352,7 +418,7 @@ Rindler horizon / de Sitter access horizon:
 
 ---
 
-## 7. GB-3 — no null structure constitutes information
+## 8. GB-3 — no null structure constitutes information
 
 Claim:
 
@@ -390,7 +456,7 @@ Constitution occurs at the receiver / uptake chain, not in the null transit itse
 
 ---
 
-## 8. Weyl two-face structure at the ordering-collapse corner
+## 9. Weyl two-face structure at the ordering-collapse corner
 
 The Weyl tensor has two projected faces relative to a timelike `u`:
 
@@ -441,7 +507,7 @@ It does not exhaust affine non-integrability or settle torsion.
 
 ---
 
-## 9. Scope and perimeter
+## 10. Scope and perimeter
 
 A2 does not derive:
 
@@ -488,7 +554,7 @@ unearned new structure:
 
 ---
 
-## 10. Open items
+## 11. Open items
 
 ```text
 1. Does the singularity destroy ordering or transform it into influence?
@@ -512,7 +578,7 @@ unearned new structure:
 
 ---
 
-## 11. EB-1 — photon at rest / box at rest
+## 12. EB-1 — photon at rest / box at rest
 
 Forced chain:
 
@@ -547,7 +613,7 @@ no confirmatory weight.
 
 ---
 
-## 12. EB-2 — de-oriented interior and entropy
+## 13. EB-2 — de-oriented interior and entropy
 
 Given the photon box:
 
@@ -593,7 +659,7 @@ entropic measure mixedness-mediated and imported.
 
 ---
 
-## 13. Compact result
+## 14. Compact result
 
 ```text
 Shared core:
@@ -621,6 +687,13 @@ Therefore:
 
 Transport reading:
   T_μν → curvature / connection behavior → frame-transport → rendering / sampling consequences.
+
+Computational handles:
+  E = -p·u                         rendering by flow-worldline
+  a^μ = u^ν∇_νu^μ                  non-geodesic frame-transport
+  D²ξ^μ/dτ² = -R^μ{}_{νρσ}u^νξ^ρu^σ relative frame-transport / tidal response
+  ΔV^μ ~ R^μ{}_{νρσ}V^νA^{ρσ}      loop frame-transport / holonomy
+  closure gap ~ T(A,B)             torsion if translational closure cell is live
 
 Null limit:
   flow → 0;
