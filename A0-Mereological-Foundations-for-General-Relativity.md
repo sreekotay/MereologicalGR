@@ -23,7 +23,7 @@ The instrument is completeness, not taxonomy:
 ```text
 compose = parts present
 missing = a needed part absent
-extra = a present part unaccounted
+extra = present but unaccounted
 ```
 
 A composition holds only when nothing is missing and nothing is extra. Naming a role, operation, projection, or composite does not make it irreducible. It makes it auditable.
@@ -38,7 +38,7 @@ A0 therefore provides:
 5. the epistemic grading ledger;
 6. the current component roster;
 7. the composition grammar;
-8. the current open seam around rendering, uptake, and information;
+8. the current open seam around rendering, frame-transport, uptake, and information;
 9. the foundation-form PB bets implied by role-realism.
 ```
 
@@ -436,7 +436,8 @@ rendering:
   content-through-frame
 
 frame-transport:
-  change of frame-basis along flow
+  change of frame-basis along flow;
+  broader than proper acceleration
 
 uptake:
   influence-into-flow
@@ -498,7 +499,7 @@ constitution threshold:
 The present seam is the gap between content and information.
 
 ```text
-content → rendering → uptake → information
+content → rendering → frame-transport → uptake → information
 ```
 
 A0's provisional grammar:
@@ -515,7 +516,11 @@ rendering:
 
 frame-transport:
   change of frame-basis along flow;
-  acceleration is its scalar projection
+  broader than proper acceleration
+
+proper acceleration:
+  non-geodesic / forced component of frame-transport along timelike flow;
+  scalar proper acceleration is one measurable face of it
 
 uptake:
   influence-through-flow / influence entering a flow-bearing register
@@ -532,6 +537,9 @@ rendering:
 
 frame-transport:
   frame changes through flow
+
+proper acceleration:
+  one measurable non-geodesic face of frame-transport
 
 uptake:
   influence enters flow
@@ -592,22 +600,26 @@ GR-first extraction:
 ```text
 frame = ordering + flow + adjacency
 rendering = content-through-frame
+frame-transport = frame changes along flow
 ```
 
 Quantum stress test:
 
 ```text
 What happens to content-through-frame when the frame-basis is itself quantum/coherent?
+What happens to frame-transport when the frame-basis has quantum uncertainty or coherence?
 ```
 
-The expected pressure is not that frames gain influence qua frame. The frame-role remains write-not-read. The pressure is on rendering:
+The expected pressure is not that frames gain influence qua frame. The frame-role remains write-not-read. The pressure is on rendering and frame-transport:
 
 ```text
 classical frame-basis:
-  sharp projection / contraction
+  sharp projection / contraction;
+  determinate transport
 
 quantum frame-basis:
-  coherent / conditional / superposed rendering map
+  coherent / conditional / superposed rendering map;
+  coherent / conditional / superposed transport map
 ```
 
 The audit question:
@@ -615,6 +627,9 @@ The audit question:
 ```text
 Does rendering remain reducible to frame + content + projection
 when the projector/basis is quantum?
+
+Does frame-transport remain reducible to frame + flow + connection / covariant transport
+when the transported basis is quantum?
 ```
 
 A0 does not answer this. It names the seam.
@@ -708,7 +723,9 @@ rendering:
   operation under audit
 
 frame-transport:
-  operation under audit
+  operation under audit;
+  not a peer role;
+  broader than proper acceleration
 
 uptake:
   operation under audit
@@ -865,6 +882,20 @@ PB-4-full constitution:
   not on observer-involvement as an extra factor
 ```
 
+Frame-process includes rendering and frame-transport, but neither is constitution by itself:
+
+```text
+rendering:
+  content becomes frame/worldline-relative
+
+frame-transport:
+  frame changes through flow;
+  sampling/access/response can change before any write occurs
+
+constitution:
+  uptake/write crosses application consequence threshold
+```
+
 What PB-4 requires:
 
 ```text
@@ -928,6 +959,7 @@ what is imported?
 what is calibrated?
 what is composed?
 what is merely rendered?
+what is transported through flow?
 what is taken up?
 what would count as missing or extra?
 what foundation bet is being priced or tested?
@@ -964,9 +996,13 @@ Compositions:
 
 Operations under audit:
   rendering = content-through-frame
-  frame-transport = change of frame-basis along flow
+  frame-transport = frame changes along flow
   uptake = influence-into-flow
   constitution = uptake reaching application consequence
+
+Proper acceleration:
+  one measurable non-geodesic face of frame-transport,
+  not the whole operation
 
 Foundation bets:
   PB-1 = ordering-axis bound exists
