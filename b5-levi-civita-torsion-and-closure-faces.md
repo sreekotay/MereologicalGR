@@ -3,7 +3,7 @@
 *Working draft, June 2026.*
 
 Status: B-note / internal audit / number-pipeline note.  
-Primary target: A2 gravity composition and any curvature-form derivation that silently uses torsion-free Levi-Civita structure.  
+Primary target: A2 gravity composition and curvature-form derivations that silently use torsion-free Levi-Civita structure.  
 Grade: missing-cell audit + structural-bet candidate. Not a new gravity theory.
 
 B5's claim is simple:
@@ -15,12 +15,15 @@ torsion is translational closure failure.
 
 If MGR treats loop-failure-to-close as a primitive geometric signal, it cannot silently keep only curvature and inherit torsion-free as if GR's omission were a prohibition. It must either force the torsion cell empty by role-reason or book torsion as a live structural bet.
 
-The positive output is also simple:
+Positive output:
 
 ```text
 independent spin current retained
 → torsion-sector equation live
-→ torsion tensor / contortion / correction / bound computed externally
+→ torsion tensor
+→ contortion
+→ torsion-live connection
+→ transport correction / observable bound
 ```
 
 Calibration is not failure. Fitting is failure. A scalar may be observed; a structure must be earned.
@@ -43,13 +46,13 @@ torsion:
   the two edge-orders miss by a displacement.
 ```
 
-The cleaner parent category is:
+Parent category:
 
 ```text
 affine non-integrability / loop-failure-to-close
 ```
 
-with two faces:
+Two faces:
 
 ```text
 rotational closure failure:
@@ -117,8 +120,8 @@ That does not separate curvature from torsion.
 Both effects appear at area order around an infinitesimal loop:
 
 ```text
-curvature rotation ~ ε² R(A,B)
-torsion gap       ~ ε² T(A,B)
+curvature rotation ~ eps^2 R(A,B)
+torsion gap       ~ eps^2 T(A,B)
 ```
 
 The difference is not loop-size order. The difference is what fails:
@@ -156,7 +159,7 @@ space-momentum = directed spatial-translation face
 
 A torsion gap is not a new scalar separation-magnitude. It is a failure of infinitesimal displacement composition: a directed translational residue. That has a candidate home in the adjacency/momentum sector.
 
-So the live fork is:
+Live fork:
 
 ```text
 forced-empty route:
@@ -187,7 +190,7 @@ R^a{}_[bcd] = 0
 With torsion live, the cyclic identity acquires torsion terms schematically:
 
 ```text
-cyclic R = ∇T + T·T
+cyclic R = covariant-derivative-of-T + T*T
 ```
 
 Therefore a derivation that uses:
@@ -223,7 +226,7 @@ torsion:
   non-integrability of adjacency-translation / momentum-conjugate transport.
 ```
 
-Thus the native framework map is:
+Native framework map:
 
 ```text
 curvature:
@@ -239,7 +242,7 @@ If the framework takes loop-failure-to-close seriously, the translational failur
 
 ## 7. Spin current and the torsion-sector equation
 
-In Einstein-Cartan / Poincaré-gauge-style completions, two relations must not be fused.
+In Einstein-Cartan / Poincare-gauge-style completions, two relations must not be fused.
 
 Gauge / origin grouping:
 
@@ -271,7 +274,7 @@ Careful statement:
 
 ```text
 Spin's immediate mathematical home is Lorentz representation / spin-connection structure.
-In EC/Poincaré-gauge completions, an independent spin current sources or activates torsion.
+In EC/Poincare-gauge completions, an independent spin current sources or activates torsion.
 ```
 
 MGR does not derive the coupling. It owns only the route:
@@ -300,16 +303,16 @@ independent spin current retained
 Externally priced schematic form:
 
 ```text
-Torsion ~ κ × spin density
+Torsion ~ kappa * spin density
 ```
 
 or, more carefully:
 
 ```text
-T^a{}_{bc} + trace terms = κ × spin-current^a{}_{bc}
+T^a{}_{bc} + trace terms = kappa * spin-current^a{}_{bc}
 ```
 
-The exact index placement, trace convention, and coefficient are owned by the chosen EC / Poincaré-gauge formulation. MGR owns the source-route, not the coefficient.
+The exact index placement, trace convention, and coefficient are owned by the chosen EC / Poincare-gauge formulation. MGR owns the source-route, not the coefficient.
 
 Algorithm:
 
@@ -330,7 +333,7 @@ Algorithm:
    if spin current survives as an independent matter current, route it to the torsion-sector equation.
 
 6. Compute externally:
-   apply the selected EC / Poincaré-gauge field equation to obtain torsion, contortion,
+   apply the selected EC / Poincare-gauge field equation to obtain torsion, contortion,
    an effective correction, or a bound.
 
 7. Grade the result:
@@ -385,15 +388,15 @@ contortion split:
   not derived: which K is realized in nature.
 
 spin-current torsion equation:
-  imported handle: T^a{}_{bc} + trace terms = κ × spin-current^a{}_{bc}
+  imported handle: T^a{}_{bc} + trace terms = kappa * spin-current^a{}_{bc}
   role exposed: independent spin current routes to torsion-sector equation;
   computes: torsion tensor, axial torsion, contortion, effective correction, or bound;
-  not derived: κ, index convention, trace convention, or EC/Poincaré-gauge dynamics.
+  not derived: kappa, index convention, trace convention, or EC/Poincare-gauge dynamics.
 
 neutron-star torsion burden:
-  imported handle: selected EC / Poincaré-gauge stellar model or effective torsion correction
+  imported handle: selected EC / Poincare-gauge stellar model or effective torsion correction
   role exposed: spin/current-correlated torsion burden in a compact-object regime;
-  computes: ΔR, ΔM_max, Δρ_c, ΔI, ΔΛ, spin-up/down sign, or bound;
+  computes: delta R, delta M_max, delta rho_c, delta I, delta Lambda, spin response sign, or bound;
   not derived: EOS, observational inference, or source-model correctness.
 ```
 
@@ -425,12 +428,196 @@ metric-compatible torsion-live transport:
   contortion K
 
 spin-current pricing:
-  EC / Poincaré-gauge torsion-sector equation
+  EC / Poincare-gauge torsion-sector equation
 ```
 
 ---
 
-## 10. Neutron-star worksheet
+## 10. Minimal torsion calculation skeleton
+
+The handles above locate formulas. The next step is a calculation skeleton: the smallest sequence that turns the missing torsion cell into a priced correction or bound.
+
+Nothing in this section is a new MGR dynamics. The dynamics are imported. The framework-owned part is the route and the missing/extra diagnosis.
+
+### 10.1 Kinematic split
+
+Start with the affine data:
+
+```text
+connection:
+  Γ^a{}_{bc}
+
+torsion:
+  T^a{}_{bc} = 2 Γ^a{}_[bc]
+
+Levi-Civita part:
+  {^a{}_{bc}}
+
+contortion:
+  K^a{}_{bc}
+```
+
+Metric-compatible torsion-live transport can be written schematically:
+
+```text
+Γ^a{}_{bc} = {^a{}_{bc}} + K^a{}_{bc}
+```
+
+with `K` algebraically determined by torsion once the convention is fixed. A common convention has the form:
+
+```text
+K ~ 1/2 * (T + index-permuted T terms)
+```
+
+The exact signs and index positions are imported from the chosen formalism.
+
+Role reading:
+
+```text
+{ }:
+  metric-compatible torsion-free comparison / transport
+
+K:
+  torsion-live correction to the transport rule
+
+T:
+  translational closure-failure tensor
+```
+
+### 10.2 Loop split
+
+For a small loop with area bivector `A^{bc}`:
+
+```text
+rotational closure failure:
+  delta V^a ~ R^a{}_{bcd} V^b A^{cd}
+
+translational closure failure:
+  delta x^a ~ T^a{}_{bc} A^{bc}
+```
+
+This is the clean computational distinction.
+
+```text
+R prices orientation failure.
+T prices endpoint failure.
+```
+
+If MGR names loop-failure-to-close as a primitive diagnostic, both prices must either be paid or one must be forced empty.
+
+### 10.3 Source route
+
+In EC/Poincare-gauge-style completions, the torsion equation is algebraic or constraint-like in the simplest cases:
+
+```text
+T + trace terms = kappa * spin-current
+```
+
+Schematic source route:
+
+```text
+spin current in
+→ solve torsion-sector equation
+→ T
+→ K
+→ corrected connection Γ = { } + K
+→ modified transport / effective stress / observable shift
+```
+
+MGR owns:
+
+```text
+spin-current retained independently
+→ torsion-sector equation live
+```
+
+It does not own:
+
+```text
+kappa;
+trace convention;
+index convention;
+choice of EC / Poincare-gauge action;
+whether the physical source model is correct.
+```
+
+### 10.4 Computation recipe
+
+A minimal torsion-burden computation has this form:
+
+```text
+Input:
+  metric / tetrad or baseline GR solution;
+  matter model;
+  decision whether spin current is Belinfante-absorbed or retained independently;
+  chosen torsion-sector equation.
+
+Step 1:
+  compute or model independent spin-current s.
+
+Step 2:
+  solve imported torsion equation:
+    T + trace terms = kappa * s.
+
+Step 3:
+  compute contortion:
+    K = K(T).
+
+Step 4:
+  form torsion-live connection:
+    Γ = { } + K.
+
+Step 5:
+  compute transport consequences:
+    geodesic/autoparallel shift;
+    curvature correction;
+    effective stress-energy correction;
+    spin-correlated radius / mass / moment-of-inertia / tidal-response shift.
+
+Step 6:
+  compare to data or bound:
+    hidden;
+    testable;
+    excluded;
+    suggestive.
+```
+
+The framework-positive output is not:
+
+```text
+any deviation from GR
+```
+
+but:
+
+```text
+spin/current-routed torsion burden
+not absorbed by ordinary GR + matter modeling.
+```
+
+### 10.5 Zero and tiny-number discipline
+
+A zero or tiny torsion burden in a model is not automatically a refutation of the missing-cell audit.
+
+```text
+zero because spin current is absent / absorbed:
+  GR-sector description successful for that source model
+
+zero because role-reason forbids translational closure failure:
+  torsion-free forced, cell closed
+
+tiny because realistic spin density is small or cancels:
+  live cell, hidden number
+
+nonzero and spin/current-correlated:
+  positive number-producing target
+```
+
+This prevents both overclaim and underclaim.
+
+---
+
+## 11. Neutron-star worksheet
 
 Neutron stars are the first application target because they offer high density, spin, EOS leverage, and observable mass/radius/tidal constraints.
 
@@ -445,7 +632,7 @@ A. Intrinsic-spin / minimal EC channel
 B. Rotation-induced / phenomenological torsion channel
    source: macroscopic angular momentum, rotation, or model-specific current
    framework status: useful positive number target, but not identical to minimal EC spin-density torsion
-   current neutron-star status: potentially observable in some models, e.g. ΔR up to about 0.9 km
+   current neutron-star status: potentially observable in some models, e.g. radius shift up to about 0.9 km
 ```
 
 The first is cleaner lineage. The second is the better near-term observational target.
@@ -455,10 +642,10 @@ The first is cleaner lineage. The second is the better near-term observational t
 | Anchor | Available data | Use in torsion worksheet |
 |---|---:|---|
 | PSR J0740+6620 mass | `M = 2.08 ± 0.07 M_sun` | High-mass support constraint; any torsion-modified EOS must still support about two solar masses. |
-| PSR J0740+6620 radius | `R_eq = 12.92^{+2.09}_{-1.13} km` at 68% credibility in updated NICER/XMM inference | First radius-shift target; compare predicted `ΔR` against current uncertainty. |
+| PSR J0740+6620 radius | `R_eq = 12.92^{+2.09}_{-1.13} km` at 68% credibility in updated NICER/XMM inference | First radius-shift target; compare predicted radius shift against current uncertainty. |
 | PSR J0740+6620 spin | period about `2.89 ms` | Rotation input; not near breakup, but fast enough to test spin/rotation-correlated residuals. |
 | PSR J0030+0451 | NICER source near `M ~ 1.3–1.4 M_sun`, `R ~ 13 km` in 2019 analyses; later reanalyses emphasize model dependence | Lower-mass radius anchor; useful for mass-dependence versus spin-dependence separation. |
-| GW170817 / BNS events | tidal deformability and EOS constraints | Tests whether torsion-induced `ΔR` implies allowed or excluded `ΔΛ`. |
+| GW170817 / BNS events | tidal deformability and EOS constraints | Tests whether torsion-induced radius shift implies allowed or excluded tidal shift. |
 | PSR J0952−0607 | mass estimate `M_NS = 2.35 ± 0.17 M_sun`; spin frequency about `707 Hz` | Extreme high-mass / high-spin stress case; mass modeling is less clean than Shapiro-delay systems. |
 
 Direct torsion-model anchor:
@@ -487,18 +674,19 @@ For each selected neutron star or EOS family:
 
 ```text
 1. Choose baseline GR / TOV model:
-   EOS, M, R, ρ_c, I, Λ.
+   EOS, M, R, central density, moment of inertia, tidal deformability.
 
 2. Choose torsion source model:
    intrinsic-spin / minimal EC channel,
    or rotation-induced / phenomenological torsion channel.
 
 3. Apply imported torsion pricing:
-   EC / Poincaré-gauge torsion equation,
+   EC / Poincare-gauge torsion equation,
    or the chosen effective correction model.
 
 4. Compute corrections:
-   ΔR, ΔM_max, Δρ_c, ΔI, ΔΛ, spin-up/down sign.
+   radius shift, maximum-mass shift, central-density shift,
+   moment-of-inertia shift, tidal-deformability shift, spin-up/down sign.
 
 5. Compare to data:
    NICER radius uncertainty,
@@ -516,21 +704,21 @@ For each selected neutron star or EOS family:
 Tidal deformability is radius-sensitive. Schematically:
 
 ```text
-Λ ~ k_2 / C^5
-C = GM/(Rc²)
+Lambda ~ k_2 / C^5
+C = GM/(Rc^2)
 ```
 
 Holding mass and Love-number changes aside for a first pass:
 
 ```text
-ΔΛ / Λ ≈ 5 ΔR / R
+relative tidal shift ~ 5 * relative radius shift
 ```
 
-For `R ~ 13 km`, a `ΔR ~ 0.9 km` shift gives roughly:
+For `R ~ 13 km`, a radius shift near `0.9 km` gives roughly:
 
 ```text
-ΔR / R ~ 0.07
-ΔΛ / Λ ~ 0.35
+relative radius shift ~ 0.07
+relative tidal shift ~ 0.35
 ```
 
 This is a sensitivity estimate, not a prediction. It shows why a sub-kilometer torsion radius shift is not automatically irrelevant.
@@ -545,7 +733,7 @@ because it has high mass, NICER/XMM radius inference, known millisecond spin, an
 
 ---
 
-## 11. What would count as positive evidence?
+## 12. What would count as positive evidence?
 
 Weak positive:
 
@@ -557,7 +745,7 @@ better than with mass-energy density alone.
 Stronger positive:
 
 ```text
-a torsion-sector correction predicts a sign and scale of ΔR or ΔI
+a torsion-sector correction predicts a sign and scale of radius or moment-of-inertia shift
 that improves fit across fast and slow pulsars without spoiling GW tidal constraints.
 ```
 
@@ -587,12 +775,12 @@ A null result does not by itself force torsion empty. It tightens bounds and wea
 
 ---
 
-## 12. Belinfante and Wigner guardrails
+## 13. Belinfante and Wigner guardrails
 
 Spin current is not simply:
 
 ```text
-the antisymmetric part of T_μν
+the antisymmetric part of T_mu_nu
 ```
 
 In torsion-free GR, spin can be absorbed into a symmetric stress-energy tensor through Belinfante-Rosenfeld symmetrization. In Einstein-Cartan-type formulations, spin density/current is kept as an independent source associated with torsion.
@@ -600,7 +788,7 @@ In torsion-free GR, spin can be absorbed into a symmetric stress-energy tensor t
 So the stress-energy remainder question and the torsion question are linked:
 
 ```text
-remainder-free symmetric T_μν:
+remainder-free symmetric T_mu_nu:
   torsion-free may remain a successful GR import
 
 independent spin current retained:
@@ -611,7 +799,7 @@ Wigner does not prove torsion. But Wigner's massive-particle labels include mass
 
 ---
 
-## 13. Photon / write-act containment
+## 14. Photon / write-act containment
 
 This torsion audit does not automatically damage the photon or write-act sections.
 
@@ -639,7 +827,7 @@ all affine closure-failure faces.
 
 ---
 
-## 14. Ledger
+## 15. Ledger
 
 Derived / framework-owned:
 
@@ -651,13 +839,14 @@ Derived / framework-owned:
 5. curvature-form derivations using first Bianchi are Levi-Civita-sector only;
 6. directed translational residue has a candidate home in the adjacency/momentum sector;
 7. if spin current is retained independently, the torsion-sector equation is the native route;
-8. computational handles map existing geometry to closure-face roles without deriving the dynamics.
+8. computational handles map existing geometry to closure-face roles without deriving the dynamics;
+9. minimal torsion calculation skeleton turns the live cell into an externally priced correction or bound.
 ```
 
 Calibrated / externally priced:
 
 ```text
-EC / Poincaré-gauge coupling;
+EC / Poincare-gauge coupling;
 index and trace conventions;
 torsion tensor / contortion magnitude;
 effective correction terms;
@@ -670,7 +859,7 @@ Imported / not derived:
 ```text
 Levi-Civita connection;
 Riemann curvature and holonomy formulas;
-Einstein-Cartan or Poincaré-gauge field equations;
+Einstein-Cartan or Poincare-gauge field equations;
 spin-current dynamics;
 EOS and neutron-star microphysics;
 observational mass/radius/tidal inference;
