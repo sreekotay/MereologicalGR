@@ -349,7 +349,88 @@ The correction should scale with spin/current, not mass-energy density alone. Ti
 
 ---
 
-## 9. Neutron-star worksheet
+## 9. Computational handles
+
+The closure-failure reading is useful only if it points to real differential-geometric handles. B5 therefore keeps the handles imported, and states only what role they expose.
+
+```text
+Levi-Civita split:
+  imported handle: Γ^a{}_{bc} = {^a{}_{bc}} in the torsion-free GR sector
+  role exposed: metric-compatible comparison / transport with torsion cell set empty;
+  computes: standard GR parallel transport, geodesics, curvature, holonomy;
+  not derived: torsion-free as a role-forced condition.
+
+curvature / holonomy:
+  imported handle: ΔV^μ ~ R^μ{}_{νρσ} V^ν A^{ρσ}
+  role exposed: rotational closure failure / loop frame-transport;
+  computes: orientation change after infinitesimal loop transport;
+  not derived: translational closure failure is absent.
+
+first Bianchi identity:
+  imported handle: R^a{}_[bcd] = 0 in the torsion-free Levi-Civita sector
+  role exposed: algebraic closure of the rotational curvature package;
+  computes: familiar Riemann symmetry / curvature-form constraints;
+  not derived: the same identity in a torsion-live affine geometry.
+
+torsion / closure gap:
+  imported handle: gap ~ T(A,B)
+  role exposed: translational closure failure / adjacency-translation residue;
+  computes: infinitesimal endpoint displacement from non-closing parallelogram;
+  not derived: torsion is physically nonzero.
+
+contortion split:
+  imported handle: Γ = { } + K
+  role exposed: metric-compatible transport can retain torsion through contortion;
+  computes: how a torsion-live connection departs from Levi-Civita;
+  not derived: which K is realized in nature.
+
+spin-current torsion equation:
+  imported handle: T^a{}_{bc} + trace terms = κ × spin-current^a{}_{bc}
+  role exposed: independent spin current routes to torsion-sector equation;
+  computes: torsion tensor, axial torsion, contortion, effective correction, or bound;
+  not derived: κ, index convention, trace convention, or EC/Poincaré-gauge dynamics.
+
+neutron-star torsion burden:
+  imported handle: selected EC / Poincaré-gauge stellar model or effective torsion correction
+  role exposed: spin/current-correlated torsion burden in a compact-object regime;
+  computes: ΔR, ΔM_max, Δρ_c, ΔI, ΔΛ, spin-up/down sign, or bound;
+  not derived: EOS, observational inference, or source-model correctness.
+```
+
+Method reading:
+
+```text
+The handle is imported.
+The role-location is framework-owned if the decomposition is clean.
+The scalar or tensor value is computed by the imported formalism.
+A new MGR claim appears only where the role-route forces a missing/extra diagnosis.
+```
+
+So the concrete payoff is not a new torsion equation. It is a sharper map of which existing geometric formula prices which closure face:
+
+```text
+metric-compatible transport:
+  Levi-Civita sector
+
+loop frame-transport:
+  curvature / holonomy
+
+algebraic curvature closure:
+  first Bianchi, torsion-free only
+
+translational closure failure:
+  torsion / closure gap
+
+metric-compatible torsion-live transport:
+  contortion K
+
+spin-current pricing:
+  EC / Poincaré-gauge torsion-sector equation
+```
+
+---
+
+## 10. Neutron-star worksheet
 
 Neutron stars are the first application target because they offer high density, spin, EOS leverage, and observable mass/radius/tidal constraints.
 
@@ -464,7 +545,7 @@ because it has high mass, NICER/XMM radius inference, known millisecond spin, an
 
 ---
 
-## 10. What would count as positive evidence?
+## 11. What would count as positive evidence?
 
 Weak positive:
 
@@ -506,7 +587,7 @@ A null result does not by itself force torsion empty. It tightens bounds and wea
 
 ---
 
-## 11. Belinfante and Wigner guardrails
+## 12. Belinfante and Wigner guardrails
 
 Spin current is not simply:
 
@@ -530,7 +611,7 @@ Wigner does not prove torsion. But Wigner's massive-particle labels include mass
 
 ---
 
-## 12. Photon / write-act containment
+## 13. Photon / write-act containment
 
 This torsion audit does not automatically damage the photon or write-act sections.
 
@@ -558,7 +639,7 @@ all affine closure-failure faces.
 
 ---
 
-## 13. Ledger
+## 14. Ledger
 
 Derived / framework-owned:
 
@@ -569,7 +650,8 @@ Derived / framework-owned:
 4. metric-compatibility does not imply torsion-free;
 5. curvature-form derivations using first Bianchi are Levi-Civita-sector only;
 6. directed translational residue has a candidate home in the adjacency/momentum sector;
-7. if spin current is retained independently, the torsion-sector equation is the native route.
+7. if spin current is retained independently, the torsion-sector equation is the native route;
+8. computational handles map existing geometry to closure-face roles without deriving the dynamics.
 ```
 
 Calibrated / externally priced:
@@ -586,6 +668,8 @@ bounds from mass-radius-tidal data.
 Imported / not derived:
 
 ```text
+Levi-Civita connection;
+Riemann curvature and holonomy formulas;
 Einstein-Cartan or Poincaré-gauge field equations;
 spin-current dynamics;
 EOS and neutron-star microphysics;
