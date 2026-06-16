@@ -63,6 +63,14 @@ cause ≠ temporal flow
 
 This is the first naked-role case in the corpus. "Naked" means role-exposed, not ontologically bare: one ordinary bundle is stripped enough that a constituent role can be seen carrying work. The photon strips flow while leaving ordering and influence. Later notes use the same pattern when scalar Unruh strips orientation to expose flow / self-transport, CMB strips individual photon rest-frame language to expose congruence-rendering, Hubble slot-counting strips semantic redshift to expose burden slots, and Hawking strips bath / constitution readings to expose access / rendering / write separation.
 
+A naked-role read is licensed only when:
+
+```text
+1. a normally bundled role is silent, stripped, or held fixed by the setup;
+2. a remaining role carries a concrete computation, scale, guardrail, or burden;
+3. the standard machinery that supplies numbers or dynamics is named.
+```
+
 The phrase “cause without time” means:
 
 ```text

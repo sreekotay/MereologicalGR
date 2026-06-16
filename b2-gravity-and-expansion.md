@@ -161,6 +161,51 @@ No information-loss-in-flight term.
 
 Flow is common. The clock does not create a third burden register unless the shared-congruence assumption itself fails.
 
+Naked-role read:
+
+```text
+not exposed:
+  semantic redshift;
+  photon fatigue;
+  information-loss-in-flight;
+  an independent clock-flow correction.
+
+exposed:
+  adjacency/ruler burden;
+  gravity / expansion-history bridge;
+  shared-congruence assumption.
+```
+
+The bounded slot route is:
+
+```text
+FRW shared flow
+→ scale factor a(τ)
+→ H(τ) = (1/a) da/dτ
+→ early records become rulers through adjacency constitution
+→ expansion history carries those rulers to present H0 through the gravity bridge
+→ H0 disagreement burdens the ruler slot, the gravity/energy-momentum bridge,
+   or the shared-congruence assumption
+```
+
+What the framework earns:
+
+```text
+slot count;
+semantic/information-redshift null guard;
+where comparison can fail.
+```
+
+What cosmology still supplies:
+
+```text
+ΛCDM or alternative expansion model;
+distance ladder and early-ruler calibration;
+local-flow corrections;
+survey/window functions;
+numerical H0 values.
+```
+
 ## 6. Collision-room
 
 The two-slot count could have failed.

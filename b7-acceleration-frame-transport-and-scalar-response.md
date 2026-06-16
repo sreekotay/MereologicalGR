@@ -2,9 +2,9 @@
 
 *Working draft, June 2026.*
 
-Status: B-note / positive-computation chain.  
+Status: B-note / scalar-response clarifier and role-location.
 Primary target: A0 rendering/uptake seam, A1 PB-4, and B6 temperature/information discipline.  
-Grade: positive partial derivation + boundary audit. Not a derivation of full QFT.
+Grade: clarifier + role-location + boundary audit of the standard scalar-response derivation. Not a witness, not a distinct Unruh derivation, and not a derivation of full QFT.
 
 B7 separates three frame-transport bets:
 
@@ -20,18 +20,18 @@ FT-2:
 FT-3:
   the Unruh scalar-response skeleton can be role-located through
   flow self-transport / rendering rather than only bare worldline pullback;
-  live projection, tested but not sealed by B7.
+  live projection, stated / role-located here, not tested here.
 ```
 
 FT-1 is the broader axis. It is supported by ordinary GR and quantum handles: gyroscope precession, spin transport, holonomy, spin-rotation coupling, polarization transport, and related carried-vector / carried-frame effects. FT-2 and FT-3 are narrower. B7 reads proper acceleration first as a Levi-Civita self-transport fact: the flow direction is compared with itself along its own path, and the nonzero residue is `a^mu = u^nu nabla_nu u^mu`. That is stronger than a slogan and weaker than a full identity between acceleration and all frame-transport. It says acceleration exposes the flow-leg face of frame-transport.
 
-The richer carried-frame-basis claim is separate. A tetrad, spin axis, polarization basis, or detector orientation can also be transported, and those richer cases are where FT-1 has broad external support. The scalar Unruh run does not display that orientation-sensitive basis. Its question is narrower: whether the response is exhausted by bare worldline pullback or whether the worldline already carries a flow/self-transport status that belongs in the rendering route.
+The richer carried-frame-basis claim is separate. A tetrad, spin axis, polarization basis, or detector orientation can also be transported, and those richer cases are where FT-1 has broad external support. The scalar Unruh run suppresses the distinguishing carried-basis variable, so it cannot test full carried-frame-basis transport. Its question is narrower: whether the standard scalar lineage can be cleanly role-located as bare worldline pullback plus flow/self-transport status.
 
-Frame-transport is broader than proper acceleration, but it is not arbitrary tetrad relabeling or coordinate bookkeeping. It names invariant or operationally fixed frame change / comparison as priced by the imported GR transport structure: along a flow, between nearby flows, around loops, or through any live torsion sector. B7 uses uniform proper acceleration because it gives the clean scalar-response computation and a place to test FT-2 / FT-3.
+Frame-transport is broader than proper acceleration, but it is not arbitrary tetrad relabeling or coordinate bookkeeping. It names invariant or operationally fixed frame change / comparison as priced by the imported GR transport structure: along a flow, between nearby flows, around loops, or through any live torsion sector. B7 uses uniform proper acceleration because it gives the clean scalar-response computation and a place to audit FT-2 / FT-3 for missing/extra remainder.
 
-Once acceleration is read this way, the scalar Unruh response has a GR interval skeleton with an MGR role-location. Metric/Levi-Civita structure gives the natural scalar propagation operator once a scalar sector is admitted. The flat massless scalar sector gives the local interval singularity. Uniform acceleration pulls that skeleton onto a hyperbolic worldline. The resulting `sinh²` form has imaginary proper-time period `2πc/a`.
+Once acceleration is read this way, the standard scalar Unruh response has a GR interval skeleton with an MGR role-location. Metric/Levi-Civita structure gives the natural scalar propagation operator once a scalar sector is admitted. The flat massless scalar sector gives the local interval singularity. Uniform acceleration pulls that skeleton onto a hyperbolic worldline. The resulting `sinh²` form has imaginary proper-time period `2πc/a`.
 
-That earns the scalar-response skeleton and the geometric Unruh period. QFT supplies the state and detector interpretation; it does not supply the geometric period.
+B7 does not provide a distinct Unruh lineage. It re-audits the standard lineage: GR interval geometry supplies the pullback period, QFT supplies the state and detector interpretation, and MGR supplies a clarifier-grade flow/rendering/uptake role audit. That audit returns no missing/extra remainder.
 
 Calibration is not failure. Fitting is failure. A scalar may be observed; a structure must be earned.
 
@@ -405,7 +405,7 @@ vacuum / KMS / detector response:
 
 ---
 
-## 7. Consequence for Unruh and PB-4
+## 7. Consistency check for Unruh and PB-4
 
 For Unruh:
 
@@ -417,16 +417,16 @@ accelerated detector:
   samples that same state along accelerated flow
 ```
 
-The geometry supplies the scalar skeleton and `2π` period. QFT supplies the vacuum/Wightman/KMS detector-response layer.
+The geometry supplies the scalar skeleton and `2π` period. QFT supplies the vacuum/Wightman/KMS detector-response layer. B7's role-audit of this standard lineage returns no missing/extra remainder.
 
-This sharpens PB-4a:
+Consistency with PB-4a:
 
 ```text
 rendering is worldline / frame-transport set,
 not observer-set.
 ```
 
-The result is not that an observer imagines particles. It is:
+The clarifier read is not that an observer imagines particles. It is:
 
 ```text
 same scalar relatedness;
@@ -435,7 +435,7 @@ different response rendering;
 possible write if detector threshold is crossed.
 ```
 
-It does not confirm PB-4-full, because thermal rendering is not information constitution. Constitution still requires uptake/write at application scale.
+This is a consistency check with PB-3 / PB-4, not a B7-originated guardrail. It does not confirm PB-4-full, because thermal rendering is not information constitution. Constitution still requires uptake/write at application scale.
 
 ---
 
@@ -475,7 +475,7 @@ without choosing a global vacuum?
 
 ## 9. Ledger
 
-Framework-owned / role-located / computed:
+Role-located / clarified / inherited computation:
 
 ```text
 FT-1:
@@ -489,9 +489,9 @@ FT-2:
 FT-3:
   Unruh scalar response as phase-bearing relatedness rendered through
   accelerated flow self-transport rather than only bare worldline pullback;
-  tested here, not sealed here.
+  stated / role-located here, not tested here.
 
-computed / structure-derived:
+standard computation, role-located here:
   scalar wave operator from metric/Levi-Civita structure, given scalar assumptions;
   interval/world-function dependence;
   leading 1/σ scalar skeleton in 4D;
@@ -537,6 +537,7 @@ Demotion conditions:
 FT-1 fails if carried / comparison structure never changes any invariant or operational observable;
 FT-2 fails if acceleration is only a worldline parameter, not self-transport failure of flow;
 FT-3 fails if the Unruh scalar skeleton is exhausted by bare worldline pullback with no phasic rendering role;
+the audit finds a missing/extra remainder in the standard Unruh lineage;
 the scalar operator is not forced by the stated scalar assumptions;
 the 1/σ skeleton can be replaced without adding a scale or violating the wave equation;
 the 2π period depends on QFT iε rather than hyperbolic geometry;
@@ -551,12 +552,16 @@ coefficient or dependency was selected by fitting rather than derived before cal
 Standing result:
 
 ```text
-Uniform acceleration plus GR interval geometry derives the scalar pullback skeleton
-and the Unruh 2π imaginary proper-time period.
+B7 does not provide a distinct Unruh lineage.
+It role-locates the standard scalar-response lineage:
+  GR interval geometry supplies the pullback skeleton and 2π imaginary proper-time period;
+  QFT supplies the Wightman/KMS detector-response interpretation;
+  MGR supplies a clarifier-grade flow/rendering/uptake audit.
 
-MGR owns the flow self-transport / rendering role-location as a live projection.
-QFT supplies the quantum state and detector interpretation
-that make the skeleton a Wightman/KMS thermal response.
+Audit verdict:
+  no missing/extra remainder found in the standard lineage.
+
+Therefore B7 is clarifier-grade, not witness-grade.
 ```
 
 Calibration rule:

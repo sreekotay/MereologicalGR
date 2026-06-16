@@ -395,6 +395,39 @@ CMB temperature is therefore not a one-place property of each photon-in-itself. 
 T(z) = T0(1+z)
 ```
 
+The naked-role computation is the congruence-rendering scale route:
+
+```text
+FRW radiation aggregate
+→ comoving congruence / statistically preferred rest frame
+→ photon energy rendered as E(gamma,u) = -p dot u
+→ expansion stretches wavelengths by a0/a
+→ rendered photon energy scales as E(z) = E0(1+z)
+→ blackbody distribution temperature scales as T(z) = T0(1+z)
+```
+
+What geometry / congruence-rendering earns here:
+
+```text
+photon energy is two-place, not in-flight one-place;
+redshift is rendering between worldlines / congruence slices;
+for an already blackbody radiation distribution under adiabatic FRW expansion,
+  temperature scale follows the distribution energy scaling.
+```
+
+What cosmology / thermal physics still supplies:
+
+```text
+initial thermalization;
+blackbody distribution;
+standard expansion history a(t);
+foreground removal and calibration;
+spectral-distortion physics;
+measured T0.
+```
+
+Thus CMB temperature is not individual photon information, and not semantic degradation in flight. It is the naked congruence-rendering case: a radiation aggregate has a real temperature parameter because its distribution is rendered relative to a shared cosmological flow.
+
 Role map:
 
 ```text
@@ -424,6 +457,24 @@ field/radiation relatedness
 + mixedness, restriction, or KMS response
 → temperature parameter
 ```
+
+Same role slot, different mechanisms:
+
+```text
+CMB:
+  real thermal radiation aggregate under FRW expansion;
+  temperature is congruence-rendered distribution scale.
+
+Unruh:
+  vacuum correlations sampled along accelerated flow;
+  temperature is detector-response / KMS scale when QFT state machinery is supplied.
+
+Hawking:
+  horizon/access-boundary QFT state machinery;
+  temperature is surface-gravity response scale for exterior rendering.
+```
+
+The shared claim is role-location, not mechanism identity.
 
 The tie to PB-3 is direct:
 

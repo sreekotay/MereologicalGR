@@ -418,11 +418,60 @@ Page-QES:
   prices recoverability / entropy accounting
 ```
 
+The naked-role computation is the scale-form route:
+
+```text
+black-hole horizon
+→ access boundary / Killing horizon
+→ near-horizon Rindler form
+→ Euclidean Rindler angle has period 2pi
+→ inverse temperature beta = 2pi / kappa
+→ T_H = kappa / (2pi)
+```
+
+Restoring constants:
+
+```text
+T_H = hbar kappa / (2pi c k_B)
+```
+
+For Schwarzschild:
+
+```text
+kappa = c^4 / (4GM)
+
+therefore:
+  T_H = hbar c^3 / (8pi G M k_B)
+```
+
+What geometry earns here:
+
+```text
+near-horizon Rindler form;
+the 2pi periodicity;
+the scale-form T proportional to kappa.
+```
+
+What QFT / black-hole machinery still supplies:
+
+```text
+state choice;
+Bogoliubov / Wightman / KMS interpretation;
+particle flux;
+greybody factors;
+species corrections;
+evaporation rate;
+Page-QES accounting.
+```
+
+Thus Hawking thermality is not the statement that the horizon is an ordinary hot material surface. It is the access-boundary sibling of the Unruh result: field relatedness rendered through horizon access has a temperature scale fixed by surface gravity.
+
 B4 owns:
 
 ```text
 access / frame-transport / write-site separation;
 location of the horizon response route;
+access-boundary scale-form role-location;
 refusal of an extra null-constitution scalar.
 ```
 
