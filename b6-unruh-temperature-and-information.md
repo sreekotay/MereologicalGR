@@ -3,8 +3,8 @@
 *Working draft, June 2026.*
 
 Status: B-note / temperature-role refinement.  
-Primary target: A1 Unruh/Rindler material, A3 redshift / consequential uptake, and B4 Hawking discipline.  
-Boundary note: B6 keeps the temperature/information role distinction. The scalar-response derivation is outside B6.
+Primary target: A0 frame-transport seam, A1 photon/influence floor, A3 uptake/write discipline, B4 horizon discipline, and B7 scalar-response ownership.  
+Boundary note: B6 keeps the temperature/information role distinction. The detailed scalar-response derivation belongs outside B6.
 
 Grade: role-reduction + calibration-aware machinery routing. Not a new QFT calculation.
 
@@ -13,6 +13,13 @@ Core result:
 ```text
 temperature is not information itself;
 it is a flow-indexed response / rendering scale of accessible relatedness or mixedness.
+```
+
+Frame-transport sharpens the result:
+
+```text
+temperature is a response scale under flow + access + frame-transport conditions;
+information begins only at uptake/write.
 ```
 
 For Unruh specifically:
@@ -24,6 +31,14 @@ different rendered response temperature;
 possible information only at detector uptake/write.
 ```
 
+Influence's floor matters:
+
+```text
+influence = consequence-capable phase-bearing relatedness
+```
+
+Temperature can scale a response to such relatedness. It is not itself constituted information.
+
 ---
 
 ## 1. Updated ownership split
@@ -34,13 +49,14 @@ The current scalar-response boundary is:
 GR / Levi-Civita can earn:
   scalar interval skeleton;
   accelerated pullback;
-  imaginary proper-time period β_τ = 2πc/a.
+  imaginary proper-time period beta_tau = 2pi c/a.
 
 MGR can earn:
   frame-transport as an operation;
   retarded causal orientation;
   positive frequency as future-flow energy orientation;
-  need for a stability floor.
+  need for a stability floor;
+  temperature / information role separation.
 
 Calibration may supply:
   dimensionful constants;
@@ -57,10 +73,10 @@ QFT / quantum-state machinery still imports:
   detector transition probabilities.
 ```
 
-So B6 no longer says that QFT owns the bare `2π` period in the scalar skeleton. The revised statement is:
+So B6 no longer says that QFT owns the bare `2pi` period in the scalar skeleton. The revised statement is:
 
 ```text
-The 2π period is GR/LC-owned at the scalar-skeleton level.
+The 2pi period is GR/LC-owned at the scalar-skeleton level.
 The Wightman/KMS detector-response interpretation remains QFT-owned.
 ```
 
@@ -82,13 +98,13 @@ Standard Unruh computation, schematically:
 
 ```text
 field state
-→ two-point / Wightman function G⁺(x,x′)
-→ pull back to detector worldline x(τ)
-→ G⁺(τ,τ′)
+→ two-point / Wightman function G+(x,x')
+→ pull back to detector worldline x(tau)
+→ G+(tau,tau')
 → detector response integral
 → KMS / imaginary-proper-time periodicity
 → inverse temperature
-→ T_U = ℏ a / (2π c k_B)
+→ T_U = hbar a / (2pi c k_B)
 ```
 
 Role-routing:
@@ -108,23 +124,139 @@ Skeleton route:
 uniform acceleration
 → hyperbolic worldline
 → scalar interval skeleton pullback
-→ sinh⁻²[aΔτ/(2c)]
-→ β_τ = 2πc/a
+→ sinh^-2[a delta_tau/(2c)]
+→ beta_tau = 2pi c/a
 ```
 
 QFT still owns the state and response machinery:
 
 ```text
 Minkowski vacuum as state;
-Wightman G⁺ rather than retarded/Feynman object;
-iε / positive-frequency state prescription;
+Wightman G+ rather than retarded/Feynman object;
+i-epsilon / positive-frequency state prescription;
 KMS/detailed balance as thermal response;
 transition-rate integral and detector model.
 ```
 
 ---
 
-## 3. What temperature is doing
+## 3. Temperature response skeleton
+
+B6's general route is broader than Unruh:
+
+```text
+accessible relatedness / mixed state / restricted state
+→ flow, congruence, detector time, or modular parameter
+→ access restriction or frame-transport condition
+→ rendered response / distribution
+→ temperature parameter
+→ possible uptake/write
+```
+
+Role split:
+
+```text
+relatedness / state:
+  what can be sampled or restricted
+
+influence:
+  consequence-capable phase-bearing relatedness
+
+flow / congruence / modular parameter:
+  time-index of response or equilibrium
+
+frame-transport / access:
+  how the sampling frame changes or what region is available
+
+response function / distribution:
+  pre-uptake rendered structure
+
+temperature:
+  energy scale of that response or distribution
+
+uptake/write:
+  constitution of information if a consequential record is formed
+```
+
+Thus the route is:
+
+```text
+temperature / response rendering
+→ possible uptake
+→ possible information
+```
+
+not:
+
+```text
+temperature exists
+→ information already constituted
+```
+
+This skeleton is role-diagnostic. It does not derive a universal thermodynamics or a QFT detector response.
+
+---
+
+## 4. Computational handles
+
+The temperature reading is useful only if it points to real handles. B6 keeps the handles imported and states only what role they expose.
+
+```text
+Unruh acceleration:
+  imported handle: a^mu = u^nu nabla_nu u^mu, scalar a
+  role exposed: non-geodesic frame-transport along flow;
+  computes: acceleration scale used by the response;
+  not derived: detector response or vacuum state.
+
+scalar pullback period:
+  imported / GR-owned handle: beta_tau = 2pi c/a at scalar-skeleton level
+  role exposed: periodicity of accelerated scalar interval sampling;
+  computes: scale-form of the accelerated response;
+  not derived: KMS thermal interpretation.
+
+Wightman / KMS response:
+  imported handle: Wightman function, i-epsilon prescription, KMS/detailed balance
+  role exposed: quantum-state machinery that turns the skeleton into detector thermality;
+  computes: transition-rate ratio and T_U;
+  not derived: by MGR.
+
+detector gap and coupling:
+  imported / calibrated handle: detector gap, coupling, switching function
+  role exposed: uptake apparatus and consequence threshold;
+  computes: actual click rates or response probabilities;
+  not derived: apparatus model.
+
+redshifted photon energy:
+  imported handle: E(gamma,u) = -p dot u
+  role exposed: energy is rendered by a flow-worldline;
+  computes: observer/congruence-indexed energy and CMB temperature rendering;
+  not derived: photon energy as a one-place in-flight property.
+
+CMB temperature law:
+  imported handle: T(z) = T0(1+z)
+  role exposed: distribution temperature rendered by a cosmological congruence;
+  computes: redshifted aggregate temperature;
+  not derived: cosmological model or measurement.
+
+Hawking surface gravity:
+  imported handle: T_H = hbar kappa/(2pi c k_B), or Schwarzschild T_H = hbar c^3/(8pi G M k_B)
+  role exposed: horizon/access frame-transport response scale;
+  computes: idealized horizon temperature when QFT machinery is supplied;
+  not derived: Hawking radiation, greybody factors, Page curve, or QG completion.
+```
+
+Method reading:
+
+```text
+The handle is imported.
+The role-location is framework-owned if the separation is clean.
+The scalar or response value is computed by the imported formalism.
+A new MGR claim appears only where the role-route forces a missing/extra diagnosis.
+```
+
+---
+
+## 5. What temperature is doing
 
 Temperature is not a microscopic content label.
 
@@ -161,7 +293,7 @@ information requires ordered uptake into a consequential record.
 
 ---
 
-## 4. Why Unruh is PB-4a, not PB-4-full
+## 6. Why Unruh is PB-4a, not PB-4-full
 
 Unruh sharpens observer-free rendering:
 
@@ -192,16 +324,22 @@ PB-4-full not confirmed:
   Unruh shows rendering, not constitution-completion
 ```
 
+The useful lesson is not that acceleration creates information. It is:
+
+```text
+frame-transport can change response/rendering before any write occurs.
+```
+
 ---
 
-## 5. CMB / redshift sibling
+## 7. CMB / redshift sibling
 
 CMB/redshift makes the sibling move.
 
 Photon energy is not a one-place in-flight property. It is a two-place rendering:
 
 ```text
-E(γ, worldline) = -p · u
+E(gamma, worldline) = -p dot u
 ```
 
 Different comoving worldlines render different energies. Nothing drains from an in-flight photon-register because there is no flow-bearing in-flight register for constituted energy to reside in.
@@ -209,7 +347,7 @@ Different comoving worldlines render different energies. Nothing drains from an 
 CMB temperature is likewise not a one-place property of each photon-in-itself. It is a distribution parameter rendered relative to a congruence:
 
 ```text
-T(z) = T₀(1+z)
+T(z) = T0(1+z)
 ```
 
 Role map:
@@ -233,6 +371,7 @@ Shared machine:
 ```text
 field/radiation relatedness
 + flow-worldline or congruence
++ access / frame-transport condition
 + rendered energy scale
 + mixedness, restriction, or KMS response
 → temperature parameter
@@ -240,7 +379,7 @@ field/radiation relatedness
 
 ---
 
-## 6. Hawking contact
+## 8. Hawking contact
 
 Hawking is the horizon sibling, not support by slogan.
 
@@ -248,20 +387,21 @@ Hawking is the horizon sibling, not support by slogan.
 Unruh:
   acceleration a;
   Rindler horizon / accelerated access;
-  T_U = ℏ a / (2π c k_B).
+  T_U = hbar a / (2pi c k_B).
 
 Hawking:
-  surface gravity κ;
+  surface gravity kappa;
   black-hole horizon / exterior access;
-  T_H = ℏ κ / (2π c k_B).
+  T_H = hbar kappa / (2pi c k_B).
 ```
 
 Shared structure:
 
 ```text
-restricted access + horizon / flow structure
+restricted access + horizon / flow / frame-transport structure
 → thermal rendering of field relatedness
 → temperature set by acceleration / surface-gravity scale
+→ possible exterior uptake/write
 ```
 
 B4's discipline applies. Hawking/Page/QES should not be over-read as sealing GB-2 or PB-4-full.
@@ -273,9 +413,11 @@ framework owns role-location and scale-form only where forced;
 Hawking coefficients, greybody factors, species, and QG corrections are externally supplied or calibrated.
 ```
 
+B4 owns the horizon response skeleton. B6 owns the temperature role within that skeleton.
+
 ---
 
-## 7. Experimental / diagnostic daylight
+## 9. Experimental / diagnostic daylight
 
 The daylight is not merely that detector response depends on acceleration or worldline. Standard Unruh machinery already says that.
 
@@ -303,14 +445,14 @@ Diagnostic signals:
    structure from post-uptake record constitution.
 
 4. For uniform acceleration, the detailed-balance combination
-   2πc ΔE/(ℏ a) should organize the response, with apparatus-specific rates layered on top.
+   2pi c DeltaE/(hbar a) should organize the response, with apparatus-specific rates layered on top.
 ```
 
 This remains B6-grade: machinery-routing, role-reduction, and calibration-aware scale discipline, not a new coefficient prediction.
 
 ---
 
-## 8. Proposed role definition
+## 10. Proposed role definition
 
 Candidate definition:
 
@@ -335,6 +477,10 @@ accessible:
 phase-bearing / mixed response:
   in quantum-field settings, temperature can arise from KMS structure of correlations;
   in ordinary thermal settings, from mixed ensembles / statistical distributions.
+
+frame-transport-sensitive:
+  the same underlying relatedness can yield different response scales under different
+  worldlines, access restrictions, congruences, or transport conditions.
 ```
 
 This definition intentionally does not claim all temperatures are Unruh-like. It says the role-home of temperature is the same kind of slot:
@@ -342,20 +488,21 @@ This definition intentionally does not claim all temperatures are Unruh-like. It
 ```text
 accessible state or relatedness
 sampled / rendered along flow
+conditioned by access / frame-transport where relevant
 compressed into an energy-response scale
 ```
 
 ---
 
-## 9. Guardrails
+## 11. Guardrails
 
-### 9.1 Zero temperature
+### 11.1 Zero temperature
 
 Temperature zero is not absence of influence. It is a boundary in response/distribution structure:
 
 ```text
-T → 0
-β_E → ∞
+T -> 0
+beta_E -> infinity
 ```
 
 Role reading:
@@ -367,18 +514,18 @@ not no information;
 not no possible consequence.
 ```
 
-### 9.2 Negative temperature
+### 11.2 Negative temperature
 
 Negative temperature, where defined, is not colder than zero. It is an inverted population in a bounded spectrum.
 
 Role reading:
 
 ```text
-sign of β marks response-orientation / population ordering,
+sign of beta marks response-orientation / population ordering,
 not an absolute magnitude below zero.
 ```
 
-### 9.3 Local temperature vs global state
+### 11.3 Local temperature vs global state
 
 Unruh warns against treating temperature as a global one-place property. The same invariant state can yield different temperature renderings under different access/flow structures.
 
@@ -386,16 +533,16 @@ Role rule:
 
 ```text
 Do not ask whether the state simply has temperature.
-Ask: relative to which flow, access algebra, subsystem, detector, or congruence?
+Ask: relative to which flow, access algebra, subsystem, detector, congruence, or frame-transport condition?
 ```
 
-### 9.4 No temperature without a clock parameter
+### 11.4 No temperature without a clock parameter
 
 Temperature requires a flow/evolution parameter in the machinery: proper time, Killing time, comoving time, modular flow, detector time, or an application equivalent.
 
 This does not mean temperature is subjective. It means temperature is indexed to the flow structure that defines response/equilibrium.
 
-### 9.5 Phase-bearing is not only U(1) phase
+### 11.5 Phase-bearing is not only U(1) phase
 
 The term `phase-bearing` is deliberately broader than abelian phase angle.
 
@@ -415,7 +562,7 @@ The Unruh case uses phase-bearing relatedness through field correlations and ana
 
 ---
 
-## 10. Findings
+## 12. Findings
 
 1. **Unruh remains PB-4a, not PB-4-full.**  
    It sharpens observer-free worldline / frame-transport rendering. It does not by itself prove constitution by frame-process.
@@ -436,14 +583,53 @@ The Unruh case uses phase-bearing relatedness through field correlations and ana
    CMB temperature is a real radiation aggregate rendered by a congruence. Unruh temperature is vacuum relatedness rendered thermally by accelerated access. Both reject one-place in-flight temperature.
 
 7. **Hawking is a controlled contact.**  
-   Hawking temperature belongs to the same horizon/access temperature-family, but B4 still blocks over-reading Hawking/Page/QES as sealing the information-loss bet.
+   Hawking temperature belongs to the same horizon/access/frame-transport temperature-family, but B4 still blocks over-reading Hawking/Page/QES as sealing the information-loss bet.
 
 8. **Experimental daylight is anti-misread plus quantitative-machinery daylight.**  
    The framework does not predict a new Unruh coefficient. It predicts where the layers should stay separated and which quantitative combination should organize the response once the state/response machinery is supplied.
 
 ---
 
-## 11. Compact result
+## 13. Ledger
+
+Framework-owned:
+
+```text
+temperature / information role distinction;
+flow-indexed response-scale definition;
+access / frame-transport placement;
+Unruh as PB-4a rendering, not PB-4-full constitution;
+CMB/Unruh/Hawking sibling map;
+calibration-aware ownership split;
+no one-place in-flight temperature or information reading.
+```
+
+Externally supplied / calibrated:
+
+```text
+vacuum / state selection;
+Wightman sampling;
+KMS / detailed balance;
+detector transition rates;
+detector gaps, couplings, switching functions;
+CMB cosmology and measurement;
+Hawking coefficients, greybody factors, species corrections;
+observed or calibrated scalar values.
+```
+
+Demotion / failure conditions:
+
+```text
+a temperature observable requires information constitution before uptake/write;
+an invariant one-place particle-bath reading outperforms worldline/access/response machinery;
+frame-transport/access placement fails to separate response from constitution;
+CMB/Unruh/Hawking sibling map collapses distinct mechanisms rather than role-locating them;
+calibration becomes coefficient-shopping rather than externally supplied scalar pricing.
+```
+
+---
+
+## 14. Compact result
 
 ```text
 Relatedness:
@@ -452,12 +638,20 @@ Relatedness:
 Influence:
   consequence-capable phase-bearing relatedness
 
+Temperature response skeleton:
+  accessible relatedness / mixed state / restricted state
+  + flow / congruence / detector time / modular parameter
+  + access or frame-transport condition
+  → rendered response / distribution
+  → temperature parameter
+  → possible uptake/write
+
 Unruh / scalar-response machine:
   vacuum phase-bearing relatedness coupled to a detector
   and pulled back onto accelerated flow / frame-transport
-  → scalar-response skeleton with β_τ = 2πc/a
+  → scalar-response skeleton with beta_tau = 2pi c/a
   → Wightman/KMS detector interpretation when quantum-state machinery is supplied
-  → T_U = ℏ a/(2π c k_B)
+  → T_U = hbar a/(2pi c k_B)
 
 Temperature role:
   flow-indexed response scale of accessible relatedness / mixedness
