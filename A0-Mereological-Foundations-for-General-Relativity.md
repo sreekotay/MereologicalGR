@@ -50,11 +50,13 @@ A0 carries no witness weight. It is the map and method by which claims are forme
 
 ## Conceit
 
-The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. Influence, met first as effect-substrate, is floored as consequence-capable phase-bearing relatedness. Frame-transport then names the operation by which a physically carried or compared frame changes while rendering that influence. The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Retrodiction is therefore not disqualifying by itself: the judgment rests on whether the derivation lineage is distinct from the later landing.
+The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. Influence, met first as effect-capacity at the null corner, is named minimally as consequence-capable relatedness. Frame-transport then names the operation by which a physically carried or compared frame changes while rendering that influence. The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Retrodiction is therefore not disqualifying by itself: the judgment rests on whether the derivation lineage is distinct from the later landing.
 
 Consider: a working physical theory and a mereologically complete account of what the theory is talking about are different objects. Physical practice often treats "the equations close and predict" as if it also meant "the roles are named and audited." GR's equations work precisely because they can bundle ordering, influence, flow, adjacency, and energy-momentum into the metric and the connection without ever separating them; predictive success removed the pressure to disambiguate. So the bundling is not a defect that hurt physics. It is easy to miss exactly because the theory succeeds. A0 therefore treats success and mereological legibility as independent axes.
 
 The torsion-free GR sector is the in-house example. Levi-Civita transport closes the standard theory with extraordinary success, while the curvature / torsion split still shows that rotational closure failure and translational closure failure are distinct roles. GR can set torsion to zero and remain predictively complete; A0 can still ask what role was set empty, imported, or left unpriced.
+
+MGR is most instructive at degenerate corners: where one role is stripped or a closure cell is forced empty, bundled bulk language fails first and role audit becomes possible. This is why MGR reads prohibitive from the center and constructive from the corners.
 
 A note on rigor: A0 resists defining structural identities, or promoting compositions toward identity claims, until the audit has produced enough role, dependency, and missing/extra information to justify the move.
 
@@ -80,6 +82,8 @@ Claimed:
 ```
 
 The stance is following GR further, not refuting it. Where GR is silent on a mereological question, MGR asks whether a role has been left fused, imported, projected, or omitted.
+
+This is also how A0 treats seam contact with QFT. GR may be silent on role composition while QFT's default formal or interpretive habit fills the silence differently, often axiomatically. MGR does not reject that closure. It audits the role-placement and commits, where forced, to a forbidden term, null result, route, or exclusivity claim.
 
 Examples of GR-native bundling include:
 
@@ -143,13 +147,13 @@ ordering + influence
 without proper-time flow.
 ```
 
-Influence is later floored as:
+A later candidate floor for influence is:
 
 ```text
 consequence-capable phase-bearing relatedness
 ```
 
-That floor is a later carve of influence, not something the photon seed alone proves.
+That candidate floor is a later carve of influence, not something the photon seed alone proves.
 
 This is seed/exhibit grade. The seed has no confirmatory weight at its own launch site, because the carve is read from that site. Any weight must land downstream where the projection could have failed.
 
@@ -160,7 +164,8 @@ ordering:
   invariant cone-direction / causal precedence structure
 
 influence:
-  consequence-capable relatedness, later floored as phase-bearing
+  consequence-capable relatedness;
+  phase-bearing status belongs to a later carve
 
 flow:
   proper-time accrual along a timelike worldline
@@ -252,19 +257,40 @@ not counted by itself:
   with no changed invariant comparison, acceleration, holonomy, response, or closure fact.
 ```
 
-This sharpens influence. Influence is floored as:
+This pressures the influence audit without settling it. The disciplined split is:
 
 ```text
-influence = consequence-capable phase-bearing relatedness
+Photon:
+  ordering + influence remain;
+  flow stripped;
+  cause != flow;
+  minimal influence = consequence-capable relatedness,
+  with no phase requirement at the seed.
+
+Acceleration:
+  flow remains;
+  frame-basis changes through flow;
+  rendering != passive labeling;
+  no new influence primitive is added.
 ```
 
-Acceleration does not create influence. It can reveal influence's response-capacity:
+Acceleration only makes the frame-change question visible. It is not an independent witness for the full candidate floor:
 
 ```text
-if changing frame-transport changes the response,
-then the sampled relatedness was capable of consequence
+candidate influence floor =
+  phase-bearing relatedness with consequence-capacity;
+  phase-structure that survives frame change
+```
+
+That candidate is stronger than the acceleration diagnostic. The diagnostic is only:
+
+```text
+if frame-transport changes the response,
+then the sampled relatedness was consequence-capable
 under at least one flow-bearing rendering.
 ```
+
+So acceleration does not create influence and does not prove the full phase-bearing floor. It frame-transports rendering and diagnoses consequence-capacity; it does not define influence. Phase-bearing is a downstream carve where path / period / holonomy structure is exposed, not the price of admitting acceleration as frame-transport.
 
 This sharpens information. The photon blocks:
 
@@ -489,8 +515,9 @@ ordering:
   not duration, not clock magnitude
 
 influence:
-  consequence-capable phase-bearing relatedness;
-  not force, push, transfer, agency, signal, or already-information
+  consequence-capable relatedness;
+  not force, push, transfer, agency, signal, or information;
+  phase-bearing / frame-survival status belongs to later audit
 
 flow:
   proper-time accrual along a timelike worldline;
@@ -929,6 +956,20 @@ therefore:
 
 The PB bets are material because each converts a GR silence into a proscriptive or modal claim.
 
+```text
+Photon exhibit:
+  flow -> 0, mass -> 0,
+  yet null propagation is c-bounded and rendered in m/s.
+
+PB-1:
+  names the exposed ordering/influence seam:
+  bound structure on that axis,
+  not a second speed and not identification with c.
+
+PB-2:
+  opens interior ratio and units when time and mass are not constituents.
+```
+
 ### PB-1 — an ordering-axis bound exists
 
 Foundation form:
@@ -1097,6 +1138,8 @@ Gravity has no PB here. Its structure composes in the grammar; the coupling law 
 ---
 
 ## 17. What A0 does not do
+
+Reminder: throughout A0, `+` marks mereological role-composition, not numerical addition or identity. This is why PB-1 can name a seam while PB-2 separately explores its interior.
 
 A0 does not:
 

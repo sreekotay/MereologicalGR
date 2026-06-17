@@ -135,6 +135,12 @@ unless the document has separately earned that stronger status.
 6. Torsion / spin-current compact-object observables
    Contact type: archived sensitivity lane.
    Legitimate B5 workbench lane, but not top-level project identity.
+
+7. Reference-frame-free communication (RFI-QKD; quantum reference frames)
+   Contact type: record-vs-constitution discriminator + PB-4 exposure.
+   RFI-QKD is a confirmation/misread lane and cannot break the bet;
+   quantum reference frames are the strongest current PB-4 break-exposure,
+   sharper than the QD/SBS row because the contested quantity is constitution itself.
 ```
 
 ---
@@ -152,6 +158,8 @@ unless the document has separately earned that stronger status.
 | D7 | Information-specific redshift | null guard | redshift via p dot u between emitter/receiver worldlines | carrier energy is rendered by flow-worldlines; semantic content is not a gravitational source term | no semantic/code/recoverability-dependent frequency residual | same carrier/channel but different information content gives reproducible gravitational redshift residual |
 | D8 | Virtual exchange / microcausality | null guard / route diagnostic | QFT propagators plus microcausality of observables | influence-kernel without carrier-flow; no constituted virtual-carrier information | endpoint observables respect microcausality; no virtual-carrier information term | virtual exchange requires carrier-like flow-bearing information propagation |
 | D9 | Torsion / spin-current compact objects | archived sensitivity lane | GR + EOS + rotation + magnetic/crust/thermal modeling | independent spin/current retained -> torsion equation -> contortion -> observable shift or bound | nonzero only if spin/current survives as independent source; scale should track spin/current, not mass-energy alone | residual fully absorbed by ordinary matter/EOS modeling; no independent spin-current torsion burden; or role-level forced-empty proof |
+| D10 | RFI-QKD / reference-frame-independent communication | record-vs-constitution discriminator + null guard | QKD secure under unaligned/drifting transverse frames; key in a stable basis; security from rotation-invariant correlators | transverse frame-independence = rendering/transport robustness; key constituted at detector uptake against a retained shared stable axis/clock | frame-invariant correlator is pre-uptake record, not constituted key; a shared stable axis/timing is still present | constituted, usable key produced with no flow-bearing uptake and no shared stable reference anywhere in the chain (structurally unavailable in RFI-QKD; confirmation/misread lane) |
+| D11 | Quantum reference frames / relational facts | engine-eligible test + formal discriminator (PB-4 exposure) | QRF transformations; coherent/superposed reference frames; relational-QM and QRF Wigner's-friend "observer-relative facts" | quantum frame = superposed rendering/transport map, write-not-read; constitution = flow-bearing irreversible write at threshold, not frame-choice | frame/observer-relativity rides the coherent/reversible (un-constituted) regime only; committed flow-bearing records agree at fixed write-chain | frame/observer-relativity of a genuinely constituted (irreversible, flow-bearing, threshold-crossed) record with the physical write-chain held fixed |
 
 ---
 
@@ -314,7 +322,90 @@ identifies constituted information without operation, threshold, or uptake.
 
 ---
 
-## 9. Clean null guards: CMB and information-specific redshift
+## 9. Record-vs-constitution in communication: RFI-QKD and quantum reference frames
+
+These two lanes carry the record-vs-constitution discriminator into an active engineering field, often discussed as massive frame-less communication. Both hold GR/QFT/QI machinery fixed; both audit where a usable bit is constituted.
+
+Shared role read:
+
+```text
+"frame-less" = rendering / frame-transport robustness or relativity
+"massive"    = a flow-bearing register is present (mass = flow-face),
+               so constitution has somewhere to land
+claim        = frame-cleverness buys transport/rendering, never constitution;
+               constitution stays on the flow-bearing uptake/write
+```
+
+RFI-QKD is a confirmation / misread lane:
+
+```text
+the canonical scheme keeps a shared stable axis/clock and tolerates only
+transverse frame drift; the security parameter is a rotation-invariant
+combination of the transverse correlators; key bits are generated in the
+stable basis.
+
+flow-bearing registers always present:
+  the shared stable axis/timing;
+  the detectors.
+
+MGR read:
+  reference-frame-independence = transverse rendering robustness;
+  every key bit and every security statistic is constituted at detector uptake.
+
+misread guard:
+  the frame-invariant correlator is pre-uptake record / influence-structure,
+  not constituted key established "frame-independently."
+
+break status:
+  structurally cannot break the bet (no constitution off the uptake);
+  confirmation / clarifier lane.
+```
+
+Quantum reference frames are the engine-eligible PB-4 exposure:
+
+```text
+the frame is a physical (massive) system that can be coherent/superposed;
+the rendering/transport map becomes conditional/superposed (A0 §13);
+the program's strong claim is that facts are frame/observer-relative
+(Brukner "no observer-independent facts"; relational QM; QRF Wigner's-friend).
+
+PB-4 takes a falsifiable side; audit the regime the relativity lives in:
+  coherent/reversible register               -> rendering / record-readiness (not constituted)
+  irreversible flow-bearing write at threshold -> constitution
+
+prohibition (exclusivity):
+  observer/frame-relativity always rides the coherent/reversible regime;
+  no relativity of a threshold-crossed, flow-bearing, committed record
+  at fixed physical write-chain.
+
+confirm (smooth, non-trivial):
+  the relativity always resolves to pre-uptake rendering;
+  committed records agree once write-chains are pinned
+  -> MGR adjudicates the Brukner/Rovelli dispute from its side.
+
+break (jagged):
+  a constituted (irreversible, flow-bearing, threshold-crossed) fact that is
+  frame/observer-relative with the physical write-chain held fixed
+  -> PB-4 lost in the open.
+```
+
+Ownership note:
+
+```text
+framework-owned:
+  role-location (frame-transport = rendering, write-not-read);
+  the rendering-vs-constitution audit point;
+  the confirm/break conditions.
+
+externally supplied:
+  RFI-QKD security proofs and correlators;
+  QRF transformation formalism;
+  relational-QM / Wigner's-friend no-go assumptions.
+```
+
+---
+
+## 10. Clean null guards: CMB and information-specific redshift
 
 These are useful because they should be boring.
 
@@ -355,7 +446,7 @@ after carrier, channel, detector, clock, thermalization, foreground, and calibra
 
 ---
 
-## 10. Archived sensitivity lane: torsion / spin-current burden
+## 11. Archived sensitivity lane: torsion / spin-current burden
 
 Torsion remains a legitimate B5 consequence because B5 audits a closure-face problem:
 
@@ -397,7 +488,7 @@ MGR owns the route and missing-cell diagnosis, not the number.
 
 ---
 
-## 11. What is actually owned here?
+## 12. What is actually owned here?
 
 Framework-owned:
 
@@ -441,7 +532,7 @@ sensitivity lane:
 
 ---
 
-## 12. Immediate next work items
+## 13. Immediate next work items
 
 1. **Keep the top level role-first.**
 
@@ -469,7 +560,7 @@ Promotion requires:
 
 ---
 
-## 13. Compact result
+## 14. Compact result
 
 ```text
 Best role-stress lanes:

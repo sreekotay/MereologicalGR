@@ -42,11 +42,13 @@ but:
   once QFT state and detector machinery are supplied.
 ```
 
-Influence's floor matters:
+Influence's layer matters:
 
 ```text
-influence = consequence-capable phase-bearing relatedness
+influence = consequence-capable relatedness
 ```
+
+For the temperature/information split and PB-4a lesson, consequence-capable relatedness is enough. Phase-bearing enters this note where the imported QFT route exposes it: Wightman/KMS structure and correlator periodicity (§2, §11.5). It is not required by the acceleration hinge itself (A0 §3).
 
 Temperature can scale a response to such relatedness. It is not itself constituted information.
 
@@ -121,7 +123,8 @@ field state
 Role-routing:
 
 ```text
-phase-bearing relatedness
+consequence-capable relatedness
+  (phase-bearing at the KMS / correlator layer)
 → detector coupling / consequence-capacity
 → flow-sampling / frame-transport
 → thermal response test
@@ -180,7 +183,8 @@ relatedness / state:
   what can be sampled or restricted
 
 influence:
-  consequence-capable phase-bearing relatedness
+  consequence-capable relatedness;
+  phase-bearing at the imported KMS / correlator layer
 
 flow / congruence / modular parameter:
   time-index of response or equilibrium

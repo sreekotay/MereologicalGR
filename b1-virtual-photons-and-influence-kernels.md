@@ -5,7 +5,7 @@ Grade: lineage-witness candidate for the absence-type distinction; diagnostic-wi
 
 This note states the framework's virtual-photon result cleanly: what follows from the prior role carve, what standard QFT already owns, and what the framework contributes by refusing to treat an internal exchange kernel as a carrier-substance. It extracts and supersedes the virtual-photon / Feynman-propagator material in doc-1 §9; on adoption, §9 prunes to a pointer here.
 
-Register note (the substrate point, stated once): the framework's substrate is GR, and the structure this note lands on — microcausality, the on-shell/off-shell distinction, LSZ/asymptotic-state status — is QFT, *outside* GR's closure. So these are seam-crossing recognitions (GR-role carve landing on QM's independently-built structure, discounted by lineage), not faithfulness re-descriptions of the substrate's own complete account. "QFT already owns it" is not "the substrate owns it"; retrodiction against QFT does not disqualify, it discounts.
+Register note (the substrate point, stated once): the GR-fixed role grammar exposes a seam, and QFT independently axiomatized machinery on that seam — microcausality, the on-shell/off-shell distinction, LSZ/asymptotic-state status. Landing on QFT structure is expected, not failure, unless the landing is only relabeling with no missing/extra diagnosis. "QFT already owns it" is not "the substrate owns it": QFT is a closure on the seam, not the mereological foundation. Matching observation is sufficient for physics practice; it is not the audit A0 is running.
 
 ## 1. Starting role carve
 
@@ -409,7 +409,7 @@ Collision-room:
 
 Chronology is not the criterion. The relevant criterion is lineage: the role carve used in the derivation existed before the virtual-photon contact. It did.
 
-[Label note: "diagnostic-witness" is not yet in the doc-1 §1.5 label list — it names a witness whose independent landing is a method/diagnostic fact (here: which object is the correct causality test) rather than a number or a forced cell. Proposed for the label system on the same gate as the lineage-witness amendment; until then, read it as a lineage-witness whose landing is diagnostic. Both grades are seam-crossing recognitions (the structure landed on is QFT's, outside GR's closure), discounted by lineage, world-register — not faithfulness: no new number, but no-new-number ≠ no-weight.]
+[Label note: "diagnostic-witness" is not yet in the doc-1 §1.5 label list — it names a witness whose independent landing is a method/diagnostic fact (here: which object is the correct causality test) rather than a number or a forced cell. Proposed for the label system on the same gate as the lineage-witness amendment; until then, read it as a lineage-witness whose landing is diagnostic. The landing is QFT-owned seam structure, so it carries lineage discount, but it is not mere vocabulary if the role audit exposes a missing/extra diagnosis: no new number, but no-new-number != no-weight.]
 
 The ceiling is not that virtual photons were known first. The ceiling is that QED prices the kernel. The framework can assign role registers and state the correct causality diagnostic. It cannot derive the scattering amplitudes from inside the role theory.
 
