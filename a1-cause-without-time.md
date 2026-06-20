@@ -134,7 +134,8 @@ ordering:
   not duration
 
 influence:
-  consequence-capable relatedness;
+  grammar-leg: consequence-capable relatedness;
+  photon seed licenses carrier tier (A0 §3.3);
   later narrowed as phase-bearing;
   not force, push, signal, agency, or already-information
 

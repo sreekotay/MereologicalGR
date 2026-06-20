@@ -105,7 +105,7 @@ content
 
 Acceleration is not required for constitution. Inertial detectors can write records. The narrower claim is that acceleration changes what relatedness is sampled and how it is pulled back onto proper time. The live question is whether that change is exhausted by bare worldline pullback or whether the worldline is already a compressed GR object: flow plus connection-comparison plus self-transport status.
 
-The reason FT-3 remains live even in a scalar case is phasic. MGR's influence floor is consequence-capable phase-bearing relatedness. The scalar pullback does not show an orientation-sensitive frame basis, but it does show phase-bearing relatedness rendered along accelerated flow into a response-capable proper-time structure. That is enough to keep the rendering/influence reading live. It does not prove the richer carried-frame-basis operation; it tests the flow self-transport face of the seam.
+The reason FT-3 remains live even in a scalar case is rendered-influence structure. The scalar pullback does not show an orientation-sensitive frame basis, but it does show relatedness rendered along accelerated flow into a response-capable proper-time structure. Phase-bearing enters where the imported field route exposes path, period, or correlation structure. That is enough to keep the rendering/influence reading live. It does not prove the richer carried-frame-basis operation; it tests the flow self-transport face of the seam.
 
 This is the useful "naked flow" result, in the role sense. The scalar setup suppresses the richer frame-basis roles:
 

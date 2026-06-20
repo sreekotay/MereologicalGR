@@ -35,13 +35,14 @@ A0 therefore provides:
 ```text
 1. the GR-held-fixed stance;
 2. the photon seed / cause-without-time defusion and acceleration / frame-transport hinge;
-3. the distinction between roles, composites, operations, gradings, and thresholds;
-4. the import / perimeter rules;
-5. the epistemic grading ledger;
-6. the current component roster;
-7. the composition grammar;
-8. the current open seam around rendering, frame-transport, uptake, and information;
-9. the foundation-form PB bets implied by role-realism.
+3. the influence ladder from bare relatedness to constituted information;
+4. the distinction between roles, composites, operations, gradings, and thresholds;
+5. the import / perimeter rules;
+6. the epistemic grading ledger;
+7. the current component roster;
+8. the composition grammar;
+9. the current open seam around rendering, frame-transport, uptake, and information;
+10. the foundation-form PB bets implied by role-realism.
 ```
 
 A0 carries no witness weight. It is the map and method by which claims are formed, graded, narrowed, or rejected.
@@ -50,7 +51,7 @@ A0 carries no witness weight. It is the map and method by which claims are forme
 
 ## Conceit
 
-The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. Influence, met first as effect-capacity at the null corner, is named minimally as consequence-capable relatedness. Frame-transport then names the operation by which a physically carried or compared frame changes while rendering that influence. The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Retrodiction is therefore not disqualifying by itself: the judgment rests on whether the derivation lineage is distinct from the later landing.
+The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. Influence enters the grammar as the consequence leg of cause; it is **not** one undifferentiated substance. The influence ladder (§3) grades bare relatedness, kernel, carrier, rendered, recorded, and constituted tiers so `consequence-capable relatedness` cannot stand in for earned structure. Frame-transport names the operation by which a physically carried or compared frame changes while **rendering** influence before uptake. The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Retrodiction is therefore not disqualifying by itself: the judgment rests on whether the derivation lineage is distinct from the later landing.
 
 Consider: a working physical theory and a mereologically complete account of what the theory is talking about are different objects. Physical practice often treats "the equations close and predict" as if it also meant "the roles are named and audited." GR's equations work precisely because they can bundle ordering, influence, flow, adjacency, and energy-momentum into the metric and the connection without ever separating them; predictive success removed the pressure to disambiguate. So the bundling is not a defect that hurt physics. It is easy to miss exactly because the theory succeeds. A0 therefore treats success and mereological legibility as independent axes.
 
@@ -83,7 +84,7 @@ Claimed:
 
 The stance is following GR further, not refuting it. Where GR is silent on a mereological question, MGR asks whether a role has been left fused, imported, projected, or omitted.
 
-This is also how A0 treats seam contact with QFT. GR may be silent on role composition while QFT's default formal or interpretive habit fills the silence differently, often axiomatically. MGR does not reject that closure. It audits the role-placement and commits, where forced, to a forbidden term, null result, route, or exclusivity claim.
+This is also how A0 treats seam contact with QFT. GR may be silent on role composition while QFT's default formal or interpretive habit fills the silence differently, often axiomatically. MGR does not reject that closure. It audits the role-placement and commits, where forced, to a forbidden term, null result, route, or exclusivity claim. When QFT introduces a guardrail to block a bad physical reading, MGR asks whether that guardrail marks a real role-separation on the influence ladder (§3.8) or only a calculational convention.
 
 Examples of GR-native bundling include:
 
@@ -164,8 +165,9 @@ ordering:
   invariant cone-direction / causal precedence structure
 
 influence:
-  consequence-capable relatedness;
-  phase-bearing status belongs to a later carve
+  at the seed: carrier influence (§3.3);
+  grammar-leg: consequence-capable relatedness;
+  phase-bearing status belongs to a later carve, not the seed license
 
 flow:
   proper-time accrual along a timelike worldline
@@ -188,7 +190,138 @@ A0 only states why the seed belongs at the foundation.
 
 ---
 
-## 3. The second hinge: acceleration as frame-transport
+## 3. The influence ladder: from bare relatedness to constitution
+
+The ladder runs from bare relatedness to constituted information. `Consequence-capable relatedness` names the generic influence leg once a use has crossed from substrate into an earned influence tier. A0 keeps `influence` as the grammar's generic consequence leg in `cause = ordering + influence`, but **grades every live use against the ladder below**. A tier is not earned by naming; it is earned when compose / missing / extra, an imported formalism, or a setup's degenerate corner forces that placement.
+
+```text
+bare relatedness
+  → kernel influence
+  → carrier influence
+  → rendered influence
+  → recorded influence
+  → constituted information
+```
+
+Each step adds structure. None is interchangeable with its neighbors.
+
+### 3.1 Bare relatedness (substrate)
+
+```text
+bare relatedness:
+  connectability / comparison-possible connection of relata;
+  presupposed by ordering, influence, flow, and adjacency;
+  not yet consequence-capacity, not yet ordered carry, not information
+```
+
+Substrate only. Not `influence` in the grammar sense.
+
+### 3.2 Kernel influence
+
+```text
+kernel influence:
+  coupling / propagator / interaction-term structure between sources or boundaries;
+  no asymptotic carrier, no completed worldline, no flow-bearing register;
+  priced by field theory as exchange kernel, not particle-in-flight
+```
+
+Virtual exchange and near-field structure live here. The guardrail is absence of **carrierhood**, not absence of coupling altogether.
+
+### 3.3 Carrier influence
+
+```text
+carrier influence:
+  ordered influence-structure borne by a physical carrier or field mode;
+  may be null (photon corner) or massive;
+  flow may be stripped, reduced, or present depending on carrier;
+  not constituted information while merely in transit / off write-chain
+```
+
+The photon seed minimally licenses **carrier influence** at the null corner: ordering + influence, flow → 0. PB-3 proscribes identifying this tier with information.
+
+### 3.4 Rendered influence
+
+```text
+rendered influence:
+  carrier or field relatedness pulled through a frame, congruence, or sampling worldline;
+  response-capable under that rendering;
+  still before uptake / write
+```
+
+Frame-transport and accelerated sampling make this tier visible: same underlying relatedness, different rendering → different response scale or access structure. Rendering is not uptake.
+
+### 3.5 Recorded influence
+
+```text
+recorded influence:
+  proliferated ordered structure in an environmental fragment / state;
+  available for uptake;
+  not constitution until a flow-bearing write crosses the application threshold
+```
+
+Record diagnostics (redundancy, mutual information, broadcast structure) measure this tier. Record ≠ constitution.
+
+### 3.6 Constituted information
+
+```text
+constituted information:
+  ordered influence taken up in flow at application consequence scale;
+  information = ordering + influence + flow
+```
+
+Top of the ladder only after uptake/write — not at kernel, carrier, render, or record.
+
+### 3.7 Discipline: do not collapse the ladder
+
+```text
+Forbidden collapses:
+  bare relatedness = influence
+  kernel = carrier
+  carrier = information
+  rendered = constituted
+  record = constitution
+  consequence-capable relatedness = any one tier by default
+```
+
+When a note says `influence` without a tier, the read is:
+
+```text
+grammar-leg only;
+specific tier must be earned before witness weight attaches
+```
+
+The photon seed licenses **carrier influence** only. The **candidate influence floor** — phase-bearing relatedness with consequence-capacity — is a downstream carve where path / period / holonomy structure is exposed, not the default license for every use of `influence`.
+
+### 3.8 QFT guardrails as role-separation probes
+
+When QFT introduces a guardrail to block a bad physical reading, MGR asks whether that guardrail corresponds to a **real role-separation** or only a calculational convention.
+
+```text
+QFT guardrail:
+  "do not read X as Y"
+
+MGR audit:
+  does X→Y conflation fail compose / missing / extra?
+  is the guardrail pricing a forbidden tier collapse?
+```
+
+Examples already in the corpus:
+
+```text
+virtual line ≠ asymptotic state / detector event     → kernel ≠ carrier
+retarded support / microcausality                    → ordering constrains influence expression
+Unruh/KMS: thermal rendering ≠ pre-written bath      → rendered ≠ constituted
+LSZ / on-shell vs off-shell                          → carrier vs kernel boundary
+no-signaling from reduced states                     → record/render ≠ remote constitution by read alone
+```
+
+Matching a QFT guardrail is expected when QFT axiomatized a seam GR left silent (§1). The audit question is not "did QFT get there first?" but "does the guardrail mark a missing cell, a forced-empty closure, or a tier collapse MGR would already proscribe?"
+
+If yes, the guardrail is contact evidence for the role map at clarifier grade. If the guardrail is purely index or bookkeeping with no tier reading, MGR does not inflate it into witness weight.
+
+---
+
+## 4. The second hinge: acceleration as frame-transport
 
 The photon seed shows one separation:
 
@@ -241,11 +374,13 @@ transports its rendering basis, and that this transport can change which
 influence becomes response-capable before any information is written.
 ```
 
-Proper acceleration is one measurable local face of invariant / operational frame-transport:
+Proper acceleration is the exhibit-grade local face of frame-transport; the scalar handle is imported:
 
 ```text
 proper acceleration:
-  non-geodesic / forced frame-transport along timelike flow
+  non-geodesic / forced frame-transport along timelike flow;
+  exhibit-grade read: makes that deviation observable locally;
+  imported handle: measures non-geodesic transport along one worldline — not the operation whole
 
 frame-transport:
   invariant or operationally fixed comparison / transport of a frame-basis
@@ -261,16 +396,17 @@ This pressures the influence audit without settling it. The disciplined split is
 
 ```text
 Photon:
-  ordering + influence remain;
+  ordering + carrier influence remain;
   flow stripped;
   cause != flow;
-  minimal influence = consequence-capable relatedness,
-  with no phase requirement at the seed.
+  seed licenses carrier tier only (§3.3);
+  no phase requirement at the seed.
 
 Acceleration:
   flow remains;
   frame-basis changes through flow;
   rendering != passive labeling;
+  exposes rendered-influence tier (§3.4);
   no new influence primitive is added.
 ```
 
@@ -286,11 +422,11 @@ That candidate is stronger than the acceleration diagnostic. The diagnostic is o
 
 ```text
 if frame-transport changes the response,
-then the sampled relatedness was consequence-capable
-under at least one flow-bearing rendering.
+then the sampled relatedness was at least rendered-influence
+under that flow-bearing rendering (§3.4).
 ```
 
-So acceleration does not create influence and does not prove the full phase-bearing floor. It frame-transports rendering and diagnoses consequence-capacity; it does not define influence. Phase-bearing is a downstream carve where path / period / holonomy structure is exposed, not the price of admitting acceleration as frame-transport.
+So acceleration does not create influence and does not prove the full phase-bearing floor. It frame-transports **rendered influence** and diagnoses that tier; it does not define the whole ladder. Phase-bearing is a downstream carve where path / period / holonomy structure is exposed, not the price of admitting acceleration as frame-transport.
 
 This sharpens information. The photon blocks:
 
@@ -329,14 +465,23 @@ ordered influence
 → information
 ```
 
-This also clarifies the gravity side. Gravity is not frame-transport simpliciter. In the GR-owned torsion-free sector, gravity is visible as energy-momentum-conditioned transport structure:
+Imported GR placement on the transport side (not acceleration-exhibit):
 
 ```text
-energy-momentum
-→ connection / curvature behavior
-→ frame-transport
-→ changed rendering / response conditions
-→ possible uptake/write
+gravity ≠ frame-transport simpliciter
+
+gravity = ordering + influence + energy-momentum
+
+operational chain (imported):
+  energy-momentum
+  → connection / curvature behavior
+  → frame-transport
+  → changed rendering / response conditions
+  → possible uptake/write
+
+proper acceleration (exhibit) makes non-geodesic transport observable on one line.
+gravity (import) is the sourced curved transport grammar — connection, curvature,
+geodesic structure — legible in tides, holonomy, and redshift even when proper acceleration is zero.
 ```
 
 Information completes on the uptake side. Gravity lives on the transport side. The bridge is not that gravity is information; it is that both share ordering + influence while diverging at transport versus uptake.
@@ -396,7 +541,7 @@ Together they make structural the content → rendering → frame-transport → 
 
 ---
 
-## 4. Mereology, not taxonomy
+## 5. Mereology, not taxonomy
 
 The mereological instrument is:
 
@@ -433,9 +578,11 @@ threshold / application scale
 
 The method does not require all named entries to be ontological peers. It requires each named entry to state its type, dependencies, and grade.
 
+§10.1 states why the unfused composition grammar is structurally binding — not merely a classification scheme.
+
 ---
 
-## 5. Forced, chosen, imported, parked
+## 6. Forced, chosen, imported, parked
 
 A move carries weight only if it survives the forced gate:
 
@@ -462,7 +609,7 @@ Import is licensed only when its status is explicit. Imported things may be used
 
 ---
 
-## 6. Epistemic grades
+## 7. Epistemic grades
 
 Grades attach to claims, not objects.
 
@@ -517,7 +664,7 @@ Uniform success is a failure signal.
 
 ---
 
-## 7. The ledger rule
+## 8. The ledger rule
 
 A claim's grade is ledger-indexed. It depends on the assumptions, imports, and carvings currently active.
 
@@ -548,11 +695,11 @@ A ledger change reopens dependent claims. Re-audit is dependency-triggered, not 
 
 ---
 
-## 8. Component roster
+## 9. Component roster
 
 A0's current roster separates role, substrate, and primitive.
 
-### 8.1 Derived roles
+### 9.1 Derived roles
 
 ```text
 ordering:
@@ -560,8 +707,9 @@ ordering:
   not duration, not clock magnitude
 
 influence:
-  consequence-capable relatedness;
-  not force, push, transfer, agency, signal, or information;
+  grammar-leg: consequence-capable relatedness;
+  live use must name a ladder tier (§3): kernel, carrier, rendered, recorded, or constituted;
+  not force, push, transfer, agency, signal, or information by default;
   phase-bearing / frame-survival status belongs to later audit
 
 flow:
@@ -570,7 +718,7 @@ flow:
   clock is its magnitude projection
 ```
 
-### 8.2 Imported role
+### 9.2 Imported role
 
 ```text
 adjacency:
@@ -579,16 +727,17 @@ adjacency:
   imported from GR's metric and named as peer of flow
 ```
 
-### 8.3 Substrate
+### 9.3 Substrate
 
 ```text
 relatedness:
   bare connectability / comparison-possible connection of relata;
+  ladder tier 0 (§3.1);
   presupposed by ordering, influence, flow, and adjacency;
   not a peer-role
 ```
 
-### 8.4 Dimensionful primitive / grading
+### 9.4 Dimensionful primitive / grading
 
 ```text
 energy-momentum:
@@ -603,7 +752,7 @@ Energy-momentum is not a fifth boolean axis in the role lattice. It grades cells
 
 ---
 
-## 9. Composition grammar
+## 10. Composition grammar
 
 In the grammar below, `+` is not numerical addition, set union, or fusion into a new substance. It means role co-requirement: the named whole is constituted only when each listed role is present and no unaccounted role is doing the work.
 
@@ -629,13 +778,88 @@ Thus `information = ordering + influence + flow` means that information-grade co
 
 A role may later decompose. A composite may later unfuse. A named operation may reduce to a composition. Naming is not freezing; naming is auditability.
 
+### 10.1 Constraint grammar, not taxonomy
+
+§5 states the mereological instrument: compose / missing / extra. This subsection states why the unfused roles are **structurally binding**, not rearrangeable labels.
+
+A taxonomy files objects into descriptive boxes. Rearranging the boxes does not change what a standard theory predicts. MGR is a **constraint grammar**: role **substitutions are audited**, not relabeled. When a proposed identification fails compose / missing / extra, it carries a **remainder** and a **demotion path** (influence ladder §3, ledger rule §8, foundation bets §17) — not a preference for one vocabulary over another.
+
+The static grammar (three consequence legs plus adjacency):
+
+```text
+                  COMPOSITION GRAMMAR (static)
+
+          [ORDERING] ─────── [INFLUENCE] ─────── [FLOW]
+              │                     │              │
+              │    adjacency is a fourth peer      │
+              │    (space, frame); not a fifth     │
+              │    boolean axis in the lattice     │
+              └────────┬────────────┘              │
+                       ▼                           │
+                    [CAUSE]                        │
+                       │                           ▼
+                       └────────────┬──────────────┘
+                                    ▼
+                              [INFORMATION]
+
+  gravity = ordering + influence + energy-momentum
+            (transport side; not the uptake completion of information)
+```
+
+**Co-requirement.** The `+` in §10 means each listed role must be present for the named composite, with no unaccounted role doing the work. Strip one leg and the composite is not the same object under another name — it is a **different composite** or a **degenerate corner**.
+
+**Mutual exclusion under substitution** (not non-co-presence). The roles routinely coexist on massive worldlines. What is forbidden is **collapse**:
+
+```text
+flow ≠ ordering
+influence ≠ flow
+record / rendered influence ≠ constituted information
+```
+
+Substituting one role for another fails missing / extra. Examples (heuristic, not axioms — each use is still ladder-graded):
+
+```text
+ordering vs flow:
+  causal / precedence structure (light-cone leg) is not proper-time accrual
+  along a worldline; conformal rescalings preserve cone structure, not τ
+
+influence vs flow:
+  earned influence tiers (§3) are not timelike register accrual;
+  kernel / carrier influence can exist without completed worldline flow
+  (photon corner); flow without earned influence is clock grammar, not interaction
+```
+
+**Subtraction exhibits** (why the grammar is not a filing system):
+
+```text
+strip flow from information  → photon corner: cause without constitution (§2, PB-3)
+strip ordering               → influence loses directed / microcausal expression
+strip influence              → flow can accrue; nothing is consequence-capable in grammar
+```
+
+**Operational layer.** The static triangle is not the whole story. Constitution is audited through operations (§11.3):
+
+```text
+content → rendering → frame-transport → uptake → information
+```
+
+Rendering ≠ uptake; frame-transport changes rendered influence without adding a new primitive; constitution requires flow-bearing write at application threshold. Lab and formal contact (diagnostic-ledger §14 and related rows) stress **which operation** broke — not which box a phenomenon was filed under.
+
+```text
+One-line:
+  MGR is not a taxonomy because role substitutions are audited:
+  unfused legs are co-required for named composites and mutually exclusive
+  under substitution; failed substitutions leave missing/extra remainders with
+  demotion conditions — not rearrangeable descriptors.
+```
+
 ---
 
-## 10. Layers: roles, composites, operations, projections, gradings, thresholds
+## 11. Layers: roles, composites, operations, projections, gradings, thresholds
 
 To avoid over-unfusing, A0 distinguishes layers.
 
-### 10.1 Roles
+### 11.1 Roles
 
 Roles are component-functions in the composition grammar.
 
@@ -646,7 +870,7 @@ flow
 adjacency
 ```
 
-### 10.2 Composites
+### 11.2 Composites
 
 Composites are role-sums or role-compositions.
 
@@ -659,7 +883,7 @@ information
 gravity
 ```
 
-### 10.3 Operations
+### 11.3 Operations
 
 Operations act through or upon roles/composites.
 
@@ -685,7 +909,7 @@ constitution:
 
 Operations are not automatically peer roles. They become candidates only if compose / missing / extra leaves a remainder.
 
-### 10.4 Projections
+### 11.4 Projections
 
 Projections are rendered faces of content through a basis.
 
@@ -703,7 +927,7 @@ temperature:
   flow-indexed response scale of accessible mixedness / relatedness
 ```
 
-### 10.5 Gradings and primitives
+### 11.5 Gradings and primitives
 
 ```text
 energy-momentum:
@@ -713,7 +937,7 @@ couplings:
   out by kind unless specifically imported as part of the standard formalism
 ```
 
-### 10.6 Thresholds
+### 11.6 Thresholds
 
 Thresholds belong to applications.
 
@@ -728,7 +952,7 @@ constitution threshold:
 
 ---
 
-## 11. Rendering and uptake: current open seam
+## 12. Rendering and uptake: current open seam
 
 The present seam is the gap between content and information. The photon and acceleration hinges make this seam structural rather than decorative: the photon shows influence without flow, while acceleration shows flow changing how influence is rendered before uptake.
 
@@ -740,7 +964,8 @@ A0's provisional grammar:
 
 ```text
 content:
-  phase-bearing relatedness / field structure / energy-momentum content
+  relatedness / field structure / energy-momentum content;
+  phase-bearing where earned by the route
 
 frame:
   ordering + flow + adjacency
@@ -803,7 +1028,7 @@ No answer is asserted in A0. The point is to locate the audit.
 
 ---
 
-## 12. Mass and the content-information gap
+## 13. Mass and the content-information gap
 
 Mass is not information and not an uptake primitive.
 
@@ -827,7 +1052,7 @@ This is not a new primitive. It is a projection-side bridge between rendered con
 
 ---
 
-## 13. Quantum reference frames as stress test, not source
+## 14. Quantum reference frames as stress test, not source
 
 Relativistic quantum reference frames should be used as a stress test of GR-derived grammar, not as the source of the grammar.
 
@@ -891,7 +1116,7 @@ A0 does not answer this. It names the seam.
 
 ---
 
-## 14. Import, calibration, and perimeter rules
+## 15. Import, calibration, and perimeter rules
 
 MGR may use imported mathematics, calibrated scalars, and observed constants, but it must not relabel imports or fitted structures as derivations.
 
@@ -956,7 +1181,7 @@ This split prevents both underclaim and overclaim. A scalar may be observed; a s
 
 ---
 
-## 15. Anti-over-unfusing rule
+## 16. Anti-over-unfusing rule
 
 Do not make every named seam a peer role.
 
@@ -1070,7 +1295,7 @@ Grade: method / auditability. It earns nothing on its own; it makes the corner-s
 
 ---
 
-## 16. Foundation bets (PB)
+## 17. Foundation bets (PB)
 
 A0 states the PB bets in their foundation form because they flow from the GR-fixed role grammar plus role-realism. A0 does **not** cash them, grade their current evidence, or run their witness/contact history.
 
@@ -1267,7 +1492,7 @@ Gravity has no PB here. Its structure composes in the grammar; the coupling law 
 
 ---
 
-## 17. What A0 does not do
+## 18. What A0 does not do
 
 Reminder: throughout A0, `+` marks mereological role-composition, not numerical addition or identity. This is why PB-1 can name a seam while PB-2 separately explores its interior.
 
@@ -1306,18 +1531,22 @@ what foundation bet is being priced or tested?
 
 ---
 
-## 18. Compact foundation
+## 19. Compact foundation
 
 ```text
 GR is held fixed.
 MGR asks what role-parts GR bundles.
 
 Foundation hinges:
-  photon = ordering + influence + adjacency, with flow → 0
+  photon = ordering + carrier influence, with flow → 0
   therefore cause ≠ flow
 
   acceleration = flow persists while frame-basis changes through flow
-  therefore rendering ≠ passive frame-labeling
+  therefore rendering ≠ passive frame-labeling; rendered-influence tier exposed
+
+Influence ladder:
+  bare relatedness → kernel → carrier → rendered → recorded → constituted information
+  consequence-capable relatedness names the family; each tier must be earned (§3)
 
 Roles:
   ordering, influence, flow, adjacency
@@ -1343,8 +1572,11 @@ Operations under audit:
   constitution = uptake reaching application consequence
 
 Proper acceleration:
-  one measurable non-geodesic face of frame-transport,
-  not the whole operation
+  exhibit: non-geodesic face of frame-transport; makes deviation observable locally
+  imported handle: not the operation whole
+
+Gravity (transport side):
+  imported placement: T_μν-sourced connection/curvature grammar; legible when a = 0
 
 Foundation bets:
   PB-1 = ordering-axis bound exists
@@ -1354,6 +1586,8 @@ Foundation bets:
 
 Discipline:
   compose / missing / extra
+  influence ladder: no tier collapse without audit
+  QFT guardrail → role-separation probe (§3.8)
   forced vs chosen
   imported vs derived
   calibrated vs fitted

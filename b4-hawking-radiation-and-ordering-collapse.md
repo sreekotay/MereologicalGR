@@ -117,13 +117,13 @@ radiation can become a record at flow-bearing exterior uptake;
 constitution does not occur on the null generator or in radiation transit itself.
 ```
 
-Influence's floor matters here. The radiation channel can carry:
+The carrier / rendered tiers matter here. The radiation channel can carry:
 
 ```text
-consequence-capable phase-bearing relatedness
+carrier or rendered influence
 ```
 
-but consequence-capable relatedness is not yet constituted information. It becomes information only when taken up in a flow-bearing register at application consequence scale.
+but rendered or carrier influence is not yet constituted information. It becomes information only when taken up in a flow-bearing register at application consequence scale.
 
 It is tempting to introduce a magnitude-shaped statement:
 

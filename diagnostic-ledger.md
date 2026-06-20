@@ -53,6 +53,8 @@ Framework-owned:
   missing / extra diagnosis;
   forbidden-term discipline;
   null guard where the role separation forbids a term;
+  influence ladder placement (A0 §3);
+  QFT guardrail → role-separation probe where tier collapse is priced;
   scale-form only where separately earned.
 
 Externally supplied:
@@ -365,7 +367,7 @@ Quantum reference frames are the engine-eligible PB-4 exposure:
 
 ```text
 the frame is a physical (massive) system that can be coherent/superposed;
-the rendering/transport map becomes conditional/superposed (A0 §13);
+the rendering/transport map becomes conditional/superposed (A0 §14);
 the program's strong claim is that facts are frame/observer-relative
 (Brukner "no observer-independent facts"; relational QM; QRF Wigner's-friend).
 
@@ -560,7 +562,89 @@ Promotion requires:
 
 ---
 
-## 14. Compact result
+## 14. Published experiments × contact checklist
+
+Mapping existing work to **A4 autopsy rows** (lab QEC), **D11 engine checklist** (QRF / PB-4), and **clock / rendering null guards** (D1, D6, D7). Grade: what was actually tested, not MGR labels used in the paper.
+
+### 14.1 A4 rows — QEC (engine-eligible #2)
+
+| Publication | A4 row | What moved causally | Factorial clean? | MGR read |
+|---|---|---|---|---|
+| Google, *Nature* 2024 — below-threshold surface code + real-time decoder (Willow) | **decode**, **commit**, **threshold** | Decoder latency (~63 µs) vs cycle (1.1 µs); distance 3→5→7 | **Partly** — latency vs logical lifetime; not decoder-swap on fixed stream | **Commit leg live** — late feedback breaks correction; supports layer split |
+| Quantinuum, arXiv:2404.16728 — fault-tolerant logical teleportation (H2) | **decode**, **commit** | Mid-circuit syndrome decode + **physical corrections during** protocol | **Partly** — apply in-loop vs end-only implied | **Constitution during run**, not offline inference only |
+| Decoder latency / architecture studies (e.g. arXiv:2511.10633; Yale FPGA decoders) | **decode**, **commit** | Reaction time → logical error rate / resource overhead | **Partly** — timing stressed; rarely 2×2 with decoder fixed | Same seam; engineering owns numbers |
+| Decoder benchmarks (MWPM vs neural / union-find, various groups) | **decode**, **route** | Decoder or model choice → LER | **Often offline** — same stream replay not always published | **Decode layer** live; commit often bundled |
+| Mid-circuit / real-time QEC surveys (2024–2025 stack literature) | **commit**, **misread** | Offline decode sold as memory vs online apply | **Mixed** | Autopsy target: separate offline / online / commit in papers |
+
+**A4 checklist coverage (typical published QEC paper):**
+
+```text
+record:     usually yes (syndrome fidelity)
+route:      sometimes (noise model named)
+decode:     yes (decoder named)
+commit:     often implicit (real-time QEC papers yes; offline papers no)
+threshold:  sometimes (rounds, distance; app budget often compressed)
+misread:    rare (offline LER reported as memory)
+```
+
+**Not yet published as preregistered factorial:** same syndrome stream → swap decoder **and** swap commit latency independently (A4 §4 full 2×2). Predictive closure map: A4 §5–§6.
+
+---
+
+### 14.2 D11 checklist — QRF / Wigner / PB-4 (engine-eligible #3)
+
+D11 operational rows:
+
+```text
+R1  coherent / reversible regime        → rendering / record-readiness only
+R2  irreversible write at threshold     → constitution
+R3  frame varies, write-chain fixed     → MGR: committed outcomes agree
+R4  write-chain varies, frame fixed      → outcomes may disagree
+R5  break (PB-4 lost)                    → constituted fact frame-relative at fixed write-chain
+```
+
+| Publication | D11 row | What was varied | MGR read |
+|---|---|---|---|
+| Proietti et al., *Science Advances* 2019 — extended Wigner’s friend (6 photons) | **R5 tension** | Observer-independent facts via Bell-type inequality | Violation → **observer-dependent facts** (authors); **challenges R3/PB-4** unless “fact” ≠ constituted record |
+| Frauchiger–Renner, *Nat Commun* 2018 — FR no-go | **R1 / meta** | Nested agents using QM on each other | No-go on **single objective fact** across agents; not write-chain factorial |
+| Bong et al., *Nat Phys* 2020 — local friendliness | **R5 tension** | Local friendliness + QM | Another **fact-composition** no-go; adjacent, not R3/R4 factorial |
+| Smith & Ahmadi, *Nat Commun* 2020 — quantum time dilation | **R1** (rendering) | Clock COM in **momentum superposition** | **Rendering / transport** in quantum regime; **not** R2 constitution test |
+| PRA 2021 — quantum time dilation in atomic spectra | **R1** | Superposed velocities → spectral line shape | Pre-write **render** correction; not irreversible register |
+| RFI-QKD / transverse-frame QKD literature (D10) | **R1 vs R2** | Frame-invariant correlators vs key extraction | Key at **uptake**; correlator is **record** (D10 row) |
+
+**Not yet published as D11 factorial:** preregistered (a) frame rotation / superposed frame with **fixed** detector POVM + irreversible readout timing vs (b) varied write-chain with fixed frame label.
+
+**Ledger note:** Friend experiments test **observer-independent facts**, not the same protocol as D11 R3/R4 — but they **stress PB-4**: if “fact” includes pre-write branch-relative reports, MGR must demote them to **R1 misread**, not **R2 constitution**.
+
+---
+
+### 14.3 Clock / rendering rows — frame-transport (#1) and no in-flight register
+
+Maps to **D1** (accelerated response routing), **D6/D7** null guards, A2 handles — not A4/D11, but same portfolio.
+
+| Publication | Contact | Checklist hook | Factorial clean? | MGR read |
+|---|---|---|---|---|
+| Chou et al., *Nature* 2010 — optical clocks, 33 cm height | D6/D7 analog | **Rendering** E = −p·u; no one-place in-flight energy | N/A (static comparison) | **No in-flight register** for constituted energy |
+| Takamoto et al. — Skytree transportable Sr clocks, 450 m | Rendering + transport | Moved clocks; GR redshift priced | N/A | **Grammar leg** priced; not steering A/B |
+| NIST transportable Yb deployments (2023–2025) | Transport + inter-site compare | Truck transport; relativistic pipeline | N/A | Dynamic **render** context |
+| GPS / GNSS (operational) | Route + render | Einstein delay + redshift in ephemeris/solution | N/A | **Rendering layer** standard; not lumped-noise-only at system level |
+| Hafele–Keating (1972) | Transport + render | Flown clocks vs ground | N/A | Classic **rendering** divergence |
+
+**Not yet published:** A4-style **steering A/B** during acceleration transient — explicit render-map correction vs opaque transfer-noise filter at commit (engine-eligible #1 as preregistered). Metrology predictive table and Higgins predictions: A4 §6.
+
+---
+
+### 14.4 Crosswalk — three engine proposals × ledger
+
+| Proposal | Primary ledger | Best existing paper | Gap |
+|---|---|---|---|
+| #1 Clock render-aware steering | D1 + D6/D7; A2 handles | Skytree / Chou redshift | **A/B steering factorial** |
+| #2 QEC decode vs commit | A4; D4 seam (QD analog) | Google Willow 2024; Quantinuum mid-circuit QEC | **2×2 decoder × latency** on same stream |
+| #3 QRF write vs frame | D11; PB-4 | Proietti 2019 (tension, not confirm) | **R3/R4 factorial** with pinned write-chain |
+
+---
+
+## 15. Compact result
 
 ```text
 Best role-stress lanes:

@@ -30,6 +30,10 @@ baseline:
 role-knob:
   what the framework says is the live distinction
 
+influence tier:
+  when the contrast touches influence / information, name ladder placement (A0 §3);
+  when QFT uses a guardrail to block a bad reading, ask whether it prices a real tier separation
+
 forbidden knob:
   what should not matter once standard physics is accounted
 
@@ -69,6 +73,10 @@ sensitivity lane:
 
 engine-eligible test:
   the write / uptake condition changes, not merely the pre-write correlation
+
+predictive closure (engine lanes):
+  layer stress → open cell (missing/extra) → closure or projection → forward signature;
+  QEC and closed-loop metrology tables in a4-qec-failure-layer-autopsy.md §5–§6
 ```
 
 ---

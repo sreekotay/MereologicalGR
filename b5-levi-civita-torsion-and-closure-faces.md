@@ -3,8 +3,8 @@
 *Working draft, June 2026.*
 
 Status: B-note / internal audit / number-pipeline note.  
-Primary target: A2 gravity composition and curvature-form derivations that silently use torsion-free Levi-Civita structure.  
-Grade: missing-cell audit + structural-bet candidate. Not a new gravity theory.
+Primary target: A2 gravity composition and curvature-form derivations that silently use torsion-free Levi-Civita structure; A0 closure-cell / degenerate-corner discipline; diagnostic-ledger D9 (archived sensitivity lane).  
+Grade: missing-cell audit + structural-bet candidate. Not a new gravity theory. Numerical workbench: `archive/b5-torsion-experimental/`.
 
 B5's claim is simple:
 
@@ -14,6 +14,8 @@ torsion is translational closure failure.
 ```
 
 If MGR treats loop-failure-to-close as a primitive geometric signal, it cannot silently keep only curvature and inherit torsion-free as if GR's omission were a prohibition. It must either force the torsion cell empty by role-reason or book torsion as a live structural bet.
+
+This is a degenerate corner in A0's sense: GR remains predictively complete while one closure cell is set empty. The instructive question is not "replace GR" but whether that cell was priced or merely inherited.
 
 Positive output:
 
@@ -499,11 +501,11 @@ translational closure failure:
 This is the clean computational distinction.
 
 ```text
-R prices orientation failure.
-T prices endpoint failure.
+R prices orientation failure (rotational holonomy; A2 ΔV ~ R face).
+T prices endpoint failure (translational holonomy; adjacency-transport gap).
 ```
 
-If MGR names loop-failure-to-close as a primitive diagnostic, both prices must either be paid or one must be forced empty.
+If MGR names loop-failure-to-close as a primitive diagnostic, both prices must either be paid or one must be forced empty. A2's frame-transport handles price the rotational face; B5 prices the translational face the Levi-Civita sector sets to zero.
 
 ### 10.3 Source route
 
@@ -617,165 +619,54 @@ This prevents both overclaim and underclaim.
 
 ---
 
-## 11. Neutron-star worksheet
+## 11. Application workbook (archived numerics)
 
-Neutron stars are the first application target because they offer high density, spin, EOS leverage, and observable mass/radius/tidal constraints.
+Compact objects are the first sensitivity arena: high density, spin, EOS leverage, mass/radius/tidal constraints. **Canonical B5 stops at the route; numbers live in the workbench.**
 
-Two source channels must stay separate:
-
-```text
-A. Intrinsic-spin / minimal EC channel
-   source: fermion spin density / independent spin current
-   framework status: cleanest spin → torsion route
-   current neutron-star status: hidden or negligible in realistic models so far
-
-B. Rotation-induced / phenomenological torsion channel
-   source: macroscopic angular momentum, rotation, or model-specific current
-   framework status: useful positive number target, but not identical to minimal EC spin-density torsion
-   current neutron-star status: potentially observable in some models, e.g. radius shift up to about 0.9 km
-```
-
-The first is cleaner lineage. The second is the better near-term observational target.
-
-### Observational anchors
-
-| Anchor | Available data | Use in torsion worksheet |
-|---|---:|---|
-| PSR J0740+6620 mass | `M = 2.08 ± 0.07 M_sun` | High-mass support constraint; any torsion-modified EOS must still support about two solar masses. |
-| PSR J0740+6620 radius | `R_eq = 12.92^{+2.09}_{-1.13} km` at 68% credibility in updated NICER/XMM inference | First radius-shift target; compare predicted radius shift against current uncertainty. |
-| PSR J0740+6620 spin | period about `2.89 ms` | Rotation input; not near breakup, but fast enough to test spin/rotation-correlated residuals. |
-| PSR J0030+0451 | NICER source near `M ~ 1.3–1.4 M_sun`, `R ~ 13 km` in 2019 analyses; later reanalyses emphasize model dependence | Lower-mass radius anchor; useful for mass-dependence versus spin-dependence separation. |
-| GW170817 / BNS events | tidal deformability and EOS constraints | Tests whether torsion-induced radius shift implies allowed or excluded tidal shift. |
-| PSR J0952−0607 | mass estimate `M_NS = 2.35 ± 0.17 M_sun`; spin frequency about `707 Hz` | Extreme high-mass / high-spin stress case; mass modeling is less clean than Shapiro-delay systems. |
-
-Direct torsion-model anchor:
+Two source channels must not be fused:
 
 ```text
-Effect of Torsion on Neutron Star Structure in Einstein-Cartan Gravity
-Jockel and Menger, 2024
-arXiv:2406.05851
+A. Intrinsic-spin / minimal EC:
+   fermion spin density → independent spin current → torsion equation
+   lineage: cleanest B5 route
+   realistic NS status: usually hidden / negligible
+
+B. Rotation-induced / phenomenological:
+   macroscopic rotation or model-specific current → effective torsion
+   lineage: externally priced; not identical to A
+   near-term status: model-dependent shifts (e.g. sub-km radius in some EC models)
 ```
 
-Usable abstract-level targets:
+Channel A is the structural bet. Channel B is a **sensitivity probe only** — useful for bounds, not for top-level project identity.
+
+Workbench pipeline (detail, anchors, gates, Jockel–Menger readouts):
 
 ```text
-microphysical spin source:
-  realistic spin models have no relevant influence on neutron-star structure
-
-rotation-induced torsion source:
-  can decrease radius by up to about 900 m;
-  can compete with centrifugal-radius increase;
-  can cause torsion-induced spin-up or spin-down depending on dominance.
+archive/b5-torsion-experimental/
 ```
 
-### Calculation pipeline
-
-For each selected neutron star or EOS family:
+Applied routing when fitting residuals:
 
 ```text
-1. Choose baseline GR / TOV model:
-   EOS, M, R, central density, moment of inertia, tidal deformability.
-
-2. Choose torsion source model:
-   intrinsic-spin / minimal EC channel,
-   or rotation-induced / phenomenological torsion channel.
-
-3. Apply imported torsion pricing:
-   EC / Poincare-gauge torsion equation,
-   or the chosen effective correction model.
-
-4. Compute corrections:
-   radius shift, maximum-mass shift, central-density shift,
-   moment-of-inertia shift, tidal-deformability shift, spin-up/down sign.
-
-5. Compare to data:
-   NICER radius uncertainty,
-   high-mass support constraints,
-   GW tidal deformability,
-   future moment-of-inertia constraints.
-
-6. Grade:
-   hidden: below current uncertainty;
-   testable: comparable to current/future uncertainty;
-   excluded: violates high-mass or radius/tidal constraints;
-   suggestive: residual scales with spin/current rather than mass-energy alone.
+spin/current-correlated residual → price through torsion-sector route first
+not absorbed by EOS / symmetric T_mu_nu / magnetic / crust alone
 ```
 
-Tidal deformability is radius-sensitive. Schematically:
+**Positive evidence (B5-positive, not generic GR deviation):**
 
 ```text
-Lambda ~ k_2 / C^5
-C = GM/(Rc^2)
+same EOS fits slow/low-spin objects;
+fast/high-spin objects need a correction;
+correction sign/scale matches torsion-sector pricing, not mass-energy density alone.
 ```
 
-Holding mass and Love-number changes aside for a first pass:
+**Failure / weakening:** all spin/current effects absorbed by ordinary GR+matter modeling; or residuals route through magnetic/thermal/crust/EOS with no torsion improvement. **Null tightens bounds; it does not force torsion empty** — forced-empty still needs role-level closure (§14 demotion).
 
-```text
-relative tidal shift ~ 5 * relative radius shift
-```
-
-For `R ~ 13 km`, a radius shift near `0.9 km` gives roughly:
-
-```text
-relative radius shift ~ 0.07
-relative tidal shift ~ 0.35
-```
-
-This is a sensitivity estimate, not a prediction. It shows why a sub-kilometer torsion radius shift is not automatically irrelevant.
-
-First target:
-
-```text
-PSR J0740+6620
-```
-
-because it has high mass, NICER/XMM radius inference, known millisecond spin, and strong EOS leverage. The first comparison is between current radius uncertainty and a model torsion shift up to about `-0.9 km`. That is not a detection and not clearly excluded; it is near enough to current/future radius precision to justify model-level comparison.
+Promotion from archive to top-level requires: stable source data, fixed role-route before fitting, and clear demotion/failure conditions (diagnostic-ledger D9 discipline).
 
 ---
 
-## 12. What would count as positive evidence?
-
-Weak positive:
-
-```text
-a residual in mass-radius or moment-of-inertia fits correlates with spin / angular momentum
-better than with mass-energy density alone.
-```
-
-Stronger positive:
-
-```text
-a torsion-sector correction predicts a sign and scale of radius or moment-of-inertia shift
-that improves fit across fast and slow pulsars without spoiling GW tidal constraints.
-```
-
-Cleaner B5-positive signal:
-
-```text
-the same EOS family fits slow / low-spin objects normally,
-but fast / high-spin objects require a correction,
-and the correction's sign and scale match torsion-sector pricing.
-```
-
-Failure / weakening:
-
-```text
-all spin/current effects are fully absorbed into EOS / symmetric stress-energy modeling
-with no independent torsion-sector burden;
-```
-
-or:
-
-```text
-observed spin-correlated residuals route through ordinary magnetic, thermal, crustal,
-or EOS effects with no torsion/contortion improvement.
-```
-
-A null result does not by itself force torsion empty. It tightens bounds and weakens the live bet. Forced-empty still requires a role-level closure argument.
-
----
-
-## 13. Belinfante and Wigner guardrails
+## 12. Belinfante and Wigner guardrails
 
 Spin current is not simply:
 
@@ -799,7 +690,7 @@ Wigner does not prove torsion. But Wigner's massive-particle labels include mass
 
 ---
 
-## 14. Photon / write-act containment
+## 13. Photon / write-act containment
 
 This torsion audit does not automatically damage the photon or write-act sections.
 
@@ -827,7 +718,7 @@ all affine closure-failure faces.
 
 ---
 
-## 15. Ledger
+## 14. Ledger
 
 Derived / framework-owned:
 

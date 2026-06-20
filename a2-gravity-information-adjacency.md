@@ -288,6 +288,40 @@ In the torsion-free GR sector,
 gravity is visible as energy-momentum-conditioned curvature of comparison / transport structure.
 ```
 
+Strict GR composition (imported, not derived):
+
+```text
+G_μν = κ T_μν  →  g_μν , ∇_μ , R^ρ_σμν
+  sourced comparison / transport grammar
+
+parallel transport:
+  DV^μ/dλ = u^ν ∇_ν V^μ
+
+along timeline u^μ:
+  u^ν ∇_ν u^μ = a^μ          geodesic when a^μ = 0
+  a = sqrt(−a_μ a^μ)          scalar measure of non-geodesic use of ∇ on that line
+
+nearby geodesics:
+  D²ξ^μ/dτ² = −R^μ{}_{νρσ} u^ν ξ^ρ u^σ
+  holonomy / loop transport:
+  ΔV^μ ~ R^μ{}_{νρσ} V^ν A^{ρσ}
+```
+
+Read:
+
+```text
+proper acceleration:
+  makes non-geodesic frame-transport observable locally;
+  measures non-geodesic frame-transport along one worldline — not frame-transport whole
+
+gravity (GR sector):
+  the T_μν-sourced curved transport grammar (g, ∇, R);
+  legible through a when the line breaks geodesic motion;
+  legible through tidal deviation, holonomy, and redshift even when a = 0
+```
+
+Demotion: treating a = 0 as absence of gravity, or identifying gravity with proper acceleration alone.
+
 This gives A2 computational room without changing its scope. Redshift, geodesic deviation, acceleration response, Weyl tidal structure, and holonomy are all transport-side computations. Information constitution remains uptake/write-side.
 
 **Later carve — frame-transport is two faces of one operation, sorted by flow (the mass-split).** [Refinement layered over A2; §5/§6 stand on their own imported handles without it. The depth originates in A0 §3 (the boost-generator reading); A2 imports it, does not derive it. Grade: role-location, no new number — GR-owned facts reorganized.]
@@ -337,6 +371,7 @@ proper acceleration:
   imported handle: a^μ = u^ν ∇_ν u^μ, with scalar a = sqrt(a^μ a_μ)
   role exposed: non-geodesic / forced frame-transport along flow;
   computes: acceleration scale, response scale, Rindler/Unruh-style rendering;
+  not the measure of frame-transport whole — tidal, holonomy, redshift read the same ∇ without a ≠ 0;
   not derived: detector response machinery or vacuum state.
 
 geodesic deviation / tidal response:
@@ -384,6 +419,34 @@ loop frame-transport:
 
 translational closure failure:
   torsion, if the cell remains live
+```
+
+### Geodesic stress test (a = 0, R ≠ 0)
+
+Timelike geodesic: u^ν ∇_ν u^μ = 0, so a = 0. Spacetime curvature R^μ{}_{νρσ} may still be nonzero.
+
+```text
+silent:
+  proper-acceleration meter (non-geodesic component absent on this line)
+
+still live:
+  ∇, parallel transport, and sourced curvature R
+  tidal / geodesic deviation on nearby flows
+  holonomy around loops
+  redshift E = −p·u across different congruences
+```
+
+Compose: transport/rendering leg is priced by imported GR without a ≠ 0.
+
+Missing: only if frame-transport is denied unless proper acceleration is nonzero — that over-identifies the leg with its non-geodesic meter.
+
+Extra: “no felt acceleration ⇒ no gravity” — fuses force-felt with curved transport grammar.
+
+The acceleration hinge and the gravity transport reading meet on the same ∇ leg; they differ in scope:
+
+```text
+a^μ  — local readout when this worldline breaks the geodesic rule of ∇
+R, tidal, holonomy  — grammar of ∇ itself, readable even when the line does not break it
 ```
 
 ---
@@ -717,6 +780,10 @@ Therefore:
 
 Transport reading:
   T_μν → curvature / connection behavior → frame-transport → rendering / sampling consequences.
+
+Transport grammar vs acceleration meter:
+  (g, ∇, R) sourced by T_μν; a^μ = u^ν∇_νu^μ measures non-geodesic use of ∇ on one line;
+  tidal / holonomy / redshift read the same grammar when a = 0.
 
 Computational handles:
   E = -p·u                         rendering by flow-worldline

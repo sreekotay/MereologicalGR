@@ -45,10 +45,11 @@ but:
 Influence's layer matters:
 
 ```text
-influence = consequence-capable relatedness
+influence = grammar-leg (consequence-capable relatedness);
+  this note's live tier = rendered influence (A0 §3.4)
 ```
 
-For the temperature/information split and PB-4a lesson, consequence-capable relatedness is enough. Phase-bearing enters this note where the imported QFT route exposes it: Wightman/KMS structure and correlator periodicity (§2, §11.5). It is not required by the acceleration hinge itself (A0 §3).
+For the temperature/information split and PB-4a lesson, **rendered influence** (§3.4) is enough. Phase-bearing enters this note where the imported QFT route exposes it: Wightman/KMS structure and correlator periodicity (§2, §11.5). It is not required by the acceleration hinge itself (A0 §4).
 
 Temperature can scale a response to such relatedness. It is not itself constituted information.
 
@@ -787,7 +788,9 @@ Relatedness:
   bare connection / substrate
 
 Influence:
-  consequence-capable phase-bearing relatedness
+  grammar-leg: consequence-capable relatedness;
+  live tier here: rendered influence;
+  phase-bearing at the KMS / correlator layer
 
 Temperature response skeleton:
   accessible relatedness / mixed state / restricted state
