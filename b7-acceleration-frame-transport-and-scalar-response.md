@@ -127,6 +127,8 @@ phase-bearing relatedness rendered along that flow.
 
 So scalar Unruh does not prove full carried-frame-basis transport. It isolates the flow/self-transport face of frame-transport.
 
+**Cross-link — the forced face and its mass-blind sibling.** [Later carve; B7 stands on its own skeleton without it. Grade: clarifier.] Proper acceleration is the **forced face** of frame-transport — ∇ along a normalizable timelike `u`, flow-bearing only; integrated, it is the boost / inertial-frame generator, and null content is locked out for want of a normalizable `u`. Its sibling is the **curvature face** (holonomy, geodesic deviation; A2 §5–6), mass-blind, acting on null tangents too (light bends). One operation — the single Levi-Civita ∇ — split by whether the transported thing carries flow: B7 works the forced (flow-only) face, A2 the mass-blind one. This keeps B7's contribution legible as missing-side — it forces the scalar skeleton — rather than reading as relabeled `2π`.
+
 ---
 
 ## 2. Metric/Levi-Civita structure gives the scalar operator

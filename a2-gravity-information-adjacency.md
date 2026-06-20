@@ -290,6 +290,36 @@ gravity is visible as energy-momentum-conditioned curvature of comparison / tran
 
 This gives A2 computational room without changing its scope. Redshift, geodesic deviation, acceleration response, Weyl tidal structure, and holonomy are all transport-side computations. Information constitution remains uptake/write-side.
 
+**Later carve — frame-transport is two faces of one operation, sorted by flow (the mass-split).** [Refinement layered over A2; §5/§6 stand on their own imported handles without it. The depth originates in A0 §3 (the boost-generator reading); A2 imports it, does not derive it. Grade: role-location, no new number — GR-owned facts reorganized.]
+
+The §6 handles are not a flat list. The frame-transport ones sort into **two faces of one operation** — the single Levi-Civita connection ∇ applied to transport — divided by whether the transported thing carries flow:
+
+```text
+curvature face (mass-blind):
+  ∇ around loops / between flows;
+  holonomy, geodesic deviation, tidal;
+  acts on any tangent, null included → light bends
+
+forced face (flow-bearing only):
+  ∇ along a normalizable timelike u;
+  proper acceleration a^μ = u^ν ∇_ν u^μ;
+  integrated = boost / inertial-frame-change generator;
+  null content locked out (no normalizable u)
+```
+
+One operation, not two arenas: both faces are the same ∇-transport, sorted by the carrier. The sorting variable is **flow** (normalizable u); mass is only its marker (content with flow-capacity, not a gate). Rendering (`E = −p·u`) is a distinct operation, not part of this split: the photon **retains** rendering and the curvature face (it is rendered, and it bends), and is denied only the forced face. Inter-frame transport then touches the photon only through that face's eigenvalue — its rendering rescales by the boost factor (redshift; A0 §3).
+
+could-fail:
+
+```text
+the split stands unless GR exhibits either:
+  a null worldline carrying a forced-face response, or
+  a massive worldline denied the curvature face.
+neither exists.
+```
+
+So §6's list reads as the two faces, handled: `E = −p·u` on the render side (photon retains it); within transport, proper acceleration on the forced face (flow-only), holonomy and geodesic deviation on the mass-blind curvature face, torsion the parked translational-closure residue.
+
 ---
 
 ## 6. Computational handles
