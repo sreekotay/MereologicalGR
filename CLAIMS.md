@@ -6,6 +6,16 @@ Operationalizes A0 §8 (ledger rule). One place for grade, ownership, and failur
 
 **Grades (A0 §7):** definition · exhibit/seed · witness · **lineage-witness** · clarifier · probe · failed floor · parked.
 
+**Reading rules:**
+
+```text
+Cells are contact audits, not cumulative proof.
+Lineage-witness rows are non-additive — three "route predated landing" contacts
+  do not sum like three independent predictions.
+Magnitude and coefficients stay disowned unless a row says otherwise.
+Read § Prior art before inferring novelty from role names alone.
+```
+
 ---
 
 ## How MGR predicts
@@ -44,6 +54,45 @@ Guardrails in QFT, thermodynamics, and black-hole theory were stabilized under o
 
 **Failure:** recovery by relabel with no prior carve.
 
+**Discount:** applies to **relabel without missing/extra** — not to landing on a known guardrail. Recovering a standard result with role-route fixed before contact is the **success mode** for axiom-to-fit foundations, not a demotion.
+
+```text
+Success:  carve predates contact → guardrail recovered → could-have-failed stated → missing/extra clean
+Failure:  relabel / fit backward with no prior carve
+Neutral:  convention-only guardrail — no tier reading (§3.8)
+```
+
+---
+
+## Prior art: GR geometry vs MGR carve
+
+GR and causal-structure theory already **decompose much of the metric** without MGR:
+
+```text
+ordering / causal structure     ↔  light-cone / causal order (Lorentzian, Penrose)
+flow                            ↔  timelike norm, proper time, lapse-like direction
+adjacency                       ↔  spatial extension, spatial metric on slices (ADM 3+1)
+```
+
+MGR **does not claim** to reinvent that split. It **uses** it as imported geometry and asks a different question: which **semantic roles** (cause, time, information, constitution) were **bundled** in practice, and which fail compose / missing / extra when separated.
+
+**Winnable core (what is not standard causal-structure theory):**
+
+```text
+influence as a leg separable from ordering
+  (cause = ordering + influence; photon seed; ladder tiers; B1 kernel ≠ carrier)
+
+rendering → uptake → constitution
+  (record ≠ constitution; PB-3/PB-4; D4, D11)
+
+application thresholds and write-chains as explicit operations
+  (not state functionals alone)
+```
+
+**Adjacency:** imported from GR (A0 §9); **no strip corner yet** analogous to the photon null corner for flow — **parked audit** (see README glossary). B5 prices translational closure; not a foundation exhibit.
+
+Referee map: concede cone / norm / space; defend **influence + constitution contact**.
+
 ---
 
 ## Foundation bets (PB)
@@ -55,7 +104,7 @@ Realism of composable roles **is** the conceit; PBs are **prices**, not theorem 
 | ID | Claim (foundation form) | Grade | MGR-owned | Imported | Could fail / demote |
 |---|---|---|---|---|---|
 | **PB-3** | Photons in flight carry ordered influence, not constituted information (`information = ordering + influence + flow`; flow → 0 on null line) | bet / proscription | composition rule; flow required for constitution | detector readout ordinary | Completed information-grade operation with **no** flow-bearing uptake in constitution chain |
-| **PB-4** | Constitution supervenes on physical write-chain + threshold, not observer-involvement; rendering is frame/worldline-set | bet | uptake vs read; write-not-read | POVMs, QRF formalism | Constituted fact covaries with observer at **fixed** write-chain (D11) |
+| **PB-4** | Constitution supervenes on physical write-chain + **pinned threshold rule T**, not observer-involvement; rendering is frame/worldline-set | bet | uptake vs read; write-not-read | POVMs, QRF formalism; **T declared before contact** | (1) Constituted fact covaries with observer at fixed write-chain **and fixed T** (D11). (2) Constitution survives sliding **T** without uptake/threshold-rule change (self-rescue) |
 
 ### Tier B — architecture (ordering/influence seam under unit pressure)
 
@@ -77,7 +126,7 @@ Sources: A0 §2, §17; evidence accounting lives outside A0.
 | Record ≠ constitution | clarifier / bet | A3 | constitution = operation + threshold | QD state functionals | Convention-free state functional locates constitution without uptake |
 | Cause ≠ flow (photon seed) | exhibit | A0 §2, A1 | corner-strip | GR null geodesics | — |
 | Acceleration = forced-face exhibit on timelike flow; ≠ gravity | clarifier | A0 §4, A2 §5–6 | role split | a^μ, R, T_μν | Gravity identified with proper acceleration only |
-| Influence ladder (no tier collapse) | definition / method | A0 §3 | tier discipline | QFT guardrail map §3.8 | Guardrail purely bookkeeping with no tier reading |
+| Influence ladder (no tier collapse) | definition / method | A0 §3 | tier discipline; **partial order**, not total order | QFT guardrail map §3.8 | Guardrail purely bookkeeping with no tier reading |
 | Temperature ≠ information | role diagnostic | B6, D5 | separation of response scale vs uptake | KMS, thermodynamics | Temperature alone determines constitution |
 
 ---
@@ -98,11 +147,39 @@ Full prose: `diagnostic-ledger.md` §4–§14. Compact:
 | **D8** | Virtual exchange | null + route | Kernel ≠ carrier information in flight | Virtual exchange requires flow-bearing carrier info |
 | **D9** | Torsion / spin-current | **archived sensitivity** | Spin/current-routed correction if live | Absorbed by GR+EOS; or forced-empty proof |
 | **D10** | RFI-QKD | confirmation / misread | Correlator = record; key at uptake | — (structurally confirmation lane) |
-| **D11** | QRF / relational facts | engine + PB-4 | Frame relativity in reversible regime; committed records agree at fixed write-chain | Constituted record frame-relative at fixed write-chain |
+| **D11** | QRF / relational facts | engine + PB-4 | Frame relativity in reversible regime; committed records agree at fixed write-chain **and pinned threshold T** | Constituted record frame-relative at fixed write-chain **and fixed T**; or **T** slid post hoc to rescue constitution |
+| **D12** | Ordering/influence bound (PB-1/2) | **parked / unwired** | Seam-axis carries bound structure; interior = influence per ordering-resource | Axis unbounded where decomposition exposes it; ratio per-adjacency only; no bound/realized split |
+
+Full prose for D12: A0 §16–§17, A1 §7. No contact lane run yet — architecture bet only.
+
+---
+
+## Lineage-witness contacts (retrodictive)
+
+Non-additive. Each row: did this contact collapse to relabel, or did role-route predate landing?
+
+| Contact | Source | Grade | Discount | Could-have-failed | Notes |
+|---|---|---|---|---|---|
+| Virtual exchange absence-type | B1 | lineage-witness | magnitude QED-owned | microcausality on propagator support, not commutators alone | kernel ≠ carrier |
+| Hubble slot-count | B2 | lineage-witness | calibration disowned | third semantic-redshift slot | two-slot burden under shared flow |
+| QES / null constitution | B3 | lineage-witness | QG formula owned | irreducible constitution on null generators | record ≠ write site |
+| Gauge / normal-ordering conventions | A0 §3.8 probe | **lineage-neutral** | — | tier separation absent | audit returns **relabel only** — logged so the grade can fail |
+| Ward / index bookkeeping (typical) | QFT practice | **lineage-neutral** (default) | — | — | not counted toward contact weight |
+| Commutator locality → "information in flight" | QFT habit misread (B1 contrast) | **lineage-failure** | — | kernel/carrier split absent | route predated (PB-3, ladder); audit returns **relabel only** — logged so grade discriminates |
+
+Lineage-witness is **defined**, not **accumulated** — see reading rules above.
 
 ---
 
 ## Engine claims (closed-loop contact)
+
+Layer template parity between QEC and metrology (A4 §6). **One grammar transfer** (not a shared coefficient):
+
+```text
+QEC:   good syndromes, dead memory  →  record OK; commit/uptake leg failed
+Meta:  good path phase, visibility needs clock-OFF  →  render OK; flow-register leg failed
+Same layer break; different register — predicted by role split, not by QEC numerics.
+```
 
 | Claim | Source | MGR-owned signature | Fails if |
 |---|---|---|---|
@@ -110,6 +187,7 @@ Full prose: `diagnostic-ledger.md` §4–§14. Compact:
 | Predictive closure | A4 §5–6 | Open cell → closure or projection → class/cliff/correlation | Residual tracks wrong projection under preregistered factorial |
 | Mid-circuit / latency | A4, ledger §14.1 | Commit cliff when τ_dec/τ_cycle → 1 | — (engineering contact) |
 | Metrology mirror | A4 §6 | Decode policy vs commit (e.g. M=1 → SQL class) | HL scaling without commit leg |
+| Zych clock interferometry + clock-OFF | ledger §14.3.1; A0 §14 | Render (φ) held; vary flow-register (H_int / t⊥); V vs Δτ/t⊥ | V drops with clock-OFF at fixed φ; or V tracks φ only with clock ON (proper-time witness collapses) |
 
 Published experiment map: `diagnostic-ledger.md` §14.
 
@@ -128,6 +206,6 @@ Do not treat workbench outputs as witness for PB or core grammar without promoti
 
 ## Maintenance
 
-When adding a claim: state **grade**, **owned**, **imported**, **could-fail**, **source file**. If a row duplicates the ledger, the ledger row wins for lane detail; this file wins for **at-a-glance status**.
+When adding a claim: state **grade**, **owned**, **imported**, **could-fail**, **discount** (if lineage-witness), **source file**. If a row duplicates the ledger, the ledger row wins for lane detail; this file wins for **at-a-glance status**.
 
 Last aligned with corpus: June 2026 (A0 through §19, A4 §9, diagnostic-ledger §15).

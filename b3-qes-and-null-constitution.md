@@ -1,7 +1,7 @@
 # B3 — QES and Null Constitution
 
 Status: working proof/contact note.  
-Grade: diagnostic-witness for GB-3 / no-null-constitution; quantitative null stated; magnitude QG-priced, framework-disowned.
+Grade: lineage-witness for GB-3 / no-null-constitution; magnitude QG-priced, framework-disowned.
 
 This note pulls the QES/island-formula contact out of `a2-gravity-information-adjacency.md`. It tests one narrow claim: whether the modern black-hole entropy calculation forces constituted information onto null horizon structure, or instead separates area/count/cut structure from fine-grained bulk/radiation degrees and flow-bearing uptake.
 
@@ -340,6 +340,7 @@ GB-2 yield:
 
 GB-3 yield:
   diagnostic-witness candidate for no-null-constitution
+  → superseded: lineage-witness (header); magnitude QG-owned; lineage clean
 ```
 
 ## 10. Grade

@@ -8,6 +8,17 @@ Out of scope: witness catalog, phenomenon runs, PB evidence/status accounting, n
 
 A0 states the theory's grammar and the bets that follow from that grammar. It also states the two foundation hinges that motivate the grammar: null causal propagation without proper-time flow, and acceleration as frame-transport through flow. It does not try to earn the theory's empirical weight.
 
+**Reader path (first visit):**
+
+```text
+Read:     §1–§4 (stance, seed, ladder, acceleration hinge)
+          §5–§10 (method, components, grammar, operations)
+          §15 (import rules), §17 (foundation bets)
+Skip:     [Later carve] blocks until a second pass
+Then:     A3 → A4 → diagnostic-ledger §4 → B-notes as needed
+Status:   README.md, CLAIMS.md
+```
+
 ---
 
 ## Abstract
@@ -291,6 +302,8 @@ specific tier must be earned before witness weight attaches
 ```
 
 The photon seed licenses **carrier influence** only. The **candidate influence floor** — phase-bearing relatedness with consequence-capacity — is a downstream carve where path / period / holonomy structure is exposed, not the default license for every use of `influence`.
+
+**Ladder shape (partial order, not a chain):** tiers are not a single total order. Kernel and carrier are siblings under relatedness; rendered and recorded sit on different axes (frame vs register); constitution is top only after uptake. Forbidden moves are **collapses** (§3.7), not “skip one rung.”
 
 ### 3.8 QFT guardrails as role-separation probes
 
@@ -1124,6 +1137,8 @@ likely distinct sub-cells; named, not resolved.
 ```
 
 A0 does not answer this. It names the seam.
+
+Contact (engine-eligible): **Zych–Brukner clock interferometry + clock-OFF** — A0 §14 flow-rate sub-cell; preregistered factorial in `diagnostic-ledger.md` §14.3.1 (render φ held, flow-register varied).
 
 ---
 

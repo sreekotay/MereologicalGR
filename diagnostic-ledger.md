@@ -168,7 +168,8 @@ unless the document has separately earned that stronger status.
 | D8 | Virtual exchange / microcausality | null guard / route diagnostic | QFT propagators plus microcausality of observables | influence-kernel without carrier-flow; no constituted virtual-carrier information | endpoint observables respect microcausality; no virtual-carrier information term | virtual exchange requires carrier-like flow-bearing information propagation |
 | D9 | Torsion / spin-current compact objects | archived sensitivity lane | GR + EOS + rotation + magnetic/crust/thermal modeling | independent spin/current retained -> torsion equation -> contortion -> observable shift or bound | nonzero only if spin/current survives as independent source; scale should track spin/current, not mass-energy alone | residual fully absorbed by ordinary matter/EOS modeling; no independent spin-current torsion burden; or role-level forced-empty proof |
 | D10 | RFI-QKD / reference-frame-independent communication | record-vs-constitution discriminator + null guard | QKD secure under unaligned/drifting transverse frames; key in a stable basis; security from rotation-invariant correlators | transverse frame-independence = rendering/transport robustness; key constituted at detector uptake against a retained shared stable axis/clock | frame-invariant correlator is pre-uptake record, not constituted key; a shared stable axis/timing is still present | constituted, usable key produced with no flow-bearing uptake and no shared stable reference anywhere in the chain (structurally unavailable in RFI-QKD; confirmation/misread lane) |
-| D11 | Quantum reference frames / relational facts | engine-eligible test + formal discriminator (PB-4 exposure) | QRF transformations; coherent/superposed reference frames; relational-QM and QRF Wigner's-friend "observer-relative facts" | quantum frame = superposed rendering/transport map, write-not-read; constitution = flow-bearing irreversible write at threshold, not frame-choice | frame/observer-relativity rides the coherent/reversible (un-constituted) regime only; committed flow-bearing records agree at fixed write-chain | frame/observer-relativity of a genuinely constituted (irreversible, flow-bearing, threshold-crossed) record with the physical write-chain held fixed |
+| D11 | Quantum reference frames / relational facts | engine-eligible test + formal discriminator (PB-4 exposure) | QRF transformations; coherent/superposed reference frames; relational-QM and QRF Wigner's-friend "observer-relative facts" | quantum frame = superposed rendering/transport map, write-not-read; constitution = flow-bearing irreversible write at **pinned threshold T**, not frame-choice | frame/observer-relativity rides the coherent/reversible (un-constituted) regime only; committed flow-bearing records agree at fixed write-chain **and fixed T** | frame/observer-relativity of a genuinely constituted (irreversible, flow-bearing, **T-crossed**) record with physical write-chain **and T** held fixed; or **T** slid post hoc to rescue constitution |
+| D12 | Ordering/influence bound (PB-1/2) | **parked architecture bet** | null sector m/s with τ→0; c on flow/adjacency axis | ordering/influence seam carries bound structure; interior = influence per ordering-resource | none wired | axis unbounded where decomposition exposes it; ratio per-adjacency only; no bound/realized split (A0 §16–§17, A1 §7) |
 
 ---
 
@@ -380,21 +381,22 @@ the program's strong claim is that facts are frame/observer-relative
 
 PB-4 takes a falsifiable side; audit the regime the relativity lives in:
   coherent/reversible register               -> rendering / record-readiness (not constituted)
-  irreversible flow-bearing write at threshold -> constitution
+  irreversible flow-bearing write at pinned threshold T -> constitution
 
 prohibition (exclusivity):
   observer/frame-relativity always rides the coherent/reversible regime;
-  no relativity of a threshold-crossed, flow-bearing, committed record
-  at fixed physical write-chain.
+  no relativity of a T-crossed, flow-bearing, committed record
+  at fixed physical write-chain **and fixed T** (T declared before contact).
 
 confirm (smooth, non-trivial):
   the relativity always resolves to pre-uptake rendering;
-  committed records agree once write-chains are pinned
+  committed records agree once write-chains **and T** are pinned
   -> MGR adjudicates the Brukner/Rovelli dispute from its side.
 
 break (jagged):
-  a constituted (irreversible, flow-bearing, threshold-crossed) fact that is
-  frame/observer-relative with the physical write-chain held fixed
+  a constituted (irreversible, flow-bearing, T-crossed) fact that is
+  frame/observer-relative with the physical write-chain **and T** held fixed;
+  or constitution rescued by sliding **T** without uptake/threshold-rule change
   -> PB-4 lost in the open.
 ```
 
@@ -604,10 +606,10 @@ D11 operational rows:
 
 ```text
 R1  coherent / reversible regime        → rendering / record-readiness only
-R2  irreversible write at threshold     → constitution
-R3  frame varies, write-chain fixed     → MGR: committed outcomes agree
-R4  write-chain varies, frame fixed      → outcomes may disagree
-R5  break (PB-4 lost)                    → constituted fact frame-relative at fixed write-chain
+R2  irreversible write at pinned threshold T  → constitution
+R3  frame varies, write-chain + T fixed       → MGR: committed outcomes agree
+R4  write-chain varies, frame + T fixed       → outcomes may disagree
+R5  break (PB-4 lost)                         → constituted fact frame-relative at fixed write-chain **and fixed T**
 ```
 
 | Publication | D11 row | What was varied | MGR read |
@@ -619,7 +621,7 @@ R5  break (PB-4 lost)                    → constituted fact frame-relative at 
 | PRA 2021 — quantum time dilation in atomic spectra | **R1** | Superposed velocities → spectral line shape | Pre-write **render** correction; not irreversible register |
 | RFI-QKD / transverse-frame QKD literature (D10) | **R1 vs R2** | Frame-invariant correlators vs key extraction | Key at **uptake**; correlator is **record** (D10 row) |
 
-**Not yet published as D11 factorial:** preregistered (a) frame rotation / superposed frame with **fixed** detector POVM + irreversible readout timing vs (b) varied write-chain with fixed frame label.
+**Not yet published as D11 factorial:** preregistered (a) frame rotation / superposed frame with **fixed** detector POVM + irreversible readout timing **and pinned T** vs (b) varied write-chain with fixed frame label **and fixed T**.
 
 **Ledger note:** Friend experiments test **observer-independent facts**, not the same protocol as D11 R3/R4 — but they **stress PB-4**: if “fact” includes pre-write branch-relative reports, MGR must demote them to **R1 misread**, not **R2 constitution**.
 
@@ -641,11 +643,61 @@ Maps to **D1** (accelerated response routing), **D6/D7** null guards, A2 handles
 
 ---
 
+### 14.3.1 Zych clock interferometry + clock-OFF (A0 §14 flow-rate sub-cell)
+
+Engine move: hold trajectory / rendering phase φ; **vary whether the internal flow-register is active** (H_int, t⊥). Separability of render vs flow-register is the test.
+
+**Layer map:**
+
+```text
+path superposition + φ     →  rendering / trajectory
+Δτ difference per arm        →  flow (proper-time accrual)
+H_int evolution              →  flow-register (clock projection active)
+path–internal entanglement   →  recorded / which-path readiness (pre-uptake)
+visibility V                 →  diagnostic of accessible path info from register
+```
+
+**Clock-OFF (convention C — declare before contact):** same geometry, same Φ, same φ; internal evolution disabled or t⊥ → ∞ (single internal state throughout — Bragg-like matter wave without ticking leg).
+
+**Clock-ON:** Zych default — H_int active; distinguishability ∝ Δτ/t⊥; V modulates.
+
+| Publication | Register | What moved | Factorial clean? | MGR read |
+|---|---|---|---|---|
+| Zych, Brukner et al., *Nat Commun* 2011 — gravitationally induced decoherence | **flow-register** | Δτ vs t⊥; V vs phase φ | **Theory** — clock-OFF preregistered, not yet clean lab factorial | **Render vs flow-register split** — visibility channel prices proper time, not φ alone |
+| Zych et al. 2012 — photonic arrival-time variant | **rendering/timing** | Path timing at detector | Partial | Contrast: null-line timing record, not massive internal flow-register |
+
+**MGR predictions (role level, geometry fixed):**
+
+```text
+Clock-OFF:  V → full contrast (D → 0); φ unchanged
+            → visibility loss carried by flow-register, not path phase alone
+
+Clock-ON:   V modulates with Δτ/t⊥
+            → proper-time register is the which-path channel
+```
+
+**Could-fail:**
+
+```text
+V still drops with Clock-OFF after φ accounted for
+  → render ≠ flow-register not separable in this regime
+
+V tracks only total phase, not Δτ/t⊥, with clock nominally ON
+  → proper-time witness collapses to AB phase story
+```
+
+**Caveats:** supported particle (forced/adjacency lab structure) ≠ Δτ witness; mixed internal states (V²+D²≤1) require pure clock-OFF control; not free-fall by default.
+
+**Cross-link:** same engine pattern as A4 §6 (good syndromes/dead memory ↔ good φ/clock-OFF); CLAIMS engine block.
+
+---
+
 ### 14.4 Crosswalk — three engine proposals × ledger
 
 | Proposal | Primary ledger | Best existing paper | Gap |
 |---|---|---|---|
-| #1 Clock render-aware steering | D1 + D6/D7; A2 handles | Skytree / Chou redshift | **A/B steering factorial** |
+| #1 Clock render vs flow-register | D6/D7; A0 §14; §14.3.1 | Zych 2011 (theory); Chou/Skytree (render only) | **clock-OFF factorial** at fixed φ |
+| #1b Clock render-aware steering | D1 + D6/D7; A2 handles | Skytree / Chou redshift | **A/B steering factorial** |
 | #2 QEC decode vs commit | A4; D4 seam (QD analog) | Google Willow 2024; Quantinuum mid-circuit QEC | **2×2 decoder × latency** on same stream |
 | #3 QRF write vs frame | D11; PB-4 | Proietti 2019 (tension, not confirm) | **R3/R4 factorial** with pinned write-chain |
 

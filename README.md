@@ -16,7 +16,7 @@ This is a foundations workbench.
 
 Claims are graded.
 Some bets are expected to fail or demote.
-Retrodiction requires role-route fixed before landing.
+Retrodiction is the necessary mode when role-route is fixed before landing.
 
 Prediction means role-route, forbidden residual, scaling class, layer split,
 or measurement dependency — not always a new scalar.
@@ -44,22 +44,32 @@ GR is held fixed. The work **audits** which roles successful formalisms bundle (
 
 ---
 
-## Glossary (six terms)
+## Glossary (core terms)
 
 | Term | MGR meaning | Not meant |
 |---|---|---|
+| **ordering** | Causal / light-cone structure (imported from GR) | MGR novelty claim — see [CLAIMS § Prior art](CLAIMS.md#prior-art-gr-geometry-vs-mgr-carve) |
 | **influence** | Consequence-capable relatedness; tiered (A0 §3) | One substance; not always “information” |
-| **flow** | Proper-time accrual along a timelike worldline | Generic “time” or velocity |
+| **flow** | Proper-time accrual along a timelike worldline | Generic “time” or velocity; ADM lapse alone |
+| **adjacency** | Spatial extension / metric on slices (imported from GR) | **No photon-style strip corner yet** — parked audit, not a foundation exhibit |
 | **information** | Ordered influence **taken up in flow** at application threshold | Any correlation, record, or Shannon bit |
 | **rendering** | Content through frame / worldline | Measurement, constitution |
-| **constitution** | Completed uptake / write at threshold | State functional, redundancy, MI plateau |
+| **constitution** | Completed uptake / write at **pinned threshold T** | State functional, redundancy, MI plateau |
 | **gravity** | Imported transport grammar (ordering + influence + energy-momentum) | Information, or proper acceleration alone |
+| **seam** | Where GR is silent and another closure (QFT, thermo) fills the role gap | A physical boundary or new field |
+| **write-chain** | Physical uptake path (detector, POVM, irreversible register) | Observer label or frame choice alone |
+| **lane** | Diagnostic contact row (D1–D12): where grammar meets existing work | A prediction or new dynamics |
+| **null guard** | Forbidden residual test (ε = 0 class); semantic/content must not add extra physics | Any negative result |
+
+**Prior art:** ordering, flow, and adjacency align with standard causal-structure / ADM decomposition. MGR’s contested carve is **influence separable from ordering** and **constitution machinery** — [CLAIMS.md](CLAIMS.md#prior-art-gr-geometry-vs-mgr-carve).
 
 ---
 
 ## Retrodiction
 
-Contact notes land on known guardrails. The role carve must predate the contact (A0 §7). The photon seed (m/s with τ → 0 internal) is lineage-clean before any phenomenon note.
+Foundations fused by axiom-to-fit can only be unfused by **re-reading the fit** — retrodictive contact is the **necessary mode**, not a liability the lineage rule rescues. **Chronology is not the criterion; lineage is** (A0 §7): the role carve must predate the contact.
+
+Success = prior role-carve + clean missing/extra + stated could-have-failed — not novelty alone. The photon seed (m/s with τ → 0 internal) is lineage-clean before any phenomenon note.
 
 Chain: [CLAIMS.md § Retrodiction lineage](CLAIMS.md#retrodiction-lineage).
 

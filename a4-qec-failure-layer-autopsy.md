@@ -252,6 +252,8 @@ leakage syndrome         ↔  herald / pass-index expansion
 offline decode sold as memory  ↔  Fisher bound sold as closed-loop precision
 ```
 
+**Named transfer (grammar, not coefficient):** QEC — good syndromes with dead memory (record OK, commit leg failed) ↔ metrology — good path phase with clock-OFF (render OK, flow-register leg failed). Same layer break; different register (A4 §6; CLAIMS engine block).
+
 Mid-circuit QEC is one register instance of this mirror.
 
 ---
