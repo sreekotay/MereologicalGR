@@ -1622,3 +1622,5 @@ Discipline:
 ```
 
 A0 is the foundation ledger. It does not prove MGR; it states how MGR proves, fails, narrows, imports, calibrates, parks, or prices claims.
+
+MGR is a role audit of GR. Bear in mind, therefore, even compositions that may appear as inert relabels over GR become live the moment the same roles meets QFT and/or thermodynamics' closure of those roles.
