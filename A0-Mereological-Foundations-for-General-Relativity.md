@@ -70,7 +70,7 @@ The torsion-free GR sector is the in-house example. Levi-Civita transport closes
 
 MGR is most instructive at degenerate corners: where one role is stripped or a closure cell is forced empty, bundled bulk language fails first and role audit becomes possible. This is why MGR reads prohibitive from the center and constructive from the corners.
 
-A note on rigor: A0 resists defining structural identities, or promoting compositions toward identity claims, until the audit has produced enough role, dependency, and missing/extra information to justify the move.
+A note on rigor: A0 resists defining structural identities, or promoting compositions toward identity claims, until the audit has produced enough role, dependency, and missing/extra information to justify the move. The prime method reduces to this: if we accept a possible interpretation of roles, what else MUST be true? If nothing, it's merely a relabel.
 
 ---
 
