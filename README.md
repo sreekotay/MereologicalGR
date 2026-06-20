@@ -67,11 +67,15 @@ The work audits roles such as ordering, influence, flow, rendering, uptake, and 
 
 ---
 
-## Retrodiction
+## Retrodiction and confirmation
 
 Foundations fused by axiom-to-fit can only be unfused by **re-reading the fit**. Retrodictive contact is required audit work here. **Chronology is not evidence; lineage is the criterion**: the role carve must predate the contact.
 
 Success = prior role-carve + clean missing/extra + stated could-have-failed — not novelty alone. The photon seed (m/s with τ → 0 internal) is lineage-clean before any phenomenon note.
+
+Only GR is held fixed. Other closures, including QFT and thermodynamics, can inform contact outcomes, but they do not proscribe the GR-first grammar. A false contact tells MGR where not to bet and where to bet next; an unknown contact forces sharper bets in that direction. Re-audit is triggered by missing/extra, failed route, or stated could-fail condition — not by external authority.
+
+Correlated retrodictive passes across contacts sharing a held-GR variable do not aggregate to convergence; they aggregate to a sharper bet, and the weight lands only at the contact where the shared variable is forced to dissociate.
 
 Claim status: [CLAIMS.md](CLAIMS.md).
 
