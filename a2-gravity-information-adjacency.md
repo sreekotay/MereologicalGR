@@ -324,7 +324,7 @@ Demotion: treating a = 0 as absence of gravity, or identifying gravity with prop
 
 This gives A2 computational room without changing its scope. Redshift, geodesic deviation, acceleration response, Weyl tidal structure, and holonomy are all transport-side computations. Information constitution remains uptake/write-side.
 
-**Later carve — frame-transport is two faces of one operation, sorted by flow (the mass-split).** [Refinement layered over A2; §5/§6 stand on their own imported handles without it. The depth originates in A0 §3 (the boost-generator reading); A2 imports it, does not derive it. Grade: role-location, no new number — GR-owned facts reorganized.]
+**Later carve — frame-transport is two faces of one operation, sorted by flow (the mass-split).** [Refinement layered over A2; §5/§6 stand on their own imported handles without it. The depth originates in A0 §4 (the boost-generator reading); A2 imports it, does not derive it. Grade: role-location, no new number — GR-owned facts reorganized.]
 
 The §6 handles are not a flat list. The frame-transport ones sort into **two faces of one operation** — the single Levi-Civita connection ∇ applied to transport — divided by whether the transported thing carries flow:
 
@@ -341,7 +341,7 @@ forced face (flow-bearing only):
   null content locked out (no normalizable u)
 ```
 
-One operation, not two arenas: both faces are the same ∇-transport, sorted by the carrier. The sorting variable is **flow** (normalizable u); mass is only its marker (content with flow-capacity, not a gate). Rendering (`E = −p·u`) is a distinct operation, not part of this split: the photon **retains** rendering and the curvature face (it is rendered, and it bends), and is denied only the forced face. Inter-frame transport then touches the photon only through that face's eigenvalue — its rendering rescales by the boost factor (redshift; A0 §3).
+One operation, not two arenas: both faces are the same ∇-transport, sorted by the carrier. The sorting variable is **flow** (normalizable u); mass is only its marker (content with flow-capacity, not a gate). Rendering (`E = −p·u`) is a distinct operation, not part of this split: the photon **retains** rendering and the curvature face (it is rendered, and it bends), and is denied only the forced face. Inter-frame transport then touches the photon only through that face's eigenvalue — its rendering rescales by the boost factor (redshift; A0 §4).
 
 could-fail:
 

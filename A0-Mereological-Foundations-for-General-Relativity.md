@@ -486,7 +486,7 @@ geodesic structure — legible in tides, holonomy, and redshift even when proper
 
 Information completes on the uptake side. Gravity lives on the transport side. The bridge is not that gravity is information; it is that both share ordering + influence while diverging at transport versus uptake.
 
-**Later carve — the forced face is the inertial-frame generator, and the photon is its fixed ray.** [Refinement layered over this section; §3 stands on its own claims without it. Grade: clarifier / role-location, no new number — SR-owned facts located, the verb is *locates*, not *derives*.]
+**Later carve — the forced face is the inertial-frame generator, and the photon is its fixed ray.** [Refinement layered over this section; §4 stands on its own claims without it. Grade: clarifier / role-location, no new number — SR-owned facts located, the verb is *locates*, not *derives*.]
 
 Proper acceleration is not only "massive-only." Integrated, it is the **boost** — the generator of inertial-frame change. Velocity relates two inertial descriptions; the forced face is the operation that moves between them.
 
@@ -1093,7 +1093,7 @@ Does frame-transport remain reducible to frame + flow + connection / covariant t
 when the transported basis is quantum?
 ```
 
-**Later carve — the mass/flow handle on the quantum-basis cell.** [Refinement layered over §13; the section stands as a named seam without it. Grade: sharpen-not-fill — it sharpens the open cell, does not resolve it.] The forced face is flow-bearing only (§3; A2 §5). So the load-bearing quantum frame-basis is **not** photonic — a photon basis is render-only, with nothing on the forced side to quantize — but a **superposed flow-bearing (massive) basis**, where both faces live and both go coherent at once. That is where rendering and forced-transport could fail to reduce *together*; whether they fail together or separately is itself a test of whether the flow-sort survives once the basis is quantum.
+**Later carve — the mass/flow handle on the quantum-basis cell.** [Refinement layered over §13; the section stands as a named seam without it. Grade: sharpen-not-fill — it sharpens the open cell, does not resolve it.] The forced face is flow-bearing only (§4; A2 §5). So the load-bearing quantum frame-basis is **not** photonic — a photon basis is render-only, with nothing on the forced side to quantize — but a **superposed flow-bearing (massive) basis**, where both faces live and both go coherent at once. That is where rendering and forced-transport could fail to reduce *together*; whether they fail together or separately is itself a test of whether the flow-sort survives once the basis is quantum.
 
 ```text
 photonic basis:
@@ -1232,7 +1232,7 @@ Promote nothing to peer-role unless compose / missing / extra forces it.
 The over-unfusing guard has a dual, equally load-bearing and — until stated here — unnamed. The opposite error is to read a **shared dependency as an identity**: because two roles both require a third, to treat them as one role, one gate, one operation.
 
 ```text
-guarded by §15:
+guarded by §16:
   promoting every seam to a peer role
   (over-unfusing)
 
@@ -1283,15 +1283,15 @@ Relation to the other instruments:
 §4  compose / missing / extra:
   does a proposed composition determine the whole?
 
-§15 anti-over-unfusing:
+§16 anti-over-unfusing:
   is a named seam actually a peer role?
 
-§15 companion (separability):
+§16 companion (separability):
   is a claimed fusion one role,
   or two roles sharing a dependency?
 ```
 
-Grade: method / auditability. It earns nothing on its own; it makes the corner-strip move explicit so fusion claims are checked rather than assumed. The seed (§2) is its founding instance, and the corner-strip is the instrument the whole foundation is built by.
+Grade: method / auditability. It earns nothing on its own; it makes the corner-strip move explicit so fusion claims are checked rather than assumed. The seed (§2) is its founding instance, and the corner-strip is the instrument the whole foundation is built by. Engine-side degenerate corners (a4-qec-failure-layer-autopsy.md §5.2) run the same strip-one-cell move on closed-loop registers.
 
 ---
 
