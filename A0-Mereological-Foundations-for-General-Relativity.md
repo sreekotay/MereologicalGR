@@ -1142,7 +1142,7 @@ likely distinct sub-cells; named, not resolved.
 
 A0 does not answer this. It names the seam.
 
-Contact (engine-eligible): **Zych–Brukner clock interferometry + clock-OFF** — A0 §14 flow-rate sub-cell; preregistered factorial in `diagnostic-ledger.md` §14.3.1 (render φ held, flow-register varied).
+Contact (engine-eligible): **Zych–Brukner clock interferometry + clock-OFF** — A0 §14 flow-rate sub-cell; full run in `b8-zych-clock-interferometry-and-flow-register.md`; ledger §14.3.1.
 
 ---
 

@@ -645,6 +645,8 @@ Maps to **D1** (accelerated response routing), **D6/D7** null guards, A2 handles
 
 ### 14.3.1 Zych clock interferometry + clock-OFF (A0 §14 flow-rate sub-cell)
 
+Full contact run: **`b8-zych-clock-interferometry-and-flow-register.md`**.
+
 Engine move: hold trajectory / rendering phase φ; **vary whether the internal flow-register is active** (H_int, t⊥). Separability of render vs flow-register is the test.
 
 **Layer map:**
@@ -663,7 +665,7 @@ visibility V                 →  diagnostic of accessible path info from regist
 
 | Publication | Register | What moved | Factorial clean? | MGR read |
 |---|---|---|---|---|
-| Zych, Brukner et al., *Nat Commun* 2011 — gravitationally induced decoherence | **flow-register** | Δτ vs t⊥; V vs phase φ | **Theory** — clock-OFF preregistered, not yet clean lab factorial | **Render vs flow-register split** — visibility channel prices proper time, not φ alone |
+| Zych, Brukner et al., *Nat Commun* 2011 — gravitationally induced decoherence | **flow-register** | Δτ vs t⊥; V vs phase φ | **Theory** — B8 run; clock-OFF preregistered; lab factorial open | **Render vs flow-register split** — V prices proper time, not φ alone |
 | Zych et al. 2012 — photonic arrival-time variant | **rendering/timing** | Path timing at detector | Partial | Contrast: null-line timing record, not massive internal flow-register |
 
 **MGR predictions (role level, geometry fixed):**
@@ -688,6 +690,24 @@ V tracks only total phase, not Δτ/t⊥, with clock nominally ON
 
 **Caveats:** supported particle (forced/adjacency lab structure) ≠ Δτ witness; mixed internal states (V²+D²≤1) require pure clock-OFF control; not free-fall by default.
 
+**Experimental data (June 2026 audit — B8 §8):**
+
+```text
+Zych V(∆τ/t⊥):     NOT MEASURED  (Zych Table 1: "Not tested")
+Clock-OFF factorial: NO DATA
+Render leg (φ):      YES — COW, atom fountains, Kasevich 2022 grav. AB, clock redshifts
+```
+
+| Publication | Measured | Zych V? | MGR leg |
+|---|---|---|---|
+| COW (1975) | Gravitational phase | No | render |
+| Chou et al. (2010) | Clock redshift | No | render |
+| Overstreet et al., *Science* 2022 | Grav. AB **phase** (25 cm AI) | **No** | render — not internal-clock contrast |
+| Zych 2011 | Theory + σ_τ **bounds** from prior AI | **Not tested** | flow-register (target) |
+| Atom AI (general) | Contrast often reported | No | technical decoherence ≠ proper-time witness |
+
+Bounds on σ_τ from phase experiments are **not** a detection of V drop. Full ON/OFF factorial **open**.
+
 **Cross-link:** same engine pattern as A4 §6 (good syndromes/dead memory ↔ good φ/clock-OFF); CLAIMS engine block.
 
 ---
@@ -696,7 +716,7 @@ V tracks only total phase, not Δτ/t⊥, with clock nominally ON
 
 | Proposal | Primary ledger | Best existing paper | Gap |
 |---|---|---|---|
-| #1 Clock render vs flow-register | D6/D7; A0 §14; §14.3.1 | Zych 2011 (theory); Chou/Skytree (render only) | **clock-OFF factorial** at fixed φ |
+| #1 Clock render vs flow-register | D6/D7; A0 §14; §14.3.1 | **Theory:** Zych 2011. **φ data:** Overstreet *Science* 2022; Chou redshift | **Zych V not measured**; **clock-OFF factorial** open |
 | #1b Clock render-aware steering | D1 + D6/D7; A2 handles | Skytree / Chou redshift | **A/B steering factorial** |
 | #2 QEC decode vs commit | A4; D4 seam (QD analog) | Google Willow 2024; Quantinuum mid-circuit QEC | **2×2 decoder × latency** on same stream |
 | #3 QRF write vs frame | D11; PB-4 | Proietti 2019 (tension, not confirm) | **R3/R4 factorial** with pinned write-chain |

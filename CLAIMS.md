@@ -187,7 +187,7 @@ Same layer break; different register — predicted by role split, not by QEC num
 | Predictive closure | A4 §5–6 | Open cell → closure or projection → class/cliff/correlation | Residual tracks wrong projection under preregistered factorial |
 | Mid-circuit / latency | A4, ledger §14.1 | Commit cliff when τ_dec/τ_cycle → 1 | — (engineering contact) |
 | Metrology mirror | A4 §6 | Decode policy vs commit (e.g. M=1 → SQL class) | HL scaling without commit leg |
-| Zych clock interferometry + clock-OFF | ledger §14.3.1; A0 §14 | Render (φ) held; vary flow-register (H_int / t⊥); V vs Δτ/t⊥ | V drops with clock-OFF at fixed φ; or V tracks φ only with clock ON (proper-time witness collapses) |
+| Zych clock interferometry + clock-OFF | B8; ledger §14.3.1; A0 §14 | ON/OFF factorial at fixed φ; **lab open** (no V data; render-leg only: COW, grav. AB 2022) | V drops with clock-OFF at fixed φ; or V tracks φ only with clock ON |
 
 Published experiment map: `diagnostic-ledger.md` §14.
 
@@ -208,4 +208,4 @@ Do not treat workbench outputs as witness for PB or core grammar without promoti
 
 When adding a claim: state **grade**, **owned**, **imported**, **could-fail**, **discount** (if lineage-witness), **source file**. If a row duplicates the ledger, the ledger row wins for lane detail; this file wins for **at-a-glance status**.
 
-Last aligned with corpus: June 2026 (A0 through §19, A4 §9, diagnostic-ledger §15).
+Last aligned with corpus: June 2026 (A0 through §19, A4 §9, B8, diagnostic-ledger §15).

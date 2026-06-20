@@ -37,7 +37,7 @@ GR is held fixed. The work **audits** which roles successful formalisms bundle (
 |---|---|---|
 | **Root** | `A0-…md` | Grammar, influence ladder, hinges, composition, PB bets, ownership rules |
 | **Applications (A)** | `a1` … `a4` | Photon seed run, gravity adjacency, record vs constitution, QEC engine autopsy |
-| **Phenomena (B)** | `b1`–`b7` (canonical: `b4`–`b7`) | Role-location for horizons, Unruh, virtual exchange, etc. — not new dynamics |
+| **Phenomena (B)** | `b1`–`b8` (canonical: `b4`–`b7`; engine: `b8`) | Role-location for horizons, Unruh, virtual exchange, Zych flow-register, etc. — not new dynamics |
 | **Diagnostics** | `diagnostic-ledger.md`, `contrast-diagnostic-program.md` | Contact lanes, null guards, demotion conditions |
 | **Workbench / archive** | `archive/`, `workbench/`, `data/` | Provisional numerics — **not canonical center** |
 
@@ -81,7 +81,7 @@ Chain: [CLAIMS.md § Retrodiction lineage](CLAIMS.md#retrodiction-lineage).
 ## Layout
 
 ```text
-A0, a1-a4, b1-b7          argument + application notes
+A0, a1-a4, b1-b8          argument + application notes
 diagnostic-ledger.md      lane index (§4)
 contrast-diagnostic-program.md
 archive/b5-torsion-*      sensitivity workbench only (D9)
