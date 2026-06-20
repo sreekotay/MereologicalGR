@@ -70,7 +70,7 @@ The torsion-free GR sector is the in-house example. Levi-Civita transport closes
 
 MGR is most instructive at degenerate corners: where one role is stripped or a closure cell is forced empty, bundled bulk language fails first and role audit becomes possible. This is why MGR reads prohibitive from the center and constructive from the corners.
 
-A note on rigor, and the prime method in one line: accept a candidate interpretation of the roles and ask what else must be true. A surviving MUST is a forced consequence the closing formalism could refuse — that is structure, and the proscription or projection it names is the work. If nothing must follow, the interpretation changed no commitment anywhere, and it is merely a relabel. A0 resists defining structural identities, or promoting compositions toward identity, until the audit has produced enough role, dependency, and missing/extra information that the must is precice enough to be real and falsifiable rather than a compatibility one is relieved to find.
+A note on rigor, and the prime method in one line: accept a candidate interpretation of the roles and ask what else must be true. A surviving MUST is a forced consequence the closing formalism could refuse — that is structure, and the proscription or projection it names is the work. If nothing must follow, the interpretation changed no commitment anywhere, and it is merely a relabel. A0 resists defining structural identities, or promoting compositions toward identity, until the audit has produced enough role, dependency, and missing/extra information that the must is precise enough to be real and falsifiable rather than a compatibility one is relieved to find.
 
 ---
 
