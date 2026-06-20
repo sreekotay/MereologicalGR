@@ -10,13 +10,16 @@ Status: **[CLAIMS.md](CLAIMS.md)** — grades, owned vs imported, failure condit
 ## What this repository is
 
 ```text
+MGR audits the role-composition inside GR’s successful description. It does not refute GR, replace GR, or explain more than GR; it asks what GR’s compressed formal description is permitted to leave bundled.
+
 This is not a completed theory.
 This is not a replacement for GR/QFT.
 This is a foundations workbench.
 
 Claims are graded.
 Some bets are expected to fail or demote.
-Retrodiction is the necessary mode when role-route is fixed before landing.
+
+Retrodiction is the necessary mode when role-route is fixed before landing, especially given descriptions, especially at the joint of GR to QFT and thermodynamics, often axiomize equations to fit observations.
 
 Prediction means role-route, forbidden residual, scaling class, layer split,
 or measurement dependency — not always a new scalar.
