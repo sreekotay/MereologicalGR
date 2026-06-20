@@ -22,6 +22,13 @@ Companion contrast file:
 contrast-diagnostic-program.md
 ```
 
+Public map and claim status:
+
+```text
+README.md
+CLAIMS.md
+```
+
 ---
 
 ## 1. Ledger discipline

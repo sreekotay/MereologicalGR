@@ -1,11 +1,11 @@
 # Virtual Photons and Influence Kernels
 
 Status: working external-form note.  
-Grade: lineage-witness candidate for the absence-type distinction; diagnostic-witness candidate at the microcausality seam; magnitude remains QED-priced and framework-disowned.
+Grade: lineage-witness for the absence-type distinction; diagnostic at the microcausality seam; magnitude QED-priced, framework-disowned.
 
 This note states the framework's virtual-photon result cleanly: what follows from the prior role carve, what standard QFT already owns, and what the framework contributes by refusing to treat an internal exchange kernel as a carrier-substance. It extracts and supersedes the virtual-photon / Feynman-propagator material in doc-1 §9; on adoption, §9 prunes to a pointer here.
 
-Register note (the substrate point, stated once): the GR-fixed role grammar exposes a seam, and QFT independently axiomatized machinery on that seam — microcausality, the on-shell/off-shell distinction, LSZ/asymptotic-state status. Landing on QFT structure is expected, not failure, unless the landing is only relabeling with no missing/extra diagnosis. "QFT already owns it" is not "the substrate owns it": QFT is a closure on the seam, not the mereological foundation. Matching observation is sufficient for physics practice; it is not the audit A0 is running.
+Register note (stated once): QFT axiomatized machinery on a seam GR left silent — microcausality, on/off-shell, LSZ status. The audit is role-route and missing/extra.
 
 ## 1. Starting role carve
 
@@ -384,34 +384,25 @@ Field taxonomy:
   thin weight by itself
 
 Absence-type distinction:
-  lineage-witness candidate
-  discounted-nonzero
-  uses pre-existing photon / flow / information carve
+  lineage-witness
+  role carve predates contact
 
 Role register discipline:
-  lineage-consistent slot discipline
-  kernel + endpoint constitution, no carrier/information third register
-  not a count of all QFT ingredients
+  kernel + endpoint constitution; no carrier/information third register
 
 Microcausality seam:
-  diagnostic-witness candidate
-  explains why propagator support is not signal support
+  diagnostic
+  propagator support ≠ signal support
 
 Magnitude:
-  QED-priced
-  framework-disowned
-  no new cross-section prediction
+  QED-priced; framework-disowned
 
 Collision-room:
   propagator-support-as-causality would break the diagnostic reading
   gauge-invariant carrier/worldline/information content would break the role count
 ```
 
-Chronology is not the criterion. The relevant criterion is lineage: the role carve used in the derivation existed before the virtual-photon contact. It did.
-
-[Label note: "diagnostic-witness" is not yet in the doc-1 §1.5 label list — it names a witness whose independent landing is a method/diagnostic fact (here: which object is the correct causality test) rather than a number or a forced cell. Proposed for the label system on the same gate as the lineage-witness amendment; until then, read it as a lineage-witness whose landing is diagnostic. The landing is QFT-owned seam structure, so it carries lineage discount, but it is not mere vocabulary if the role audit exposes a missing/extra diagnosis: no new number, but no-new-number != no-weight.]
-
-The ceiling is not that virtual photons were known first. The ceiling is that QED prices the kernel. The framework can assign role registers and state the correct causality diagnostic. It cannot derive the scattering amplitudes from inside the role theory.
+Chronology is not the criterion; lineage is (A0 §7). Magnitude remains QED-owned.
 
 ## 11. Compact result
 

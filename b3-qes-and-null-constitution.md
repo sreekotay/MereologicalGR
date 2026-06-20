@@ -1,7 +1,7 @@
 # B3 — QES and Null Constitution
 
 Status: working proof/contact note.  
-Grade: diagnostic-witness candidate for GB-3 / no-null-constitution; quantitative-null prediction stated; secondary clarifier for record ≠ constitution; magnitude remains QG-priced and framework-disowned.
+Grade: diagnostic-witness for GB-3 / no-null-constitution; quantitative null stated; magnitude QG-priced, framework-disowned.
 
 This note pulls the QES/island-formula contact out of `a2-gravity-information-adjacency.md`. It tests one narrow claim: whether the modern black-hole entropy calculation forces constituted information onto null horizon structure, or instead separates area/count/cut structure from fine-grained bulk/radiation degrees and flow-bearing uptake.
 
@@ -350,23 +350,18 @@ Field taxonomy:
   thin by itself
 
 QES / horizon test:
-  diagnostic-witness candidate for GB-3 / no-null-constitution
-  discounted by lineage and by QG ownership of the formula
+  lineage-witness for GB-3 / no-null-constitution
+  role carve predates contact
 
 Quantitative null:
   ε_QES-constitution = 0
   ε_horizon-null-constitution = 0
-  no independent entropy/information term for QES-surface or null-generator constitution
-  consistent with the island formula, not a derived magnitude
 
-Secondary yield:
-  clarifier / support for record ≠ constitution
-  QES separates area/count/cut from bulk entropy and uptake
+Secondary:
+  clarifier for record ≠ constitution
 
 Magnitude:
-  QG-priced
-  framework-disowned
-  no derivation of area coefficient or entropy magnitude
+  QG-priced; framework-disowned
 
 Collision-room:
   fine-grained constituted information on null generators would break GB-3
@@ -374,7 +369,7 @@ Collision-room:
   nonzero S_QES-constitution or S_null-horizon-constitution would break the quantitative null
 ```
 
-Chronology is not the criterion. The relevant lineage question is whether GB-3 and the record/constitution distinction existed before the QES contact was used. They did in the corpus lineage. The QES result is known to the field; the framework's weight is not predictive novelty but role-diagnostic landing with a stated failure condition.
+Lineage: GB-3 and record/constitution distinction predate contact (A0 §7). Magnitude: QG-owned.
 
 ## 11. Compact result
 

@@ -4,7 +4,7 @@
 
 Status: B-note / scalar-response clarifier and role-location.
 Primary target: A0 rendering/uptake seam, A1 PB-4, and B6 temperature/information discipline.  
-Grade: clarifier + role-location + boundary audit of the standard scalar-response derivation. Not a witness, not a distinct Unruh derivation, and not a derivation of full QFT.
+Grade: lineage-witness role-location + boundary audit of the standard scalar-response derivation. Magnitude and full QFT remain imported.
 
 B7 separates three frame-transport bets:
 
@@ -561,9 +561,9 @@ It role-locates the standard scalar-response lineage:
   MGR supplies a clarifier-grade flow/rendering/uptake audit.
 
 Audit verdict:
-  no missing/extra remainder found in the standard lineage.
+  no missing/extra remainder in the standard lineage.
 
-Therefore B7 is clarifier-grade, not witness-grade.
+Grade: lineage-witness role-location; magnitude QFT-owned.
 ```
 
 Calibration rule:

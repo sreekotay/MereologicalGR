@@ -51,7 +51,7 @@ A0 carries no witness weight. It is the map and method by which claims are forme
 
 ## Conceit
 
-The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. Influence enters the grammar as the consequence leg of cause; it is **not** one undifferentiated substance. The influence ladder (§3) grades bare relatedness, kernel, carrier, rendered, recorded, and constituted tiers so `consequence-capable relatedness` cannot stand in for earned structure. Frame-transport names the operation by which a physically carried or compared frame changes while **rendering** influence before uptake. The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Retrodiction is therefore not disqualifying by itself: the judgment rests on whether the derivation lineage is distinct from the later landing.
+The conceit stated simply: GR’s formalism bundles roles that may be mereologically distinct. This paper unfuses three of them — ordering, influence, and flow — and asks what follows if they are treated as separable constituents. Influence enters the grammar as the consequence leg of cause; it is **not** one undifferentiated substance. The influence ladder (§3) grades bare relatedness, kernel, carrier, rendered, recorded, and constituted tiers so `consequence-capable relatedness` cannot stand in for earned structure. Frame-transport names the operation by which a physically carried or compared frame changes while **rendering** influence before uptake. The claim is not that these roles complete GR, or replace its mathematics, but that they make explicit a structure GR leaves bundled, thereby making the theory less mereologically incomplete. Contact work is retrodictive: **lineage** (role-route fixed before landing), not chronology, is the criterion.
 
 Consider: a working physical theory and a mereologically complete account of what the theory is talking about are different objects. Physical practice often treats "the equations close and predict" as if it also meant "the roles are named and audited." GR's equations work precisely because they can bundle ordering, influence, flow, adjacency, and energy-momentum into the metric and the connection without ever separating them; predictive success removed the pressure to disambiguate. So the bundling is not a defect that hurt physics. It is easy to miss exactly because the theory succeeds. A0 therefore treats success and mereological legibility as independent axes.
 
@@ -633,6 +633,10 @@ witness:
   a projection lands where it could have failed;
   carries confirmatory weight
 
+lineage-witness:
+  known guardrail recovered under retrodictive contact;
+  role-route fixed before landing; missing/extra clean
+
 probe:
   bounds an interior term without reaching the boundary;
   carries bounding weight only
@@ -657,12 +661,16 @@ parked texture:
 Discipline:
 
 ```text
-Only witness confirms.
-Probe bounds.
-Clarifier keeps the map honest.
-Echo does not support.
-Failure is retained.
-Uniform success is a failure signal.
+Witness:           independent landing could have failed.
+Lineage-witness:   role-route under retrodictive contact; carve predates landing.
+Probe:             bounds an interior term.
+Clarifier:         de-conflates a known result; standard numbers unchanged.
+Echo:              does not support.
+Failure:           retained.
+Uniform success:   failure signal (layer split never stressed).
+
+Relabel without prior carve:  failure.
+Recovery with fixed route:   the method for axiom-to-fit foundations.
 ```
 
 ---

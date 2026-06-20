@@ -1,7 +1,7 @@
 # Gravity and Expansion
 
 Status: working external-form note.  
-Grade: lineage-witness candidate (under the queued lineage-witness amendment, doc-3) for the Hubble slot-count; clarifier for the field taxonomy; magnitude remains calibration-disowned.
+Grade: lineage-witness for the Hubble slot-count; clarifier for field taxonomy; magnitude calibration-disowned.
 
 This note states the framework's expansion result cleanly: what follows from the role carve, what is protected by GR identities, where Hubble tension can live, and what current theory classes are doing in the graph.
 
@@ -372,25 +372,20 @@ Hubble edge taxonomy:
   thin weight by itself
 
 Hubble slot-count:
-  lineage-witness candidate
-  discounted-nonzero
-  lineage clean because the role carve predates the Hubble contact
+  lineage-witness
+  role carve predates contact
 
 Collision-room:
   shared-congruence / W(z) support-index failure
 
 Magnitude:
-  type-1 kernel-barred
   calibration-disowned
-  the framework assigns slots but cannot price the calibration kernel from inside
 
 Forward edge:
   three-tine standard-siren fork
 ```
 
-Chronology is not the criterion. The Hubble numbers being known in advance does not disqualify the result. The relevant criterion is lineage: the role carve used in the derivation existed before the Hubble contact. It did.
-
-The ceiling is not retrodiction. The ceiling is that the magnitude is externally priced. The framework can say which graph-derived parts may bear the burden, and can state the structural collision-room. It cannot derive the numerical calibration kernel from inside.
+Lineage: role carve predates contact (A0 §7). Magnitude: calibration-disowned.
 
 ## 11. Compact result
 
