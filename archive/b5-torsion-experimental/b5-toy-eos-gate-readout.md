@@ -59,10 +59,10 @@ stiff/high-radius baseline
 negative torsion correction
 +
 weak-to-moderate BNS source factor
-→ promote
+→ advance
 ```
 
-The cleanest promoted cases are:
+The cleanest selected cases are:
 
 | baseline curve | `R_GR(2.1)` | `ΔR_high_source` | `BNS factor` | `R_J0740_after` | `R_BNS_after` | gate |
 |---|---:|---:|---:|---:|---:|---|
@@ -80,7 +80,7 @@ A high-radius/high-support baseline is not automatically dead
 if the torsion correction is negative and source-dependent.
 ```
 
-This is exactly the B5-looking lane:
+This is the B5-looking lane:
 
 ```text
 spin/current-rich high-mass object receives the stronger correction;
@@ -95,7 +95,7 @@ BNS proxy lands in range.
 
 The very-stiff baseline is mostly BNS-risk. But a few cases survive if the negative correction reaches the population enough to lower the BNS proxy.
 
-Promoted very-stiff cases:
+Selected very-stiff cases:
 
 | baseline curve | `R_GR(1.4)` | `R_GR(2.1)` | `ΔR_high_source` | `BNS factor` | `R_J0740_after` | `R_BNS_after` | gate |
 |---|---:|---:|---:|---:|---:|---:|---|
@@ -211,7 +211,7 @@ So the real source law matters:
 ΔR_torsion = F(spin/current, EOS, M, rotation, coupling convention)
 ```
 
-The framework-positive model cannot use arbitrary object-specific offsets. It must explain why the high-mass/high-source object receives one correction and the BNS/population proxy receives another.
+The ledger-positive model cannot use arbitrary object-specific offsets. It must explain why the high-mass/high-source object receives one correction and the BNS/population proxy receives another.
 
 ---
 
@@ -255,9 +255,9 @@ very-stiff baseline unless correction also repairs BNS radius
 
 ---
 
-## 7. Actual prediction after the toy gate
+## 7. Residual claim after the toy gate
 
-The prediction is now sharper:
+The residual claim is now sharper:
 
 ```text
 If B5 torsion is observationally live,

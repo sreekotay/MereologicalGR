@@ -3,11 +3,9 @@
 Status: working external-form note.  
 Grade: lineage-witness for the Hubble slot-count; clarifier for field taxonomy; magnitude calibration-disowned.
 
-This note states the framework's expansion result cleanly: what follows from the role carve, what is protected by GR identities, where Hubble tension can live, and what current theory classes are doing in the graph.
-
 ## 1. Starting role carve
 
-The derivation starts from the existing role decomposition:
+The contact starts from the existing role decomposition:
 
 ```text
 space       = ordering + adjacency
@@ -54,7 +52,7 @@ photons lose information in flight
 H contains a hidden information-loss term
 ```
 
-The framework therefore predicts a null — this is PB-3 / GB-3 (the parent docs' photon/null proscription) instanced to the cosmological register, not a fresh prediction:
+MGR therefore states a null guard — this is the PB-3 / GB-3 photon/null discipline instanced to the cosmological register, not a fresh prediction:
 
 ```text
 ε_info-propagation = 0
@@ -129,9 +127,9 @@ So the gap may trigger the audit, but the magnitude is not allowed to choose the
 
 ## 5. The Hubble slot-count
 
-This is the framework-distinctive result.
+This is the MGR-distinctive result.
 
-The field already has a burden taxonomy for the Hubble tension: early-ruler changes, distance-ladder systematics, local-structure or void explanations, late-time expansion changes, and modified dynamics. The framework should not claim to invent that list.
+The field already has a burden taxonomy for the Hubble tension: early-ruler changes, distance-ladder systematics, local-structure or void explanations, late-time expansion changes, and modified dynamics. MGR does not invent that list.
 
 Its contribution is the forced slot-count.
 
@@ -161,7 +159,7 @@ No information-loss-in-flight term.
 
 Flow is common. The clock does not create a third burden register unless the shared-congruence assumption itself fails.
 
-Naked-role read:
+Role-exposed read:
 
 ```text
 not exposed:
@@ -188,7 +186,7 @@ FRW shared flow
    or the shared-congruence assumption
 ```
 
-What the framework earns:
+What MGR earns:
 
 ```text
 slot count;
@@ -212,7 +210,7 @@ The two-slot count could have failed.
 
 Its collision-room is the shared-congruence assumption. If early and late measurements cannot be rendered against one common cosmic flow, then the two-slot count breaks and a third slot reopens.
 
-In doc-3 language, this is the support-index problem:
+This is the support-index problem:
 
 ```text
 W(z)
@@ -224,7 +222,7 @@ So the third slot is not information. It is failure of the comparison congruence
 
 ## 7. Numerical burden projection
 
-The framework does not compute a new `H0`. It assigns burden slots. External cosmology prices them.
+MGR does not compute a new `H0`. It assigns burden slots. External cosmology prices them.
 
 Representative external numbers:
 
@@ -325,7 +323,7 @@ Photon fatigue / opacity / information loss
   → graph-disfavored unless distance-duality, time-dilation, or photon-conservation tests independently fail
 ```
 
-The framework agrees with the field's broad taxonomy but does not merely relabel it. The field lists possible solution realms. The framework derives why the live burden must fall into two slots under shared FRW flow, and why photon/information fixes are not legitimate first burdens.
+MGR accepts the field's broad taxonomy and adds a forced slot-count. The field lists possible solution realms; the role graph says why the live burden falls into two slots under shared FRW flow, and why photon/information fixes are not legitimate first burdens.
 
 ## 9. Standard-siren fork
 
@@ -385,7 +383,7 @@ Forward edge:
   three-tine standard-siren fork
 ```
 
-Lineage: role carve predates contact (A0 §7). Magnitude: calibration-disowned.
+Lineage: role-route fixed before contact (A0 §11). Magnitude: calibration-disowned.
 
 ## 11. Compact result
 

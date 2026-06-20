@@ -22,7 +22,7 @@ QD diagnostics can measure record-readiness.
 They cannot locate constitution itself.
 ```
 
-This is not a criticism of QD. It is a boundary: QD is powerful record theory, not constitution theory.
+QD remains the record theory. A3 marks the boundary: record structure is not the same job as constitution.
 
 ---
 
@@ -222,7 +222,7 @@ This is the important correction: A3 does not claim QD lacks state criteria. It 
 
 ## 6. Trajectory monitor
 
-The ongoing bet is not whether one criterion improves on another. The bet is about where the residue goes.
+The ongoing bet is not whether criteria improve. It tracks where the residue goes as they improve.
 
 Discriminator:
 
@@ -259,7 +259,7 @@ Read:
 
 ```text
 relocation so far;
-not proof of a floor;
+not yet a floor;
 future zero-residue criterion would demote the bet.
 ```
 
@@ -342,14 +342,14 @@ Grade:
 ```text
 clarifier;
 not a new number;
-useful because it exposes the record/constitution seam in ordinary GR language.
+useful because it exposes the record/constitution split in ordinary GR language.
 ```
 
 ---
 
 ## 9. Ledger
 
-Derived / framework-owned:
+Derived / MGR-claimed:
 
 ```text
 1. QD diagnostics are state functionals.

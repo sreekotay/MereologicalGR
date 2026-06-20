@@ -6,11 +6,11 @@ Status: outward-facing diagnostic program, not a prediction program.
 Purpose: turn the framework into clean contrasts, role-route tests, null guards, and demotion conditions.  
 Grade: low-to-medium. This document does not claim new physics by itself; it says where existing machinery would stress or clarify the role map.
 
-The old title, `Contrast-Class Prediction Program`, overweighted the work. The current posture is:
+The current posture is:
 
 ```text
 not:
-  MGR predicts a new effect in every arena
+  MGR owns a new effect in every arena
 
 but:
   MGR says which role distinctions should survive controlled contrasts,
@@ -50,7 +50,7 @@ failure / demotion:
 Avoid:
 
 ```text
-prediction:
+ordinary prediction:
   epsilon = 0
 ```
 
@@ -135,10 +135,10 @@ response should price through worldline pullback + coupling + detector parameter
 no detector-independent constituted bath residual should remain.
 ```
 
-Framework read:
+Role read:
 
 ```text
-Unruh is not a proof of constituted information in flight.
+Unruh does not constitute information in flight.
 It is a worldline-indexed response rendering of phase-bearing relatedness.
 ```
 
@@ -232,7 +232,7 @@ Influence-kernel structure may be spatially extended or spacelike-looking.
 Constituted information should remain endpoint/observable/record constrained.
 ```
 
-Framework read:
+Role read:
 
 ```text
 influence without carrier-flow is allowed;
@@ -415,7 +415,7 @@ Demotion condition:
 ```text
 ordinary EOS, magnetic, crustal, thermal, rotation, or inference-prior effects
 absorb all apparent spin/current residuals;
-or a role-level argument forces the torsion cell empty.
+or a role-level argument shows that the torsion cell is empty.
 ```
 
 ---

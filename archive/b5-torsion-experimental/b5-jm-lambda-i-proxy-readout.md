@@ -136,7 +136,7 @@ rotation-induced torsion
 → lower moment of inertia
 ```
 
-The live prediction is now sharper:
+The live residual claim is now sharper:
 
 ```text
 If this torsion lane is real, its best observational footprint is not only a smaller radius.
@@ -146,7 +146,7 @@ with the suppression source-scaled by rotation/current.
 
 ---
 
-## 6. What still blocks final status
+## 6. What still blocks witness status
 
 Still missing:
 
@@ -161,13 +161,13 @@ Still missing:
 So the status upgrades only to:
 
 ```text
-candidate observational pipeline with proxy Λ/I support
+candidate observational-pipeline input with proxy Λ/I support
 ```
 
 not to:
 
 ```text
-validated prediction
+validated witness
 ```
 
 ---

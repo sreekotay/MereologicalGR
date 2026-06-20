@@ -2,11 +2,11 @@
 
 *Working draft, June 2026.*
 
-Status: B-note / temperature-role refinement.  
-Primary target: A0 frame-transport seam, A1 photon/influence floor, A3 uptake/write discipline, B4 horizon discipline, and B7 scalar-response ownership.  
+Status: B-note / temperature-role refinement.
+Primary target: A0 rendering/uptake seam, A1 photon/influence floor, A3 uptake/write discipline, B4 horizon discipline, and B7 scalar-response boundary.
 Boundary note: B6 keeps the temperature/information role distinction. The detailed scalar-response derivation belongs outside B6.
 
-Grade: role-reduction + calibration-aware machinery routing. Not a new QFT calculation.
+Grade: role-reduction + calibration-aware machinery routing. QFT is contact machinery here, not the source of the grammar.
 
 Core result:
 
@@ -46,16 +46,16 @@ Influence's layer matters:
 
 ```text
 influence = grammar-leg (consequence-capable relatedness);
-  this note's live tier = rendered influence (A0 §3.4)
+  this note's live tier = rendered influence (A0 §3)
 ```
 
-For the temperature/information split and PB-4a lesson, **rendered influence** (§3.4) is enough. Phase-bearing enters this note where the imported QFT route exposes it: Wightman/KMS structure and correlator periodicity (§2, §11.5). It is not required by the acceleration hinge itself (A0 §4).
+For the temperature/information split and PB-4a lesson, **rendered influence** (A0 §3) is enough. Phase-bearing enters this note where the imported QFT route exposes it: Wightman/KMS structure and correlator periodicity (§2, §11.5). It is not required by the acceleration / frame-transport split itself (A0 §4).
 
 Temperature can scale a response to such relatedness. It is not itself constituted information.
 
 ---
 
-## 1. Updated ownership split
+## 1. Updated Routing Split
 
 The current scalar-response boundary is:
 
@@ -80,18 +80,18 @@ Calibration may supply:
   threshold scales;
   empirically measured scalar values.
 
-QFT / quantum-state machinery still imports:
+QFT / quantum-state machinery supplies:
   vacuum / state selection;
   Wightman two-point sampling;
   KMS / detailed-balance thermal interpretation;
   detector transition probabilities.
 ```
 
-So B6 no longer says that QFT owns the bare `2pi` period in the scalar skeleton. The revised statement is:
+So B6 no longer routes the bare `2pi` period in the scalar skeleton through QFT state machinery. The revised statement is:
 
 ```text
 The 2pi period is GR/LC-owned at the scalar-skeleton level.
-The Wightman/KMS detector-response interpretation remains QFT-owned.
+The Wightman/KMS detector-response interpretation remains QFT-supplied.
 ```
 
 Calibration rule:
@@ -143,7 +143,7 @@ uniform acceleration
 → beta_tau = 2pi c/a
 ```
 
-QFT still owns the state and response machinery:
+QFT still supplies the state and response machinery:
 
 ```text
 Minkowski vacuum as state;
@@ -153,7 +153,7 @@ KMS/detailed balance as thermal response;
 transition-rate integral and detector model.
 ```
 
-Overread blocked:
+Guardrail:
 
 ```text
 The scalar pullback gives a response skeleton.
@@ -274,7 +274,7 @@ Method reading:
 
 ```text
 The handle is imported.
-The role-location is framework-owned if the separation is clean.
+The role-location is MGR-claimed if the separation is clean.
 The scalar or response value is computed by the imported formalism.
 A new MGR claim appears only where the role-route forces a missing/extra diagnosis.
 ```
@@ -400,7 +400,7 @@ CMB temperature is therefore not a one-place property of each photon-in-itself. 
 T(z) = T0(1+z)
 ```
 
-The naked-role computation is the congruence-rendering scale route:
+The role-exposed computation is the congruence-rendering scale route:
 
 ```text
 FRW radiation aggregate
@@ -442,14 +442,14 @@ CMB:
   content-selected rest frame / comoving congruence;
   mixed radiation distribution;
   temperature rendered by congruence;
-  naked role: congruence-rendered distribution temperature.
+  role-exposed: congruence-rendered distribution temperature.
 
 Unruh:
   no invariant real particle bath;
   accelerated worldline / Rindler access;
   vacuum correlations appear thermally in detector response;
   temperature rendered by flow-worldline;
-  naked role: flow / self-transport response rendering.
+  role-exposed: flow / self-transport response rendering.
 ```
 
 Shared machine:
@@ -500,7 +500,7 @@ Unruh:
 
 ## 8. Hawking contact
 
-Hawking is the horizon sibling, not support by slogan.
+Hawking is the horizon sibling, not a slogan.
 
 ```text
 Unruh:
@@ -523,7 +523,7 @@ restricted access + horizon / flow / frame-transport structure
 → possible exterior uptake/write
 ```
 
-Naked-role read:
+Role-exposed read:
 
 ```text
 not exposed:
@@ -560,11 +560,11 @@ still live:
 Calibration-aware statement:
 
 ```text
-framework owns role-location and scale-form only where forced;
+framework fixes role-location and scale-form only where forced;
 Hawking coefficients, greybody factors, species, and QG corrections are externally supplied or calibrated.
 ```
 
-B4 owns the horizon response skeleton. B6 owns the temperature role within that skeleton.
+B4 carries the horizon response skeleton. B6 carries the temperature role within that skeleton.
 
 ---
 
@@ -599,7 +599,7 @@ Diagnostic signals:
    2pi c DeltaE/(hbar a) should organize the response, with apparatus-specific rates layered on top.
 ```
 
-This remains B6-grade: machinery-routing, role-reduction, and calibration-aware scale discipline, not a new coefficient prediction.
+This remains B6-grade: machinery-routing, role-reduction, and calibration-aware scale discipline.
 
 ---
 
@@ -719,9 +719,9 @@ The Unruh case uses phase-bearing relatedness through field correlations and ana
    It sharpens observer-free worldline / frame-transport rendering. It does not by itself prove constitution by frame-process.
 
 2. **The scalar-response skeleton is outside B6.**  
-   B6 records the updated ownership split, but its own job is temperature/information role discipline.
+   B6 records the updated routing split, but its own job is temperature/information role discipline.
 
-3. **QFT still owns the state/response machinery.**  
+3. **QFT still supplies the state/response machinery.**
    Vacuum selection, Wightman sampling, KMS/detailed balance, and detector transition probabilities remain imported.
 
 4. **Calibration is allowed.**  
@@ -751,7 +751,7 @@ flow-indexed response-scale definition;
 access / frame-transport placement;
 Unruh as PB-4a rendering, not PB-4-full constitution;
 CMB/Unruh/Hawking sibling map;
-calibration-aware ownership split;
+calibration-aware routing split;
 no one-place in-flight temperature or information reading.
 ```
 
@@ -820,7 +820,7 @@ Temperature role:
 Calibrated / externally supplied:
   constants, couplings, detector gaps, thresholds, apparatus rates.
 
-QFT-owned:
+QFT-supplied:
   state selection, Wightman sampling, KMS/detailed balance, detector rates.
 
 Information:

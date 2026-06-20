@@ -4,7 +4,7 @@
 
 Status: B-note / scalar-response clarifier and role-location.
 Primary target: A0 rendering/uptake seam, A1 PB-4, and B6 temperature/information discipline.  
-Grade: lineage-witness role-location + boundary audit of the standard scalar-response derivation. Magnitude and full QFT remain imported.
+Grade: retrodictive role-location + boundary audit of the standard scalar-response derivation. Magnitude and full QFT machinery remain imported.
 
 B7 separates three frame-transport bets:
 
@@ -20,7 +20,8 @@ FT-2:
 FT-3:
   the Unruh scalar-response skeleton can be role-located through
   flow self-transport / rendering rather than only bare worldline pullback;
-  live projection, stated / role-located here, not tested here.
+  live projection, stated / role-located here;
+  not a separate test of full carried-frame-basis transport.
 ```
 
 FT-1 is the broader axis. It is supported by ordinary GR and quantum handles: gyroscope precession, spin transport, holonomy, spin-rotation coupling, polarization transport, and related carried-vector / carried-frame effects. FT-2 and FT-3 are narrower. B7 reads proper acceleration first as a Levi-Civita self-transport fact: the flow direction is compared with itself along its own path, and the nonzero residue is `a^mu = u^nu nabla_nu u^mu`. That is stronger than a slogan and weaker than a full identity between acceleration and all frame-transport. It says acceleration exposes the flow-leg face of frame-transport.
@@ -31,7 +32,7 @@ Frame-transport is broader than proper acceleration, but it is not arbitrary tet
 
 Once acceleration is read this way, the standard scalar Unruh response has a GR interval skeleton with an MGR role-location. Metric/Levi-Civita structure gives the natural scalar propagation operator once a scalar sector is admitted. The flat massless scalar sector gives the local interval singularity. Uniform acceleration pulls that skeleton onto a hyperbolic worldline. The resulting `sinh²` form has imaginary proper-time period `2πc/a`.
 
-B7 does not provide a distinct Unruh lineage. It re-audits the standard lineage: GR interval geometry supplies the pullback period, QFT supplies the state and detector interpretation, and MGR supplies a clarifier-grade flow/rendering/uptake role audit. That audit returns no missing/extra remainder.
+B7 does not provide a competing Unruh calculation. It re-audits the standard lineage: GR interval geometry supplies the pullback period, QFT supplies the state and detector interpretation, and MGR supplies a clarifier-grade flow/rendering/uptake role audit. That audit returns no missing/extra remainder.
 
 Calibration is not failure. Fitting is failure. A scalar may be observed; a structure must be earned.
 
@@ -127,7 +128,7 @@ phase-bearing relatedness rendered along that flow.
 
 So scalar Unruh does not prove full carried-frame-basis transport. It isolates the flow/self-transport face of frame-transport.
 
-**Cross-link — the forced face and its mass-blind sibling.** [Later carve; B7 stands on its own skeleton without it. Grade: clarifier.] Proper acceleration is the **forced face** of frame-transport — ∇ along a normalizable timelike `u`, flow-bearing only; integrated, it is the boost / inertial-frame generator, and null content is locked out for want of a normalizable `u`. Its sibling is the **curvature face** (holonomy, geodesic deviation; A2 §5–6), mass-blind, acting on null tangents too (light bends). One operation — the single Levi-Civita ∇ — split by whether the transported thing carries flow: B7 works the forced (flow-only) face, A2 the mass-blind one. This keeps B7's contribution legible as missing-side — it forces the scalar skeleton — rather than reading as relabeled `2π`.
+**Refinement — the forced face and its mass-blind sibling.** [B7 stands on its own skeleton without this refinement. Grade: clarifier.] Proper acceleration is the **forced face** of frame-transport — ∇ along a normalizable timelike `u`, flow-bearing only; integrated, it is the boost / inertial-frame generator, and null content is locked out for want of a normalizable `u`. Its sibling is the **curvature face** (holonomy, geodesic deviation; A2 §5–6), mass-blind, acting on null tangents too (light bends). One operation — the single Levi-Civita ∇ — split by whether the transported thing carries flow: B7 works the forced (flow-only) face, A2 the mass-blind one. This keeps B7's contribution legible as a scalar-skeleton route rather than a relabeled `2π`.
 
 ---
 
@@ -491,7 +492,7 @@ FT-2:
 FT-3:
   Unruh scalar response as phase-bearing relatedness rendered through
   accelerated flow self-transport rather than only bare worldline pullback;
-  stated / role-located here, not tested here.
+  stated / role-located here.
 
 standard computation, role-located here:
   scalar wave operator from metric/Levi-Civita structure, given scalar assumptions;
@@ -563,7 +564,7 @@ It role-locates the standard scalar-response lineage:
 Audit verdict:
   no missing/extra remainder in the standard lineage.
 
-Grade: lineage-witness role-location; magnitude QFT-owned.
+Grade: retrodictive role-location; magnitude QFT-supplied.
 ```
 
 Calibration rule:

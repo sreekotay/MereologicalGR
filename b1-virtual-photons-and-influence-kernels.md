@@ -1,11 +1,9 @@
 # Virtual Photons and Influence Kernels
 
 Status: working external-form note.  
-Grade: lineage-witness for the absence-type distinction; diagnostic at the microcausality seam; magnitude QED-priced, framework-disowned.
+Grade: lineage-witness for the absence-type distinction; diagnostic at the microcausality seam; magnitude QED-priced, MGR-disowned.
 
-This note states the framework's virtual-photon result cleanly: what follows from the prior role carve, what standard QFT already owns, and what the framework contributes by refusing to treat an internal exchange kernel as a carrier-substance. It extracts and supersedes the virtual-photon / Feynman-propagator material in doc-1 §9; on adoption, §9 prunes to a pointer here.
-
-Register note (stated once): QFT axiomatized machinery on a seam GR left silent — microcausality, on/off-shell, LSZ status. The audit is role-route and missing/extra.
+QFT axiomatized machinery on a seam GR can leave bundled — microcausality, on/off-shell, LSZ status. The audit is role-route and missing/extra.
 
 ## 1. Starting role carve
 
@@ -88,7 +86,7 @@ q² > 0
 sqrt(q²) = invariant mass available to final states
 ```
 
-The framework does not choose `q²`. Standard field theory does. The framework reads `q² = 0` as the on-shell null-carrier boundary and `q² ≠ 0` as the off-shell exchange-kernel register.
+MGR does not choose `q²`; standard field theory supplies it. MGR reads `q² = 0` as the on-shell null-carrier boundary and `q² ≠ 0` as the off-shell exchange-kernel register.
 
 ## 3. Gauge and observability discipline
 
@@ -113,7 +111,7 @@ detect virtual photon as a particle
 
 This is the first guardrail against substance-smuggling.
 
-The framework's role-realism here is not object-realism. The virtual photon is role-real as an exchange kernel in a licensed computation and provenance path. It is not object-real as an isolable carrier.
+MGR's role-realism here is not object-realism. The virtual photon is role-real as an exchange kernel in a licensed computation and provenance path. It is not object-real as an isolable carrier.
 
 ## 4. Role registers
 
@@ -144,7 +142,7 @@ No information carried by the internal line.
 No controllable FTL signal slot.
 ```
 
-The field already knows that virtual particles are not detected particles. The framework contribution is the forced role separation:
+The field already knows that virtual particles are not detected particles. MGR's contribution is the forced role separation:
 
 ```text
 kernel ≠ carrier ≠ signal ≠ information
@@ -152,7 +150,7 @@ kernel ≠ carrier ≠ signal ≠ information
 
 That is the slot discipline. The exchange kernel can be indispensable to a computation without becoming a particle, a worldline, or an information-bearing event.
 
-Analytic grounding (extracted from doc-1 §9): the two registers are not imposed by hand — they are the Sokhotski-Plemelj split of the propagator itself. For the photon,
+Analytic grounding: the two registers are not imposed by hand — they are the Sokhotski-Plemelj split of the propagator itself. For the photon,
 
 ```text
 1/(q² + iε) = PV(1/q²) − iπ δ(q²)
@@ -180,7 +178,7 @@ Wightman / correlation functions:
   not by themselves signal or control
 ```
 
-The framework reads this as:
+MGR reads this as:
 
 ```text
 propagator support ≠ causal signal
@@ -197,7 +195,7 @@ A virtual photon may appear in an off-shell kernel because it is not a carrier-e
 Causal prohibition applies when influence becomes consequential for flow-bearing observable systems.
 ```
 
-This is not a derivation of the QFT commutator algebra. QFT owns that result. The framework explains why the commutator, not the propagator magnitude, is the correct causality diagnostic.
+This is not a derivation of the QFT commutator algebra. QFT supplies that result. MGR locates why the commutator, not the propagator magnitude, is the correct causality diagnostic.
 
 The diagnostic consequence is:
 
@@ -210,13 +208,13 @@ That is exactly where standard QFT places the test.
 
 ## 6. Numerical crossover
 
-The framework does not compute QED cross-sections. QED does.
+MGR does not compute QED cross-sections. QED supplies them.
 
-The framework assigns the role boundary. External physics prices it.
+MGR assigns the role boundary. External physics prices it.
 
 The following are schematic currencies, not universal cross-section claims. Real calculations require the full gauge-invariant amplitude, including form factors, PDFs where relevant, phase space, spin structure, loop and radiative corrections, experimental cuts, and the chosen observable.
 
-Virtuality is a boundary currency, not a role-strength scalar. `q²` / `Q²` prices the off-shell exchange inside QED. It does not measure how much influence the framework assigns, and it should not be promoted into a hidden universal magnitude of influence.
+Virtuality is a boundary currency, not a role-strength scalar. `q²` / `Q²` prices the off-shell exchange inside QED. It does not measure how much influence MGR assigns, and it should not be promoted into a hidden universal magnitude of influence.
 
 ```text
 virtuality:
@@ -332,7 +330,7 @@ controllable spacelike signal
 
 Current field theory also lands the other way. The internal line is not an asymptotic state, not a detector event, and not a carrier of constituted information.
 
-So the collision-room is live, but the field sits on the framework-friendly side.
+So the collision-room is live, and current field theory lands on the role-separation side.
 
 ## 9. Comparison to current theory language
 
@@ -345,7 +343,7 @@ microcausality is enforced by local commutators
 physical observables are gauge-invariant
 ```
 
-The framework should concede this. It is not ahead of the field on the empirical taxonomy.
+MGR accepts this. It does not claim priority over the field's empirical taxonomy.
 
 Its contribution is the role discipline:
 
@@ -374,7 +372,7 @@ Virtual photons are not another photon case.
 They are the negative-control for photon-language.
 ```
 
-Real photons show influence without flow by nullness. Virtual photons show influence-kernel without carrierhood. QFT's own microcausality structure then lands exactly where the framework says it should: causality is tested at observable endpoint commutators, not internal kernel support.
+Real photons show influence without flow by nullness. Virtual photons show influence-kernel without carrierhood. QFT's microcausality structure then lands on the same separation: causality is tested at observable endpoint commutators, not internal kernel support.
 
 ## 10. Grade
 
@@ -395,14 +393,14 @@ Microcausality seam:
   propagator support ≠ signal support
 
 Magnitude:
-  QED-priced; framework-disowned
+  QED-priced; MGR-disowned
 
 Collision-room:
   propagator-support-as-causality would break the diagnostic reading
   gauge-invariant carrier/worldline/information content would break the role count
 ```
 
-Chronology is not the criterion; lineage is (A0 §7). Magnitude remains QED-owned.
+Lineage is the criterion (A0 §11). Magnitude remains QED-supplied and MGR-disowned.
 
 ## 11. Compact result
 
@@ -416,7 +414,7 @@ q² ≠ 0
   remains exchange-kernel status
 ```
 
-Microcausality belongs to observable endpoint influence, not internal propagator support. Therefore virtual photons support the framework's unfusion of influence, carrier, flow, and information — but QED, not the framework, prices the amplitudes.
+Microcausality belongs to observable endpoint influence, not internal propagator support. Therefore virtual photons support MGR's unfusion of influence, carrier, flow, and information — but QED, not MGR, prices the amplitudes.
 
 ## References / external anchors
 

@@ -60,7 +60,7 @@ Readout:
 DD2 f=300 Hz is the first numerically useful B5 lane:
   M≈2.08 survives;
   R≈12.63 km lands inside the J0740 radius window;
-  ΔR≈-0.48 km is close to the promoted -0.5 km lane.
+  ΔR≈-0.48 km is close to the selected -0.5 km lane.
 ```
 
 ### DD2 lower-mass / BNS proxy: M = 1.40 M_sun
@@ -132,19 +132,19 @@ DD2 f=300 Hz gives a concrete approximate row-set:
   M=1.40: R ≈ 12.635 km, ΔR ≈ -0.595 km
 ```
 
-This is not full author data, but it is enough to promote one lane:
+This is not full author data, but it is enough to select one lane for the next gate:
 
 ```text
 DD2 + f=300 Hz + rotation-induced torsion
 ```
 
-from headline support to approximate candidate pipeline.
+from headline support to approximate candidate-pipeline input.
 
 ---
 
 ## 5. Updated B5 conclusion
 
-The honest conclusion now is stronger:
+The archive conclusion is stronger:
 
 ```text
 Jockel-Menger does not merely support the B5 lane qualitatively.
@@ -154,7 +154,7 @@ A vector extraction of Fig. 4 identifies a concrete candidate:
   with M≈2.08 and M≈1.4 both surviving the working radius gates.
 ```
 
-But still not final:
+But still not witness-grade:
 
 ```text
 Need author/source rows or reproducible code output.
@@ -167,7 +167,7 @@ Need check whether f=300 Hz is the right physical comparison for J0740/J0952/BNS
 
 ## 6. Next step
 
-Promote the first model row:
+Carry forward the first model row:
 
 ```text
 EOS: DD2
@@ -193,5 +193,5 @@ Questions:
 Current status:
 
 ```text
-candidate observational pipeline, pending source-data verification and Lambda/I work
+candidate observational-pipeline input, pending source-data verification and Lambda/I work
 ```

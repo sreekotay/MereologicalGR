@@ -1,15 +1,15 @@
 # B8 — Zych Clock Interferometry and Flow-Register
 
 Status: working external-form / engine-contact note.  
-Grade: engine-eligible contact; probe for render vs flow-register separability; magnitude GR/QM-owned, framework-disowned.
+Grade: engine-eligible contact; probe for render vs flow-register separability; magnitude GR/QM-owned, MGR-disowned.
 
-This note runs the Zych–Brukner proper-time visibility proposal through the A0 §14 **flow-rate sub-cell** audit: compose / missing / extra, clock-ON vs clock-OFF factorial, and stated could-fail conditions. It does not derive GR or QM formulas; it role-locates what the standard calculation already bundles.
+Zych et al. (*Nat Commun* 2, 505, 2011; arXiv:1105.4531) supply the physics. Contact: A0 §9 flow-rate sub-cell — compose / missing / extra, clock-ON vs clock-OFF factorial.
 
-Register note (stated once): Zych et al. (*Nat Commun* 2, 505, 2011; arXiv:1105.4531) own the physics. MGR owns the layer split and the engine factorial.
+B8 role-locates what the standard calculation bundles. It does not re-derive the GR or QM formulas.
 
 ---
 
-## 1. Starting role carve (predates contact)
+## 1. Starting Role Carve
 
 The contact starts from grammar fixed before reading Zych:
 
@@ -19,14 +19,14 @@ clock       = magnitude projection of flow (tick rate, τ-register)
 rendering   = content through frame / worldline (phase, E = −p·u)
 information = ordering + influence + flow at application threshold
 
-A0 §14 sub-cell (named before phenomenon):
+A0 §9 sub-cell (fixed before contact):
   superposition of flow-rates
   (massive basis; internal proper-time accrual can differ per branch)
 ```
 
 **Not in scope for this run:** constitution, PB-4 observer write-chain, influence-floor beyond carrier tier.
 
-**Lineage:** the §14 sub-cell and photon corner (flow stripped, ordering + influence remain) predate this contact. Chronology is not the criterion (A0 §7).
+**Lineage:** the route is fixed before the Zych contact is used: photon corner first (flow stripped, ordering + influence remain), then the A0 §9 flow-rate sub-cell. Chronology is not evidence; the clean role-route is the criterion.
 
 ---
 
@@ -108,7 +108,7 @@ D                                     →  same information, which-path metric
 
 **Forced / adjacency (lab, not witness):** particle often **supported** in gravitational potential (not free fall). Proper acceleration / support structure is **adjacency + forced-face** lab scaffolding — distinct from the ∆τ witness channel. Do not bundle as one undifferentiated “gravity effect.”
 
-**Not claimed:**
+**Guardrail:**
 
 ```text
 V drop  ≠  constitution
@@ -218,7 +218,7 @@ MGR: that is the **OFF** limit of the same engine — not a different experiment
 ```text
 V still drops with Clock-OFF after ∆Φ matched
   → render and flow-register not separable in this regime
-  → A0 §14 sub-cell demoted or narrowed
+  → A0 §9 sub-cell demoted or narrowed
 
 V with Clock-ON tracks only total phase, not ∆τ/t⊥
   → Zych proper-time witness collapses to AB story (their own could-fail)
@@ -231,7 +231,7 @@ No ∆τ at fixed Δh / ∆T  →  GR proper-time difference absent (separate ch
 V² + D² ≠ 1 with mixed internal states  →  complementarity bookkeeping (see §8)
 ```
 
-### 7.3 MGR overclaim fails
+### 7.3 MGR overread fails
 
 ```text
 Claim V drop = information constitution  →  A3/PB-3 collision
@@ -300,7 +300,7 @@ Same complementarity logic; **different leg**. Useful negative control: photon p
 ## 11. Cross-links
 
 ```text
-A0 §14     superposition of flow-rates sub-cell
+A0 §9      superposition of flow-rates sub-cell
 A1         clock as flow projection; photon has no internal clock
 A2         E = −p·u rendering; gravity vs information adjacency split
 A3         record ≠ constitution; V channel is pre-uptake
@@ -318,7 +318,7 @@ CLAIMS     engine row (Zych + clock-OFF)
 ```text
 Field taxonomy:
   convergent with GR + QM complementarity
-  Zych owns eq. (5)–(16)
+  Zych supplies eq. (5)–(16)
 
 Engine contact:
   render (φ) vs flow-register (V) factorial
@@ -329,20 +329,20 @@ Role audit:
   missing/extra fails if V → information or V → φ alone
 
 Magnitude:
-  GR/QM-owned; framework-disowned
+  GR/QM-owned; MGR-disowned
 
 Collision-room:
   V drop without OFF control at matched φ would stress separability claim
   constituted-information reading of decoherence would break A3/PB-3
 ```
 
-**Not lineage-witness:** this is forward engine contact, not retrodictive QFT guardrail recovery.
+**Grade boundary:** this is forward engine contact, not retrodictive guardrail recovery.
 
 ---
 
 ## 13. Compact result
 
-Zych separates **phase** (rendering) from **visibility** (flow-register). MGR reads that as the A0 §14 sub-cell with an explicit switch:
+Zych separates **phase** (rendering) from **visibility** (flow-register). MGR reads that as the A0 §9 sub-cell with an explicit switch:
 
 ```text
 Clock-ON:   ∆τ/t⊥ prices V  — proper time as operational which-path register

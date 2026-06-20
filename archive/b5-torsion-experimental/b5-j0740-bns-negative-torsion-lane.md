@@ -318,7 +318,7 @@ sign + source scaling + EOS compatibility + tidal survival
 
 ## 8. Source-scaling demand
 
-The framework does not accept a free `ΔR` knob as positive evidence. The correction must be source-routed.
+The framework does not accept a free `ΔR` knob as positive witness. The correction must be source-routed.
 
 Required form:
 
@@ -349,19 +349,19 @@ Minimum source tests:
 Start with negative ΔR lane.
 
 If negative ΔR lets high-radius/high-mass EOS pass J0740 and BNS:
-  promote lane to real EOS/Love-number modeling.
+  advance lane to real EOS/Love-number modeling.
 
 If negative ΔR fits J0740 but breaks BNS:
   reject or tighten magnitude/source dependence.
 
 If negative ΔR is fully absorbed by EOS variation:
-  no positive torsion evidence; use as bound only.
+  no positive torsion witness; use as bound only.
 
 If correction does not scale with spin/current:
   not B5-positive.
 
 If same source lane predicts ΔI or frame-dragging shift:
-  promote moment-of-inertia/precession as next discriminator.
+  advance moment-of-inertia/precession as next discriminator.
 ```
 
 ---
@@ -383,7 +383,7 @@ Can a stiff/high-baseline-radius EOS survive J0740 and BNS constraints
 if a spin/current torsion correction shifts high-source stars downward in radius?
 ```
 
-The prediction is not simply:
+The residual claim is not simply:
 
 ```text
 neutron stars are smaller

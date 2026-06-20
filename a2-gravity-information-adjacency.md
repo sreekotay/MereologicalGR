@@ -4,7 +4,7 @@
 
 Status: application document / gravity-side role decomposition.  
 Foundation: A0 grammar and A1 photon-run commitments are assumed.  
-Forward-reference rule: this document states its own debts internally; later notes may refine them, but A2 does not rely on later documents for its claims.
+A2 states its debts locally. Later notes may refine them, but the claims here close through A0, A1, and imported GR/SR handles.
 
 Core result:
 
@@ -324,7 +324,7 @@ Demotion: treating a = 0 as absence of gravity, or identifying gravity with prop
 
 This gives A2 computational room without changing its scope. Redshift, geodesic deviation, acceleration response, Weyl tidal structure, and holonomy are all transport-side computations. Information constitution remains uptake/write-side.
 
-**Later carve — frame-transport is two faces of one operation, sorted by flow.** [Refinement layered over A2; §5/§6 stand on their own imported handles without it. The depth originates in A0 §4 (the boost-generator reading); A2 imports it, does not derive it. Grade: role-location, no new number — GR-owned facts reorganized.]
+**Refinement — frame-transport is two faces of one operation, sorted by flow.** [§5/§6 stand on their own imported handles without this refinement. A0 §4 supplies the acceleration / frame-transport split; A2 imports that GR-owned structure as role-location, with no new number.]
 
 The §6 handles are not a flat list. The frame-transport ones sort into **two faces of one operation** — the single Levi-Civita connection ∇ applied to transport — divided by whether the transported thing carries flow:
 
@@ -341,7 +341,7 @@ forced face (flow-bearing only):
   null content locked out (no normalizable u)
 ```
 
-One operation, not two arenas: both faces are the same ∇-transport, sorted by the carrier. The sorting variable is **flow** (normalizable u); mass is only its marker (content with flow-capacity, not a gate). Rendering (`E = −p·u`) is a distinct operation, not part of this split: the photon **retains** rendering and the curvature face (it is rendered, and it bends), and is denied only the forced face. Inter-frame transport then touches the photon only through that face's eigenvalue — its rendering rescales by the boost factor (redshift; A0 §4).
+One operation, not two arenas: both faces are the same ∇-transport, sorted by the carrier. The sorting variable is **flow** (normalizable u); mass is only its marker (content with flow-capacity, not a gate). Rendering (`E = −p·u`) is a distinct operation, not part of this split: the photon **retains** rendering and the curvature face (it is rendered, and it bends), and is denied only the forced face. Inter-frame transport then touches the photon only through that face's eigenvalue: its rendering rescales by the boost factor (redshift; A0 §4).
 
 could-fail:
 
@@ -397,7 +397,7 @@ Method reading:
 
 ```text
 The handle is imported.
-The role-location is framework-owned if the decomposition is clean.
+The role-location is MGR-claimed if the decomposition is clean.
 The scalar or tensor value is computed by the imported formalism.
 A new MGR claim appears only where the role-route forces a missing/extra diagnosis.
 ```
@@ -442,7 +442,7 @@ Missing: only if frame-transport is denied unless proper acceleration is nonzero
 
 Extra: “no felt acceleration ⇒ no gravity” — fuses force-felt with curved transport grammar.
 
-The acceleration hinge and the gravity transport reading meet on the same ∇ leg; they differ in scope:
+The acceleration split and the gravity transport reading meet on the same ∇ leg; they differ in scope:
 
 ```text
 a^μ  — local readout when this worldline breaks the geodesic rule of ∇
@@ -630,10 +630,10 @@ Therefore:
 
 ```text
 role-decomposition:
-  framework-owned if cleanly composed
+  MGR-claimed if cleanly composed
 
 transport / curvature route:
-  framework-owned as role-location where GR import supplies the mathematics
+  MGR-claimed as role-location where GR import supplies the mathematics
 
 mass-shell / metric norm:
   consequence of licensed SR/GR imports

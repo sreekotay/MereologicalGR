@@ -2,14 +2,14 @@
 
 *Working draft, June 2026.*
 
-Status: application document / quantum-error-correction failure diagnostic.  
-Primary target: A3 record-vs-constitution, A0 §3 influence ladder / compose/missing/extra, PB-3/PB-4.  
-Ledger: same record/constitution seam as D4 (QD diagnostics); lab QEC is the operational mirror — not yet a separate ledger row. Published experiment map: diagnostic-ledger §14.  
-Grade: post-mortem template / engine-eligible diagnostic / predictive closure map. Not a proof of QEC success or failure.
+Status: application document / quantum-error-correction failure diagnostic.
+Primary target: A3 record-vs-constitution, A0 §3 influence ladder, A0 §5 compose/missing/extra, PB-3/PB-4.
+Ledger: same record/constitution split as D4 (QD diagnostics); lab QEC is the operational mirror, not yet a separate ledger row. Published experiment map: diagnostic-ledger §14.
+Grade: post-mortem template / engine-eligible diagnostic / predictive closure map. Not a verdict on QEC success or failure.
 
 ```text
 Why this note:
-  QEC is the cleanest lab instance of the A3 seam.
+  QEC is the cleanest lab instance of the A3 split.
   Practice already operationalizes record, decode, commit, threshold;
   milestone language compresses them.
   A4 names the compression and routes failure — it does not specify product or decoder theory.
@@ -22,7 +22,7 @@ Predictive add:    which cell is open → closure or projection → forward sign
 Not asked:         did MGR predict this failure?  (MGR predicts class / route, not coefficients)
 ```
 
-Failed or partial runs are often more instructive than break-even wins: failure strips a role and opens the bundle (A0 degenerate corners). Success autopsies use the same checklist.
+Failed or partial runs are often more instructive than break-even wins: failure strips a role and opens the bundle, the A0 degenerate-corner method in lab form. Success autopsies use the same checklist.
 
 ---
 
@@ -171,7 +171,7 @@ projection:  a face was present in the setup but not rendered into the live engi
 
 ### 5.2 Degenerate corners (class predictions)
 
-Strip one cell before the run; predict scaling **class**, not a fitted ε (A0 degenerate corners):
+Strip one cell before the run; predict scaling **class**, not a fitted ε. This is the degenerate-corner method as a preregistered test:
 
 ```text
 strip commit (offline decode only)     →  logical LER tracks decode, not memory claim
@@ -180,7 +180,7 @@ strip leakage from record              →  distance plots misread; route blamed
 strip threshold naming                 →  milestone debate only; no layer verdict possible
 ```
 
-**Uniform success is a failure signal** (A0 §7): if every decoder and latency achieves logical break-even, the layer split was never stressed.
+**Uniform success is a weak diagnostic:** if every decoder and latency achieves logical break-even, the layer split was never stressed.
 
 ### 5.3 Preregistered bundles
 

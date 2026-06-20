@@ -44,9 +44,7 @@ horizon thermality belongs to access + frame-transport + state machinery;
 not to horizon-constituted information.
 ```
 
-B4 does not reject Hawking numbers. It refuses to treat unearned information-constitution structure as if it had been measured or derived.
-
-B4 is also a naked-role case. "Naked" means role-exposed, not ontologically bare. Hawking thermality strips ordinary material-bath narration and horizon-constitution narration. What remains exposed is access-boundary rendering:
+B4 is a role-exposed case. Hawking thermality strips ordinary material-bath narration and horizon-constitution narration. What remains exposed is access-boundary rendering:
 
 ```text
 field/state structure
@@ -58,6 +56,8 @@ field/state structure
 ```
 
 So the exposed role is not information at the horizon. It is access-conditioned thermal rendering before exterior constitution.
+
+Hawking numbers are allowed. Unearned information-constitution structure is not.
 
 Calibration is not failure. Fitting is failure. A scalar may be observed; a structure must be earned.
 
@@ -131,14 +131,14 @@ It is tempting to introduce a magnitude-shaped statement:
 epsilon_null_constitution = 0
 ```
 
-B4 declines to present that as a prediction.
+The cleaner statement is not a new epsilon prediction.
 
-Why:
+Reason:
 
 ```text
-1. It re-emits GB-3 rather than deriving something from Hawking physics.
-2. It risks an unfalsifiable absorbing re-description.
-3. A magnitude-shaped epsilon with no equation or measurement role is magnitude theater.
+1. It re-emits GB-3 rather than exposing something specific to Hawking physics.
+2. It risks an absorbing re-description with no independent test.
+3. A magnitude-shaped epsilon has no equation or measurement role here.
 ```
 
 Honest statement:
@@ -192,7 +192,7 @@ horizon thermality is a response/rendering effect under access,
 state, and frame-transport conditions.
 ```
 
-Naked-role read:
+Role-exposed read:
 
 ```text
 not exposed:
@@ -220,7 +220,7 @@ This is the black-hole analogue of the acceleration lesson: frame-transport can 
 
 ---
 
-## 4. Hawking scalars are calibrated/imported, not dirty
+## 4. Hawking scalars are imported
 
 Four-dimensional, neutral, non-rotating Schwarzschild quantities:
 
@@ -243,7 +243,7 @@ t_evap_ideal = 5120 pi G^2 M_0^3 / (hbar c^4)
 Calibration-aware split:
 
 ```text
-framework may own, where earned:
+MGR may claim, where earned:
   site separation;
   role-location;
   route through horizon/access/flow/frame-transport structure;
@@ -268,7 +268,7 @@ P proportional to M^-2
 t_evap proportional to M^3
 ```
 
-as externally supplied scale structure. It does not own the full radiation calculation or its coefficients.
+as externally supplied scale structure. It does not claim the full radiation calculation or its coefficients.
 
 ---
 
@@ -301,7 +301,7 @@ S_rad(t):
   theoretical accounting, not directly measured for real black holes.
 ```
 
-The framework adds no fourth scalar for information constitution.
+MGR adds no fourth scalar for information constitution.
 
 ---
 
@@ -357,7 +357,7 @@ Method reading:
 
 ```text
 The handle is imported.
-The role-location is framework-owned if the separation is clean.
+The role-location is MGR-claimed if the separation is clean.
 The scalar or response value is computed by the imported formalism.
 A new MGR claim appears only where the role-route forces a missing/extra diagnosis.
 ```
@@ -418,7 +418,7 @@ Page-QES:
   prices recoverability / entropy accounting
 ```
 
-The naked-role computation is the scale-form route:
+The role-exposed computation is the scale-form route:
 
 ```text
 black-hole horizon
@@ -466,7 +466,7 @@ Page-QES accounting.
 
 Thus Hawking thermality is not the statement that the horizon is an ordinary hot material surface. It is the access-boundary sibling of the Unruh result: field relatedness rendered through horizon access has a temperature scale fixed by surface gravity.
 
-B4 owns:
+MGR claims:
 
 ```text
 access / frame-transport / write-site separation;
@@ -475,7 +475,7 @@ access-boundary scale-form role-location;
 refusal of an extra null-constitution scalar.
 ```
 
-QFT and external black-hole theory own:
+QFT and external black-hole theory supply:
 
 ```text
 vacuum choice;
@@ -640,7 +640,7 @@ quantum gravity completion.
 
 ## 11. Ledger
 
-Framework-owned:
+MGR role claims:
 
 ```text
 site separation;
@@ -682,13 +682,12 @@ Standing result:
 ```text
 B4 is a clarifier / role-diagnostic.
 The loss-edge contact is live but not sealed.
-Null constitution remains a GB-3 consequence, not a Hawking-derived prediction.
+Null constitution remains a GB-3 consequence, not a Hawking-derived result.
 Horizon thermality is located at access + frame-transport + state machinery, not at constitution.
 ```
 
 One-line form:
 
 ```text
-B4 does not reject Hawking numbers; it refuses to treat horizon thermality
-or null radiation transit as information constitution before a write-chain is earned.
+B4 separates horizon thermality and null transit from information constitution before a write-chain is earned.
 ```

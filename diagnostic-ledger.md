@@ -6,11 +6,11 @@ Status: diagnostic ledger, not a prediction ledger.
 Purpose: track where MGR's role-separations touch existing computations, experiments, formal programs, or residual searches.  
 Grade: mixed and mostly low-weight. Most rows are route diagnostics, null guards, or failure conditions. Torsion / spin-current remains a possible externally priced sensitivity lane, but it is not the repository's center of gravity.
 
-This document intentionally reduces the weight of the old prediction framing.
+This document is a contact map. It tracks where the role grammar is stressed, bounded, demoted, or externally priced.
 
 ```text
 Do not read this ledger as:
-  MGR predicts new observed effects in every row.
+  MGR owns new observed effects in every row.
 
 Read it as:
   where an existing formalism, experiment, or residual search would stress the role map.
@@ -89,7 +89,7 @@ contact type:
   route diagnostic, null guard, sensitivity lane, formal discriminator, or engine-eligible test
 
 standard baseline:
-  what orthodox physics already predicts or computes
+  what orthodox physics already computes or constrains
 
 MGR role route:
   where the framework says the machinery belongs
@@ -111,7 +111,7 @@ prediction
 expected discovery
 confirmed by consistency
 new scalar
-framework-owned magnitude
+MGR-claimed magnitude
 ```
 
 unless the document has separately earned that stronger status.
@@ -166,10 +166,10 @@ unless the document has separately earned that stronger status.
 | D6 | CMB temperature-redshift | null guard | T(z)=T0(1+z), with standard deviations handled by cosmology/thermalization | temperature is congruence-rendered distribution scale | no information-specific temperature degradation term | deviation specifically tracks information/constitution rather than thermalization, foregrounds, injection, calibration, or cosmology |
 | D7 | Information-specific redshift | null guard | redshift via p dot u between emitter/receiver worldlines | carrier energy is rendered by flow-worldlines; semantic content is not a gravitational source term | no semantic/code/recoverability-dependent frequency residual | same carrier/channel but different information content gives reproducible gravitational redshift residual |
 | D8 | Virtual exchange / microcausality | null guard / route diagnostic | QFT propagators plus microcausality of observables | influence-kernel without carrier-flow; no constituted virtual-carrier information | endpoint observables respect microcausality; no virtual-carrier information term | virtual exchange requires carrier-like flow-bearing information propagation |
-| D9 | Torsion / spin-current compact objects | archived sensitivity lane | GR + EOS + rotation + magnetic/crust/thermal modeling | independent spin/current retained -> torsion equation -> contortion -> observable shift or bound | nonzero only if spin/current survives as independent source; scale should track spin/current, not mass-energy alone | residual fully absorbed by ordinary matter/EOS modeling; no independent spin-current torsion burden; or role-level forced-empty proof |
+| D9 | Torsion / spin-current compact objects | archived sensitivity lane | GR + EOS + rotation + magnetic/crust/thermal modeling | independent spin/current retained -> torsion equation -> contortion -> observable shift or bound | nonzero only if spin/current survives as independent source; scale should track spin/current, not mass-energy alone | residual fully absorbed by ordinary matter/EOS modeling; no independent spin-current torsion burden; or role-level forced-empty result |
 | D10 | RFI-QKD / reference-frame-independent communication | record-vs-constitution discriminator + null guard | QKD secure under unaligned/drifting transverse frames; key in a stable basis; security from rotation-invariant correlators | transverse frame-independence = rendering/transport robustness; key constituted at detector uptake against a retained shared stable axis/clock | frame-invariant correlator is pre-uptake record, not constituted key; a shared stable axis/timing is still present | constituted, usable key produced with no flow-bearing uptake and no shared stable reference anywhere in the chain (structurally unavailable in RFI-QKD; confirmation/misread lane) |
 | D11 | Quantum reference frames / relational facts | engine-eligible test + formal discriminator (PB-4 exposure) | QRF transformations; coherent/superposed reference frames; relational-QM and QRF Wigner's-friend "observer-relative facts" | quantum frame = superposed rendering/transport map, write-not-read; constitution = flow-bearing irreversible write at **pinned threshold T**, not frame-choice | frame/observer-relativity rides the coherent/reversible (un-constituted) regime only; committed flow-bearing records agree at fixed write-chain **and fixed T** | frame/observer-relativity of a genuinely constituted (irreversible, flow-bearing, **T-crossed**) record with physical write-chain **and T** held fixed; or **T** slid post hoc to rescue constitution |
-| D12 | Ordering/influence bound (PB-1/2) | **parked architecture bet** | null sector m/s with τ→0; c on flow/adjacency axis | ordering/influence seam carries bound structure; interior = influence per ordering-resource | none wired | axis unbounded where decomposition exposes it; ratio per-adjacency only; no bound/realized split (A0 §16–§17, A1 §7) |
+| D12 | Ordering/influence bound (PB-1/2) | **fork declared; contact unwired** | null sector m/s with τ→0; c on flow/adjacency axis | PB-1 names the exposed axis; PB-2 opens interior ratio | none wired | axis unbounded where decomposition exposes it; ratio per-adjacency only; no bound/realized split; or downstream cascade → relabel (A0 §12, CLAIMS Tier B) |
 
 ---
 
@@ -375,7 +375,7 @@ Quantum reference frames are the engine-eligible PB-4 exposure:
 
 ```text
 the frame is a physical (massive) system that can be coherent/superposed;
-the rendering/transport map becomes conditional/superposed (A0 §14);
+the rendering/transport map becomes conditional/superposed (A0 §9);
 the program's strong claim is that facts are frame/observer-relative
 (Brukner "no observer-independent facts"; relational QM; QRF Wigner's-friend).
 
@@ -403,7 +403,7 @@ break (jagged):
 Ownership note:
 
 ```text
-framework-owned:
+MGR-claimed:
   role-location (frame-transport = rendering, write-not-read);
   the rendering-vs-constitution audit point;
   the confirm/break conditions.
@@ -581,7 +581,7 @@ Mapping existing work to **A4 autopsy rows** (lab QEC), **D11 engine checklist**
 |---|---|---|---|---|
 | Google, *Nature* 2024 — below-threshold surface code + real-time decoder (Willow) | **decode**, **commit**, **threshold** | Decoder latency (~63 µs) vs cycle (1.1 µs); distance 3→5→7 | **Partly** — latency vs logical lifetime; not decoder-swap on fixed stream | **Commit leg live** — late feedback breaks correction; supports layer split |
 | Quantinuum, arXiv:2404.16728 — fault-tolerant logical teleportation (H2) | **decode**, **commit** | Mid-circuit syndrome decode + **physical corrections during** protocol | **Partly** — apply in-loop vs end-only implied | **Constitution during run**, not offline inference only |
-| Decoder latency / architecture studies (e.g. arXiv:2511.10633; Yale FPGA decoders) | **decode**, **commit** | Reaction time → logical error rate / resource overhead | **Partly** — timing stressed; rarely 2×2 with decoder fixed | Same seam; engineering owns numbers |
+| Decoder latency / architecture studies (e.g. arXiv:2511.10633; Yale FPGA decoders) | **decode**, **commit** | Reaction time → logical error rate / resource overhead | **Partly** — timing stressed; rarely 2×2 with decoder fixed | Same layer split; engineering owns numbers |
 | Decoder benchmarks (MWPM vs neural / union-find, various groups) | **decode**, **route** | Decoder or model choice → LER | **Often offline** — same stream replay not always published | **Decode layer** live; commit often bundled |
 | Mid-circuit / real-time QEC surveys (2024–2025 stack literature) | **commit**, **misread** | Offline decode sold as memory vs online apply | **Mixed** | Autopsy target: separate offline / online / commit in papers |
 
@@ -639,11 +639,11 @@ Maps to **D1** (accelerated response routing), **D6/D7** null guards, A2 handles
 | GPS / GNSS (operational) | Route + render | Einstein delay + redshift in ephemeris/solution | N/A | **Rendering layer** standard; not lumped-noise-only at system level |
 | Hafele–Keating (1972) | Transport + render | Flown clocks vs ground | N/A | Classic **rendering** divergence |
 
-**Not yet published:** A4-style **steering A/B** during acceleration transient — explicit render-map correction vs opaque transfer-noise filter at commit (engine-eligible #1 as preregistered). Metrology predictive table and Higgins predictions: A4 §6.
+**Not yet published:** A4-style **steering A/B** during acceleration transient — explicit render-map correction vs opaque transfer-noise filter at commit (engine-eligible #1 as preregistered). Metrology closure table and Higgins projections: A4 §6.
 
 ---
 
-### 14.3.1 Zych clock interferometry + clock-OFF (A0 §14 flow-rate sub-cell)
+### 14.3.1 Zych clock interferometry + clock-OFF (A0 §9 flow-rate sub-cell)
 
 Full contact run: **`b8-zych-clock-interferometry-and-flow-register.md`**.
 
@@ -668,7 +668,7 @@ visibility V                 →  diagnostic of accessible path info from regist
 | Zych, Brukner et al., *Nat Commun* 2011 — gravitationally induced decoherence | **flow-register** | Δτ vs t⊥; V vs phase φ | **Theory** — B8 run; clock-OFF preregistered; lab factorial open | **Render vs flow-register split** — V prices proper time, not φ alone |
 | Zych et al. 2012 — photonic arrival-time variant | **rendering/timing** | Path timing at detector | Partial | Contrast: null-line timing record, not massive internal flow-register |
 
-**MGR predictions (role level, geometry fixed):**
+**MGR role projections (geometry fixed):**
 
 ```text
 Clock-OFF:  V → full contrast (D → 0); φ unchanged
@@ -708,7 +708,7 @@ Render leg (φ):      YES — COW, atom fountains, Kasevich 2022 grav. AB, clock
 
 Bounds on σ_τ from phase experiments are **not** a detection of V drop. Full ON/OFF factorial **open**.
 
-**Cross-link:** same engine pattern as A4 §6 (good syndromes/dead memory ↔ good φ/clock-OFF); CLAIMS engine block.
+Same engine pattern as A4 §6: good syndromes/dead memory ↔ good φ/clock-OFF. CLAIMS carries the at-a-glance engine status.
 
 ---
 
@@ -716,9 +716,9 @@ Bounds on σ_τ from phase experiments are **not** a detection of V drop. Full O
 
 | Proposal | Primary ledger | Best existing paper | Gap |
 |---|---|---|---|
-| #1 Clock render vs flow-register | D6/D7; A0 §14; §14.3.1 | **Theory:** Zych 2011. **φ data:** Overstreet *Science* 2022; Chou redshift | **Zych V not measured**; **clock-OFF factorial** open |
+| #1 Clock render vs flow-register | D6/D7; A0 §9; §14.3.1 | **Theory:** Zych 2011. **φ data:** Overstreet *Science* 2022; Chou redshift | **Zych V not measured**; **clock-OFF factorial** open |
 | #1b Clock render-aware steering | D1 + D6/D7; A2 handles | Skytree / Chou redshift | **A/B steering factorial** |
-| #2 QEC decode vs commit | A4; D4 seam (QD analog) | Google Willow 2024; Quantinuum mid-circuit QEC | **2×2 decoder × latency** on same stream |
+| #2 QEC decode vs commit | A4; D4 role split (QD analog) | Google Willow 2024; Quantinuum mid-circuit QEC | **2×2 decoder × latency** on same stream |
 | #3 QRF write vs frame | D11; PB-4 | Proietti 2019 (tension, not confirm) | **R3/R4 factorial** with pinned write-chain |
 
 ---

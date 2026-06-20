@@ -1,7 +1,7 @@
 # B3 — QES and Null Constitution
 
 Status: working proof/contact note.  
-Grade: lineage-witness for GB-3 / no-null-constitution; magnitude QG-priced, framework-disowned.
+Grade: lineage-witness for GB-3 / no-null-constitution; magnitude QG-priced, MGR-disowned.
 
 This note pulls the QES/island-formula contact out of `a2-gravity-information-adjacency.md`. It tests one narrow claim: whether the modern black-hole entropy calculation forces constituted information onto null horizon structure, or instead separates area/count/cut structure from fine-grained bulk/radiation degrees and flow-bearing uptake.
 
@@ -38,7 +38,7 @@ The QES/horizon case is the sharp test because black-hole physics repeatedly inv
 information is on the horizon
 ```
 
-The framework's question is stricter:
+MGR's question is stricter:
 
 ```text
 Does the island/QES formula force fine-grained constituted information onto null horizon generators themselves,
@@ -74,7 +74,7 @@ S_bulk(R ∪ I_X)
   bulk fine-grained entropy of quantum fields on radiation plus island
 ```
 
-The framework does not derive this formula. Quantum gravity owns it. The framework only asks what role each term plays relative to GB-3.
+MGR does not derive this formula. Quantum gravity supplies it. MGR asks what role each term plays relative to GB-3.
 
 ## 3. Role map
 
@@ -84,9 +84,8 @@ The role map is:
 Area(X)/(4G_N)
   the entanglement AREA-LAW term at the extremal cut: an influence-per-
   ADJACENCY balance (area = adjacency-magnitude), adjacency-side, rate
-  1/4G_N imported (a1 §6.4, a3 QES). "count / capacity / record-like" is
-  the loose gloss; it is NOT an s-axis (influence-per-ordering) object and
-  NOT a constitution site.
+  1/4G_N imported. "count / capacity / record-like" is the loose gloss;
+  it is NOT an s-axis (influence-per-ordering) object and NOT a constitution site.
 
 S_bulk(R ∪ I_X)
   fine-grained entropy of bulk/radiation degrees
@@ -108,7 +107,7 @@ Important guardrail:
 record-like does not mean stored message.
 ```
 
-The area term is record-like only in the framework sense: count, constraint, capacity, boundary condition. It is not by itself a semantic container, a receiver, or a flow-bearing constituted item.
+The area term is record-like only in the MGR sense: count, constraint, capacity, boundary condition. It is not by itself a semantic container, a receiver, or a flow-bearing constituted item.
 
 Likewise:
 
@@ -161,7 +160,7 @@ GB-3 stands in the QES/horizon domain.
 
 The island formula does not localize constituted information on null horizon generators. It uses an extremized generalized entropy: an area/count term at a cut plus a bulk fine-grained entropy term over `R ∪ I_X`.
 
-Framework reading:
+MGR reading:
 
 ```text
 null horizon generators:
@@ -329,18 +328,18 @@ GB-3 asks:
   does null structure itself constitute information?
 ```
 
-QES bears on GB-2 by showing the loss edge is *resolved* through the island/radiation generalized-entropy calculation — but it does **not** *witness* GB-2's localization claim (that loss sits at invariant ordering-collapse), because the island resolution may route around the singularity (see b4 §8, singularity-as-fifth-wheel). It helps GB-3 more directly by refusing to place constitution on null generators.
+QES bears on GB-2 by showing the loss edge is *resolved* through the island/radiation generalized-entropy calculation — but it does **not** *witness* GB-2's localization claim (that loss sits at invariant ordering-collapse), because the island resolution may route around the singularity rather than through B4's loss-edge site separation. It helps GB-3 more directly by refusing to place constitution on null generators.
 
 So the grade should not be fused:
 
 ```text
 GB-2 yield:
   loss-edge CANDIDATE, not sealed; Page-curve consistency only.
-  the QES resolution may route around the singularity GB-2 localizes to (b4 §8).
+  the QES resolution may route around the singularity GB-2 localizes to (b4 §1).
 
 GB-3 yield:
   diagnostic-witness candidate for no-null-constitution
-  → superseded: lineage-witness (header); magnitude QG-owned; lineage clean
+  → superseded: lineage-witness (header); magnitude QG-supplied; lineage clean
 ```
 
 ## 10. Grade
@@ -362,7 +361,7 @@ Secondary:
   clarifier for record ≠ constitution
 
 Magnitude:
-  QG-priced; framework-disowned
+  QG-priced; MGR-disowned
 
 Collision-room:
   fine-grained constituted information on null generators would break GB-3
@@ -370,7 +369,7 @@ Collision-room:
   nonzero S_QES-constitution or S_null-horizon-constitution would break the quantitative null
 ```
 
-Lineage: GB-3 and record/constitution distinction predate contact (A0 §7). Magnitude: QG-owned.
+Lineage: GB-3 and record/constitution distinction have a fixed role-route before this contact (A0 §11). Magnitude: QG-supplied and MGR-disowned.
 
 ## 11. Compact result
 
@@ -386,7 +385,7 @@ The island formula says something sharper:
 S(R) = min ext_X [ Area(X)/(4G_N) + S_bulk(R ∪ I_X) ]
 ```
 
-Framework translation:
+MGR translation:
 
 ```text
 QES chooses the reconstruction cut.
@@ -397,14 +396,14 @@ Constitution occurs only at flow-bearing uptake / reconstruction / measurement.
 
 Therefore QES does not force information onto null horizon generators. It splits record/count/cut from constitution.
 
-Quantitative prediction:
+Quantitative null:
 
 ```text
 ε_QES-constitution = 0
 ε_horizon-null-constitution = 0
 ```
 
-The framework's prediction is a null residual: no correct accounting should require an irreducible constituted-information term living on the QES surface or null horizon generator itself.
+MGR's null residual claim is that no correct accounting should require an irreducible constituted-information term living on the QES surface or null horizon generator itself.
 
 ## References / external anchors
 

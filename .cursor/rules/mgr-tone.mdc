@@ -1,0 +1,21 @@
+---
+description: MGR documentation tone and stance
+globs: **/*.md
+alwaysApply: false
+---
+
+# MGR Documentation Tone
+
+Before editing corpus markdown, read `TONE.md` and follow it as internal guidance.
+
+Core rule:
+
+- GR is held fixed and treated as ground truth for A-notes.
+- Other closures, such as QFT and thermodynamics, are contact closures, stress tests, or comparison regimes, not owners of the grammar.
+- Start from the physical scene before private vocabulary; photon first when explaining the foundation.
+- Be normative without being defensive. State the rule, boundary, or consequence and let the work speak.
+- Avoid meta narration and excessive cross-referencing.
+- Treat retrodiction as required lineage audit for axiom-to-fit closures. Chronology is not evidence.
+- Treat refinement, demotion, parking, and re-audit as the method working.
+
+Do not expose `TONE.md` as a public reader path unless explicitly asked.

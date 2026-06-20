@@ -2,9 +2,9 @@
 
 *Working draft, June 2026.*
 
-Status: B-note / internal audit / number-pipeline note.  
-Primary target: A2 gravity composition and curvature-form derivations that silently use torsion-free Levi-Civita structure; A0 closure-cell / degenerate-corner discipline; diagnostic-ledger D9 (archived sensitivity lane).  
-Grade: missing-cell audit + structural-bet candidate. Not a new gravity theory. Numerical workbench: `archive/b5-torsion-experimental/`.
+Status: B-note / internal audit / number-pipeline note.
+Primary target: A2 gravity composition and curvature-form derivations that silently use torsion-free Levi-Civita structure; A0 corner discipline and compose / missing / extra audit; diagnostic-ledger D9 (archived sensitivity lane).
+Grade: missing-cell audit + structural-bet candidate. GR is held fixed; numerical workbench: `archive/b5-torsion-experimental/`.
 
 B5's claim is simple:
 
@@ -13,9 +13,9 @@ curvature is rotational closure failure;
 torsion is translational closure failure.
 ```
 
-If MGR treats loop-failure-to-close as a primitive geometric signal, it cannot silently keep only curvature and inherit torsion-free as if GR's omission were a prohibition. It must either force the torsion cell empty by role-reason or book torsion as a live structural bet.
+If MGR treats loop-failure-to-close as a primitive geometric signal, it cannot silently keep only curvature and inherit torsion-free as if GR's silence were prohibition. It must either force the torsion cell empty by role-reason or book torsion as a live structural bet.
 
-This is a degenerate corner in A0's sense: GR remains predictively complete while one closure cell is set empty. The instructive question is not "replace GR" but whether that cell was priced or merely inherited.
+This is a corner in A0's sense: GR remains predictively complete while one closure cell is set empty. The instructive question is whether that cell was priced or merely inherited.
 
 Positive output:
 
@@ -279,7 +279,7 @@ Spin's immediate mathematical home is Lorentz representation / spin-connection s
 In EC/Poincare-gauge completions, an independent spin current sources or activates torsion.
 ```
 
-MGR does not derive the coupling. It owns only the route:
+MGR does not derive the coupling. It fixes only the route:
 
 ```text
 energy-momentum → curvature-sector equation
@@ -314,7 +314,7 @@ or, more carefully:
 T^a{}_{bc} + trace terms = kappa * spin-current^a{}_{bc}
 ```
 
-The exact index placement, trace convention, and coefficient are owned by the chosen EC / Poincare-gauge formulation. MGR owns the source-route, not the coefficient.
+The exact index placement, trace convention, and coefficient are supplied by the chosen EC / Poincare-gauge formulation. MGR fixes the source-route, not the coefficient.
 
 Algorithm:
 
@@ -339,7 +339,7 @@ Algorithm:
    an effective correction, or a bound.
 
 7. Grade the result:
-   route = framework-owned;
+   route = MGR-claimed;
    numeric value = externally priced / calibrated;
    empirical accessibility = regime-dependent.
 ```
@@ -406,12 +406,12 @@ Method reading:
 
 ```text
 The handle is imported.
-The role-location is framework-owned if the decomposition is clean.
+The role-location is MGR-claimed if the decomposition is clean.
 The scalar or tensor value is computed by the imported formalism.
 A new MGR claim appears only where the role-route forces a missing/extra diagnosis.
 ```
 
-So the concrete payoff is not a new torsion equation. It is a sharper map of which existing geometric formula prices which closure face:
+The concrete payoff is a sharper map of which existing geometric formula prices which closure face:
 
 ```text
 metric-compatible transport:
@@ -439,7 +439,7 @@ spin-current pricing:
 
 The handles above locate formulas. The next step is a calculation skeleton: the smallest sequence that turns the missing torsion cell into a priced correction or bound.
 
-Nothing in this section is a new MGR dynamics. The dynamics are imported. The framework-owned part is the route and the missing/extra diagnosis.
+Nothing in this section is a new MGR dynamics. The dynamics are imported. The MGR-claimed part is the route and the missing/extra diagnosis.
 
 ### 10.1 Kinematic split
 
@@ -526,7 +526,7 @@ spin current in
 → modified transport / effective stress / observable shift
 ```
 
-MGR owns:
+MGR fixes:
 
 ```text
 spin-current retained independently
@@ -615,7 +615,7 @@ nonzero and spin/current-correlated:
   positive number-producing target
 ```
 
-This prevents both overclaim and underclaim.
+This keeps the audit from treating tiny as empty or residual as victory.
 
 ---
 
@@ -660,7 +660,7 @@ fast/high-spin objects need a correction;
 correction sign/scale matches torsion-sector pricing, not mass-energy density alone.
 ```
 
-**Failure / weakening:** all spin/current effects absorbed by ordinary GR+matter modeling; or residuals route through magnetic/thermal/crust/EOS with no torsion improvement. **Null tightens bounds; it does not force torsion empty** — forced-empty still needs role-level closure (§14 demotion).
+**Failure / weakening:** all spin/current effects absorbed by ordinary GR+matter modeling; or residuals route through magnetic/thermal/crust/EOS with no torsion improvement. **Null tightens bounds; it does not force torsion empty** — forced-empty still needs a role-level closure proof.
 
 Promotion from archive to top-level requires: stable source data, fixed role-route before fitting, and clear demotion/failure conditions (diagnostic-ledger D9 discipline).
 
@@ -720,7 +720,7 @@ all affine closure-failure faces.
 
 ## 14. Ledger
 
-Derived / framework-owned:
+Derived / MGR-claimed:
 
 ```text
 1. closure-failure splits into rotational and translational faces;

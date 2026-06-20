@@ -1,9 +1,9 @@
 # Archived B5 Torsion Experimental Workbench
 
 Status: archive / low-weight working material.  
-Purpose: preserve the torsion numerical workbench while keeping the repo's top-level thesis from being overweighted toward torsion, neutron-star numerics, or Jockel-Menger extraction work.
+Purpose: preserve the torsion numerical workbench while keeping torsion, neutron-star numerics, and Jockel-Menger extraction work in their proper diagnostic lane.
 
-The current canonical torsion document is:
+The current top-level torsion document is:
 
 ```text
 b5-levi-civita-torsion-and-closure-faces.md
@@ -25,7 +25,7 @@ contrast-diagnostic-program.md
 
 ## Archived notes
 
-The following experimental/readout notes were moved out of top-level and restored here as archived working material, not primary project claims:
+The following experimental/readout notes were moved out of top-level and restored here as archived working material, not witness-bearing project claims:
 
 ```text
 b5-neutron-star-torsion-ledger.md
@@ -76,9 +76,9 @@ data/b5-real-torsion-model-gate.csv
 ## Reason for demotion
 
 ```text
-These notes, scripts, and data are useful numerical/workbench scaffolding,
-but they make the repository read as torsion-experimental-first.
-The project is primarily a role/mereology framework with torsion as one diagnostic lane.
+These notes, scripts, and data are useful numerical/workbench scaffolding.
+They do not set the project stance.
+MGR remains a role/mereology framework with torsion as one diagnostic lane.
 ```
 
 ---
@@ -86,8 +86,10 @@ The project is primarily a role/mereology framework with torsion as one diagnost
 ## Read-warning
 
 ```text
-Some archived notes still contain older prediction-program language.
-That language is preserved for workbench continuity, not promoted as current repo posture.
+Archived placement does not promote these notes.
+Some notes still contain older prediction-program language,
+preserved for workbench continuity rather than current repo posture.
+They remain exploratory inputs unless diagnostic-ledger discipline upgrades them.
 Current posture is set by diagnostic-ledger.md and contrast-diagnostic-program.md.
 ```
 
@@ -96,6 +98,6 @@ Current posture is set by diagnostic-ledger.md and contrast-diagnostic-program.m
 ## Standing rule
 
 ```text
-Top level should carry canonical argument documents.
-Experimental extraction, gates, readouts, and provisional numerical work belong below archive/workbench paths.
+Top level carries root argument and status documents.
+Experimental extraction, gates, readouts, and provisional numerical work stay below archive/workbench paths until promoted.
 ```

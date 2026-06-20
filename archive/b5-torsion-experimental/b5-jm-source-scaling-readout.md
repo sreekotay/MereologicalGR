@@ -10,7 +10,7 @@ Grade: proxy only. Not a full Love-number or moment-of-inertia computation.
 
 ## 1. What was tested
 
-Previous pass promoted:
+Previous pass selected:
 
 ```text
 DD2 f=300 Hz
@@ -64,7 +64,7 @@ larger Λ suppression,
 and larger I suppression.
 ```
 
-This is exactly the source-scaling shape B5 needs.
+This is the source-scaling shape B5 needs.
 
 ---
 
@@ -177,11 +177,11 @@ secondary observables:
 Status upgrade:
 
 ```text
-candidate observational pipeline
-→ candidate observational pipeline with regular proxy source scaling
+candidate observational-pipeline input
+→ candidate observational-pipeline input with regular proxy source scaling
 ```
 
-Still not final:
+Still not witness-grade:
 
 ```text
 k₂ is fixed;
@@ -194,7 +194,7 @@ full posterior comparison still owed.
 
 ## 7. Next hard step
 
-The next honest step is no longer another proxy.
+The next required step is no longer another proxy.
 
 It is one of:
 

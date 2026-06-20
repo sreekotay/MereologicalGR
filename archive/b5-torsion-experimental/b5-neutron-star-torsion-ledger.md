@@ -2,9 +2,9 @@
 
 *Working draft, June 2026.*
 
-Status: first numerical/outward ledger for the B5 torsion bet.  
+Status: archived first numerical/outward ledger for the B5 torsion bet.
 Purpose: convert the structural bet `spin/current in → torsion burden out` into an object table, contrast design, and first-pass sensitivity targets.  
-Grade: prediction-program scaffold with externally priced magnitudes. This does not derive Einstein-Cartan or Poincaré-gauge coupling constants. It specifies the residual shape and the data handles to test.
+Grade: workbench ledger scaffold with externally priced magnitudes. This does not derive Einstein-Cartan or Poincaré-gauge coupling constants. It specifies the residual shape and the data handles to test.
 
 Core contrast:
 
@@ -15,7 +15,7 @@ If torsion is live, the residual should track spin/current,
 not mass-energy density alone.
 ```
 
-Primary prediction form:
+Primary residual form:
 
 ```text
 Observable_data
@@ -39,7 +39,7 @@ Observable_torsion is bounded below current sensitivity
 If absent by role:
 
 ```text
-a forced-empty proof is required;
+a forced-empty closure argument is required;
 empirical nulls alone only tighten bounds
 ```
 
@@ -194,7 +194,7 @@ Interpretation:
 
 ```text
 A sub-km to km-scale torsion radius shift can be order-30% in tidal-deformability sensitivity.
-This is not a prediction until the EOS/Love-number response is recomputed.
+This is not a prediction or witness-grade until the EOS/Love-number response is recomputed.
 It is a reason to include ΔΛ early in the ledger.
 ```
 
@@ -386,7 +386,7 @@ First seeded rows:
 | PSR J0952−0607 | 2.35 | 0.17 | 0.17 | unknown | unknown | unknown | 707 | 1.414 | stress only | not radius-ready | high-spin/high-mass stress target |
 | GW170817-like BNS | population | — | — | inferred | — | — | low/moderate | — | constrain | constrain | tidal/EOS check |
 
-The J0030 spin row uses its known millisecond pulsar period/frequency as a working value and should be verified in the first literature pass before the table is promoted.
+The J0030 spin row uses its known millisecond pulsar period/frequency as a working value and should be verified in the first literature pass before the table is used outside the archive.
 
 ---
 
@@ -426,7 +426,7 @@ model introduces free parameters that fit anything.
 ```text
 No detection → tighter bound.
 Persistent nulls → weaker bet.
-Forced-empty → role-level closure proof required.
+Forced-empty → role-level closure argument required.
 ```
 
 ---
@@ -485,7 +485,7 @@ but current object-level radius inference and EOS/Love-number recomputation deci
 ## 12. Compact result
 
 ```text
-B5's first real outward prediction is not "neutron stars deviate."
+B5's first outward residual claim is not "neutron stars deviate."
 It is:
 
   if the torsion cell is live,
@@ -504,4 +504,4 @@ The first high-spin stress case is J0952.
 The first population constraint is GW170817-like BNS tidal data.
 ```
 
-This file is deliberately a ledger, not a conclusion. The next step is a spreadsheet or script that computes the first ΔR/ΔΛ sensitivity rows and marks which effects are already excluded, hidden, or worth modeling.
+This archived file is a ledger input, not a conclusion. The next step is a spreadsheet or script that computes the first ΔR/ΔΛ sensitivity rows and marks which effects are already excluded, hidden, or worth modeling.

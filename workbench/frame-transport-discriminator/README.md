@@ -1,6 +1,6 @@
 # Frame-Transport Discriminator Workbench
 
-Status: workbench data, not canonical evidence ledger.
+Status: workbench data; not canonical evidence and not a witness ledger.
 
 Purpose: collect external handles relevant to the split between:
 
@@ -23,7 +23,7 @@ Current readout:
 Gravity Probe B and double-pulsar spin-precession rows support FT-1:
   carried spin/vector structure changes observables and matches GR transport predictions.
 
-Neutron spin-rotation and storage-ring rows are seam handles:
+Neutron spin-rotation and storage-ring rows are contact handles:
   they show spin/rotation/circular-acceleration response structure, but do not cleanly
   decide FT-2 or FT-3.
 
@@ -40,4 +40,4 @@ numeric_residuals.csv:
   simple observed-minus-predicted residuals for rows with numeric GR predictions.
 ```
 
-Do not promote this workbench without checking source papers, uncertainties, and whether the lane is FT-1 support or an FT-2 / FT-3 discriminator.
+Keep this workbench unpromoted until source papers, uncertainties, and lane placement have been checked: FT-1 support is not the same status as an FT-2 / FT-3 discriminator.

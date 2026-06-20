@@ -49,7 +49,7 @@ They do not yet close the loop together.
 
 ## 3. What this means
 
-The B5 torsion lane is live, but not yet confirmed even internally.
+The B5 torsion lane is live as a model query, but not internally confirmed and not witness-bearing.
 
 The reason it is live:
 
@@ -71,9 +71,9 @@ Neither has yet been passed through the full J0740 + BNS + J0952 + Λ/I gate in 
 
 ---
 
-## 4. End-state prediction
+## 4. End-state residual claim
 
-After this pass, the prediction is no longer vague.
+After this pass, the residual claim is no longer vague.
 
 Not:
 
@@ -102,7 +102,7 @@ More operationally:
 R_obs(M, s) = R_GR(EOS, M) + ΔR_torsion(M, s)
 
 where:
-  ΔR_torsion < 0 in the promoted lane
+  ΔR_torsion < 0 in the selected lane
   ΔR_torsion scales with spin/current source s
   high-mass support survives
   BNS tidal/radius constraints survive
@@ -117,15 +117,15 @@ where:
 
    If ΔR≈-0.5 to -0.9 km appears near relevant spin/source ranges
    and M≈2.08 survives:
-     promote to real EOS/tidal gate.
+     advance to real EOS/tidal gate.
 
    If effect exists only by arbitrary rotation-induced parameter choice:
-     keep as sign/magnitude support, not B5-positive evidence.
+     keep as sign/magnitude support, not B5-positive witness.
 
 2. Extract Vashistha/Gannouji/Ganguly curves.
 
    If compactification occurs while Mmax remains ≥ J0740/J0952 bounds:
-     promote as source-clean candidate.
+     advance as source-clean candidate.
 
    If Mmax drops below observed high-mass pulsars:
      keep as formal source-routing support only.
@@ -143,7 +143,7 @@ where:
 This phase ends here:
 
 ```text
-The prediction lane has been reduced to a falsifiable model query.
+The residual lane has been reduced to a falsifiable model query.
 ```
 
 The query:
@@ -163,7 +163,7 @@ One paper gives source-routing.
 The combined requirement remains open.
 ```
 
-That is a real endpoint. The next step is not more in-repo arithmetic. It is paper-table extraction or actual model computation.
+That is a real archive endpoint. The next step is not more in-repo arithmetic. It is paper-table extraction or actual model computation.
 
 ---
 
@@ -182,7 +182,7 @@ C. A real TOV/Love-number notebook/script
    external EOS baseline + parameterized torsion correction + Λ/I recomputation
 ```
 
-Without one of those, the cheap prediction engine has reached its limit.
+Without one of those, the cheap triage engine has reached its limit.
 
 ---
 

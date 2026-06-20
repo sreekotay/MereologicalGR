@@ -86,7 +86,7 @@ B5 status:
 
 ```text
 This is the best current sign match.
-It lands almost exactly on the toy gate's promoted negative lane:
+It lands closely on the toy gate's selected negative lane:
   ΔR ≈ -0.9 km
 ```
 
@@ -100,7 +100,7 @@ The visible lane is rotation-induced and therefore less cleanly tied to the mini
 Use:
 
 ```text
-Promote as the first concrete model to extract numerically.
+Advance as the first concrete model to extract numerically.
 ```
 
 Needed extraction:
@@ -167,7 +167,7 @@ That may be a problem for the J0740/J0952 high-mass support gate unless the EOS/
 Use:
 
 ```text
-Promote as the first formal/source-clean model to study,
+Advance as the first formal/source-clean model to study,
 but require high-mass-support check before treating it as observationally viable.
 ```
 
@@ -363,7 +363,7 @@ Can Λ/I be computed from their sequences?
 
 ## 6. Decision after extraction
 
-### Promote to real modeling if:
+### Advance to real modeling if:
 
 ```text
 negative ΔR exists at relevant masses;
@@ -381,7 +381,7 @@ compactification exists but only in unrealistic profiles;
 Λ/I cannot be connected to observable gates.
 ```
 
-### Reject as B5-positive evidence if:
+### Reject as B5-positive witness if:
 
 ```text
 effect is arbitrary coupling fit;
@@ -395,7 +395,7 @@ high-mass or BNS constraints fail broadly.
 
 ## 7. Current conclusion
 
-The cheap gates did not dead-end. They landed on a real external target.
+The cheap gates did their job: they landed on a real external target.
 
 Current best statement:
 

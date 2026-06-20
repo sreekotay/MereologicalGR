@@ -55,15 +55,15 @@ influence remains
 flow is stripped
 ```
 
-That is the seed. It does not prove the whole framework. It only proves that one ordinary bundle is not atomic:
+That is the seed. It does not carry the framework's weight by itself. It shows that one ordinary bundle is not atomic:
 
 ```text
 cause ≠ temporal flow
 ```
 
-This is the first naked-role case in the corpus. "Naked" means role-exposed, not ontologically bare: one ordinary bundle is stripped enough that a constituent role can be seen carrying work. The photon strips flow while leaving ordering and influence. Later notes use the same pattern when scalar Unruh strips orientation to expose flow / self-transport, CMB strips individual photon rest-frame language to expose congruence-rendering, Hubble slot-counting strips semantic redshift to expose burden slots, and Hawking strips bath / constitution readings to expose access / rendering / write separation.
+This is the first role-exposed case in the corpus. Role-exposed does not mean ontologically bare; it means stripped enough that one constituent role can be seen carrying work. The photon strips flow while leaving ordering and influence. Later notes use the same pattern at other corners: one role is stripped, set empty, or forced against a contact closure so the remaining role-work becomes visible.
 
-A naked-role read is licensed only when:
+A role-exposed read is licensed only when:
 
 ```text
 1. a normally bundled role is silent, stripped, or held fixed by the setup;
@@ -112,7 +112,7 @@ energy-momentum:
 
 influence floor:
   later carved as consequence-capable phase-bearing relatedness,
-  not proven by the photon alone
+  not licensed by the photon alone
 ```
 
 So A1's discipline is:
@@ -135,7 +135,7 @@ ordering:
 
 influence:
   grammar-leg: consequence-capable relatedness;
-  photon seed licenses carrier tier (A0 §3.3);
+  photon seed licenses carrier tier (A0 §3);
   later narrowed as phase-bearing;
   not force, push, signal, agency, or already-information
 
@@ -420,7 +420,7 @@ massive tiny limit:
   flow present but small
 ```
 
-This probes the null/timelike seam without supplying a new constant.
+This probes the null/timelike boundary without supplying a new constant.
 
 ### 10.4 Horizons and singularities
 
@@ -462,7 +462,7 @@ Important standing corrections:
 2. radiation-reaction / two-place field behavior pressure-tests relatedness;
    it does not simply ratify relatedness as a derived role.
 
-3. the photon seed does not prove phase-bearing influence;
+3. the photon seed does not license phase-bearing influence;
    it only forces influence to be separable from flow.
 
 4. no scalar coefficient may be fitted first and then declared derived.
@@ -475,7 +475,7 @@ Important standing corrections:
 
 ## 12. Ledger
 
-Derived / framework-owned in A1:
+Derived / MGR-claimed in A1:
 
 ```text
 1. photon seed separates ordering, influence, and flow;

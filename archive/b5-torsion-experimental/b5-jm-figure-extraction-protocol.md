@@ -149,9 +149,9 @@ JM-D5-bns-proxy-risk:
 
 ---
 
-## 4. B5-positive condition
+## 4. B5-positive gate condition
 
-Jockel-Menger upgrades from sign/magnitude support to candidate observational pipeline only if digitized rows show:
+Jockel-Menger upgrades from sign/magnitude support to candidate observational-pipeline input only if digitized rows show:
 
 ```text
 1. ΔR < 0 at relevant source strength.
@@ -181,7 +181,7 @@ The remaining blocker is numeric figure extraction:
 Fig. 4 digitization or author/source data required.
 ```
 
-Until then, the honest endpoint is:
+Until then, the archive endpoint is:
 
 ```text
 Jockel-Menger supports the B5 application lane qualitatively and by headline magnitude,

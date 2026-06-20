@@ -202,7 +202,7 @@ near maximum mass / cutoff
 
 ## 6. Acceptance threshold
 
-Jockel-Menger upgrades from sign/magnitude anchor to candidate B5 observational pipeline if raw data show:
+Jockel-Menger upgrades from sign/magnitude anchor to candidate B5 observational-pipeline input if raw data show:
 
 ```text
 1. negative radius shift at relevant rotation/source values;

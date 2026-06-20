@@ -3,7 +3,7 @@
 *Working draft, June 2026.*
 
 Status: Jockel-Menger extraction pass from abstract / arXiv text.  
-Purpose: decide whether this paper is enough to promote the B5 torsion application lane, or whether it only provides sign/magnitude support.  
+Purpose: decide whether this paper is enough to advance the B5 torsion application lane, or whether it only provides sign/magnitude support.
 Grade: extraction-gate note. Numeric figure/table extraction still required.
 
 ---
@@ -48,7 +48,7 @@ The paper splits into three rows:
 | row | lane | B5 status | gate |
 |---|---|---|---|
 | microphysical spin | intrinsic spin / spin-fluid | framework-clean but observationally hidden | formal note only |
-| macroscopic angular momentum | rotation-induced torsion | best sign/magnitude match | promote to figure/table extraction |
+| macroscopic angular momentum | rotation-induced torsion | best sign/magnitude match | advance to figure/table extraction |
 | general torsion trend | qualitative EC trend | sign support | qualitative support |
 
 The key row is:
@@ -58,7 +58,7 @@ macroscopic angular momentum / rotation-induced torsion
 ΔR ≈ -0.9 km
 ```
 
-That exactly matches the toy gate's promoted lane:
+That matches the toy gate's selected lane:
 
 ```text
 negative, source-scaled compactification
@@ -66,17 +66,17 @@ negative, source-scaled compactification
 
 ---
 
-## 3. What this paper proves for us
+## 3. What this paper shows for this archive pass
 
-It proves enough to say:
+It is enough to say:
 
 ```text
-The B5 promoted lane is not invented by the framework.
+The B5 selected lane is not invented by the framework.
 There is an existing EC neutron-star model family with the right sign
 and a relevant magnitude scale.
 ```
 
-It also proves:
+It also shows:
 
 ```text
 The clean intrinsic-spin route is probably not the first observational route.
@@ -97,9 +97,9 @@ not bare microphysical spin density.
 
 ---
 
-## 4. What it does not prove yet
+## 4. What it does not establish yet
 
-It does not yet prove:
+It does not yet establish:
 
 ```text
 J0740 compatibility
@@ -166,13 +166,13 @@ Current decision:
 Jockel-Menger is the application lane.
 ```
 
-But the evidence grade is:
+But the witness grade is:
 
 ```text
-sign/magnitude anchor, not full B5-positive evidence yet.
+sign/magnitude anchor, not full B5-positive witness yet.
 ```
 
-Full B5-positive evidence would require:
+Full B5-positive witness status would require:
 
 ```text
 negative ΔR at relevant source strength;
@@ -210,7 +210,7 @@ live model-search problem
 to:
 
 ```text
-candidate observational pipeline.
+candidate observational-pipeline input.
 ```
 
 If not, it remains:
