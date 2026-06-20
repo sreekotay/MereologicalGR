@@ -378,7 +378,9 @@ Proper acceleration is the exhibit-grade local face of frame-transport; the scal
 
 ```text
 proper acceleration:
-  non-geodesic / forced frame-transport along timelike flow;
+  non-geodesic forced frame-transport on timelike flow — the forced face;
+  requires normalizable timelike u; rest mass marks the usual lab register,
+  not the gate (§13)
   exhibit-grade read: makes that deviation observable locally;
   imported handle: measures non-geodesic transport along one worldline — not the operation whole
 
@@ -398,13 +400,14 @@ This pressures the influence audit without settling it. The disciplined split is
 Photon:
   ordering + carrier influence remain;
   flow stripped;
+  no forced face on the null line; rendering + curvature retained;
   cause != flow;
   seed licenses carrier tier only (§3.3);
   no phase requirement at the seed.
 
 Acceleration:
-  flow remains;
-  frame-basis changes through flow;
+  flow remains on timelike flow;
+  forced-face exhibit; frame-basis changes through flow;
   rendering != passive labeling;
   exposes rendered-influence tier (§3.4);
   no new influence primitive is added.
@@ -499,7 +502,7 @@ integrated:
 
 sorts by:
   normalizable timelike u (flow), not rest-mass;
-  mass is only the marker of flow-capacity (§12)
+  mass is only the marker of flow-capacity (§13)
 ```
 
 Locate the photon against that operation:
@@ -512,7 +515,7 @@ massive 4-velocity:
   not an eigenvector; rotates hyperbolically (E, p mix)
 ```
 
-So the photon has no proper acceleration not as a bare lack but because it is the **fixed ray of the operation the forced face generates** — the same fact as c-invariance, read off the eigenstructure. Massive content lives in the interior of the boost flow; the photon is its asymptote.
+So the photon has no proper acceleration not as a bare lack but because it is the **fixed ray of the operation the forced face generates** — the same fact as c-invariance, read off the eigenstructure. Massive content lives in the interior of the boost flow; the photon is its asymptote. (Null directions are boost eigenvectors: the photon is excluded from carrying the forced face, not from acceleration experiments; the timelike detector worldline carries the forced face.)
 
 The payoff for the render-only verdict:
 
