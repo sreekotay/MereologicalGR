@@ -594,7 +594,7 @@ threshold / application scale
 
 The method does not require all named entries to be ontological peers. It requires each named entry to state its type, dependencies, and grade.
 
-Note that we place "photon" and "QE" as adjacent in this work - a mereology of roles, not substances.
+Note, e.g., that we place "photon" and "quantum entanglement" as adjacent in this work - a mereology of roles, not substances.
 
 Why ordering/influence/flow/adjacency and not fields/forces/particles? Because the substance vocabulary is closure-locked to GR. It cannot speak clearly to its export across seams.
 
