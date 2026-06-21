@@ -3,7 +3,7 @@
 Status: working proof/contact note.  
 Grade: lineage-witness for GB-3 / no-null-constitution; magnitude QG-priced, MGR-disowned.
 
-This note pulls the QES/island-formula contact out of `a2-gravity-information-adjacency.md`. It tests one narrow claim: whether the modern black-hole entropy calculation forces constituted information onto null horizon structure, or instead separates area/count/cut structure from fine-grained bulk/radiation degrees and flow-bearing uptake.
+GB-3 (A2 §8) is the parent bet: no null structure constitutes information. This note tests it against the modern black-hole entropy calculation — whether the island/QES formula forces constituted information onto null horizon structure, or instead separates area/count/cut structure from fine-grained bulk/radiation degrees and flow-bearing uptake.
 
 ## 1. Claim under test
 
@@ -97,8 +97,11 @@ QES X
   extremal boundary
   selector of the reconstruction wedge
 
-reconstruction / measurement / uptake
-  flow-bearing constitution site
+holographic reconstruction / entanglement wedge
+  recoverability / record routing (D3 accounting); not a constitution site
+
+detector / register uptake at application threshold
+  flow-bearing constitution site (A3, PB-4)
 ```
 
 Important guardrail:
@@ -114,7 +117,8 @@ Likewise:
 ```text
 S_bulk(R ∪ I_X) represents / computes fine-grained entropy of degrees.
 It does not itself perform constitution.
-Constitution occurs only at flow-bearing uptake, reconstruction, or measurement.
+Constitution occurs only at flow-bearing uptake/measurement at a write site (A3);
+wedge reconstruction is recoverability, not constitution.
 ```
 
 So the formula separates:

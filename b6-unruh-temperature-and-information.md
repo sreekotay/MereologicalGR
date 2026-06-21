@@ -42,6 +42,17 @@ but:
   once QFT state and detector machinery are supplied.
 ```
 
+The anti-bath guardrail is about ontology, not state-structure:
+
+```text
+allowed:
+  KMS thermality of the restricted access (Rindler-wedge) algebra / modular flow at T = a/2π
+
+not earned:
+  a detector-independent register of already-constituted particles or information
+  in flight across Minkowski space
+```
+
 Influence's layer matters:
 
 ```text
@@ -65,11 +76,11 @@ GR / Levi-Civita can earn:
   accelerated pullback;
   imaginary proper-time period beta_tau = 2pi c/a.
 
-MGR can earn:
+MGR can locate / role-route (derivation status: B7 §6):
   frame-transport as an operation;
-  retarded causal orientation;
-  positive frequency as future-flow energy orientation;
-  need for a stability floor;
+  retarded causal orientation (role-natural);
+  positive frequency as future-flow energy orientation (boundary-located, not derived);
+  need for a stability floor (quantum-state machinery);
   temperature / information role separation.
 
 Calibration may supply:
@@ -133,14 +144,10 @@ consequence-capable relatedness
 → possible uptake / write
 ```
 
-Skeleton route:
+Skeleton route (derived in B7 §4–§5; not re-derived here):
 
 ```text
-uniform acceleration
-→ hyperbolic worldline
-→ scalar interval skeleton pullback
-→ sinh^-2[a delta_tau/(2c)]
-→ beta_tau = 2pi c/a
+uniform acceleration → hyperbolic worldline → scalar interval pullback → beta_tau = 2pi c/a
 ```
 
 QFT still supplies the state and response machinery:

@@ -22,7 +22,7 @@ So an expanding universe is not information expanding, not photons losing inform
 H = (1/a) da/dτ
 ```
 
-Mereological reading:
+Mereological reading (`τ` = cosmic / comoving-proper time, the shared-congruence flow; not a single accelerated worldline's proper time):
 
 ```text
 H = fractional adjacency-scale change per cosmic flow
@@ -39,7 +39,7 @@ Allowed:
 ```text
 expansion changes adjacency relations over flow
 carriers redshift under metric comparison
-record arrival rates dilate by 1 + z
+record arrival intervals dilate by 1 + z (arrival rates fall as 1/(1 + z))
 horizons change accessibility for a flow-bearing observer
 ```
 
@@ -95,10 +95,10 @@ D_L = (1 + z)² D_A
 Luminosity distance and angular diameter distance are reciprocally related under metric propagation and photon-number conservation.
 
 ```text
-θ = r / D
+θ = r / D_A
 ```
 
-Observed angle plus ruler size gives transverse distance.
+Observed angle plus ruler (proper) size gives the angular-diameter distance D_A.
 
 These identities do not say the conditioners are safe. They say where the burden may not be placed unless the identity's assumptions independently fail.
 

@@ -395,11 +395,10 @@ spin-current torsion equation:
   computes: torsion tensor, axial torsion, contortion, effective correction, or bound;
   not derived: kappa, index convention, trace convention, or EC/Poincare-gauge dynamics.
 
-neutron-star torsion burden:
-  imported handle: selected EC / Poincare-gauge stellar model or effective torsion correction
-  role exposed: spin/current-correlated torsion burden in a compact-object regime;
-  computes: delta R, delta M_max, delta rho_c, delta I, delta Lambda, spin response sign, or bound;
-  not derived: EOS, observational inference, or source-model correctness.
+compact-object torsion burden (archived sensitivity, D9):
+  imported handle: EC / Poincare-gauge stellar model or effective torsion correction;
+  role exposed: spin/current-correlated burden in a compact-object regime;
+  numerics and readouts: archive/b5-torsion-experimental/ (not canonical).
 ```
 
 Method reading:
@@ -543,126 +542,31 @@ choice of EC / Poincare-gauge action;
 whether the physical source model is correct.
 ```
 
-### 10.4 Computation recipe
+### 10.4 Computation route (numerics archived)
 
-A minimal torsion-burden computation has this form:
-
-```text
-Input:
-  metric / tetrad or baseline GR solution;
-  matter model;
-  decision whether spin current is Belinfante-absorbed or retained independently;
-  chosen torsion-sector equation.
-
-Step 1:
-  compute or model independent spin-current s.
-
-Step 2:
-  solve imported torsion equation:
-    T + trace terms = kappa * s.
-
-Step 3:
-  compute contortion:
-    K = K(T).
-
-Step 4:
-  form torsion-live connection:
-    Γ = { } + K.
-
-Step 5:
-  compute transport consequences:
-    geodesic/autoparallel shift;
-    curvature correction;
-    effective stress-energy correction;
-    spin-correlated radius / mass / moment-of-inertia / tidal-response shift.
-
-Step 6:
-  compare to data or bound:
-    hidden;
-    testable;
-    excluded;
-    suggestive.
-```
-
-The framework-positive output is not:
-
-```text
-any deviation from GR
-```
-
-but:
-
-```text
-spin/current-routed torsion burden
-not absorbed by ordinary GR + matter modeling.
-```
-
-### 10.5 Zero and tiny-number discipline
-
-A zero or tiny torsion burden in a model is not automatically a refutation of the missing-cell audit.
-
-```text
-zero because spin current is absent / absorbed:
-  GR-sector description successful for that source model
-
-zero because role-reason forbids translational closure failure:
-  torsion-free forced, cell closed
-
-tiny because realistic spin density is small or cancels:
-  live cell, hidden number
-
-nonzero and spin/current-correlated:
-  positive number-producing target
-```
-
-This keeps the audit from treating tiny as empty or residual as victory.
-
----
-
-## 11. Application workbook (archived numerics)
-
-Compact objects are the first sensitivity arena: high density, spin, EOS leverage, mass/radius/tidal constraints. **Canonical B5 stops at the route; numbers live in the workbench.**
-
-Two source channels must not be fused:
-
-```text
-A. Intrinsic-spin / minimal EC:
-   fermion spin density → independent spin current → torsion equation
-   lineage: cleanest B5 route
-   realistic NS status: usually hidden / negligible
-
-B. Rotation-induced / phenomenological:
-   macroscopic rotation or model-specific current → effective torsion
-   lineage: externally priced; not identical to A
-   near-term status: model-dependent shifts (e.g. sub-km radius in some EC models)
-```
-
-Channel A is the structural bet. Channel B is a **sensitivity probe only** — useful for bounds, not for top-level project identity.
-
-Workbench pipeline (detail, anchors, gates, Jockel–Menger readouts):
+The route from spin current to a priced burden — solve the torsion-sector equation, form contortion `K`, build `Γ = { } + K`, propagate to transport/observable shifts, compare to data or bound — is a standard imported computation. The runbook, anchors, gates, and Jockel–Menger readouts live in the workbench:
 
 ```text
 archive/b5-torsion-experimental/
 ```
 
-Applied routing when fitting residuals:
+Forced-empty discipline still applies: a zero or tiny torsion burden is not refutation. Zero from absent/absorbed spin current is GR-sector success; tiny from small realistic spin density is a live cell with a hidden number; only a role-level closure proof forces the cell empty.
+
+---
+
+## 11. Application arena (archived numerics)
+
+Compact objects are the first D9 sensitivity arena: high density, spin, EOS leverage, mass/radius/tidal constraints. Canonical B5 fixes only the spin-current → torsion-sector route. Two source channels must not be fused:
 
 ```text
-spin/current-correlated residual → price through torsion-sector route first
-not absorbed by EOS / symmetric T_mu_nu / magnetic / crust alone
+A. Intrinsic-spin / minimal EC:  fermion spin density → independent spin current → torsion equation
+   (structural bet; realistic-NS status usually hidden / negligible)
+
+B. Rotation-induced / phenomenological:  macroscopic rotation / model current → effective torsion
+   (sensitivity probe only; externally priced; not identical to A)
 ```
 
-**Positive evidence (B5-positive, not generic GR deviation):**
-
-```text
-same EOS fits slow/low-spin objects;
-fast/high-spin objects need a correction;
-correction sign/scale matches torsion-sector pricing, not mass-energy density alone.
-```
-
-**Failure / weakening:** all spin/current effects absorbed by ordinary GR+matter modeling; or residuals route through magnetic/thermal/crust/EOS with no torsion improvement. **Null tightens bounds; it does not force torsion empty** — forced-empty still needs a role-level closure proof.
-
-Promotion from archive to top-level requires: stable source data, fixed role-route before fitting, and clear demotion/failure conditions (diagnostic-ledger D9 discipline).
+Numerics, gates, EOS leverage, and readout criteria live in `archive/b5-torsion-experimental/`. Promotion to top-level requires stable source data, a role-route fixed before fitting, and clear demotion conditions (diagnostic-ledger D9 discipline). Null tightens bounds; it does not force torsion empty.
 
 ---
 

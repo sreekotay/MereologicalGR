@@ -304,7 +304,7 @@ parallel transport:
 
 along timeline u^μ:
   u^ν ∇_ν u^μ = a^μ          geodesic when a^μ = 0
-  a = sqrt(−a_μ a^μ)          scalar measure of non-geodesic use of ∇ on that line
+  a = sqrt(a^μ a_μ)           scalar measure of non-geodesic use of ∇ on that line (spacelike a, signature −+++)
 
 nearby geodesics:
   D²ξ^μ/dτ² = −R^μ{}_{νρσ} u^ν ξ^ρ u^σ

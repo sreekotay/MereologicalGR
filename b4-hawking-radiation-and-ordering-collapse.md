@@ -88,15 +88,22 @@ Page-QES:
   theoretical, not direct observation.
 ```
 
-The loss-edge contact is therefore narrow:
+The loss-edge contact is therefore narrow. GB-2 (A2 §7) runs as two directional bets, not a sealed equivalence:
 
 ```text
-classical singularity
-→ geodesic termination
-→ invariant continuation failure
-→ ordering-collapse
-→ stranding threat
+invariant information-stranding ⇒ ordering-collapse
+invariant ordering-collapse    ⇒ loss or unaccountability pathology
 ```
+
+At the classical singularity the loss-edge phenomena co-locate:
+
+```text
+geodesic termination
+invariant continuation failure
+stranding threat
+```
+
+Whether that edge also exhibits invariant information-stranding — and so ordering-collapse under bet 1 — is an open contact, not a packaged chain.
 
 Observer-relative horizons do not automatically count as ordering-collapse. Rindler and de Sitter horizons can be horizon-rich without being invariant stranding edges.
 

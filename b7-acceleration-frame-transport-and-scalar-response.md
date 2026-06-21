@@ -68,7 +68,7 @@ The scalar proper acceleration is the magnitude of this vector:
 a = sqrt(a^μ a_μ)
 ```
 
-with sign convention understood. This scalar `a` is the one that sets the uniform-acceleration scale in the Unruh calculation.
+Four-acceleration is spacelike (`a·u = 0`), so with signature `(−,+,+,+)` the magnitude `a = sqrt(a^μ a_μ)` is real (matching A2 §6). This scalar `a` sets the uniform-acceleration scale in the Unruh calculation.
 
 On this Levi-Civita reading, velocity and acceleration do different work:
 
@@ -93,6 +93,8 @@ frame-transport:
 proper acceleration:
   measurable local face of non-geodesic self-transport of timelike flow
 ```
+
+Acceleration is not gravity. On a timelike geodesic `u^ν ∇_ν u^μ = 0`, so `a = 0`, yet curvature `R` may be nonzero: tidal deviation, holonomy, and redshift stay live (A2 §5–6 geodesic stress test). Proper acceleration meters non-geodesic use of `∇` on this one line; it is not gravity and not frame-transport whole. The uniform Rindler `a` used below is a flat-spacetime laboratory for scalar pullback (`R = 0`), not a curved-source readout.
 
 This matters for uptake if FT-3 is right, because acceleration changes the sampling/rendering conditions:
 
@@ -439,6 +441,8 @@ possible write if detector threshold is crossed.
 ```
 
 This is a consistency check with PB-3 / PB-4, not a B7-originated guardrail. It does not confirm PB-4-full, because thermal rendering is not information constitution. Constitution still requires uptake/write at application scale.
+
+**D1 alignment:** the accelerated response routes through pullback + coupling + gap + uptake, QFT supplying the state/detector layer. It fails if a detector-independent invariant in-flight bath is required (`diagnostic-ledger.md` §5 / D1; B6 owns the temperature/information daylight).
 
 ---
 
