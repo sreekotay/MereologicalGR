@@ -149,13 +149,16 @@ Full prose: `diagnostic-ledger.md` §4–§14. Compact:
 | **D5** | Temperature / information | role diagnostic | Same as grammar row above | Temperature alone suffices for constitution |
 | **D6** | CMB T–redshift | null guard | No information-specific thermal degradation | Deviation tracks constitution not cosmology/thermalization |
 | **D7** | Information-specific redshift | null guard | Semantic content not extra gravitational source | Same channel, different content → reproducible Δz |
-| **D8** | Virtual exchange | null + route | Kernel ≠ carrier information in flight | Virtual exchange requires flow-bearing carrier info |
+| **D8** | Virtual exchange | null + route + **minimal toolkit** | Owned: absence-type, two registers, endpoint provenance, commutator causality. Projected: Sokhotski split, `q²` shell gate. Imported: magnitude, gauge closure (B1 §2) | Virtual exchange requires flow-bearing carrier info; or propagator support alone is the causality diagnostic |
 | **D9** | Torsion / spin-current | **archived sensitivity** | Spin/current-routed correction if live | Absorbed by GR+EOS; or role-level forced-empty result |
 | **D10** | RFI-QKD | confirmation / misread | Correlator = record; key at uptake | — (structurally confirmation lane) |
 | **D11** | QRF / relational facts | engine + PB-4 | Frame relativity in reversible regime; committed records agree at fixed write-chain **and pinned threshold T** | Constituted record frame-relative at fixed write-chain **and fixed T**; or **T** slid post hoc to rescue constitution |
 | **D12** | Ordering/influence bound (PB-1/2) | **fork declared; contact unwired** | Ordering/influence-axis bound + interior ratio; photon exhibit / unit pressure only (PB-1 names, PB-2 opens) | Axis unbounded where decomposition exposes it; ratio per-adjacency only; no bound/realized split; **or** full downstream cascade → relabel (see Tier B) |
+| **D13** | Quantum thermodynamics closure | record vs constitution + engine | Work/cycle/engine require battery, clock/control, register/write, reset | State functionals alone suffice for constituted work/information/cycle; reset omitted while cycle claimed |
 
 Full prose for D12: A0 §12, A1 §7. Forks declared; no dedicated contact run yet — architecture demotion can still land via PB could-fails plus downstream bet/contact cascade.
+
+Full prose for D13: `a5-quantum-thermodynamics-closure-audit.md`.
 
 ---
 
@@ -165,7 +168,7 @@ Non-additive. Each row: did this contact collapse to relabel, or did role-route 
 
 | Contact | Source | Grade | Discount | Could-have-failed | Notes |
 |---|---|---|---|---|---|
-| Virtual exchange absence-type | B1 | lineage-witness | magnitude QED-owned | microcausality on propagator support, not commutators alone | kernel ≠ carrier |
+| Virtual exchange absence-type + minimal toolkit | B1 | lineage-witness | owned/projected/import boundary (§2); kernel ≠ carrier | propagator support as sole causality diagnostic; gauge-invariant carrier content on off-shell line | magnitude Layer 3 only; Sokhotski = Layer 2 projection |
 | Hubble slot-count | B2 | lineage-witness | calibration disowned | third semantic-redshift slot | two-slot burden under shared flow |
 | QES / null constitution | B3 | lineage-witness | QG formula owned | irreducible constitution on null generators | record ≠ write site |
 | Gauge / normal-ordering conventions | A0 §3 probe | **lineage-neutral** | — | tier separation absent | audit returns **relabel only** — logged so the grade can fail |
@@ -193,6 +196,7 @@ Same layer break; different register — predicted by role split, not by QEC num
 | Mid-circuit / latency | A4, ledger §14.1 | Commit cliff when τ_dec/τ_cycle → 1 | — (engineering contact) |
 | Metrology mirror | A4 §6 | Decode policy vs commit (e.g. M=1 → SQL class) | HL scaling without commit leg |
 | Zych clock interferometry + clock-OFF | B8; ledger §14.3.1; A0 §9 | ON/OFF factorial at fixed φ; **lab open** (no V data; render-leg only: COW, grav. AB 2022) | V drops with clock-OFF at fixed φ; or V tracks φ only with clock ON |
+| QThermo composites sort by layer | A5; D13 | Same correlation record → vary battery, reset, register/write, clock/control | Work/cycle/information from state functionals alone; reset omitted while cycle headline stands |
 
 Published experiment map: `diagnostic-ledger.md` §14.
 
@@ -213,4 +217,4 @@ Do not treat workbench outputs as witness for PB or core grammar without promoti
 
 When adding a claim: state **grade**, **owned**, **imported**, **could-fail**, **discount** (if lineage-witness), **source file**. If a row duplicates the ledger, the ledger row wins for lane detail; this file wins for **at-a-glance status**.
 
-Last aligned with corpus: June 2026 (A0 through §14, A4 §9, B8, diagnostic-ledger §15).
+Last aligned with corpus: June 2026 (A0 through §14, A4 §9, B1 §2 minimal toolkit, B8, diagnostic-ledger §4.1 / §15).

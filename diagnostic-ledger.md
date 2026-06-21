@@ -150,6 +150,11 @@ unless the document has separately earned that stronger status.
    RFI-QKD is a confirmation/misread lane and cannot break the bet;
    quantum reference frames are the strongest current PB-4 break-exposure,
    sharper than the QD/SBS row because the contested quantity is constitution itself.
+
+8. Quantum thermodynamics operational closure
+   Contact type: record-vs-constitution discriminator + engine-eligible where reset/memory/clock protocols are live.
+   Best cycle/work/engine bundling stress test for A3/A4 grammar at thermo contact.
+   Extends D5 (temperature leg only); full prose in a5-quantum-thermodynamics-closure-audit.md.
 ```
 
 ---
@@ -165,11 +170,52 @@ unless the document has separately earned that stronger status.
 | D5 | Temperature / information separation | role diagnostic | thermodynamic/statistical temperature as response/distribution parameter | temperature = flow-indexed response scale; information = uptake/write | temperature alone does not constitute information | temperature alone determines constituted information without record channel/coarse-graining/application threshold |
 | D6 | CMB temperature-redshift | null guard | T(z)=T0(1+z), with standard deviations handled by cosmology/thermalization | temperature is congruence-rendered distribution scale | no information-specific temperature degradation term | deviation specifically tracks information/constitution rather than thermalization, foregrounds, injection, calibration, or cosmology |
 | D7 | Information-specific redshift | null guard | redshift via p dot u between emitter/receiver worldlines | carrier energy is rendered by flow-worldlines; semantic content is not a gravitational source term | no semantic/code/recoverability-dependent frequency residual | same carrier/channel but different information content gives reproducible gravitational redshift residual |
-| D8 | Virtual exchange / microcausality | null guard / route diagnostic | QFT propagators plus microcausality of observables | influence-kernel without carrier-flow; no constituted virtual-carrier information | endpoint observables respect microcausality; no virtual-carrier information term | virtual exchange requires carrier-like flow-bearing information propagation |
+| D8 | Virtual exchange / microcausality | null guard / route diagnostic + **minimal toolkit** | QFT propagators plus microcausality of observables | owned: absence-type, two registers, endpoint provenance, commutator causality; projected: Sokhotski split (PV ↔ kernel, on-shell δ ↔ endpoint), `q²` shell gate; imported: magnitude, gauge closure (B1) | endpoint observables respect microcausality; no virtual-carrier information term | virtual exchange requires carrier-like flow-bearing information propagation; or propagator support alone is the causality diagnostic |
 | D9 | Torsion / spin-current compact objects | archived sensitivity lane | GR + EOS + rotation + magnetic/crust/thermal modeling | independent spin/current retained -> torsion equation -> contortion -> observable shift or bound | nonzero only if spin/current survives as independent source; scale should track spin/current, not mass-energy alone | residual fully absorbed by ordinary matter/EOS modeling; no independent spin-current torsion burden; or role-level forced-empty result |
 | D10 | RFI-QKD / reference-frame-independent communication | record-vs-constitution discriminator + null guard | QKD secure under unaligned/drifting transverse frames; key in a stable basis; security from rotation-invariant correlators | transverse frame-independence = rendering/transport robustness; key constituted at detector uptake against a retained shared stable axis/clock | frame-invariant correlator is pre-uptake record, not constituted key; a shared stable axis/timing is still present | constituted, usable key produced with no flow-bearing uptake and no shared stable reference anywhere in the chain (structurally unavailable in RFI-QKD; confirmation/misread lane) |
 | D11 | Quantum reference frames / relational facts | engine-eligible test + formal discriminator (PB-4 exposure) | QRF transformations; coherent/superposed reference frames; relational-QM and QRF Wigner's-friend "observer-relative facts" | quantum frame = superposed rendering/transport map, write-not-read; constitution = flow-bearing irreversible write at **pinned threshold T**, not frame-choice | frame/observer-relativity rides the coherent/reversible (un-constituted) regime only; committed flow-bearing records agree at fixed write-chain **and fixed T** | frame/observer-relativity of a genuinely constituted (irreversible, flow-bearing, **T-crossed**) record with physical write-chain **and T** held fixed; or **T** slid post hoc to rescue constitution |
 | D12 | Ordering/influence bound (PB-1/2) | **fork declared; contact unwired** | null sector m/s with τ→0; c on flow/adjacency axis | PB-1 names the exposed axis; PB-2 opens interior ratio | none wired | axis unbounded where decomposition exposes it; ratio per-adjacency only; no bound/realized split; or downstream cascade → relabel (A0 §12, CLAIMS Tier B) |
+| D13 | Quantum thermodynamics operational closure | record-vs-constitution discriminator + engine-eligible (reset/memory/clock) | resource theories, fluctuation theorems, entanglement thermodynamics, thermal machines | work/operation/information/cycle/engine require battery, clock/control, register/write, reset — not optional add-ons | no constituted work/information/cycle from state functionals alone | work, cycle, or constituted information claimed without battery, register/write-chain, reset, or pinned threshold; entropy/MI/correlation sufficient for constitution across varied uptake conditions |
+
+---
+
+## 4.1 Route diagnostic: virtual exchange / microcausality (D8)
+
+Full prose: `b1-virtual-photons-and-influence-kernels.md`.
+
+The contact is not a re-derivation of QED. It is a minimal toolkit audit at the microcausality seam.
+
+```text
+Layer 1 — owned (lineage before contact):
+  absence-type: real photon (null carrier) vs virtual (no carrierhood)
+  two registers only; no carrier/information third register
+  endpoint-first provenance
+  causality on observable commutators, not kernel support
+
+Layer 2 — projected (read from standard propagator math):
+  Sokhotski–Plemelj: PV(1/q²) ↔ exchange kernel; on-shell δ(q²) ↔ endpoint constitution
+  q² = 0 vs q² ≠ 0 as carrier/kernel shell gate
+  M ~ j D j as licensed kernel slot
+
+Layer 3 — imported (QFT contact closure):
+  gauge-invariant cross-sections, form factors, loops, cuts
+  q² / Q² as boundary currency (MGR reads; QFT prices)
+  commutator algebra and microcausality result
+```
+
+Collision sites (B1 §8):
+
+```text
+microcausality:
+  fails if propagator support must be the causality diagnostic
+
+carrier:
+  fails if a gauge-invariant observable isolates worldline / flow / in-flight information on the off-shell line
+```
+
+Current QFT lands on the role-separation side. Magnitude remains QED-priced; MGR-disowned.
+
+This lane is register discipline and anti-misread. It is not a new cross-section prediction.
 
 ---
 
@@ -329,6 +375,58 @@ Failure condition:
 a basis-intrinsic, convention-free, purely state-functional criterion
 identifies constituted information without operation, threshold, or uptake.
 ```
+
+---
+
+## 8.1 Operational closure audit: quantum thermodynamics (D13)
+
+Framework target:
+
+```text
+entropy / MI / correlation = record-structure
+constituted thermodynamic information = record + register + uptake/write + threshold
+work / cycle / engine composites require battery, clock/control, reset — not optional
+```
+
+Standard baseline:
+
+```text
+resource theories, fluctuation theorems, Maxwell-demon protocols,
+thermal machines, entanglement thermodynamics, Landauer erasure accounting
+```
+
+MGR role route:
+
+```text
+state functionals price record;
+batteries, clocks, demons, feedback, memory, and erasure costs complete the composite
+when work, operation, information, cycle, or engine is claimed operationally
+```
+
+Expected pattern:
+
+```text
+review and protocol literature already supply the missing legs under pressure;
+MGR audit asks whether a given headline actually composes or relabels
+```
+
+Good test design:
+
+```text
+hold correlation / entropy diagnostics fixed;
+vary register declaration, write-chain, reset payment, clock/control resource, threshold;
+ask whether work, cycle, or constituted-information claims move
+```
+
+Failure condition:
+
+```text
+constituted work, information, or closed cycle from state functionals alone;
+reset omitted while cycle headline stands;
+entropy/MI sufficient for constitution without uptake/threshold variation
+```
+
+Full layer split and compose recipes: `a5-quantum-thermodynamics-closure-audit.md`.
 
 ---
 
@@ -719,6 +817,7 @@ Same engine pattern as A4 §6: good syndromes/dead memory ↔ good φ/clock-OFF.
 | #1 Clock render vs flow-register | D6/D7; A0 §9; §14.3.1 | **Theory:** Zych 2011. **φ data:** Overstreet *Science* 2022; Chou redshift | **Zych V not measured**; **clock-OFF factorial** open |
 | #1b Clock render-aware steering | D1 + D6/D7; A2 handles | Skytree / Chou redshift | **A/B steering factorial** |
 | #2 QEC decode vs commit | A4; D4 role split (QD analog) | Google Willow 2024; Quantinuum mid-circuit QEC | **2×2 decoder × latency** on same stream |
+| #2b QThermo cycle / reset | A5; D13; D4/D5 legs | demon / Landauer / engine protocol literature (contact unwired) | **reset × correlation** factorial on declared register |
 | #3 QRF write vs frame | D11; PB-4 | Proietti 2019 (tension, not confirm) | **R3/R4 factorial** with pinned write-chain |
 
 ---
@@ -730,7 +829,8 @@ Best role-stress lanes:
   Unruh/temperature response routing;
   horizon/access/frame-transport/write-site separation;
   QD/SBS record versus constitution;
-  QES/holographic term placement.
+  QES/holographic term placement;
+  quantum thermodynamics work/cycle/engine closure (D13 / a5).
 
 Clean null guards:
   no information-specific redshift;

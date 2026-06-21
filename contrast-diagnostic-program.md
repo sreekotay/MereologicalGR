@@ -94,6 +94,7 @@ predictive closure (engine lanes):
 | C7 | QES / holographic QEC / magic | generalized entropy accounting | code resource, area operator, edge structure, backreaction | constituted information living on QES/null surface | extra terms should route to geometry/reconstruction/backreaction unless a changed write-site is forced | formal discriminator |
 | C8 | torsion / compact objects | GR + EOS + rotation + ordinary matter modeling | retained spin/current source | mass-energy density alone | if a correction survives, it must be externally priced and spin/current-routed | archived sensitivity lane |
 | C9 | lab torsion analogues | ordinary material transport/strain/topology | spin current, defect, strain/torsion analogue | scalar energy density alone | analogue closure effects are role-tests, not gravitational torsion detections | analogue route diagnostic |
+| C10 | quantum thermodynamics / thermal engines | resource theory, fluctuation theorems, standard thermo accounting | battery, register/write, reset, clock/control, threshold | correlation/MI/entropy alone as constituted information; free energy as work; feedback as closed cycle | work/cycle/information claims route through named composite legs; state functionals alone do not constitute | record-vs-constitution discriminator + engine-eligible |
 
 Torsion remains in the table because B5 is a legitimate closure-face audit. The experimental/readout work belongs below archive/workbench paths so it does not dominate the project presentation.
 
@@ -466,7 +467,8 @@ Best role-stress lanes:
   Unruh/temperature response routing;
   horizon/access/frame-transport/write-site separation;
   QD/SBS record versus constitution;
-  QES/holographic term placement.
+  QES/holographic term placement;
+  quantum thermodynamics work/cycle/engine closure (D13 / a5).
 
 Clean null guards:
   no information-specific redshift;

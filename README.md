@@ -35,12 +35,12 @@ The work audits roles such as ordering, influence, flow, rendering, uptake, and 
 | Layer | Files | Role |
 |---|---|---|
 | **Root** | `A0-…md` | Grammar, influence ladder, splits, composition, PB bets, ownership rules |
-| **Applications (A)** | `a1` … `a4` | Photon seed run, gravity adjacency, record vs constitution, QEC engine autopsy |
+| **Applications (A)** | `a1` … `a5` | Photon seed run, gravity adjacency, record vs constitution, QEC engine autopsy, quantum thermodynamics closure audit |
 | **Phenomena (B)** | `b1`–`b8` (canonical: `b4`–`b7`; engine: `b8`) | Role-location for horizons, Unruh, virtual exchange, Zych flow-register, etc. — not new dynamics |
 | **Diagnostics** | `diagnostic-ledger.md`, `contrast-diagnostic-program.md` | Contact lanes, null guards, demotion conditions |
 | **Workbench / archive** | `archive/`, `workbench/`, `data/` | Provisional numerics — **not canonical center** |
 
-**Path:** A0 → A3 → A4 → ledger §4 → B-notes as needed.
+**Path:** A0 → A3 → A4 → ledger §4 → B-notes as needed. For thermo export: A3 → A4 → **a5** → D13.
 
 **A0 first pass:** §1–§7, §10, §12. Skip §13 if the rest is clear.
 
@@ -60,7 +60,7 @@ The work audits roles such as ordering, influence, flow, rendering, uptake, and 
 | **gravity** | Imported transport grammar (ordering + influence + energy-momentum) | Information, or proper acceleration alone |
 | **role-gap contact** | Where GR is silent and another closure (QFT, thermo) supplies machinery, guardrails, or stress | A physical boundary or new field |
 | **write-chain** | Physical uptake path (detector, POVM, irreversible register) | Observer label or frame choice alone |
-| **lane** | Diagnostic contact row (D1–D12): where grammar meets existing work | A prediction or new dynamics by itself |
+| **lane** | Diagnostic contact row (D1–D13): where grammar meets existing work | A prediction or new dynamics by itself |
 | **null guard** | Forbidden residual test (ε = 0 class); semantic/content must not add extra physics | Any negative result |
 
 **Prior art:** ordering, flow, and adjacency align with standard causal-structure / ADM decomposition. MGR’s contested carve is **influence separable from ordering** and **constitution machinery**.
@@ -84,7 +84,7 @@ Claim status: [CLAIMS.md](CLAIMS.md).
 ## Layout
 
 ```text
-A0, a1-a4, b1-b8          argument + application notes
+A0, a1-a5, b1-b8          argument + application notes
 diagnostic-ledger.md      lane index (§4)
 contrast-diagnostic-program.md
 archive/b5-torsion-*      sensitivity workbench only (D9)
