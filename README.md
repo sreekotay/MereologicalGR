@@ -79,6 +79,8 @@ Only GR is held fixed. Other closures, including QFT and thermodynamics, can inf
 
 Correlated retrodictive passes across contacts sharing a held-GR variable do not aggregate to convergence; they aggregate to a sharper bet, and the weight lands only at the contact where the shared variable is forced to dissociate.
 
+Note: a framework that pre-answers criticism by deflecting is unfalsifiable; a framework that pre-answers criticism by routing it to a static kill test is attempting maximal falsifiability.
+
 Claim status: [CLAIMS.md](CLAIMS.md).
 
 ---

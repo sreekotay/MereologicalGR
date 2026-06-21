@@ -111,6 +111,8 @@ Realism of composable roles is the conceit; PBs are prices, not theorem outputs 
 
 PB-1 and PB-2 are forks, not theorems. PB-1 names the ordering/influence axis the photon exhibit exposes; PB-2 opens the interior (ordinal until a measure on ordering is earned; bound vs realized). They label branches the process must walk — first contact wired at a4 §6 metrology resource law (D12), not unmotivated speculation.
 
+**Why these are the sharpest forks.** Influence is the corpus's one owned primitive with no anchor in the held-fixed substrate: ordering↔causal order, flow↔proper time, adjacency↔energy-momentum-face, and constitution↔write-chain all discharge their audit debt to GR/QFT or to operation; influence does not. It is the only thing MGR must characterize independently, so it is the maximal audit-exposure surface — which is why PB-1/2 carry the corpus's heaviest could-fails and the relabel test fires hardest here.
+
 | ID | Claim (foundation form) | Grade | MGR-owned | Imported | Could fail / demote |
 |---|---|---|---|---|---|
 | **PB-1** | Ordering/influence axis exposed by decomposition carries **bound structure** (as flow/adjacency axis carries c) | architecture bet / **fork** | existence of bounded ordering/influence axis | numeric value of bound | Axis has no bound, or role-structure non-uniform exactly where decomposition exposes it |
