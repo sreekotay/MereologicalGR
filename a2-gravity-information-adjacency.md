@@ -523,7 +523,7 @@ Claim:
 No null structure constitutes information by itself.
 ```
 
-GB-3 is the gravity-side register of PB-3 (A0 §12); same failure condition, scoped to null / transit structure.
+GB-3 is the gravity-side register of PB-3 (A0 §12); same failure condition, scoped to null / transit structure. The two are one frame-level fact: framelessness is a property of nullness, not of the photon — null content has no normalizable timelike `u`, hence no rest frame (A0 §4), so it is constituted only second-hand at a flow-frame receiver, EM carrier or gravitational null structure alike.
 
 Projection path:
 
