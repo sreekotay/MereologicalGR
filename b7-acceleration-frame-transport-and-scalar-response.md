@@ -47,6 +47,8 @@ frame = ordering + flow + adjacency
 rendering = content-through-frame
 ```
 
+Because `frame` carries the flow leg, rendering is always through a flow-bearing frame. Frameless null content (A1 photon corner: ordering + influence + adjacency, no flow) has no frame of its own, so it is rendered only second-hand — through a flow-bearing worldline that is not its own. The accelerated detector below is exactly such a flow-frame: it renders relatedness that cannot render itself.
+
 B7 uses one operation:
 
 ```text

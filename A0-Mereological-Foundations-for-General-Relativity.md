@@ -193,7 +193,7 @@ bare relatedness
 
 `Consequence-capable relatedness` names the generic influence leg once a use has crossed from substrate into an earned influence tier. A0 keeps `influence` as the grammar's generic consequence leg in `cause = ordering + influence`, but every live use must say where it sits.
 
-Each step adds structure. None is interchangeable with its neighbors.
+Each step composes influence with one role already named in the grammar — consequence-capacity (relatedness → kernel), a carrier/adjacency (kernel → carrier), a frame (carrier → rendered), a register (rendered → recorded), flow-bearing uptake (recorded → constituted). The ladder's grains are the grammar's own roles applied to influence. None is interchangeable with its neighbors.
 
 ```text
 bare relatedness:
@@ -318,7 +318,9 @@ not counted by itself:
 Photon:
   ordering + carrier influence remain;
   flow stripped;
-  no forced face on the null line; rendering + curvature retained;
+  frameless: frame needs flow, so no rest frame and no forced face;
+  influence rendered only through another flow-frame, never its own;
+  curvature retained;
   cause != flow;
   seed licenses carrier tier only (§3);
   no phase requirement at the seed.
