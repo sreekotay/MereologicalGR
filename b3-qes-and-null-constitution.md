@@ -143,7 +143,7 @@ The QES is not a semantic container.
 
 The QES chooses the cut.
 
-Nor should the QES be equated automatically with a null generator. A QES need not be the event horizon and need not itself be null. The relevant point is not that the QES surface is always null. The point is that the QES / area term does not force constituted information onto horizon null generators as such.
+Nor should the QES be equated automatically with a null generator. A QES need not be the event horizon and need not itself be null. The relevant point is not that the QES surface is always null. The point is that the QES / area term does not force constituted information onto horizon null generators as such. Where the structure is genuinely null, that is the framelessness fact (A0 §4): no rest frame, so no self-constitution — second-hand at a flow-frame receiver (PB-3 / GB-3, one fact).
 
 The clean distinction:
 

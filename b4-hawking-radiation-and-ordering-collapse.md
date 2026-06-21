@@ -37,6 +37,8 @@ information-constitution term located on null horizon generators or in null radi
 Constitution sits at flow-bearing exterior uptake.
 ```
 
+Null horizon generators and null radiation are frameless (A0 §4): with no rest frame they cannot be the constitution site, so constitution is necessarily second-hand at the exterior flow-frame (PB-3 / GB-3, one fact).
+
 Frame-transport sharpens the reason:
 
 ```text

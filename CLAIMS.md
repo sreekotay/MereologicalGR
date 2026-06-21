@@ -126,7 +126,7 @@ Sources: A0 §2, §12; contact accounting lives outside A0.
 
 ## Gravity bets (GB) and exhibits (EB)
 
-Gravity-side role claims from A2. Non-PB; same grading discipline. GB-3 is the gravity-side register of PB-3.
+Gravity-side role claims from A2. Non-PB; same grading discipline. GB-3 is the gravity-side register of PB-3 — both rest on framelessness (null → no rest frame → second-hand constitution; A0 §4, a2 §8).
 
 | ID | Claim (foundation form) | Grade | Source | Could fail / demote | Lane |
 |---|---|---|---|---|---|
