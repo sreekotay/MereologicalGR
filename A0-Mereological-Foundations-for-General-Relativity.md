@@ -14,7 +14,7 @@ A0 states the grammar and the foundation bets that follow from it. Photon first:
 Read:     §1–§7   (stance, seed, acceleration split, grammar)
           §10     (import and perimeter rules)
           §12     (foundation bets)
-Skip:     §13     (compact foundation) if the rest is clear
+Skip:     §14     (compact foundation) if the rest is clear
 Then:     A3 → A4 → diagnostic-ledger §4 → B-notes as needed
 Status:   README.md, CLAIMS.md
 ```
@@ -1108,10 +1108,10 @@ Foundation form:
 
 ```text
 information is constituted when ordered influence is taken up in flow
-at application consequence scale.
+at application consequence scale, with threshold rule T pinned before contact.
 ```
 
-The bet is not that observers are absent from the world. The bet is that observerhood is not a constitutive ingredient.
+Constitution supervenes on the physical write-chain at a pinned threshold; observerhood is not a constitutive ingredient.
 
 Split:
 
@@ -1150,12 +1150,12 @@ Could fail if:
 
 ```text
 constitution facts covary with observer-involvement
-at fixed physical write-chain;
+at fixed physical write-chain and fixed threshold T;
 
 or:
 
-constitution facts ignore the committed physical threshold
-while tracking observer-access instead.
+constitution survives sliding T post hoc
+with no change to uptake or threshold rule (self-rescue).
 ```
 
 PB scope rule:
@@ -1174,7 +1174,7 @@ Gravity has no PB here. Its structure composes in the grammar; the coupling law 
 
 ## 13. What A0 does not do
 
-Reminder: throughout A0, `+` marks mereological role-composition, not numerical addition or identity. This is why PB-1 can name a seam while PB-2 separately explores its interior.
+Throughout A0, `+` marks mereological role-composition, not numerical addition or identity: PB-1 can name a seam while PB-2 separately explores its interior.
 
 A0 does not:
 
@@ -1276,6 +1276,6 @@ Discipline:
   a shared dependency is not an identity
 ```
 
-A0 is the foundation ledger. It does not prove MGR; it states how MGR proves, fails, narrows, imports, calibrates, parks, or prices claims.
+A0 is the foundation ledger: it states how MGR proves, fails, narrows, imports, calibrates, parks, or prices claims — not MGR's conclusions.
 
-MGR is a role audit of GR. Bear in mind, therefore, even compositions that may appear as inert relabels over GR become live the moment the same roles meet QFT and/or thermodynamics' closure of those roles.
+Compositions that look like inert GR relabels become live the moment the same roles meet QFT or thermodynamic closure; the audit asks what was fused, imported, or omitted.

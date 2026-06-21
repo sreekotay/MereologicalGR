@@ -4,7 +4,9 @@
 
 Status: application document / gravity-side role decomposition.  
 Foundation: A0 grammar and A1 photon-run commitments are assumed.  
-A2 states its debts locally. Later notes may refine them, but the claims here close through A0, A1, and imported GR/SR handles.
+Assumes A0 grammar, A1 photon seed, and imported GR/SR handles.
+
+Two worldlines through the same curved region render different redshift, tidal stretch, and acceleration from one metric. GR sources that transport structure from energy-momentum; information is constituted elsewhere, at flow-bearing uptake. The role split:
 
 Core result:
 
@@ -14,10 +16,11 @@ information = ordering + influence + flow
 
 massive-sector reading:
   energy-momentum = flow-face + adjacency-face
+  (flow = flow-face, the proper-time leg)
 
 therefore:
   gravity and information share ordering + influence;
-  their difference, in the massive torsion-free sector, is the adjacency / energy-momentum sector.
+  their difference, in the massive torsion-free sector, is the adjacency-face / energy-momentum sector.
 ```
 
 Punchy short form:
@@ -25,6 +28,8 @@ Punchy short form:
 ```text
 gravity = information + adjacency
 ```
+
+Here "adjacency" is shorthand for the adjacency-face of energy-momentum (massive, torsion-free sector), not the spatial-adjacency role of the glossary.
 
 Operational expansion:
 
@@ -153,7 +158,7 @@ energy is adjacency-borne
 E = |p|c
 ```
 
-So the null case is not a counterexample. It is the opposite extreme from rest-massive content:
+The null limit is the opposite extreme from rest-massive content:
 
 ```text
 rest-massive:
@@ -453,10 +458,11 @@ R, tidal, holonomy  — grammar of ∇ itself, readable even when the line does 
 
 ## 7. GB-2 — stranding at an edge and ordering-collapse
 
-Claim:
+Claim (directional, matching the asymmetric failure block below):
 
 ```text
-information-stranding-at-an-edge ⟺ ordering-collapse
+invariant information-stranding ⇒ ordering-collapse
+invariant ordering-collapse   ⇒ loss or unaccountability pathology
 ```
 
 Grade:
@@ -518,6 +524,8 @@ Claim:
 ```text
 No null structure constitutes information by itself.
 ```
+
+GB-3 is the gravity-side register of PB-3 (A0 §12); same failure condition, scoped to null / transit structure.
 
 Projection path:
 

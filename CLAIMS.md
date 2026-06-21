@@ -124,6 +124,20 @@ Sources: A0 §2, §12; contact accounting lives outside A0.
 
 ---
 
+## Gravity bets (GB) and exhibits (EB)
+
+Gravity-side role claims from A2. Non-PB; same grading discipline. GB-3 is the gravity-side register of PB-3.
+
+| ID | Claim (foundation form) | Grade | Source | Could fail / demote | Lane |
+|---|---|---|---|---|---|
+| **GB-1** | Gravity and information differ by the adjacency-face / energy-momentum sector (massive, torsion-free) | definition + consistency-check | A2 §4 | Difference is not the adjacency-face sector; or flow ≠ flow-face in this sector | — |
+| **GB-2** | Invariant information-stranding ⇒ ordering-collapse; invariant ordering-collapse ⇒ loss or unaccountability pathology | architecture bet (directional) | A2 §7 | Stranding with no collapse; or collapse with neither loss nor unaccountability pathology | D2 |
+| **GB-3** | No null structure constitutes information by itself (gravity-side register of PB-3) | bet / proscription | A2 §8 | Null generator / GW ray / photon-in-flight constitutes a result with no flow-bearing uptake | D2 / D3 |
+| **EB-1** | Photon box has rest mass though a single photon has none | illustration / round-trip to GR | A2 §12 | — (no confirmatory weight) |
+| **EB-2** | Resting photon box carries de-oriented adjacency-spread; entropy is mixedness-mediated | illustration | A2 §13 | — (de-oriented ≠ disordered) |
+
+---
+
 ## Core grammar claims (non-PB)
 
 | Claim | Grade | Source | MGR-owned | Imported | Could fail / demote |

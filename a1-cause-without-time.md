@@ -6,19 +6,11 @@ Status: application document / photon-run of A0.
 Primary target: A0 photon seed, composition grammar, and PB-1 through PB-4.  
 Grade: seed-run + projection ledger. Not a new dynamics, not a replacement for GR/SR/QFT.
 
-A1's claim is simple:
+Under GR held fixed, a photon follows a null geodesic with `dτ = 0`, yet it can be emitted, blocked, redirected, absorbed, and later constrain a physical state. Causal ordering and effect-capacity remain while proper-time flow is stripped. So cause cannot require proper-time flow.
 
 ```text
 The photon exhibits cause without proper-time flow.
 ```
-
-Under GR held fixed, null propagation has:
-
-```text
-dτ = 0
-```
-
-but causal ordering and effect-capacity remain. A photon can be emitted, blocked, redirected, absorbed, and later constrain a physical state. So cause cannot require proper-time flow.
 
 The photon seed therefore unfuses:
 
@@ -171,11 +163,11 @@ information = ordering + influence + flow
 The photon in flight has:
 
 ```text
-ordering + influence
+ordering + influence + adjacency
 flow → 0
 ```
 
-Therefore:
+Adjacency rides the null carrier (the photon propagates in space); it is not part of the information composition, so flow remains the missing leg. Therefore:
 
 ```text
 photon in flight:
@@ -315,7 +307,7 @@ PB-3 follows directly from the composition grammar:
 information = ordering + influence + flow
 
 photon in flight:
-  ordering + influence
+  ordering + influence + adjacency
   flow → 0
 ```
 
@@ -343,10 +335,10 @@ PB-4 says:
 
 ```text
 information is constituted when ordered influence is taken up in flow
-at application consequence scale.
+at application consequence scale, with threshold rule T pinned before contact.
 ```
 
-This is not a claim that observers do not exist. It is a claim that observerhood is not an extra constitutive ingredient.
+Observerhood is not an extra constitutive ingredient; constitution supervenes on the physical write-chain at a pinned threshold.
 
 The split:
 
@@ -358,7 +350,7 @@ uptake:
   influence enters a flow-bearing register
 
 constitution:
-  uptake crosses application consequence threshold
+  uptake crosses application consequence threshold T (pinned before contact)
 ```
 
 So the live question is not:
@@ -526,6 +518,7 @@ Demotion / failure conditions:
 
 ```text
 a complete information-grade operation occurs with no flow-bearing uptake;
+constitution survives sliding threshold T post hoc with no uptake change (self-rescue);
 flow is shown unnecessary for information constitution;
 influence cannot be separated from flow at the null corner;
 ordering/influence axis fails to support any nontrivial role structure;

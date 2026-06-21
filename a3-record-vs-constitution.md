@@ -6,23 +6,21 @@ Status: application document / quantum-Darwinism boundary.
 Primary target: A0 information grammar, A1 photon-run record/uptake split, and PB-4.  
 Grade: mathematical reduction + diagnostic-program bet. Not a new quantum-measurement theory.
 
-A3's claim is simple:
+A probe entangles with an environment; fragments of the joint state carry redundant copies of one outcome. Mutual information, redundancy, and spectrum broadcast structure score that copy structure. A separate step — a POVM, an irreversible register, a declared commit — crosses the application threshold. The first is record; the second is constitution.
 
 ```text
 record is state-structure;
 constitution is uptake-operation.
 ```
 
-Quantum Darwinism diagnostics measure record. They are functionals of the joint system-fragment state. Constitution, in MGR, is a flow-bearing uptake/write: an operation applied to a fragment, not a number already contained in the state.
-
-Therefore:
+Quantum Darwinism diagnostics are functionals of the joint system-fragment state, so they measure record. Constitution is a flow-bearing uptake/write: an operation applied to a fragment, not a number already in the state.
 
 ```text
 QD diagnostics can measure record-readiness.
 They cannot locate constitution itself.
 ```
 
-QD remains the record theory. A3 marks the boundary: record structure is not the same job as constitution.
+QD remains the record theory; A3 marks the boundary.
 
 ---
 
@@ -112,7 +110,7 @@ If constitution is not a state-functional, no value of `I(S:F)` can be the point
 A `δ` threshold can be useful, but it is a convention:
 
 ```text
-record threshold:
+QD objectivity threshold (δ):
   useful application criterion
 
 constitution:
@@ -169,13 +167,15 @@ PB-4 says information constitution is frame-process/write-chain, not observer in
 A3 sharpens it:
 
 ```text
-constitution is an operation;
+constitution is an operation at threshold rule T (pinned before contact);
 record-objectivity lives in state structure.
 ```
 
+Sliding T post hoc to rescue a constitution claim, with no change to the uptake operation, is self-rescue demotion (CLAIMS PB-4).
+
 The strong bet would fail if a basis-intrinsic, convention-free state-functional criterion were found that applies to real states and locates objectivity/constitution without a measurement anchor or application threshold.
 
-That strong form already lost once.
+See §5 (SBS split verdict): that strong form already lost once.
 
 ---
 
@@ -274,7 +274,7 @@ This closes the selection channel. Shrinkage entries count too.
 
 ---
 
-## 7. Why this is not echo
+## 7. Discriminator, not relabel
 
 Standard QD can say:
 

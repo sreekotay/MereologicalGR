@@ -7,19 +7,12 @@ Primary target: A3 record-vs-constitution, A0 §3 influence ladder, A0 §5 compo
 Ledger: same record/constitution split as D4 (QD diagnostics); lab QEC is the operational mirror, not yet a separate ledger row. Published experiment map: diagnostic-ledger §14.
 Grade: post-mortem template / engine-eligible diagnostic / predictive closure map. Not a verdict on QEC success or failure.
 
-```text
-Why this note:
-  QEC is the cleanest lab instance of the A3 split.
-  Practice already operationalizes record, decode, commit, threshold;
-  milestone language compresses them.
-  A4 names the compression and routes failure — it does not specify product or decoder theory.
-```
+A surface-code run extracts syndromes each cycle, a decoder recommends a Pauli correction, and the correction is applied before the next round — or arrives too late and the logical qubit decoheres anyway. "QEC failed" bundles five separable legs of that cycle: record, route, decode, commit, threshold. Practice already operationalizes them; milestone language compresses them. A4 names the compression and routes failure to a layer.
 
 ```text
 Bundled headline:  "QEC failed."
 A4 question:       which layer broke?
 Predictive add:    which cell is open → closure or projection → forward signature
-Not asked:         did MGR predict this failure?  (MGR predicts class / route, not coefficients)
 ```
 
 Failed or partial runs are often more instructive than break-even wins: failure strips a role and opens the bundle, the A0 degenerate-corner method in lab form. Success autopsies use the same checklist.
@@ -109,7 +102,7 @@ predictive: open cell (missing / extra) → closure OR projection → signature 
 
 ## 4. Engine-eligible tests
 
-Hold one layer fixed; move another (A3: vary operation, not only state diagnostic):
+Hold one layer fixed; move another — vary the operation on the record, not only the state diagnostic (A3 record ≠ constitution; A0 §5 compose/missing/extra):
 
 ```text
 same syndrome stream     → swap decoder / priors / graph / noise model
@@ -130,7 +123,7 @@ threshold swap with commit fixed   → application scale was compressed in headl
 ```
 
 ```text
-If logical LER tracks uptake/threshold moves with record fixed → record was not the bottleneck.
+If logical LER tracks commit/threshold moves with record fixed → record was not the bottleneck.
 If LER tracks only syndrome quality with decoder, commit convention, timing, and threshold held fixed → record was the bottleneck.
 ```
 
@@ -220,12 +213,12 @@ misread:    Fisher / CR bound on ρ sold as closed-loop precision
 
 ### 6.2 Worked predictions — Higgins et al. 2007
 
-Reference: entanglement-free Heisenberg-limited phase estimation (*Nature* **450**, 393; arXiv:0709.2996). Autopsy: diagnostic-ledger §14; chat worked example.
+Reference: entanglement-free Heisenberg-limited phase estimation (*Nature* **450**, 393; arXiv:0709.2996). Autopsy: A4 §6.2 (this section).
 
 ```text
-Confirmed (degenerate corner):
+Retrodiction (degenerate corner; role-route fixed before the read):
   M = 1 Kitaev policy → SQL scaling class on same apparatus
-  → decode-depth cell must close (M ≥ M*) for HL class
+  → decode-depth cell must close (M ≥ M*) for HL class; preregister before claiming the layer live
 
 Route projection (N = 378):
   p = 32 visibility dip → outlier scatter
@@ -260,7 +253,7 @@ Mid-circuit QEC is one register instance of this mirror.
 
 ## 7. Formal QEC boundary
 
-Holographic / QES settings: same record/constitution grammar, different register (diagnostic-ledger D3/D7). Forbidden independent **constitution-on-surface** term unless write-site actually moves.
+Holographic / QES settings: same record/constitution grammar, different register (diagnostic-ledger D3). Forbidden independent **constitution-on-surface** term unless write-site actually moves.
 
 ---
 
@@ -278,7 +271,7 @@ postselected / tomographic / offline record equivalent to register constitution 
 ## 9. Compact result
 
 ```text
-Layers:  record → route → decode/uptake → commit → threshold  (+ misread guard)
+Layers:  record → route → decode → commit → threshold  (+ misread guard)
 
 Autopsy:   headline → layer break → repair path
 Predictive: open cell → closure OR projection → forward signature (class, cliff, correlation)

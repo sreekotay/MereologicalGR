@@ -4,7 +4,7 @@
 
 Status: application document / quantum-thermodynamics closure audit.
 Primary target: A3 record-vs-constitution, A4 engine layer split, A0 §5 compose/missing/extra, PB-3/PB-4, B6/D5 temperature leg.
-Ledger: D13; extends D4/D5 — thermo is the operational mirror for cycle/work/engine composites, not a new dynamics program.
+Ledger: D13; extends D5 (temperature leg); record-vs-constitution parallel to D4 — thermo is the operational mirror for cycle/work/engine composites, not a new dynamics program.
 Grade: route diagnostic + record-vs-constitution discriminator + engine-eligible where reset/memory/clock protocols are live.
 
 A Maxwell demon reads a gas, an engine extracts work from a single bath, and an erasure step later pays the bill. Quantum thermodynamics prices that scene with entropy, mutual information, correlations, and resource states, and does so well. The audit is narrower: when a run reports *information*, *work*, or a *closed cycle*, which part of the composite is on the table — the state-functional record, or the register, uptake/write, threshold, and reset-paid closure that complete it?
@@ -139,6 +139,7 @@ misread:
 
 ```text
 A4 syndrome stream     ↔  thermo correlation / fluctuation record
+A4 route / model       ↔  bath choice / coarse-graining / resource theory
 A4 decode              ↔  demon read / feedback policy
 A4 commit              ↔  reset / erasure-paid memory / battery update
 A4 threshold           ↔  work budget / cycle closure scale
@@ -203,7 +204,8 @@ Lane:     D13 — quantum thermodynamics operational closure audit
 Extends:  A3 (record ≠ constitution), A4 (engine layers), D5 (temperature ≠ information)
 
 Missing diagnosis:
-  entropy / MI / correlation ≠ constituted information without register + write + threshold + reset path
+  entropy / MI / correlation ≠ constituted information without register + write + threshold
+  (reset closes the cycle, not every information headline)
 
 Sharpest gates:
   no battery → no constituted work

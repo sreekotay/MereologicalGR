@@ -42,7 +42,7 @@ The work audits roles such as ordering, influence, flow, rendering, uptake, and 
 
 **Path:** A0 → A3 → A4 → ledger §4 → B-notes as needed. For thermo export: A3 → A4 → **a5** → D13.
 
-**A0 first pass:** §1–§7, §10, §12. Skip §13 if the rest is clear.
+**A0 first pass:** §1–§7, §10, §12. Skip §14 (compact foundation) if the rest is clear.
 
 ---
 
