@@ -109,12 +109,12 @@ Realism of composable roles is the conceit; PBs are prices, not theorem outputs 
 
 ### Tier B — architecture (ordering/influence axis under unit pressure)
 
-PB-1 and PB-2 are forks, not theorems. PB-1 names the ordering/influence axis the photon exhibit exposes; PB-2 opens the interior (ratio, units, bound vs realized). They label branches the process must walk — contact unwired (D12), not unmotivated speculation.
+PB-1 and PB-2 are forks, not theorems. PB-1 names the ordering/influence axis the photon exhibit exposes; PB-2 opens the interior (ordinal until a measure on ordering is earned; bound vs realized). They label branches the process must walk — first contact wired at a4 §6 metrology resource law (D12), not unmotivated speculation.
 
 | ID | Claim (foundation form) | Grade | MGR-owned | Imported | Could fail / demote |
 |---|---|---|---|---|---|
 | **PB-1** | Ordering/influence axis exposed by decomposition carries **bound structure** (as flow/adjacency axis carries c) | architecture bet / **fork** | existence of bounded ordering/influence axis | numeric value of bound | Axis has no bound, or role-structure non-uniform exactly where decomposition exposes it |
-| **PB-2** | PB-1 interior is **influence per ordering-resource**; bound vs realized separable | architecture bet / **fork** | ratio form, unit meaning | particular scalars per system | Ratio per-adjacency only, or no bound/realized split |
+| **PB-2** | PB-1 interior is **influence per ordering-resource**; ordinal until a measure on ordering is earned; bound vs realized separable | architecture bet / **fork** | ordinal interior; measure-on-ordering gate | ratio/measure form; particular scalars per system | Ratio per-adjacency only; no bound/realized split; **or** yield bound resource-substitutable (ordering-depth ↔ adjacency-count, a4 §6 Heisenberg corner) → per-ordering loses privilege |
 
 **Cascade demotion:** if PB-1/2 could-fails land **and** downstream operational bets and contacts (PB-3/4, engine rows, grammar contacts) **all** fail to force distinct routes — the architecture forks **reduce to relabel** (nothing MUST follow that GR/QFT closure did not already price). That is conceit failure, not a single lost scalar.
 
@@ -167,10 +167,10 @@ Full prose: `diagnostic-ledger.md` §4–§14. Compact:
 | **D9** | Torsion / spin-current | **archived sensitivity** | Spin/current-routed correction if live | Absorbed by GR+EOS; or role-level forced-empty result |
 | **D10** | RFI-QKD | confirmation / misread | Correlator = record; key at uptake | — (structurally confirmation lane) |
 | **D11** | QRF / relational facts | engine + PB-4 | Frame relativity in reversible regime; committed records agree at fixed write-chain **and pinned threshold T** | Constituted record frame-relative at fixed write-chain **and fixed T**; or **T** slid post hoc to rescue constitution |
-| **D12** | Ordering/influence bound (PB-1/2) | **fork declared; contact unwired** | Ordering/influence-axis bound + interior ratio; photon exhibit / unit pressure only (PB-1 names, PB-2 opens) | Axis unbounded where decomposition exposes it; ratio per-adjacency only; no bound/realized split; **or** full downstream cascade → relabel (see Tier B) |
+| **D12** | Ordering/influence bound (PB-1/2) | **fork declared; first contact a4 §6** | Ordering/influence-axis bound + ordinal interior (measure-on-ordering gate); first handle = a4 §6 metrology resource law (`N_pass`/depth vs `N_photon`) | Axis unbounded where decomposition exposes it; ratio per-adjacency only; no bound/realized split; **or** yield bound resource-substitutable (a4 §6 Heisenberg corner); **or** full downstream cascade → relabel (see Tier B) |
 | **D13** | Quantum thermodynamics closure | record vs constitution + engine | Work/cycle/engine require battery, clock/control, register/write, reset | State functionals alone suffice for constituted work/information/cycle; reset omitted while cycle claimed |
 
-Full prose for D12: A0 §12, A1 §7. Forks declared; no dedicated contact run yet — architecture demotion can still land via PB could-fails plus downstream bet/contact cascade.
+Full prose for D12: A0 §12, A1 §7. Forks declared; first operational contact is a4 §6 (metrology resource law). Architecture demotion can still land via PB could-fails plus downstream bet/contact cascade — including resource-substitutability of the yield bound (a4 §6 Heisenberg corner).
 
 Full prose for D13: `a5-quantum-thermodynamics-closure-audit.md`.
 

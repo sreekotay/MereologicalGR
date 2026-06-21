@@ -295,6 +295,8 @@ coefficient fitting:
   disallowed
 ```
 
+Only ordinal structure is available so far: the influence ladder (A0 §3) is a partial order, not a measure, so PB-2's "ratio" is not yet licensed. A measure on ordering (an amount, not just a role) is the open part it must earn.
+
 Calibration would be allowed only after the role-route and dependency are fixed. Fitting a bound because it matches a known anomaly would fail the method.
 
 ---

@@ -16,6 +16,7 @@ Use this file to preserve the tone established in the A0 rewrite.
 - Do not be overly defensive, but do be normative. State the rule, standard, or boundary plainly and let the work speak.
 - Avoid meta narration. No throat-clearing openers ("this note runs…", "the claim is not that…", "A0 does not try to earn…"). No wrap-up sentences that restate what the section already showed. Show the role, rule, or consequence directly.
 - Avoid too much cross-referencing. Cite the owning file or section when it prevents ambiguity, but do not make the reader chase references before the idea lands.
+- References point backward only — never forward. A note may cite foundation or earlier notes; it must not depend on a later one. A foundation note states only what is derivable in place. (The ledgers — `CLAIMS.md`, `diagnostic-ledger.md` — are the accounting layer and may reference any note.)
 - Use plain terms before private terms. Say `split`, `role-bundle`, `frame transported`, `response`, `recorded`; introduce technical labels only after the idea is clear.
 - Avoid circular jargon. Do not define a term by nearby terms from the same private vocabulary.
 - Do not front-load caveats. Keep boundaries, but place them after the core claim has landed.
@@ -47,6 +48,7 @@ Use this file to preserve the tone established in the A0 rewrite.
 - Contact outcomes: relabel is the failure mode; false locates where roles hold or where the route is malformed; true forces new bets.
 - MGR is expected to refine as it proceeds. Narrowing, demotion, parking, or re-audit is the method working, not a rhetorical failure.
 - Later-carve material should be marked as refinement, not required first-pass understanding.
+- Refinement flows downstream. A later note refines an earlier claim; the earlier note is never back-patched with a forward reference. If a refinement needs a downstream contact, it lives in the downstream note (and the ledgers record it).
 - End with method, not persuasion: A0 is the root map for how claims are formed, graded, narrowed, imported, parked, or rejected.
 
 ## Examples
