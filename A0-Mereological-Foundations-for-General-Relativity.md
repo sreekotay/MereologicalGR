@@ -39,7 +39,7 @@ extra = present but unaccounted
 
 A composition holds only when nothing is missing and nothing is extra. Naming a role, operation, projection, or composite does not make it irreducible. It makes it auditable.
 
-MGR begins as a mereological refinement inside GR, and becomes a theory-program when that refinement exports and constrains other domains and closures.
+MGR begins as a mereological refinement inside GR, and becomes a theory-program as that refinement exports and constrains other domains and closures.
 
 ---
 
