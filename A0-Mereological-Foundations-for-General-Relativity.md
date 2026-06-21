@@ -903,6 +903,12 @@ A claim's grade is ledger-indexed. It depends on the assumptions, imports, and c
 
 Clarifier and lineage-witness grades carry weight only when there is a downstream export that could have failed; recovery with no such export is relabel.
 
+```text
+Relabel is the failure mode.
+False locates where roles hold or where the route is malformed.
+True forces new bets.
+```
+
 Recovery with fixed route is the method for axiom-to-fit foundations. Relabel without prior carve is failure.
 
 Therefore a claim should state:

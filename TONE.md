@@ -44,6 +44,7 @@ Use this file to preserve the tone established in the A0 rewrite.
 - Chronology is in no way evidentiary. Retrodictive contact only matters when the role-route is fixed before landing and the missing/extra audit is clean.
 - Retrodiction is required here, not merely permitted. QFT and thermodynamics often arrive as closures already axiomatized or formalized to fit observation; MGR therefore tests role-lineage by re-reading that fit, not by pretending to have chronological priority.
 - PB bets should read as exposed commitments, not overclaims. They are the price of role-realism, not empirical victory laps.
+- Contact outcomes: relabel is the failure mode; false locates where roles hold or where the route is malformed; true forces new bets.
 - MGR is expected to refine as it proceeds. Narrowing, demotion, parking, or re-audit is the method working, not a rhetorical failure.
 - Later-carve material should be marked as refinement, not required first-pass understanding.
 - End with method, not persuasion: A0 is the root map for how claims are formed, graded, narrowed, imported, parked, or rejected.
