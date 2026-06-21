@@ -225,6 +225,8 @@ recorded influence:
 constituted information:
   ordered influence taken up in flow at application consequence scale;
   information = ordering + influence + flow
+
+GR supplies neither intrinsic scale nor preferred timelike direction. Constitution therefore demands both: an external threshold that fixes the application scale, and flow that supplies the direction of comparison. Scale dependence of consequence enters at the constituted tier.
 ```
 
 Forbidden collapses:
