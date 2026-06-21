@@ -321,6 +321,8 @@ photons do not constitute information in flight.
 
 They can carry structured influence. They can be modulated, absorbed, blocked, counted, and used in communication systems. But constitution occurs when the influence is taken up in a flow-bearing register.
 
+Framelessness is the frame-level face of the same fact: with no flow the photon instantiates no frame (A0 §4), so it is rendered and constituted only second-hand — at the receiving flow-frame, never in flight. The flow-route and the frame-route are one constraint, not two.
+
 Failure condition:
 
 ```text
