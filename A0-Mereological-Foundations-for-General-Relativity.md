@@ -78,6 +78,10 @@ Claimed:
   A role-gap is not a dynamics-gap.
 ```
 
+GR is effective enough that it can leave roles fused without survival penalty. The equations close, predictions work, and there was never strong pressure to separate ordering, influence, flow, rendering, uptake, and constitution. Because the formalism succeeds while bundled, those fusions stayed uncontested and open to misuse — especially when GR is exported or contacted with QFT, thermodynamics, measurement, horizons, clocks, virtual processes, error correction, relational facts, and similar seams.
+
+MGR does not replace or correct GR's dynamics. It performs a post-success audit: unfuse the roles that success made safe to leave bundled, then export the clearer grammar into domains where old bundling most easily produces slippage, over-interpretation, or conceptual misuse. The central claim is improved efficacy of application — clearer role grammar at export and contact seams — not new core field equations or central-theory scalars by default. That can sharpen how GR is applied and contacted: role-routes, forbidden remainders, and layer splits may become cleaner even when the underlying equations stay fixed. Retrodiction is required because many contact closures arrive axiom-to-fit; lineage, not chronology, is the criterion.
+
 The stance is following GR further, not refuting it. Where GR is silent on a role question, MGR asks whether something has been left fused, imported, projected, set empty, or omitted.
 
 At QFT contact: does a guardrail mark real tier separation on the ladder (§3), or calculational convention only?
@@ -246,6 +250,8 @@ LSZ / on-shell vs off-shell                          → carrier vs kernel bound
 Unruh/KMS: thermal rendering ≠ pre-written bath      → rendered ≠ constituted
 no-signaling from reduced states                     → record/render ≠ remote constitution by read alone
 ```
+
+Recovering a known guardrail at clarifier grade is the expected first step, not a weakness of the audit.
 
 ---
 
@@ -898,6 +904,8 @@ parked texture:
 ```
 
 A claim's grade is ledger-indexed. It depends on the assumptions, imports, and carvings currently active.
+
+Recovery of existing distinctions is not a weakness. When auditing a formalism that already works, clarifier and lineage-witness contacts are the necessary first step. The test is whether the unfused roles then export cleanly and reduce misuse in the contact zones.
 
 Recovery with fixed route is the method for axiom-to-fit foundations. Relabel without prior carve is failure.
 
