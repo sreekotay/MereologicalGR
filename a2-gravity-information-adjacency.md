@@ -48,12 +48,10 @@ difference:
 Scope:
 
 ```text
-massive sector;
-torsion-free / symmetric-stress-energy / GR-owned sector;
-role-decomposition only;
-no new field equation;
-no coupling derivation;
-no claim that torsion/spin remainder is closed.
+domain:   massive, torsion-free, symmetric-stress-energy GR sector
+output:   role-decomposition and transport-location
+imports:  Einstein dynamics, couplings, calibrated scalars
+open:     torsion / spin remainder — audited in B5, not closed here
 ```
 
 ---

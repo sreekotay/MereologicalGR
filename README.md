@@ -28,6 +28,8 @@ Archive lanes are exploratory, not project identity.
 
 The work audits roles such as ordering, influence, flow, rendering, uptake, and constitution. Foundation bets (PB) are **prices of role-realism**, not finished theorems.
 
+MGR is a relabel inside GR by design, but an exported constraint system outside GR. GR is held fixed: other physics closures are NOT.
+
 ---
 
 ## Reader map
