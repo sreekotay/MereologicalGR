@@ -7,7 +7,7 @@ QFT axiomatized machinery on a seam GR can leave bundled — microcausality, on/
 
 ## 1. Photon corner and absence-type
 
-A real photon follows a null geodesic: ordered influence remains, proper-time flow is stripped by nullness.
+In the geometric-optics limit a real photon is a null excitation: ordered influence remains, proper-time flow is stripped by nullness.
 
 ```text
 cause       = ordering + influence
@@ -65,6 +65,8 @@ Layer 3 — imported (QFT contact closure):
 ```
 
 Layer 1 is the minimal computational constituency for the role question. Layer 2 maps that constituency onto objects QFT already uses. Layer 3 supplies magnitude and closure only.
+
+Gauge-fixing is the decisive guardrail: the internal line is representation-dependent, so no isolable virtual photon survives a gauge change. Only the full amplitude and its external records are physical.
 
 What the minimal toolkit does not require:
 
@@ -140,6 +142,8 @@ sqrt(q²) = invariant mass available to final states
 
 MGR does not choose `q²`; standard field theory supplies it. MGR reads `q² = 0` as the on-shell null-carrier boundary and `q² ≠ 0` as the off-shell exchange-kernel register.
 
+Timelike exchange is photon-only at low scales; once electroweak scales matter it mixes with the Z (`γ*/Z`). So `q² ≠ 0` names an off-shell exchange register, not a pure-photon object.
+
 The internal photon line is representation-dependent: gauge choice and perturbative organization affect how the calculation is written. Physical cross-sections and S-matrix elements are the gauge-invariant outputs.
 
 ## 4. Two registers
@@ -168,6 +172,7 @@ There is no third carrier/information register:
 No hidden photon-carrier in flight.
 No virtual-photon proper time.
 No information carried by the internal line.
+No asymptotic state, no detector click, no gauge-invariant in-flight observable.
 No controllable FTL signal slot.
 ```
 
@@ -189,7 +194,7 @@ The principal-value part is the off-shell exchange kernel (Register 1); the on-s
 
 ## 5. Microcausality seam
 
-This is the sharpest contact.
+This is the sharpest contact. The carve is fixed in §1–§2; microcausality is where it lands a guardrail, not its source. The reading here is convergent with standard QFT and carries thin weight on its own.
 
 Standard QFT distinguishes several objects that informal language often compresses:
 
@@ -390,7 +395,7 @@ Lineage is the criterion (A0 §11). Magnitude remains QED-supplied and MGR-disow
 
 ## 10. Compact result
 
-A virtual photon is not a photon with altered substance-properties. It is an off-shell influence-kernel.
+A virtual photon is not a degraded real photon, nor a photon with altered substance-properties. It is the photon-field propagator contribution inside a gauge-fixed amplitude; only the full amplitude and its external records are physical.
 
 ```text
 q² = 0
