@@ -47,7 +47,33 @@ with no flow-bearing bulk/radiation/matter uptake?
 
 If yes, GB-3 fails. If no, GB-3 survives this horizon-domain test.
 
-## 2. Standard formula
+## 2. Minimal toolkit and import boundary
+
+The QES/island seam takes a three-layer audit, not a quantum-gravity re-derivation.
+
+```text
+Layer 1 — owned (GR / A0 lineage):
+  GB-3 no-null-constitution bet (A2 §8)
+  framelessness (A0 §4): null → no rest frame → no self-constitution
+  record ≠ constitution (A3): constitution only at flow-bearing uptake at threshold (PB-4)
+  recoverability ≠ constitution: wedge reconstruction is record-routing (D3), not a write
+  adjacency-side vs ordering-side: area = adjacency-magnitude, not an influence-per-ordering object
+
+Layer 2 — projected (read from standard island/QES math):
+  Area(X)/4G_N ↔ adjacency-side count / capacity at the cut
+  S_bulk(R ∪ I_X) ↔ fine-grained degrees, represented not constituted
+  QES X ↔ accounting cut / wedge selector
+  min ext_X ↔ accounting extremization, not an uptake operation
+
+Layer 3 — imported (QG contact closure):
+  the island/QES formula itself
+  1/4G_N rate, replica wormholes, higher-curvature, greybody, QG corrections
+  all magnitude
+```
+
+Layer 1 is the minimal constituency for the GB-3 question. Layer 2 maps it onto island-formula objects. Layer 3 supplies magnitude and closure only. The guardrail is framelessness: where the structure is genuinely null it has no rest frame (A0 §4), so no term on it self-constitutes — constitution is second-hand at a flow-frame receiver (PB-3 / GB-3, one fact).
+
+## 3. Standard formula
 
 The schematic island formula is:
 
@@ -76,7 +102,7 @@ S_bulk(R ∪ I_X)
 
 MGR does not derive this formula. Quantum gravity supplies it. MGR asks what role each term plays relative to GB-3.
 
-## 3. Role map
+## 4. Role map
 
 The role map is:
 
@@ -133,7 +159,7 @@ flow-bearing uptake
 
 That separation is the whole contact.
 
-## 4. What QES does not say
+## 5. What QES does not say
 
 The QES is not where the information is.
 
@@ -158,7 +184,7 @@ flow-bearing uptake:
   constitution
 ```
 
-## 5. Verdict
+## 6. Verdict
 
 GB-3 stands in the QES/horizon domain.
 
@@ -185,7 +211,7 @@ bulk/radiation degrees:
 
 So QES is not a horizon-information proof. It is a record/constitution splitter.
 
-## 6. Quantitative null
+## 7. Quantitative null
 
 The QES contact suggests a forbidden residual, not a new magnitude.
 
@@ -249,7 +275,7 @@ or:
 
 would mean the QES/horizon surface is not merely a cut/count/capacity structure but a constituted-information site. That would break GB-3.
 
-## 7. Could-have-failed
+## 8. Could-have-failed
 
 GB-3 would fail if the island/QES construction required:
 
@@ -284,7 +310,7 @@ Area(X)/(4G_N)
 
 So the possible failure shape is live, but not realized by the island formula.
 
-## 8. Residuals
+## 9. Residuals
 
 Several black-hole interpretations remain compatible with this verdict, but only if their carriers are not null generators as such.
 
@@ -312,7 +338,7 @@ with no flow-bearing carrier or uptake anywhere in the loop
 
 That reading was not found in the QES/island structure.
 
-## 9. Relation to GB-2
+## 10. Relation to GB-2
 
 GB-2 concerns information-stranding at invariant edges:
 
@@ -339,14 +365,14 @@ So the grade should not be fused:
 ```text
 GB-2 yield:
   loss-edge CANDIDATE, not sealed; Page-curve consistency only.
-  the QES resolution may route around the singularity GB-2 localizes to (b4 §1).
+  the QES resolution may route around the singularity GB-2 localizes to (b4 §2).
 
 GB-3 yield:
   diagnostic-witness candidate for no-null-constitution
   → superseded: lineage-witness (header); magnitude QG-supplied; lineage clean
 ```
 
-## 10. Grade
+## 11. Grade
 
 ```text
 Field taxonomy:
@@ -375,7 +401,7 @@ Collision-room:
 
 Lineage: GB-3 and record/constitution distinction have a fixed role-route before this contact (A0 §11). Magnitude: QG-supplied and MGR-disowned.
 
-## 11. Compact result
+## 12. Compact result
 
 QES is a good contact because it refuses the naive slogan:
 

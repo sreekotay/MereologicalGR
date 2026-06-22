@@ -65,7 +65,36 @@ Calibration is not failure. Fitting is failure. A scalar may be observed; a stru
 
 ---
 
-## 1. The four-site separation
+## 1. Minimal toolkit and import boundary
+
+The Hawking seam takes a three-layer audit, not a derivation of the radiation calculation.
+
+```text
+Layer 1 — owned (GR / A0 lineage):
+  four-site carve: horizon ≠ radiation ≠ singularity ≠ Page-QES
+  GB-2 loss-edge bets; GB-3 no-null-constitution
+  framelessness (A0 §4): null radiation / generators have no rest frame
+  rendering ≠ constitution; frame-transport changes rendering, not the write
+  PB-4 uptake/write at threshold; record ≠ constitution (A3)
+
+Layer 2 — projected (read from standard black-hole geometry):
+  surface gravity κ ↔ access / frame-transport acceleration scale
+  near-horizon Rindler + Euclidean 2π ↔ frame-transport scale-form
+  T_H ∝ κ ↔ geometry-earned scale-form
+  area-law S_BH ∝ M² ↔ adjacency-side capacity
+  Page curve ↔ recoverability accounting cut
+
+Layer 3 — imported (QFT / QG contact closure):
+  exact Hawking coefficient; vacuum / state choice; Bogoliubov; Wightman / KMS
+  greybody, species, evaporation rate; Page-QES machinery; QG completion
+  all magnitude
+```
+
+Layer 1 is the minimal constituency for the loss-edge and null-constitution questions. Layer 2 maps it onto horizon geometry. Layer 3 supplies magnitude and closure only. Sections below are consumers of this boundary, not re-declarations of it.
+
+---
+
+## 2. The four-site separation
 
 Ordinary black-hole narration often slides among horizon, radiation, singularity, and Page/QES accounting. MGR needs those kept apart.
 
@@ -111,7 +140,7 @@ Observer-relative horizons do not automatically count as ordering-collapse. Rind
 
 ---
 
-## 2. Null transit is not constitution
+## 3. Null transit is not constitution
 
 GB-3 says:
 
@@ -161,7 +190,7 @@ This is a clarifier, not a witness.
 
 ---
 
-## 3. Horizon access and frame-transport
+## 4. Horizon access and frame-transport
 
 Frame-transport gives B4 a middle layer between mere observer-language and information constitution.
 
@@ -229,7 +258,7 @@ This is the black-hole analogue of the acceleration lesson: frame-transport can 
 
 ---
 
-## 4. Hawking scalars are imported
+## 5. Hawking scalars are imported
 
 Four-dimensional, neutral, non-rotating Schwarzschild quantities:
 
@@ -281,7 +310,7 @@ as externally supplied scale structure. It does not claim the full radiation cal
 
 ---
 
-## 5. What the scalings locate
+## 6. What the scalings locate
 
 The scalings are useful because they locate roles.
 
@@ -314,7 +343,7 @@ MGR adds no fourth scalar for information constitution.
 
 ---
 
-## 6. Computational handles
+## 7. Computational handles
 
 The horizon/frame-transport reading is useful only if it points to real handles. B4 keeps the handles imported and states only what role they expose.
 
@@ -395,7 +424,7 @@ recoverability accounting:
 
 ---
 
-## 7. Horizon response skeleton
+## 8. Horizon response skeleton
 
 The handles above locate the pieces. The skeleton below gives the smallest honest route from horizon geometry to exterior thermal response without converting thermality into information constitution.
 
@@ -515,7 +544,7 @@ This skeleton is clarifier-grade. It does not derive Hawking radiation. It locat
 
 ---
 
-## 8. Observational status
+## 9. Observational status
 
 The observational map is uneven:
 
@@ -558,7 +587,7 @@ The null-constitution claim is consistent with observation and unfalsified. It i
 
 ---
 
-## 9. Engine-eligibility
+## 10. Engine-eligibility
 
 A test carries forced-number weight only if it varies the write:
 
@@ -608,7 +637,7 @@ change of uptake/write site or causal access at write is required.
 
 ---
 
-## 10. What B4 adds
+## 11. What B4 adds
 
 B4 adds five things:
 
@@ -647,7 +676,7 @@ quantum gravity completion.
 
 ---
 
-## 11. Ledger
+## 12. Ledger
 
 MGR role claims:
 
