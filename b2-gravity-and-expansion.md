@@ -3,7 +3,34 @@
 Status: working external-form note.  
 Grade: lineage-witness for the Hubble slot-count; clarifier for field taxonomy; magnitude calibration-disowned.
 
-## 1. Starting role carve
+## 1. Minimal toolkit and import boundary
+
+The Hubble-tension seam takes a three-layer audit, not a cosmology re-derivation.
+
+```text
+Layer 1 — owned (GR / A0 lineage):
+  space = ordering + adjacency; gravity = ordering + influence + energy-momentum; information = ordering + influence + flow
+  expansion is adjacency-scale change per flow, not information change
+  null guard (PB-3 / GB-3): no semantic redshift, photon fatigue, or info-loss-in-flight (ε_info-propagation = 0)
+  forced two-slot count under shared FRW flow: adjacency constitution; gravity / expansion-history bridge
+  no third flow / clock / information slot unless shared-congruence fails (the collision-room)
+
+Layer 2 — projected (read from FRW / GR geometry):
+  H = (1/a) da/dτ ↔ adjacency-change per cosmic flow
+  1 + z = a0 / a_emit ↔ scale / frame comparison
+  distance identities: D_L = (1+z)² D_A, θ = r / D_A, Etherington duality (given metric propagation + photon-number conservation)
+  expansion history H(z) set by energy-momentum content (Friedmann bridge)
+
+Layer 3 — imported (cosmology contact closure + calibration):
+  ΛCDM or alternative expansion model
+  distance ladder and early-ruler calibration (Cepheid / TRGB / JAGB / SN Ia, r_drag)
+  local-flow corrections; survey / window functions
+  numerical H0 values; all magnitude
+```
+
+Layer 1 is the minimal constituency for the slot-count and the null guard. Layer 2 maps it onto FRW geometry and the protected distance identities. Layer 3 supplies the expansion model, ladder calibration, and every number. The magnitude never chooses the burden edge — identity provenance and graph topology do.
+
+## 2. Starting role carve
 
 The contact starts from the existing role decomposition:
 
@@ -30,7 +57,7 @@ H = fractional adjacency-scale change per cosmic flow
 
 This fixes the target role of `H0`: present adjacency-change per flow.
 
-## 2. Immediate consequences
+## 3. Immediate consequences
 
 Expansion is first a statement about adjacency, not information.
 
@@ -60,7 +87,7 @@ MGR therefore states a null guard — this is the PB-3 / GB-3 photon/null discip
 
 Any information-like residual in cosmological propagation must first appear as an ordinary physical channel effect, detector threshold, opacity, scattering, lensing, selection, or record-constitution failure. It is not supplied by the role theory. Its could-fail is PB-3's family: a propagation anomaly that resists all channel-effect accounting.
 
-## 3. Protected identities
+## 4. Protected identities
 
 The expansion graph is gated by standard identities. These are not selected by the anomaly.
 
@@ -104,7 +131,7 @@ These identities do not say the conditioners are safe. They say where the burden
 
 Important distinction: Etherington distance duality is both a protected identity and an empirical test site. The identity protects the geometry conditional on metric propagation and photon-number conservation. Distance-duality tests probe whether the photon-conservation / opacity conditioner has failed. Those are different registers.
 
-## 4. Exposed conditioners
+## 5. Exposed conditioners
 
 Distance identities are protected. Distance conditioners are exposed.
 
@@ -125,7 +152,7 @@ standard-siren inclination / host / detector conditioners
 
 So the gap may trigger the audit, but the magnitude is not allowed to choose the edge. The edge is assigned by identity provenance and graph topology.
 
-## 5. The Hubble slot-count
+## 6. The Hubble slot-count
 
 This is the MGR-distinctive result.
 
@@ -204,7 +231,7 @@ survey/window functions;
 numerical H0 values.
 ```
 
-## 6. Collision-room
+## 7. Collision-room
 
 The two-slot count could have failed.
 
@@ -220,7 +247,7 @@ A measured `H0` is not a pure scalar read directly from the universe. It is samp
 
 So the third slot is not information. It is failure of the comparison congruence: the measurements do not share one cosmic-flow remainder.
 
-## 7. Numerical burden projection
+## 8. Numerical burden projection
 
 MGR does not compute a new `H0`. It assigns burden slots. External cosmology prices them.
 
@@ -293,7 +320,7 @@ So the early-ruler solution pays about an 8% ruler-shrink burden.
 
 This is a burden map, not a fit.
 
-## 8. Comparison to current theory classes
+## 9. Comparison to current theory classes
 
 Current Hubble-tension theories can be read as edge-moves on the graph.
 
@@ -325,7 +352,7 @@ Photon fatigue / opacity / information loss
 
 MGR accepts the field's broad taxonomy and adds a forced slot-count. The field lists possible solution realms; the role graph says why the live burden falls into two slots under shared FRW flow, and why photon/information fixes are not legitimate first burdens.
 
-## 9. Standard-siren fork
+## 10. Standard-siren fork
 
 The forward discriminator is the standard-siren fork.
 
@@ -362,7 +389,7 @@ The third branch is not merely another burden assignment. It is the observable f
 
 Clean firing of the third branch requires range, not merely precision. At low redshift, peculiar-velocity corrections sit on the same axis as `W(z)`, so depth-dependence and local velocity systematics do not separate cleanly. The discriminating sirens must reach deep enough that residual depth or sky structure reads the support window rather than the peculiar-velocity floor.
 
-## 10. Grade
+## 11. Grade
 
 ```text
 Hubble edge taxonomy:
@@ -385,7 +412,7 @@ Forward edge:
 
 Lineage: role-route fixed before contact (A0 §11). Magnitude: calibration-disowned.
 
-## 11. Compact result
+## 12. Compact result
 
 The Hubble tension does not show that distance, redshift, or information propagation is broken.
 

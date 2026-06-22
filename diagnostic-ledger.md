@@ -788,7 +788,7 @@ V tracks only total phase, not Δτ/t⊥, with clock nominally ON
 
 **Caveats:** supported particle (forced/adjacency lab structure) ≠ Δτ witness; mixed internal states (V²+D²≤1) require pure clock-OFF control; not free-fall by default.
 
-**Experimental data (June 2026 audit — B8 §8):**
+**Experimental data (June 2026 audit — B8 §9):**
 
 ```text
 Zych V(∆τ/t⊥):     NOT MEASURED  (Zych Table 1: "Not tested")

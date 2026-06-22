@@ -9,7 +9,34 @@ B8 role-locates what the standard calculation bundles. It does not re-derive the
 
 ---
 
-## 1. Starting Role Carve
+## 1. Minimal toolkit and import boundary
+
+The clock-interferometry seam takes a three-layer audit, not a re-derivation of the Zych formulas.
+
+```text
+Layer 1 — owned (GR / A0 lineage):
+  time = ordering + flow; clock = magnitude projection of flow (τ-register)
+  rendering = content through frame (E = -p·u); information = ordering + influence + flow at threshold
+  A0 §9 superposition-of-flow-rates sub-cell (fixed before contact)
+  render leg (∆Φ) vs flow-register leg (V); the clock-ON / clock-OFF factorial
+  guardrail: V drop ≠ constitution ≠ information write — record / which-path readiness at most (A3 / PB-3)
+  forced/adjacency lab support is distinct from the ∆τ witness channel
+
+Layer 2 — projected (read from GR kinematics):
+  proper time τ = ∫ sqrt(-g_μν ẋ^μ ẋ^ν) ; ∆τ between arms ≈ ∆V ∆T / c²
+  E = -p·u rendering / phase scaffold
+
+Layer 3 — imported (Zych GR + QM closure + calibration):
+  Zych eq. (5)–(16): phase ∆Φ, visibility V = cos(π ∆τ / 2 t⊥), distinguishability D, t⊥ = πℏ/∆E
+  QM complementarity V² + D² = 1; internal Hamiltonian / two-level clock model
+  apparatus, detector, all magnitude (GR/QM-owned, MGR-disowned)
+```
+
+Layer 1 is the minimal constituency for the render-vs-flow-register factorial. Layer 2 maps it onto GR proper-time kinematics. Layer 3 imports the full Zych GR+QM calculation and all magnitude. MGR fixes the clock-ON / clock-OFF separability test; it does not re-derive the formulas.
+
+---
+
+## 2. Starting Role Carve
 
 The contact starts from grammar fixed before reading Zych:
 
@@ -30,7 +57,7 @@ A0 §9 sub-cell (fixed before contact):
 
 ---
 
-## 2. Standard setup (imported)
+## 3. Standard setup (imported)
 
 **Apparatus:** Mach–Zehnder; massive particle with internal Hamiltonian H (two-level model in Zych).
 
@@ -65,7 +92,7 @@ MGR imports all of the above. It does not re-derive (7)–(16).
 
 ---
 
-## 3. What Zych bundles (headline compression)
+## 4. What Zych bundles (headline compression)
 
 Standard presentation often collapses:
 
@@ -94,7 +121,7 @@ V channel   →  flow-register (proper-time accrual + internal H evolution)
 
 ---
 
-## 4. Role registers
+## 5. Role registers
 
 ```text
 path superposition + arm geometry     →  ordering + adjacency (imported lab scaffold)
@@ -120,9 +147,9 @@ Which-path readiness is **recorded** tier at most; no PB-3/PB-4 uptake chain is 
 
 ---
 
-## 5. Compose / missing / extra
+## 6. Compose / missing / extra
 
-### 5.1 Collapse: V into ∆Φ only (AB-only story)
+### 6.1 Collapse: V into ∆Φ only (AB-only story)
 
 **Substitution:** treat visibility as fixed; read only phase.
 
@@ -132,7 +159,7 @@ Which-path readiness is **recorded** tier at most; no PB-3/PB-4 uptake chain is 
 
 **Verdict:** fails compose; remainder = visibility channel.
 
-### 5.2 Collapse: V drop → “information in flight”
+### 6.2 Collapse: V drop → “information in flight”
 
 **Substitution:** gravitationally induced decoherence = constituted information.
 
@@ -142,7 +169,7 @@ Which-path readiness is **recorded** tier at most; no PB-3/PB-4 uptake chain is 
 
 **Verdict:** fails missing/extra; demote to **record / which-path readiness**.
 
-### 5.3 Collapse: proper time → generic “time” label
+### 6.3 Collapse: proper time → generic “time” label
 
 **Substitution:** ∆τ identified with laboratory t alone.
 
@@ -152,7 +179,7 @@ Which-path readiness is **recorded** tier at most; no PB-3/PB-4 uptake chain is 
 
 **Verdict:** clarifier failure if claimed as full audit.
 
-### 5.4 Clean compose (MGR read)
+### 6.4 Clean compose (MGR read)
 
 ```text
 rendering leg:   ∆Φ(∆V, ∆T, m, ⟨H⟩_GR)  — can run with clock OFF
@@ -163,7 +190,7 @@ Both present in standard calculation; **factor** under clock-OFF control.
 
 ---
 
-## 6. Engine factorial — clock-ON vs clock-OFF
+## 7. Engine factorial — clock-ON vs clock-OFF
 
 **Convention C (declare before contact):**
 
@@ -182,7 +209,7 @@ Clock-ON:
 
 **Moved (flow-register knob):** t⊥, internal evolution, ∆τ/t⊥ ratio.
 
-### 6.1 Predictions (role level)
+### 7.1 Predictions (role level)
 
 ```text
 Clock-OFF:  V → 1 (maximal contrast); D → 0
@@ -200,7 +227,7 @@ Zych’s own **clock-OFF** paragraph (Discussion):
 
 MGR: that is the **OFF** limit of the same engine — not a different experiment.
 
-### 6.2 One concrete protocol pair
+### 7.2 One concrete protocol pair
 
 | Run | Internal prep | Arms | Readout |
 |---|---|---|---|
@@ -211,9 +238,9 @@ MGR: that is the **OFF** limit of the same engine — not a different experiment
 
 ---
 
-## 7. Could-fail conditions
+## 8. Could-fail conditions
 
-### 7.1 MGR structure fails
+### 8.1 MGR structure fails
 
 ```text
 V still drops with Clock-OFF after ∆Φ matched
@@ -224,14 +251,14 @@ V with Clock-ON tracks only total phase, not ∆τ/t⊥
   → Zych proper-time witness collapses to AB story (their own could-fail)
 ```
 
-### 7.2 Standard physics fails (Zych-owned)
+### 8.2 Standard physics fails (Zych-owned)
 
 ```text
 No ∆τ at fixed Δh / ∆T  →  GR proper-time difference absent (separate check)
-V² + D² ≠ 1 with mixed internal states  →  complementarity bookkeeping (see §8)
+V² + D² ≠ 1 with mixed internal states  →  complementarity bookkeeping (see §9)
 ```
 
-### 7.3 MGR overread fails
+### 8.3 MGR overread fails
 
 ```text
 Claim V drop = information constitution  →  A3/PB-3 collision
@@ -240,7 +267,7 @@ Bundle support force with ∆τ witness     →  adjacency/forced conflation
 
 ---
 
-## 8. Experimental data map
+## 9. Experimental data map
 
 **Zych visibility witness (V vs ∆τ/t⊥): not measured.** Zych Table 1: outcome **“Not tested.”** No published report of fringe **contrast** dropping because internal clock states entangle with path at gravitational ∆τ.
 
@@ -270,7 +297,7 @@ Clock-OFF control:             no data
 
 ---
 
-## 9. Caveats (engine honesty)
+## 10. Caveats (engine honesty)
 
 1. **Mixed states:** general V² + D² ≤ 1; clock-OFF must be **pure** internal control.
 
@@ -284,7 +311,7 @@ Clock-OFF control:             no data
 
 ---
 
-## 10. Photonic contrast (Zych et al. 2012)
+## 11. Photonic contrast (Zych et al. 2012)
 
 **Clock = arrival time** at detector (Shapiro / time-of-flight).
 
@@ -297,7 +324,7 @@ Same complementarity logic; **different leg**. Useful negative control: photon p
 
 ---
 
-## 11. Cross-links
+## 12. Cross-links
 
 ```text
 A0 §9      superposition of flow-rates sub-cell
@@ -313,7 +340,7 @@ CLAIMS     engine row (Zych + clock-OFF)
 
 ---
 
-## 12. Grade
+## 13. Grade
 
 ```text
 Field taxonomy:
@@ -340,7 +367,7 @@ Collision-room:
 
 ---
 
-## 13. Compact result
+## 14. Compact result
 
 Zych separates **phase** (rendering) from **visibility** (flow-register). MGR reads that as the A0 §9 sub-cell with an explicit switch:
 
