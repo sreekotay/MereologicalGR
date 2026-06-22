@@ -3,7 +3,7 @@
 *Working draft, June 2026.*
 
 Status: B-note / temperature-role refinement.
-Primary target: A0 rendering/uptake seam, A1 photon/influence floor, A3 uptake/write discipline, B4 horizon discipline, and B7 scalar-response boundary.
+Primary target: A0 rendering/uptake seam, A1 photon/influence floor, A3 uptake/write discipline, and B4 horizon discipline.
 Boundary note: B6 keeps the temperature/information role distinction. The detailed scalar-response derivation belongs outside B6.
 
 Grade: role-reduction + calibration-aware machinery routing. QFT is contact machinery here, not the source of the grammar.
@@ -137,7 +137,7 @@ consequence-capable relatedness
 → possible uptake / write
 ```
 
-Skeleton route (derived in B7 §5–§6; not re-derived here):
+Skeleton route (GR/LC scalar-skeleton level; full pullback not re-derived here):
 
 ```text
 uniform acceleration → hyperbolic worldline → scalar interval pullback → beta_tau = 2pi c/a
