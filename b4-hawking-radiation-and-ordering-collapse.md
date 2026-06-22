@@ -311,7 +311,7 @@ P proportional to M^-2
 t_evap proportional to M^3
 ```
 
-as externally supplied scale structure. It does not claim the full radiation calculation or its coefficients.
+The M-scaling exponents are geometric — projected from area `A ∝ M²` and surface gravity `κ ∝ M⁻¹` (§1), the evaporation exponents following from those forms plus one imported law-shape. What is externally supplied is the ħ-bridge: the entropy and temperature *identities* (area → S_BH, κ → T_H) and every coefficient. B4 does not claim the full radiation calculation or its coefficients.
 
 ---
 
