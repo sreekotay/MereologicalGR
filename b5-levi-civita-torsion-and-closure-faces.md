@@ -32,7 +32,36 @@ Calibration is not failure. Fitting is failure. A scalar may be observed; a stru
 
 ---
 
-## 1. Two ways a loop can fail to close
+## 1. Minimal toolkit and import boundary
+
+The torsion seam takes a three-layer audit, not an Einstein-Cartan re-derivation.
+
+```text
+Layer 1 — owned (GR / A0 lineage):
+  loop-failure-to-close as a primitive affine signal (A0 corner discipline)
+  curvature = rotational closure failure; torsion = translational closure failure
+  metric-compatibility role-reason: adjacency/separation comparison stays coherent under transport
+  torsion-free is a separate empty-cell claim, not implied by metric-compatibility
+  adjacency's directed/conjugate (momentum) face = candidate home for translational residue
+
+Layer 2 — projected (read from standard differential geometry):
+  Levi-Civita split Γ = {} + K (metric-compatible + torsion-free; contortion carries torsion)
+  loop split: ΔV ~ R(A,B) rotational ; Δx ~ T(A,B) translational
+  first Bianchi R^a_[bcd] = 0 holds in the torsion-free sector only (cyclic R = ∇T + T*T with torsion live)
+  curvature / holonomy formulas
+
+Layer 3 — imported (Einstein-Cartan / Poincaré-gauge closure):
+  torsion-sector field equation T + trace = κ · spin-current
+  κ, index / trace conventions, coefficient
+  spin-current dynamics; EOS / neutron-star microphysics; observational inference
+  all magnitude
+```
+
+Layer 1 is the minimal constituency for the torsion-free audit. Layer 2 maps it onto standard affine geometry, where both closure faces are already visible. Layer 3 prices torsion from spin through a chosen completion: MGR fixes the spin → torsion-sector route, while the coefficient and dynamics are imported. Sections below are consumers of this boundary.
+
+---
+
+## 2. Two ways a loop can fail to close
 
 A loop can fail to close in two affine senses.
 
@@ -68,7 +97,7 @@ So curvature is not automatically the whole non-integrable mode. It is one face 
 
 ---
 
-## 2. Levi-Civita is two claims, not one
+## 3. Levi-Civita is two claims, not one
 
 The standard GR connection is Levi-Civita:
 
@@ -107,7 +136,7 @@ Torsion-free is an extra empty-cell claim. It needs a role-reason.
 
 ---
 
-## 3. The old exclusion does not work
+## 4. The old exclusion does not work
 
 A tempting exclusion says:
 
@@ -140,7 +169,7 @@ So an enclosed-area argument can fix the loop-size form, but it cannot exclude t
 
 ---
 
-## 4. Why torsion is not role-homeless
+## 5. Why torsion is not role-homeless
 
 One possible forced-empty route says:
 
@@ -179,7 +208,7 @@ torsion-free is not yet role-forced.
 
 ---
 
-## 5. Upward consequence: Bianchi and curvature form
+## 6. Upward consequence: Bianchi and curvature form
 
 The torsion audit reaches upward into any curvature-form derivation that used torsion-free.
 
@@ -210,7 +239,7 @@ This does not invalidate GR-owned calculations. It prevents MGR from claiming it
 
 ---
 
-## 6. Native role map
+## 7. Native role map
 
 Curvature in native language:
 
@@ -242,7 +271,7 @@ If the framework takes loop-failure-to-close seriously, the translational failur
 
 ---
 
-## 7. Spin current and the torsion-sector equation
+## 8. Spin current and the torsion-sector equation
 
 In Einstein-Cartan / Poincare-gauge-style completions, two relations must not be fused.
 
@@ -290,7 +319,7 @@ with magnitude externally priced.
 
 ---
 
-## 8. Number pipeline: torsion burden
+## 9. Number pipeline: torsion burden
 
 The torsion bet is not just a prohibition. If independent spin current is retained, it produces a number.
 
@@ -354,7 +383,7 @@ The correction should scale with spin/current, not mass-energy density alone. Ti
 
 ---
 
-## 9. Computational handles
+## 10. Computational handles
 
 The closure-failure reading is useful only if it points to real differential-geometric handles. B5 therefore keeps the handles imported, and states only what role they expose.
 
@@ -434,13 +463,13 @@ spin-current pricing:
 
 ---
 
-## 10. Minimal torsion calculation skeleton
+## 11. Minimal torsion calculation skeleton
 
 The handles above locate formulas. The next step is a calculation skeleton: the smallest sequence that turns the missing torsion cell into a priced correction or bound.
 
 Nothing in this section is a new MGR dynamics. The dynamics are imported. The MGR-claimed part is the route and the missing/extra diagnosis.
 
-### 10.1 Kinematic split
+### 11.1 Kinematic split
 
 Start with the affine data:
 
@@ -485,7 +514,7 @@ T:
   translational closure-failure tensor
 ```
 
-### 10.2 Loop split
+### 11.2 Loop split
 
 For a small loop with area bivector `A^{bc}`:
 
@@ -506,7 +535,7 @@ T prices endpoint failure (translational holonomy; adjacency-transport gap).
 
 If MGR names loop-failure-to-close as a primitive diagnostic, both prices must either be paid or one must be forced empty. A2's frame-transport handles price the rotational face; B5 prices the translational face the Levi-Civita sector sets to zero.
 
-### 10.3 Source route
+### 11.3 Source route
 
 In EC/Poincare-gauge-style completions, the torsion equation is algebraic or constraint-like in the simplest cases:
 
@@ -542,7 +571,7 @@ choice of EC / Poincare-gauge action;
 whether the physical source model is correct.
 ```
 
-### 10.4 Computation route (numerics archived)
+### 11.4 Computation route (numerics archived)
 
 The route from spin current to a priced burden — solve the torsion-sector equation, form contortion `K`, build `Γ = { } + K`, propagate to transport/observable shifts, compare to data or bound — is a standard imported computation. The runbook, anchors, gates, and Jockel–Menger readouts live in the workbench:
 
@@ -554,7 +583,7 @@ Forced-empty discipline still applies: a zero or tiny torsion burden is not refu
 
 ---
 
-## 11. Application arena (archived numerics)
+## 12. Application arena (archived numerics)
 
 Compact objects are the first D9 sensitivity arena: high density, spin, EOS leverage, mass/radius/tidal constraints. Canonical B5 fixes only the spin-current → torsion-sector route. Two source channels must not be fused:
 
@@ -570,7 +599,7 @@ Numerics, gates, EOS leverage, and readout criteria live in `archive/b5-torsion-
 
 ---
 
-## 12. Belinfante and Wigner guardrails
+## 13. Belinfante and Wigner guardrails
 
 Spin current is not simply:
 
@@ -594,7 +623,7 @@ Wigner does not prove torsion. But Wigner's massive-particle labels include mass
 
 ---
 
-## 13. Photon / write-act containment
+## 14. Photon / write-act containment
 
 This torsion audit does not automatically damage the photon or write-act sections.
 
@@ -622,7 +651,7 @@ all affine closure-failure faces.
 
 ---
 
-## 14. Ledger
+## 15. Ledger
 
 Derived / MGR-claimed:
 

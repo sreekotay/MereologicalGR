@@ -38,7 +38,37 @@ Calibration is not failure. Fitting is failure. A scalar may be observed; a stru
 
 ---
 
-## 1. Acceleration as frame-transport
+## 1. Minimal toolkit and import boundary
+
+The scalar-response seam takes a three-layer audit, not a competing Unruh calculation.
+
+```text
+Layer 1 — owned (GR / A0 lineage):
+  frame = ordering + flow + adjacency; rendering is always through a flow-bearing frame
+  frameless null content is rendered only second-hand at a flow-frame (A1 photon corner)
+  frame-transport bets FT-1 / FT-2 / FT-3
+  acceleration = local residue of non-geodesic self-transport of flow
+  rendering ≠ constitution; uptake/write at threshold is the constitution site (A1 PB-4)
+  retarded causal orientation from cause = ordering + influence
+
+Layer 2 — projected (read from GR / Levi-Civita geometry):
+  scalar operator □_g from metric / connection, given a scalar probe
+  leading 1/σ interval skeleton in 4D; hyperbolic sinh² pullback under uniform acceleration
+  imaginary proper-time period β_τ = 2πc/a (geometric, not fitted)
+  proper acceleration a = sqrt(a^μ a_μ), spacelike (A2 §6)
+
+Layer 3 — imported (QFT state machinery + calibration):
+  vacuum / state selection; Wightman two-point sampling; iε / positive-frequency state rule
+  KMS / detailed-balance thermal reading; detector transition probabilities
+  ℏ, k_B, normalizations, couplings, detector gaps, thresholds
+  all magnitude
+```
+
+Layer 1 is the minimal constituency for the rendering/uptake audit. Layer 2 maps it onto GR interval geometry, which forces the sinh² pullback and the 2π period with no QFT input. Layer 3 supplies the thermal reading of that period and all magnitude. The audit returns no missing/extra remainder. Sections below are consumers of this boundary.
+
+---
+
+## 2. Acceleration as frame-transport
 
 A0 defines:
 
@@ -136,7 +166,7 @@ So scalar Unruh does not prove full carried-frame-basis transport. It isolates t
 
 ---
 
-## 2. Metric/Levi-Civita structure gives the scalar operator
+## 3. Metric/Levi-Civita structure gives the scalar operator
 
 Levi-Civita structure does more than transport vectors. Given a metric-compatible torsion-free GR sector and an admitted scalar probe, the metric/connection structure gives the natural scalar wave operator:
 
@@ -182,7 +212,7 @@ For the flat massless run, `R = 0` and `m = 0`, so `P = □`. The curvature coup
 
 ---
 
-## 3. The scalar skeleton is interval-governed
+## 4. The scalar skeleton is interval-governed
 
 In flat four-dimensional spacetime, the massless scalar operator is schematically:
 
@@ -234,7 +264,7 @@ The leading interval singularity and transport/focusing data are geometric. The 
 
 ---
 
-## 4. Acceleration pulls the skeleton onto `sinh²`
+## 5. Acceleration pulls the skeleton onto `sinh²`
 
 Use flat spacetime and a uniformly accelerated timelike worldline. With `x⁰ = ct`:
 
@@ -290,7 +320,7 @@ This is the main positive computation. Uniform acceleration plus GR interval geo
 
 ---
 
-## 5. The `2π` period is geometric
+## 6. The `2π` period is geometric
 
 The pulled-back skeleton has imaginary proper-time periodicity because:
 
@@ -328,7 +358,7 @@ In this run, the `2π` itself is structure-derived. What remains externally supp
 
 ---
 
-## 6. The quantum state boundary
+## 7. The quantum state boundary
 
 The skeleton is not the full response. The missing piece is the state prescription:
 
@@ -412,7 +442,7 @@ vacuum / KMS / detector response:
 
 ---
 
-## 7. Consistency check for Unruh and PB-4
+## 8. Consistency check for Unruh and PB-4
 
 For Unruh:
 
@@ -448,7 +478,7 @@ This is a consistency check with PB-3 / PB-4, not a B7-originated guardrail. It 
 
 ---
 
-## 8. Horizons and the next wall
+## 9. Horizons and the next wall
 
 Uniform acceleration is the flat-spacetime laboratory. Horizons are the curved/access-boundary continuation.
 
@@ -482,7 +512,7 @@ without choosing a global vacuum?
 
 ---
 
-## 9. Ledger
+## 10. Ledger
 
 Role-located / clarified / inherited computation:
 

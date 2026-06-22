@@ -66,37 +66,30 @@ Temperature can scale a response to such relatedness. It is not itself constitut
 
 ---
 
-## 1. Updated Routing Split
+## 1. Minimal toolkit and import boundary
 
-The current scalar-response boundary is:
+The Unruh temperature seam takes a three-layer audit, not a detector-response re-derivation.
 
 ```text
-GR / Levi-Civita can earn:
-  scalar interval skeleton;
-  accelerated pullback;
-  imaginary proper-time period beta_tau = 2pi c/a.
+Layer 1 — owned (GR / A0 lineage):
+  temperature ≠ information; rendering / response sits below uptake / write
+  flow-indexed response-scale role for temperature
+  frame-transport changes rendering before any write (PB-4a, not PB-4-full)
+  no one-place in-flight temperature; photon energy is two-place E = -p·u
+  CMB temperature is congruence-rendered, not a photon rest-box property
 
-MGR can locate / role-route (derivation status: B7 §6):
-  frame-transport as an operation;
-  retarded causal orientation (role-natural);
-  positive frequency as future-flow energy orientation (boundary-located, not derived);
-  need for a stability floor (quantum-state machinery);
-  temperature / information role separation.
+Layer 2 — projected (read from GR / Levi-Civita geometry):
+  accelerated scalar pullback; imaginary proper-time period β_τ = 2πc/a (scalar-skeleton level)
+  redshift / congruence rendering: E = -p·u, T(z) = T0(1+z)
 
-Calibration may supply:
-  dimensionful constants;
-  normalizations;
-  coupling strengths;
-  detector gaps;
-  threshold scales;
-  empirically measured scalar values.
-
-QFT / quantum-state machinery supplies:
-  vacuum / state selection;
-  Wightman two-point sampling;
-  KMS / detailed-balance thermal interpretation;
-  detector transition probabilities.
+Layer 3 — imported (QFT state machinery + calibration):
+  vacuum / state selection; Wightman two-point sampling; KMS / detailed-balance thermal reading
+  detector transition rates, gaps, couplings, switching functions
+  constants, normalizations, thresholds; Hawking / greybody / species
+  all magnitude
 ```
+
+Layer 1 is the minimal constituency for the temperature/information question. Layer 2 maps it onto GR pullback and congruence geometry. Layer 3 turns the geometric period into an actual temperature and supplies all magnitude — the decisive import is the KMS reading, which converts the geometric β_τ into a detector temperature.
 
 So B6 no longer routes the bare `2pi` period in the scalar skeleton through QFT state machinery. The revised statement is:
 
@@ -144,7 +137,7 @@ consequence-capable relatedness
 → possible uptake / write
 ```
 
-Skeleton route (derived in B7 §4–§5; not re-derived here):
+Skeleton route (derived in B7 §5–§6; not re-derived here):
 
 ```text
 uniform acceleration → hyperbolic worldline → scalar interval pullback → beta_tau = 2pi c/a
