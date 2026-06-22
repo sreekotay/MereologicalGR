@@ -233,7 +233,7 @@ Threshold:
   → mis-threshold as photons → parallel shift of HL line
 ```
 
-**PB-2 / D12 contact.** The resource-law declaration is the first operational handle on PB-2's interior: `N_pass` / decode-depth `M` is the **ordering-resource**, `N_photon` the **adjacency-resource**, and `M*` is an actual count on the ordered resource. The sharp could-fail is substitutability — entanglement-free sequential depth and parallel-probe count reach the **same** Heisenberg bound, so the yield bound need not privilege per-ordering over per-adjacency (CLAIMS PB-2; diagnostic-ledger D12).
+**PB-2 / D12 contact.** The resource-law declaration is the first operational handle on PB-2's interior: `N_pass` / decode-depth `M` is the **ordering-resource**, `N_photon` the **adjacency-resource**, and `M*` is an actual count on the ordered resource. The sharp could-fail is substitutability — entanglement-free sequential depth and parallel-probe count reach the **same** Heisenberg bound, so the yield bound need not privilege per-ordering over per-adjacency (CLAIMS PB-2; diagnostic-ledger D12). This is the **adversarial** PB-2.1 wall (precision yield). The **favorable** PB-2.1 wall is many-body cone spread (b9 §3; b4 §6a export) — different register; triangulation in CLAIMS D12 / ledger §4.2.
 
 ### 6.3 QEC ↔ metrology crosswalk
 

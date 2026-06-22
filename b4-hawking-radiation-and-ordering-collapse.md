@@ -141,6 +141,10 @@ stranding threat
 
 Whether that edge also exhibits invariant information-stranding — and so ordering-collapse under bet 1 — is an open contact, not a packaged chain.
 
+The horizon and singularity are role-distinct but not geometrically independent. Once a trapped surface forms, Raychaudhuri convergence under the null energy condition drives the outgoing null congruence to a caustic, and the Penrose theorem turns that into geodesic incompleteness. Trapped-surface formation thus classically entails the ordering-collapse edge — a one-way implication, horizon → singularity, owned as GR (ħ-free).
+
+This entailment is narrower than the loss-edge bet. Focusing packages horizon → ordering-collapse; it does not package ordering-collapse → invariant information-stranding. GB-2's directional bets stay open as above: the geometry links the two sites causally without sealing the stranding chain.
+
 Observer-relative horizons do not automatically count as ordering-collapse. Rindler and de Sitter horizons can be horizon-rich without being invariant stranding edges.
 
 ---
@@ -346,6 +350,110 @@ S_rad(t):
 
 MGR adds no fourth scalar for information constitution.
 
+PB-2 per-adjacency corner (A0 §12) — a could-fail probe, not the positive interior.
+
+PB-2's positive interior is opened at the photon seam — ordering + influence with flow stripped (a1). The horizon is a different wall: access / loss-edge / adjacency-capacity. It cannot illuminate that interior; it can only test one could-fail. Classical black-hole mechanics (§1) supplies the test, projected — no ħ-bridge needed:
+
+```text
+κ (access-scale, ∝ M⁻¹) — the RATE:
+  a frame-transport / acceleration scale (A0 §4), not an ordering quantity;
+  state-dependent (varies with M), so not a universal scalar.
+
+A (area, ∝ M²) — the EXTENSIVE amount:
+  adjacency-capacity (§1), not an ordering count.
+
+first law dM = (κ/8πG) dA:
+  binds the rate κ to the adjacency amount A.
+```
+
+The touch is by absence. The first law is energy-per-area — GB-1 / adjacency-face geometry, with no ordering or influence term in it. What it shows for PB-2 is negative: the horizon's only extensive is adjacency, the rate is frame-transport, and no ordering-extensive appears. So if PB-2's ratio were realized here it would read per-adjacency — the could-fail corner, not an identification of κ/A with influence-per-ordering:
+
+```text
+corner 1 (a4 §6): ordering-depth ↔ adjacency-count at one Heisenberg bound.
+corner 2 (here):  classical mechanics supplies an adjacency extensive (A) and
+                  no ordering extensive; κ is frame-transport, not ordering.
+```
+
+This is half the fork only — the per-ordering vs per-adjacency axis. The bound-vs-realized decomposition is not tested here; whatever ordering-like structure black-hole accounting has would surface in recoverability / the entropy transition where area-monotonicity breaks (Page/QES, §7) — imported, not owned. So §6 opens PB-2 at this wall; it does not close it, and carries could-fail weight only.
+
+### 6a. What the corner forces — PB-2.1, PB-2.2
+
+The corner is read by absence: the horizon's only extensive is adjacency. If PB-2's interior is real, that absence forces two signatures a genuine per-ordering instance must carry. Neither is testable at this wall — the horizon is precisely where they are missing — so the corner states them and points elsewhere.
+
+```text
+PB-2.1 — non-substitutability (depth, not width):
+  ordering is the causal-precedence chain; adjacency is side-by-side on a slice
+    (space = ordering + adjacency, A0 §6).
+  a genuinely per-ordering bound is not bought back by adding parallel
+    adjacency-width; it is paid in causal depth.
+  could-fail: depth freely traded for parallel count → the resource was
+    adjacency all along (per-adjacency, A0 §12).
+
+PB-2.2 — flow-freeness (count, not duration):
+  ordering survives flow-stripping at the photon seam (A0 §2, a1), so the
+    ordering-resource is a count on the causal order — steps, not seconds.
+  could-fail: the only bound available carries irreducible duration / metric
+    dependence with no step-count form → the resource was flow, not ordering.
+```
+
+Where these are tried — not at the horizon:
+
+```text
+a4 §6 (metrology):
+  adversarial — passes/depth vs photon-count at one Heisenberg bound puts
+  PB-2.1 on trial, the could-fail (substitutability) live.
+
+many-body Lieb-Robinson cone:
+  favorable, GR-free — the influence cone advances with interaction layers
+  (depth), not system size (width), so depth is non-substitutable by
+  construction; and it reaches the bound-vs-realized split the horizon could
+  not: the Lieb-Robinson ceiling vs the actual correlation front.
+```
+
+The horizon corner exports this demand; it does not settle it.
+
+### 6b. The fused limit and where it separates — Wald / Page contact (imported, could-fail)
+
+§6 read the corner classically and found area the only extensive. That is the stationary limit, and there is an imported way to see why ordering owns no separate extensive there.
+
+Wald's theorem (Layer 3, semiclassical): horizon entropy is the Noether charge of the horizon-generating Killing field on the bifurcation surface — for GR, A/4. That Killing field is the boost that preserves the near-horizon causal structure, i.e. the generator of the ordering symmetry. Read through MGR roles, the area-entropy is then the ordering-charge made indistinguishable from the adjacency-area:
+
+```text
+bulk:    Noether charge of the time / boost symmetry = M (energy)   — distinct from area
+horizon: Wald forces  charge|_bifurcation = A/4 = S                  — charge IS the area
+first law  dM = T dS:  bulk charge M and horizon area-extensive S, bridged by the rate T.
+```
+
+So the §6 corner is the fused limit, not a refutation of per-ordering: at a stationary horizon the ordering-charge is not absent — it is indistinguishable from the area (this is C1).
+
+The separation needs non-stationarity. In evaporation the area-monotonicity breaks (Page/QES, §7) and the entropy accounting splits:
+
+```text
+S_rad = min( ordering-accounted , adjacency-area )
+  pre-Page:  ordering-accounted smaller — entropy not reducible to the current area
+  post-Page: area smaller — the per-adjacency regime §6 named
+```
+
+Pre-Page is where an ordering-extensive would be separately visible — the home the horizon corner could not reach; post-Page is the per-adjacency regime (this is C2).
+
+This is contact, not owned:
+
+```text
+imported:   Wald entropy; KMS / modular reading; Page curve; QES / island machinery.
+the bet:    that the horizon Noether charge is PB-2's measure-on-ordering — principled
+            (the boost generates the ordering symmetry) but NOT forced; it is chosen partly
+            because it returns S = A/4.
+could-fail (C1): the identification is only fitted to S = A/4, with nothing in the grammar
+                 forcing it; or higher-curvature Wald terms make charge ≠ A/4 with no predictable
+                 charge–area separation (charge ≠ area beyond GR is otherwise a test that the two
+                 are distinct).
+could-fail (C2): a stable remnant is required (charge stays fused to the end);
+                 or the pre-Page "ordering-accounted, irreducible to area" reduces to a count;
+                 or "rising branch = ordering leaving" stays interpretation with no handle.
+```
+
+b4 imports the machinery and locates the role (D2 / D3); it does not derive Wald, the Page curve, or the island formula, and the ordering-charge identification carries could-fail weight only.
+
 ---
 
 ## 7. Computational handles
@@ -393,7 +501,11 @@ Page-QES accounting:
   imported handle: Page curve / generalized entropy / QES-island machinery
   role exposed: recoverability / entropy-accounting cut;
   computes: theoretical accounting transition;
-  not derived: changed constitution site unless the write-chain changes.
+  not derived: changed constitution site unless the write-chain changes;
+  PB-2 could-fail (open, imported): the entropy transition where
+    area-monotonicity breaks is where any ordering-extensive — as opposed to
+    the adjacency-area extensive §6 found — would have to surface. That is the
+    per-ordering corner §6 could not test; untested here, parked in Layer 3.
 ```
 
 Method reading:

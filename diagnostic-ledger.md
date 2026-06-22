@@ -174,7 +174,7 @@ unless the document has separately earned that stronger status.
 | D9 | Torsion / spin-current compact objects | archived sensitivity lane | GR + EOS + rotation + magnetic/crust/thermal modeling | independent spin/current retained -> torsion equation -> contortion -> observable shift or bound | nonzero only if spin/current survives as independent source; scale should track spin/current, not mass-energy alone | residual fully absorbed by ordinary matter/EOS modeling; no independent spin-current torsion burden; or role-level forced-empty result |
 | D10 | RFI-QKD / reference-frame-independent communication | record-vs-constitution discriminator + null guard | QKD secure under unaligned/drifting transverse frames; key in a stable basis; security from rotation-invariant correlators | transverse frame-independence = rendering/transport robustness; key constituted at detector uptake against a retained shared stable axis/clock | frame-invariant correlator is pre-uptake record, not constituted key; a shared stable axis/timing is still present | constituted, usable key produced with no flow-bearing uptake and no shared stable reference anywhere in the chain (structurally unavailable in RFI-QKD; confirmation/misread lane) |
 | D11 | Quantum reference frames / relational facts | engine-eligible test + formal discriminator (PB-4 exposure) | QRF transformations; coherent/superposed reference frames; relational-QM and QRF Wigner's-friend "observer-relative facts" | quantum frame = superposed rendering/transport map, write-not-read; constitution = flow-bearing irreversible write at **pinned threshold T**, not frame-choice | frame/observer-relativity rides the coherent/reversible (un-constituted) regime only; committed flow-bearing records agree at fixed write-chain **and fixed T** | frame/observer-relativity of a genuinely constituted (irreversible, flow-bearing, **T-crossed**) record with physical write-chain **and T** held fixed; or **T** slid post hoc to rescue constitution |
-| D12 | Ordering/influence bound (PB-1/2) | **fork declared; first contact a4 §6 (metrology resource law)** | null sector m/s with τ→0; c on flow/adjacency axis; adaptive metrology resource law (passes/depth vs photons) | PB-1 names the exposed axis; PB-2 opens the ordinal interior (measure-on-ordering gate); `N_pass`/depth = ordering-resource, `N_photon` = adjacency-resource | interior is ordinal until a measure on ordering is earned; quotient not yet licensed | axis unbounded where decomposition exposes it; ratio per-adjacency only; no bound/realized split; or yield bound resource-substitutable (ordering-depth ↔ adjacency-count, a4 §6 Heisenberg corner); or downstream cascade → relabel (A0 §12, CLAIMS Tier B) |
+| D12 | Ordering/influence bound (PB-1/2) | **fork; three walls — b4 §6a demand, b9 favorable, a4 §6 adversarial** | null sector m/s with τ→0; c on flow/adjacency axis; Lieb-Robinson many-body cone (GR absent); adaptive metrology resource law (passes/depth vs photons) | PB-1 names the exposed axis; PB-2 opens ordinal interior + PB-2.1/2.2 signatures (b4 §6a); **b9:** depth not width, layer-count, v_LR ceiling vs actual front (favorable); **a4 §6:** `N_pass`/depth vs `N_photon` (adversarial PB-2.1); **b4 §6:** κ frame-transport, A adjacency-only (negative) | interior ordinal until measure on ordering earned; if earned, rate intensive, ordering-privilege in extensive amount; b9 exhibits bound/realized split | axis unbounded; ratio per-adjacency only; no bound/realized split; ordinal forever or measure universal (c-like); or HL yield substitutable (a4 §6); or horizon adjacency-only extensive (b4 §6); or cone advances by width alone (b9 §3); or LR = c once metric restored (b9 §2); or Wald boost=ordering-symmetry only fitted to S=A/4 (b4 §6b, C1); or Page un-fusion requires a stable remnant (b4 §6b, C2); or downstream cascade → relabel (A0 §12, CLAIMS Tier B) |
 | D13 | Quantum thermodynamics operational closure | record-vs-constitution discriminator + engine-eligible (reset/memory/clock) | resource theories, fluctuation theorems, entanglement thermodynamics, thermal machines | work/operation/information/cycle/engine require battery, clock/control, register/write, reset — not optional add-ons | no constituted work/information/cycle from state functionals alone | work, cycle, or constituted information claimed without battery, register/write-chain, reset, or pinned threshold; entropy/MI/correlation sufficient for constitution across varied uptake conditions |
 
 ---
@@ -216,6 +216,56 @@ carrier:
 Current QFT lands on the role-separation side. Magnitude remains QED-priced; MGR-disowned.
 
 This lane is register discipline and anti-misread. It is not a new cross-section prediction.
+
+---
+
+## 4.2 Ordering/influence fork — many-body cone (D12 / B9)
+
+Full prose: `b9-many-body-cones-and-the-ordering-bound.md`. Demand exported from `b4-hawking-radiation-and-ordering-collapse.md` §6a.
+
+This is the favorable wall for PB-1/2: GR and the metric are absent, so a finite influence cone cannot be `c` in disguise.
+
+```text
+Layer 1 — owned:
+  PB-1: ordering/influence axis carries a bound
+  PB-2: interior per ordering-resource; bound vs realized
+  PB-2.1 / PB-2.2 signatures forced at the horizon corner (b4 §6a)
+
+Layer 2 — projected:
+  local Hamiltonian / bounded-range graph
+  commutator reach ‖[A(t), B]‖ as influence-reach
+  circuit depth (ordering) vs width (adjacency)
+
+Layer 3 — imported:
+  v_LR, proof constants, tail shape, specific lattice
+```
+
+Triangulation with other D12 walls:
+
+```text
+b4 §6a:
+  exports PB-2.1/2.2 demand; horizon cannot test them
+
+b9 (here):
+  favorable — cone advances with depth not width (PB-2.1 positive);
+  layer-count not duration (PB-2.2 positive);
+  v_LR ceiling vs actual front (bound vs realized)
+
+a4 §6:
+  adversarial — HL yield may be reachable by depth OR photon-count
+  (PB-2.1 could-fail on precision-yield register; not the same as cone spread)
+```
+
+Could-fail shapes (B9 §7):
+
+```text
+cone advances by parallel width alone → per-adjacency
+only duration-bound available → flow not ordering
+ceiling always saturated → no bound/realized split
+every many-body bound reduces to ambient c once relativity restored → PB-1 not independent
+```
+
+Grade: clarifier / candidate positive witness. Not a new velocity prediction.
 
 ---
 

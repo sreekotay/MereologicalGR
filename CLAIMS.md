@@ -109,14 +109,14 @@ Realism of composable roles is the conceit; PBs are prices, not theorem outputs 
 
 ### Tier B — architecture (ordering/influence axis under unit pressure)
 
-PB-1 and PB-2 are forks, not theorems. PB-1 names the ordering/influence axis the photon exhibit exposes; PB-2 opens the interior (ordinal until a measure on ordering is earned; bound vs realized). They label branches the process must walk — first contact wired at a4 §6 metrology resource law (D12), not unmotivated speculation.
+PB-1 and PB-2 are forks, not theorems. PB-1 names the ordering/influence axis the photon exhibit exposes; PB-2 opens the interior (ordinal until a measure on ordering is earned; bound vs realized). They label branches the process must walk — contacts wired at **a4 §6** (adversarial metrology), **b4 §6a** (horizon demand / per-adjacency could-fail), and **b9** (favorable many-body witness; D12).
 
 **Why these are the sharpest forks.** Influence is the corpus's one owned primitive with no anchor in the held-fixed substrate: ordering↔causal order, flow↔proper time, adjacency↔energy-momentum-face, and constitution↔write-chain all discharge their audit debt to GR/QFT or to operation; influence does not. It is the only thing MGR must characterize independently, so it is the maximal audit-exposure surface — which is why PB-1/2 carry the corpus's heaviest could-fails and the relabel test fires hardest here.
 
 | ID | Claim (foundation form) | Grade | MGR-owned | Imported | Could fail / demote |
 |---|---|---|---|---|---|
 | **PB-1** | Ordering/influence axis exposed by decomposition carries **bound structure** (as flow/adjacency axis carries c) | architecture bet / **fork** | existence of bounded ordering/influence axis | numeric value of bound | Axis has no bound, or role-structure non-uniform exactly where decomposition exposes it |
-| **PB-2** | PB-1 interior is **influence per ordering-resource**; ordinal until a measure on ordering is earned; bound vs realized separable | architecture bet / **fork** | ordinal interior; measure-on-ordering gate | ratio/measure form; particular scalars per system | Ratio per-adjacency only; no bound/realized split; **or** yield bound resource-substitutable (ordering-depth ↔ adjacency-count, a4 §6 Heisenberg corner) → per-ordering loses privilege |
+| **PB-2** | PB-1 interior is **influence per ordering-resource**; ordinal until a measure on ordering is earned; if earned the measure is a **rate (intensive, state-/configuration-dependent), not a universal scalar**, with ordering-privilege in the **resource amount (extensive), not the ratio**; bound vs realized separable | architecture bet / **fork** | ordinal interior; measure-on-ordering gate; **earn-condition = units + bound + non-degenerate conversion rate**; PB-2.1 / PB-2.2 signatures (b4 §6a) | ratio/measure form; particular scalars per system | Two-sided: ordinal forever (no units/bound/rate) → measure never existed; **or** measure universal (c-like) → rate reading wrong. **Three corners (different registers):** (1, **a4 §6**, adversarial) HL yield bound resource-substitutable — depth ↔ adjacency-count at one Heisenberg bound (PB-2.1 could-fail live); (2, **b4 §6**, negative) classical first law — adjacency extensive only, κ frame-transport (per-adjacency could-fail); (3, **b9 §3–5**, favorable) LR cone — depth not width, layer-count, ceiling vs front (PB-2.1/2.2 positive + bound/realized) |
 
 **Cascade demotion:** if PB-1/2 could-fails land **and** downstream operational bets and contacts (PB-3/4, engine rows, grammar contacts) **all** fail to force distinct routes — the architecture forks **reduce to relabel** (nothing MUST follow that GR/QFT closure did not already price). That is conceit failure, not a single lost scalar.
 
@@ -149,6 +149,7 @@ Gravity-side role claims from A2. Non-PB; same grading discipline. GB-3 is the g
 | Acceleration = forced-face exhibit on timelike flow; ≠ gravity | clarifier | A0 §4, A2 §5–6 | role split | a^μ, R, T_μν | Gravity identified with proper acceleration only |
 | Influence ladder (no tier collapse) | definition / method | A0 §3 | tier discipline; **partial order**, not total order | QFT guardrail map in A0 §3 | Guardrail purely bookkeeping with no tier reading |
 | Temperature ≠ information | role diagnostic | B6, D5 | separation of response scale vs uptake | KMS, thermodynamics | Temperature alone determines constitution |
+| Influence = shared hinge of the two big carves | clarifier (owned) | A0 §6 | `gravity` and `information` both compose `ordering + influence`, diverging only at energy-momentum (gravity) vs flow (information) | — | A consequence-capable carve omits influence; or the divergence is not energy-momentum vs flow |
 
 ---
 
@@ -169,10 +170,10 @@ Full prose: `diagnostic-ledger.md` §4–§14. Compact:
 | **D9** | Torsion / spin-current | **archived sensitivity** | Spin/current-routed correction if live | Absorbed by GR+EOS; or role-level forced-empty result |
 | **D10** | RFI-QKD | confirmation / misread | Correlator = record; key at uptake | — (structurally confirmation lane) |
 | **D11** | QRF / relational facts | engine + PB-4 | Frame relativity in reversible regime; committed records agree at fixed write-chain **and pinned threshold T** | Constituted record frame-relative at fixed write-chain **and fixed T**; or **T** slid post hoc to rescue constitution |
-| **D12** | Ordering/influence bound (PB-1/2) | **fork declared; first contact a4 §6** | Ordering/influence-axis bound + ordinal interior (measure-on-ordering gate); first handle = a4 §6 metrology resource law (`N_pass`/depth vs `N_photon`) | Axis unbounded where decomposition exposes it; ratio per-adjacency only; no bound/realized split; **or** yield bound resource-substitutable (a4 §6 Heisenberg corner); **or** full downstream cascade → relabel (see Tier B) |
+| **D12** | Ordering/influence bound (PB-1/2) | **fork; three walls — b4 §6a demand, b9 favorable, a4 §6 adversarial** | PB-1 axis + PB-2 ordinal interior; PB-2.1/2.2 signatures (b4 §6a); **b9:** LR cone GR-free, depth/width, bound vs front; **a4 §6:** `N_pass`/depth vs `N_photon`; **b4 §6:** κ/A absence read | Axis bounded with metric absent (b9 §2); depth non-substitutable for cone advance (b9 §3); layer-count not duration (b9 §4); ceiling vs realized front (b9 §5); quotient not yet licensed at metrology wall | Axis unbounded; ratio per-adjacency only; no bound/realized split; ordinal forever or measure universal (c-like); **or** HL yield substitutable (a4 §6, PB-2.1 adversarial); **or** horizon adjacency-only extensive (b4 §6); **or** cone advances by width alone (b9 §3); **or** LR reduces to ambient c once metric restored (b9 §2, PB-1); **or** cascade → relabel |
 | **D13** | Quantum thermodynamics closure | record vs constitution + engine | Work/cycle/engine require battery, clock/control, register/write, reset | State functionals alone suffice for constituted work/information/cycle; reset omitted while cycle claimed |
 
-Full prose for D12: A0 §12, A1 §7. Forks declared; first operational contact is a4 §6 (metrology resource law). Architecture demotion can still land via PB could-fails plus downstream bet/contact cascade — including resource-substitutability of the yield bound (a4 §6 Heisenberg corner).
+Full prose for D12: A0 §12, A1 §7; `b4-hawking-radiation-and-ordering-collapse.md` §6a (demand); `b9-many-body-cones-and-the-ordering-bound.md` (favorable wall); `a4-qec-failure-layer-autopsy.md` §6 (adversarial PB-2.1). **Triangulation:** b4 exports PB-2.1/2.2 signatures; b9 tests them favorably on influence spread (GR absent); a4 tests PB-2.1 adversarially on precision yield (Heisenberg substitutability) — different registers, not contradictory. **b4 §6b** adds the Wald/Page ordering-charge contact (imported, D2/D3): the §6 per-adjacency corner is the stationary **fused** limit (C1, Wald), pre-Page the per-ordering home where the charge **un-fuses** (C2, Page) — contact, not owned, could-fail weight only. Architecture demotion via cascade still applies (Tier B).
 
 Full prose for D13: `a5-quantum-thermodynamics-closure-audit.md`.
 
@@ -190,6 +191,8 @@ Non-additive. Each row: did this contact collapse to relabel, or did role-route 
 | Gauge / normal-ordering conventions | A0 §3 probe | **lineage-neutral** | — | tier separation absent | audit returns **relabel only** — logged so the grade can fail |
 | Ward / index bookkeeping (typical) | QFT practice | **lineage-neutral** (default) | — | — | not counted toward contact weight |
 | Commutator locality → "information in flight" | QFT habit misread (B1 contrast) | **lineage-failure** | — | kernel/carrier split absent | route predated (PB-3, ladder); audit returns **relabel only** — logged so grade discriminates |
+| Many-body LR cone / ordering bound | B9 | clarifier / **candidate positive witness** | v_LR and proof constants imported | cone advances by width alone; bound irreducibly duration-only; ceiling = realized always; LR = c once metric restored | PB-1 GR-free; PB-2.1/2.2 + bound/realized at favorable wall (b4 §6a demand) |
+| Wald ordering-charge / Page un-fusion | B4 §6b | **contact / could-fail (not owned)** | Wald entropy + Page/QES machinery imported | boost = ordering-symmetry only fitted to S=A/4; stable remnant required; pre-Page reduces to count | fused limit (C1) reframes the §6 corner; un-fusion (C2) = pre-Page per-ordering home |
 
 Lineage-witness is **defined**, not **accumulated** — see reading rules above.
 
@@ -233,4 +236,4 @@ Do not treat workbench outputs as witness for PB or core grammar without promoti
 
 When adding a claim: state **grade**, **owned**, **imported**, **could-fail**, **discount** (if lineage-witness), **source file**. If a row duplicates the ledger, the ledger row wins for lane detail; this file wins for **at-a-glance status**.
 
-Last aligned with corpus: June 2026 (A0 through §14, A4 §9, B1 §2 minimal toolkit, B8, diagnostic-ledger §4.1 / §15).
+Last aligned with corpus: June 2026 (A0 through §14, B1 §2, B4 §6a, B9, B8, diagnostic-ledger §4.1–§4.2).

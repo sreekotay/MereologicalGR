@@ -38,11 +38,11 @@ MGR is a relabel inside GR by design, but an exported constraint system outside 
 |---|---|---|
 | **Root** | `A0-…md` | Grammar, influence ladder, splits, composition, PB bets, ownership rules |
 | **Applications (A)** | `a1` … `a5` | Photon seed run, gravity adjacency, record vs constitution, QEC engine autopsy, quantum thermodynamics closure audit |
-| **Phenomena (B)** | `b1`–`b8` (canonical: `b4`–`b7`; engine: `b8`) | Role-location for horizons, Unruh, virtual exchange, Zych flow-register, etc. — not new dynamics |
+| **Phenomena (B)** | `b1`–`b9` (canonical: `b4`–`b7`; engine: `b8`; PB fork: `b9`) | Role-location for horizons, Unruh, virtual exchange, Zych flow-register, many-body ordering bound, etc. — not new dynamics |
 | **Diagnostics** | `diagnostic-ledger.md`, `contrast-diagnostic-program.md` | Contact lanes, null guards, demotion conditions |
 | **Workbench / archive** | `archive/`, `workbench/`, `data/` | Provisional numerics — **not canonical center** |
 
-**Path:** A0 → A3 → A4 → ledger §4 → B-notes as needed. For thermo export: A3 → A4 → **a5** → D13.
+**Path:** A0 → A3 → A4 → ledger §4 → B-notes as needed. For thermo export: A3 → A4 → **a5** → D13. For PB-1/2 fork: **b4 §6a** (demand) → **b9** (favorable wall) vs **a4 §6** (adversarial PB-2.1).
 
 **A0 first pass:** §1–§7, §10, §12. Skip §14 (compact foundation) if the rest is clear.
 
@@ -94,7 +94,7 @@ Claim status: [CLAIMS.md](CLAIMS.md).
 ## Layout
 
 ```text
-A0, a1-a5, b1-b8          argument + application notes
+A0, a1-a5, b1-b9          argument + application notes
 diagnostic-ledger.md      lane index (§4)
 contrast-diagnostic-program.md
 archive/b5-torsion-*      sensitivity workbench only (D9)
