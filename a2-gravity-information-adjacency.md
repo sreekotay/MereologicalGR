@@ -56,6 +56,35 @@ open:     torsion / spin remainder — audited in B5, not closed here
 
 ---
 
+## Minimal toolkit and import boundary
+
+The gravity-side seam takes a three-layer audit, not a re-derivation of GR.
+
+```text
+Layer 1 — owned (GR / A0 lineage):
+  gravity = ordering + influence + energy-momentum; information = ordering + influence + flow
+  shared core ordering + influence; the difference is the adjacency / energy-momentum sector (GB-1)
+  GB-2 loss / unaccountability edge; GB-3 no-null-constitution (framelessness, A0 §4)
+  constitution is uptake / write-side, not transport-side
+  torsion-free is an unforced empty cell (open, parked)
+
+Layer 2 — projected (read from GR geometry):
+  energy-momentum faces: energy = flow-conjugate, momentum = adjacency-conjugate, mass = rest / flow-projection
+  rendering E = -p·u; proper acceleration a^μ = u^ν ∇_ν u^μ
+  geodesic deviation, holonomy ΔV ~ R(A,B); Weyl electric / magnetic faces
+  one ∇ in two faces: curvature (mass-blind) and forced (flow-only)
+
+Layer 3 — imported (GR / SR contact closure):
+  metric, ∇, Riemann; G_μν = κ T_μν and couplings
+  proper-time / four-velocity / mass-shell substrate
+  EC / Poincaré-gauge torsion dynamics, if the cell goes live
+  all magnitude
+```
+
+Layer 1 is the minimal constituency for the gravity/information split. Layer 2 maps it onto GR transport quantities (the projection faces of §3, the handles of §6). Layer 3 supplies the substrate and dynamics (§1). MGR claims role-location only; the mathematics is GR's.
+
+---
+
 ## 1. Imported SR/GR substrate
 
 Checkable physics, not framework claims:
