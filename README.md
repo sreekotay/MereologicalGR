@@ -75,11 +75,17 @@ Foundations fused by axiom-to-fit can only be unfused by **re-reading the fit**.
 
 Success = prior role-carve + clean missing/extra + stated could-have-failed — not novelty alone. The photon seed (m/s with τ → 0 internal) is lineage-clean before any phenomenon note.
 
-Only GR is held fixed. Other closures, including QFT and thermodynamics, can inform contact outcomes, but they do not proscribe the GR-first grammar. Relabel is the failure mode. False locates where roles hold or where the route is malformed; true forces new bets. An unknown contact forces sharper bets in that direction. Re-audit is triggered by missing/extra, failed route, or stated could-fail condition — not by external authority.
+Only GR is held fixed. Other closures, including QFT and thermodynamics, can inform contact outcomes, but they do not proscribe the GR-first grammar. An unknown contact forces sharper bets in that direction. Re-audit is triggered by missing/extra, failed route, or stated could-fail condition — not by external authority.
 
 Correlated retrodictive passes across contacts sharing a held-GR variable do not aggregate to convergence; they aggregate to a sharper bet, and the weight lands only at the contact where the shared variable is forced to dissociate.
 
 Note: a framework that pre-answers criticism by deflecting is unfalsifiable; a framework that pre-answers criticism by routing it to a static kill test ([CLAIMS.md](CLAIMS.md) Tier B cascade demotion) is attempting maximal falsifiability.
+
+Contact outcomes:
+
+- **FALSE** — success: informs where GR roles are already sufficient, or MGR is unfusing incorrectly.
+- **TRUE** — requires further bets / projections.
+- **RELABEL** — the failure mode.
 
 Claim status: [CLAIMS.md](CLAIMS.md).
 
