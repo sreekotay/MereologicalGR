@@ -77,20 +77,25 @@ Layer 1 — owned (GR / A0 lineage):
   rendering ≠ constitution; frame-transport changes rendering, not the write
   PB-4 uptake/write at threshold; record ≠ constitution (A3)
 
-Layer 2 — projected (read from standard black-hole geometry):
+Layer 2 — projected (classical GR geometry, no ħ):
   surface gravity κ ↔ access / frame-transport acceleration scale
-  near-horizon Rindler + Euclidean 2π ↔ frame-transport scale-form
-  T_H ∝ κ ↔ geometry-earned scale-form
-  area-law S_BH ∝ M² ↔ adjacency-side capacity
-  Page curve ↔ recoverability accounting cut
+  0th law: κ constant on the horizon ↔ one well-defined access-scale
+  first law dM = (κ/8πG) dA ↔ access-scale κ bound to adjacency-capacity A
+  second law δA ≥ 0 (area theorem) ↔ one-way growth of adjacency-capacity (loss-edge direction)
+  Raychaudhuri focusing / Penrose ↔ null-congruence focusing → singularity as ordering-collapse
+  near-horizon Rindler + Euclidean period 2π/κ ↔ frame-transport scale-form (period, not temperature)
+  A ∝ M², κ ∝ M⁻¹ ↔ adjacency-capacity and access-scale forms
+  evaporation exponents P ∝ M⁻², t_evap ∝ M³ ↔ from these forms + one imported law-shape
 
-Layer 3 — imported (QFT / QG contact closure):
-  exact Hawking coefficient; vacuum / state choice; Bogoliubov; Wightman / KMS
-  greybody, species, evaporation rate; Page-QES machinery; QG completion
-  all magnitude
+Layer 3 — imported (the ħ-bridge: a quantum state on fixed geometry):
+  vacuum / state choice (Boulware / Unruh / Hartle-Hawking) — decisive; geometry is state-agnostic
+  KMS reading: the Euclidean period becomes an actual temperature
+  Bogoliubov mode-mixing; Stefan-Boltzmann law-shape; greybody; species
+  exact Hawking coefficient; evaporation coefficient
+  Page turnover (reverses classical area-monotonicity); QES-island machinery; QG completion
 ```
 
-Layer 1 is the minimal constituency for the loss-edge and null-constitution questions. Layer 2 maps it onto horizon geometry. Layer 3 supplies magnitude and closure only. Sections below are consumers of this boundary, not re-declarations of it.
+Layer 1 is the minimal constituency for the loss-edge and null-constitution questions. Layer 2 maps it onto classical GR geometry — including the four laws of black-hole mechanics, which already bind the access-scale κ to the adjacency-capacity A before any quantum input. Layer 3 is one import worn many ways: the ħ-bridge — a quantum state on the fixed geometry plus the KMS reading of the period — that turns black-hole mechanics into thermodynamics. The Page turnover is exactly where the Layer 2 area-monotonicity breaks. Sections below are consumers of this boundary, not re-declarations of it.
 
 ---
 
