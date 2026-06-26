@@ -1075,6 +1075,29 @@ it is instead per-space / per-adjacency;
 or it cannot decompose into bound vs realized value.
 ```
 
+Interior — role vs composition (open):
+
+```text
+PB-2 as stated reads the resource as a ROLE (ordering).
+Role readings compete: per-ordering vs per-space / per-adjacency.
+A third reading is not a role but a COMPOSITION:
+  per-composition = influence per mereological cut.
+  per-space is then the spatial special case of a cut, not a separate axis;
+  per-ordering carries a microcausality overlay where the cut is read as spacelike.
+candidate, not asserted; the most native reading for a mereological program.
+```
+
+Contact (clarifier): LG vs Tsirelson — the cap is cross-partition (tensor
+structure), the uncapped case is within one part; the ordering/space labels
+rest on microcausality, which is axiomatic. See b9 §6a.
+
+Could fail (composition reading):
+
+```text
+per-composition collapses to per-space (only spatial cuts ever matter);
+or the cross-partition cap dissolves under non-invasive influence measures.
+```
+
 ### PB-3 — photons do not carry information
 
 Foundation form:
@@ -1267,6 +1290,7 @@ Gravity (transport side):
 Foundation bets:
   PB-1 = ordering-axis bound exists
   PB-2 = bound interior is influence per ordering-resource
+         (role reading; per-composition / per-cut is the open candidate — §12, b9 §6a)
   PB-3 = photons carry influence-structure, not information
   PB-4 = information constitution is frame-process/write-chain, not observer
 

@@ -203,6 +203,52 @@ the dynamics of any specific Hamiltonian.
 
 ---
 
+## 6a. Contact: LG / Tsirelson and the per-composition reading
+
+B9 reads the bound as per-ordering (depth, §3). A second quantum-foundations contact complicates the label, and points to composition rather than a role.
+
+```text
+Bell / Tsirelson:  two subsystems, measured once → tensor partition → cap 2√2
+                   (dimension-independent; Tsirelson's theorem = commuting/tensor structure)
+Leggett-Garg:      one system, sequential        → no partition → algebraic (N→∞, Budroni-Emary)
+```
+
+Evidentiary difference: partition vs no-partition. The cap is a cross-partition fact (tensor structure), not a spacetime fact. Microcausality only aligns the tensor cut with spatial separation — it is axiomatic, not evidence.
+
+Read:
+
+```text
+the resource the cap charges for is a mereological CUT, not a role.
+per-space    = the spatial special case of a cut.
+per-ordering = two things, not one:
+   (i)  B9's LR depth — genuine ordering-generation, but locality-conditional;
+   (ii) the "spacelike" labeling of Tsirelson — microcausality-overlaid, not evidentiary.
+candidate interior of PB-2: per-COMPOSITION (per cut),
+  broader than per-space, distinct from per-ordering.
+```
+
+Entanglement across distance:
+
+```text
+cut-count is separation-invariant — one bipartition at any distance.
+→ no distance-scaling latency, without invoking microcausality.
+the rising "speed of spooky action" floor is partition-cost
+  misread as a traversal speed.
+```
+
+Grade: clarifier. Re-sorts imported QM (Tsirelson's theorem; Budroni-Emary LG→algebraic) onto the composition axis; no confirmatory weight by itself.
+
+Could-fail:
+
+```text
+per-composition collapses to per-space (only spatial cuts ever matter);
+LG→algebraic rests on invasive (von Neumann) measurement — non-invasive may cap;
+B9's per-ordering (LR depth) is locality-conditional, not refuted;
+the "spacelike" label is flagged as axiom-overlaid, not the bound itself.
+```
+
+---
+
 ## 7. Ledger
 
 MGR role claims:
