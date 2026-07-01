@@ -50,8 +50,11 @@ influence — unfused while propagating, resolved only at constitution (readout)
 violation of measured physics; each record is LI. It is an unfused in-transit structure that
 constituted-vs-constituted comparisons never see.
 
-`n` is then a sampling condition, not a background field: the rest frame of the constituting matter
-(the CMB frame the pulsar preferred-frame analyses already use), not prior geometry.
+`n` aligns with the constituting matter's rest frame (the CMB frame the pulsar preferred-frame
+analyses already use). That alignment is a kinematic fact, not prior geometry — but it is not "merely"
+a sampling condition either: for the gap to be propagation, matter's cone is physically modified, so
+this *is* new physics in matter propagation. Whether `n` is a fixed background field (Horn A) or the
+cone delta is sourced by curvature with `n` only setting its direction (Horn B) is open — see Costs.
 
 The gap survives constitution only when two records rode *different* in-transit legs — gravity's
 IS-adjacency (fabric) vs matter's RIDES-adjacency (content). Same-leg pairs (ν and γ, both matter)
@@ -81,9 +84,9 @@ Toy action (c=ℏ=1, signature −+++):
 In `n`'s rest frame, g̃ = diag(−(1−B), 1, 1, 1), so g̃^{μν}k_μk_ν = 0 gives ω = |k|√(1−B): light
 travels at c_light = √(1−B) ≈ 1 − B/2 while gravitational waves follow `g` at c_grav = 1, so ε = B/2.
 With `n` fixed and `B` constant there is no new propagating degree of freedom and no Boulware–Deser
-ghost. This is a constituted-level realization of the in-transit degeneracy above; `n` is the
-constituting matter's rest frame — the sampling condition the propagation carries, not a background
-inserted by hand.
+ghost. This is the Horn-A realization (constant `B`, `n` a fixed background); `n` aligns with the
+constituting matter's rest frame, but with `B` constant it is functioning as a physical background —
+which is the cost that motivates the Horn-B alternative below.
 
 ## Measured vs assumed
 
@@ -136,14 +139,15 @@ trend points back to emission timing.
 
 ## Costs
 
-1. **Conservation.** `n` is the constituting matter's rest frame — the sampling condition the
-   propagation carries, spontaneous (borne by existing matter), not a background imposed. The open
-   question is conservation: ∇^μT_{μν} = 0 is a *constituted-layer* relation, so if the degeneracy
-   stays sub-constitution (never entering T) the Bianchi tension need not arise. What must be avoided
-   is the fixed-background reading, where `n` would be explicit Lorentz violation with
-   ∇^μT_{μν} = O(B) ≠ 0 (Kostelecký), vanishing only on FLRW — so the propagation reading has to keep
-   gravity's coupling to constituted T (source) cleanly apart from its degenerate in-transit
-   propagation. Open gate, not a banked dissolution.
+1. **Frame and conservation (Horn A vs Horn B).** The cone difference is physical, so `n` (or
+   curvature) does real work in matter propagation — the only question is which. *Horn A*: `n` is a
+   fixed background field (constant `B`), which is explicit Lorentz violation and gives ∇^μT_{μν} =
+   O(B) ≠ 0 against the Bianchi identity (Kostelecký), vanishing only on the FLRW background — a real
+   cost, but the numbers are safe (ε ~ 10⁻¹⁶). *Horn B*: the cone delta is sourced by curvature (ε → 0
+   in flat space) with `n` only setting its direction, so there is no flat-space background and the
+   conservation tension may not arise if the degeneracy stays sub-constitution — but that must be
+   shown, and the numbers are tight (a curvature coupling ~10⁻⁷, saturating the Shapiro/γ bound).
+   Neither horn is banked; the fork is open.
 
 2. **Naturalness.** ε ≈ 3.8×10⁻¹⁶ runs to O(1) under radiative corrections (Collins–Perez–Sudarsky).
    A custodial (SUSY-like) symmetry gives ε = (m/M_Pl)², placing the breaking scale near
@@ -186,5 +190,7 @@ explanation until a population of sirens spanning distance exists. This note dev
 propagation separation; measurement, dynamics, and chronology are named in the frame but not pursued
 here. "c_grav = c_light" is the conditional closure H_p1 competes with, not an established fact — and
 the two-cone constant-ε model is one realization of the propagation split, not the split itself. Read
-down the influence ladder (LI-exact at constitution, degenerate in transit), this is an
-information-boundary claim, not modified gravity; the constitution reading is developed separately.
+down the influence ladder, Lorentz invariance stays exact at constitution while the degeneracy lives
+in transit — but that is a claim about *where the new physics hides* (invisible to constituted-matter
+comparisons), not that there is none: any in-transit cone difference is new physics in matter
+propagation.
