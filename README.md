@@ -23,6 +23,9 @@ Lineage is the criterion: the role-route must be fixed before contact.
 In this repo, an outward claim may be a role-route, forbidden residual, scaling class,
 layer split, or measurement dependency — not always a new scalar.
 
+High-risk contact is allowed when it is static, priced, and killable.
+A failed unfusion can still sharpen what GR's successful bundle is doing.
+
 Archive lanes are exploratory, not project identity.
 ```
 
@@ -39,6 +42,7 @@ MGR is a relabel inside GR by design, but an exported constraint system outside 
 | **Root** | `A0-…md` | Grammar, influence ladder, splits, composition, PB bets, ownership rules |
 | **Applications (A)** | `a1` … `a5` | Photon seed run, gravity adjacency, record vs constitution, QEC engine autopsy, quantum thermodynamics closure audit |
 | **Phenomena (B)** | `b1`–`b9` (canonical: `b4`–`b7`; engine: `b8`; PB fork: `b9`) | Role-location for horizons, Unruh, virtual exchange, Zych flow-register, many-body ordering bound, etc. — not new dynamics |
+| **Frontier (C)** | `c1`, `c2` | High-risk defusion attempts and kill-lanes; used to sharpen GR's role-bundles, not canon |
 | **Diagnostics** | `diagnostic-ledger.md`, `contrast-diagnostic-program.md` | Contact lanes, null guards, demotion conditions |
 | **Workbench / archive** | `archive/`, `workbench/`, `data/` | Provisional numerics — **not canonical center** |
 
@@ -88,6 +92,25 @@ Contact outcomes:
 - **RELABEL** — the failure mode.
 
 Claim status: [CLAIMS.md](CLAIMS.md).
+
+---
+
+## C-notes and high-risk defusion
+
+C-notes are not canon. They are deliberately exposed attempts to pull on a GR role-bundle and see whether the pull survives contact.
+
+```text
+C-note rule:
+  try the defusion;
+  name the imported machinery;
+  name the scaling or forbidden residual;
+  name the carrier that could steal the effect;
+  let the note fail cleanly.
+```
+
+Their value is not that the proposed split is likely true. Their value is that a clean failure teaches which GR fusion was load-bearing.
+
+`c1` tries a propagation-cone split. `c2` tries to kill that split by making non-cone carriers pay first.
 
 ---
 
