@@ -75,8 +75,9 @@ Toy action (c=ℏ=1, signature −+++):
 In `n`'s rest frame, g̃ = diag(−(1−B), 1, 1, 1), so g̃^{μν}k_μk_ν = 0 gives ω = |k|√(1−B): light
 travels at c_light = √(1−B) ≈ 1 − B/2 while gravitational waves follow `g` at c_grav = 1, so ε = B/2.
 With `n` fixed and `B` constant there is no new propagating degree of freedom and no Boulware–Deser
-ghost. This is a constituted-level realization of the in-transit degeneracy above; here `n` is put in
-by hand, where the in-transit reading takes it as the constituting matter's rest frame.
+ghost. This is a constituted-level realization of the in-transit degeneracy above; `n` is the
+constituting matter's rest frame — the sampling condition the propagation carries, not a background
+inserted by hand.
 
 ## Measured vs assumed
 
@@ -129,14 +130,14 @@ trend points back to emission timing.
 
 ## Costs
 
-1. **Frame and conservation.** Taken as a *fixed background* field, `n` is explicit Lorentz violation
-   and gives ∇^μT_{μν} = O(B) ≠ 0 against the Bianchi identity (Kostelecký) — a real cost, vanishing
-   only on the FLRW background. The in-transit reading changes this: `n` is the constituting matter's
-   rest frame (carried by existing matter, so spontaneous, not imposed), and ∇^μT_{μν} = 0 is a
-   *constituted-layer* relation while the degeneracy is sub-constitution — so if it never enters T,
-   the tension need not arise at all. That is a potential dissolution, not a banked one: it requires
-   the influence/constitution split made rigorous, and gravity's coupling to constituted T (source)
-   held cleanly apart from its degenerate in-transit propagation. Open gate.
+1. **Conservation.** `n` is the constituting matter's rest frame — the sampling condition the
+   propagation carries, spontaneous (borne by existing matter), not a background imposed. The open
+   question is conservation: ∇^μT_{μν} = 0 is a *constituted-layer* relation, so if the degeneracy
+   stays sub-constitution (never entering T) the Bianchi tension need not arise. What must be avoided
+   is the fixed-background reading, where `n` would be explicit Lorentz violation with
+   ∇^μT_{μν} = O(B) ≠ 0 (Kostelecký), vanishing only on FLRW — so the propagation reading has to keep
+   gravity's coupling to constituted T (source) cleanly apart from its degenerate in-transit
+   propagation. Open gate, not a banked dissolution.
 
 2. **Naturalness.** ε ≈ 3.8×10⁻¹⁶ runs to O(1) under radiative corrections (Collins–Perez–Sudarsky).
    A custodial (SUSY-like) symmetry gives ε = (m/M_Pl)², placing the breaking scale near
