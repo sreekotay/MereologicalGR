@@ -39,6 +39,25 @@ Gravity's causal cone is slightly wider than light's. The frame-independent cont
 An isotropic offset of light alone is coordinate-absorbable; only the ratio to gravity is physical,
 because there are two cones to compare.
 
+## Where the degeneracy lives
+
+Lorentz invariance is kept as a symmetry of *constituted* information: every completed measurement,
+every recorded quantity, is LI-exact. The two-cone structure is a degeneracy of *in-transit*
+influence — unfused while propagating, resolved only at constitution (readout). So this is not Lorentz
+violation of measured physics; each record is LI. It is an unfused in-transit structure that
+constituted-vs-constituted comparisons never see.
+
+`n` is then a sampling condition, not a background field: the rest frame of the constituting matter
+(the CMB frame the pulsar preferred-frame analyses already use), not prior geometry.
+
+The gap survives constitution only when two records rode *different* in-transit legs — gravity's
+IS-adjacency (fabric) vs matter's RIDES-adjacency (content). Same-leg pairs (ν and γ, both matter)
+cancel; the cross-leg pair (GW and γ) reads out the relative accumulation. The accumulation is
+in-transit, so it scales with path — propagation, not a source or readout offset.
+
+(Whether that degenerate in-transit structure *is* the s-bound is left un-pointed: the same shape —
+degenerate until a cut — is not licence to identify them, and the claim does not need s to stand.)
+
 ## Construction — the minimal re-fusion
 
 One dynamical metric `g`, pure Einstein–Hilbert gravity: gravitational waves and the causal structure
@@ -56,7 +75,8 @@ Toy action (c=ℏ=1, signature −+++):
 In `n`'s rest frame, g̃ = diag(−(1−B), 1, 1, 1), so g̃^{μν}k_μk_ν = 0 gives ω = |k|√(1−B): light
 travels at c_light = √(1−B) ≈ 1 − B/2 while gravitational waves follow `g` at c_grav = 1, so ε = B/2.
 With `n` fixed and `B` constant there is no new propagating degree of freedom and no Boulware–Deser
-ghost. The cost is that `n` is put in by hand.
+ghost. This is a constituted-level realization of the in-transit degeneracy above; here `n` is put in
+by hand, where the in-transit reading takes it as the constituting matter's rest frame.
 
 ## Measured vs assumed
 
@@ -109,12 +129,14 @@ trend points back to emission timing.
 
 ## Costs
 
-1. **Absolute structure.** Fixed `n` is a preferred frame. Explicit Lorentz violation gives
-   ∇^μT_{μν} = O(B) ≠ 0, against the Bianchi identity's ∇^μT_{μν} = 0 (Kostelecký). This vanishes on
-   the FLRW background, so the model works as an effective description there but is not complete.
-   Promoting `n` to a dynamical field (spontaneous breaking; Einstein-aether / bumblebee) restores
-   conservation, reintroduces a degree of freedom, and reopens the ghost and preferred-frame (α₁, α₂)
-   audits.
+1. **Frame and conservation.** Taken as a *fixed background* field, `n` is explicit Lorentz violation
+   and gives ∇^μT_{μν} = O(B) ≠ 0 against the Bianchi identity (Kostelecký) — a real cost, vanishing
+   only on the FLRW background. The in-transit reading changes this: `n` is the constituting matter's
+   rest frame (carried by existing matter, so spontaneous, not imposed), and ∇^μT_{μν} = 0 is a
+   *constituted-layer* relation while the degeneracy is sub-constitution — so if it never enters T,
+   the tension need not arise at all. That is a potential dissolution, not a banked one: it requires
+   the influence/constitution split made rigorous, and gravity's coupling to constituted T (source)
+   held cleanly apart from its degenerate in-transit propagation. Open gate.
 
 2. **Naturalness.** ε ≈ 3.8×10⁻¹⁶ runs to O(1) under radiative corrections (Collins–Perez–Sudarsky).
    A custodial (SUSY-like) symmetry gives ε = (m/M_Pl)², placing the breaking scale near
@@ -127,11 +149,12 @@ trend points back to emission timing.
 
 ## Existing bounds and status
 
-Because all matter shares one cone g̃, a universal matter-sector shift is a coordinate rescaling:
-every matter-only comparison — photon-vs-fermion resonators, atomic clocks, neutrino-vs-photon timing
-— is common-mode and blind. Only matter-vs-gravity comparisons are physical, and among those only
+Constituted-vs-constituted comparisons are LI-exact, so any measurement within one in-transit leg is
+blind — photon-vs-fermion resonators, atomic clocks, and neutrino-vs-photon timing all compare
+records that rode the matter leg (equivalently: a universal matter-sector shift is a coordinate
+rescaling). The gap reads out only across *different* legs (gravity vs matter), and among those only
 cosmological baselines beat the ε suppression. Lab tests therefore do not constrain H_p1;
-multimessenger timing is the sole access.
+cross-leg multimessenger timing is the sole access.
 
 - **GW170817 speed:** (c_grav − c)/c ∈ [−3×10⁻¹⁵, +7×10⁻¹⁶] (Abbott et al. 2017). The + edge is the
   all-propagation reading — H_p1's defining move; its value floats with the assumed distance (≈3.8×10⁻¹⁶
@@ -155,4 +178,6 @@ multimessenger timing is the sole access.
 explanation until a population of sirens spanning distance exists. This note develops only the
 propagation separation; measurement, dynamics, and chronology are named in the frame but not pursued
 here. "c_grav = c_light" is the conditional closure H_p1 competes with, not an established fact — and
-the two-cone constant-ε model is one realization of the propagation split, not the split itself.
+the two-cone constant-ε model is one realization of the propagation split, not the split itself. Read
+down the influence ladder (LI-exact at constitution, degenerate in transit), this is an
+information-boundary claim, not modified gravity; the constitution reading is developed separately.

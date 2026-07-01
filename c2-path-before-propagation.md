@@ -3,9 +3,10 @@
 *Exploratory — not canon. Kill-lane for [C1](c1-gw170817-propagation.md).* Grade: diagnostic / role-guard.
 
 A gravitational-wave residual is not yet a propagation residual. The arrival gap, phase drift,
-amplitude mismatch, and odd source parameters arrive bundled, and the propagation cone is the *last*
-carrier to bill — after source timing, population/selection, waveform, and path/lensing have each
-failed to carry it. C1 alone is coefficient-shopping.
+amplitude mismatch, and odd source parameters arrive bundled, and the propagation carrier — in C1's
+reading, the cross-leg in-transit degeneracy read out at constitution — is the *last* to bill, after
+source timing, population/selection, waveform, and path/lensing have each failed to carry it. C1 alone
+is coefficient-shopping.
 
 The carriers are not equal against C1's signature (achromatic, sign-stable, scaling with comoving
 distance). Ranked by their ability to mimic it:
