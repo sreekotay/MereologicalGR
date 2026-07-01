@@ -54,7 +54,8 @@ constituted-vs-constituted comparisons never see.
 analyses already use). That alignment is a kinematic fact, not prior geometry — but it is not "merely"
 a sampling condition either: for the gap to be propagation, matter's cone is physically modified, so
 this *is* new physics in matter propagation. Whether `n` is a fixed background field (Horn A) or the
-cone delta is sourced by curvature with `n` only setting its direction (Horn B) is open — see Costs.
+cone delta is sourced by the gravitational field with `n` only setting its direction (Horn B) is open
+— see Costs.
 
 The gap survives constitution only when two records rode *different* in-transit legs — gravity's
 IS-adjacency (fabric) vs matter's RIDES-adjacency (content). Same-leg pairs (ν and γ, both matter)
@@ -139,15 +140,20 @@ trend points back to emission timing.
 
 ## Costs
 
-1. **Frame and conservation (Horn A vs Horn B).** The cone difference is physical, so `n` (or
-   curvature) does real work in matter propagation — the only question is which. *Horn A*: `n` is a
-   fixed background field (constant `B`), which is explicit Lorentz violation and gives ∇^μT_{μν} =
-   O(B) ≠ 0 against the Bianchi identity (Kostelecký), vanishing only on the FLRW background — a real
-   cost, but the numbers are safe (ε ~ 10⁻¹⁶). *Horn B*: the cone delta is sourced by curvature (ε → 0
-   in flat space) with `n` only setting its direction, so there is no flat-space background and the
-   conservation tension may not arise if the degeneracy stays sub-constitution — but that must be
-   shown, and the numbers are tight (a curvature coupling ~10⁻⁷, saturating the Shapiro/γ bound).
-   Neither horn is banked; the fork is open.
+1. **Frame and conservation (Horn A vs Horn B).** The cone difference is physical, so `n` (or the
+   gravitational field) does real work in matter propagation — the only question is which, and
+   consistency already narrows it. *Horn A*: `n` is a fixed background field (constant `B`) — explicit
+   Lorentz violation, ∇^μT_{μν} = O(B) ≠ 0 against the Bianchi identity (Kostelecký), vanishing only
+   on the FLRW background; numbers safe (ε ~ 10⁻¹⁶), ontology costly. *Horn B*: the delta is sourced by
+   the gravitational field (ε → 0 in flat space, `n` only setting direction), so no flat-space
+   background — but *how* it couples is constrained from both ends. A raw curvature invariant is ruled
+   out by strong-field consistency: tuned to the observed weak-field 1.74 s it gives ε ≫ 1 at a
+   black-hole horizon (curvature spans ~10³⁸ between the two regimes), while demanding ε < 1 there
+   makes the weak-field effect unmeasurable — inconsistent or invisible. What survives is a *bounded,
+   frame-relative potential* (the redshift/lapse relative to the congruence, ∈ [0,1] even at a horizon)
+   — finite in strong fields, reproducing the Shapiro number (~10⁻⁷, saturating the γ bound), though
+   that form is potential-sourced and so not fully background-free. Neither horn is banked; the
+   surviving fork is Horn A vs a bounded-potential Horn B.
 
 2. **Naturalness.** ε ≈ 3.8×10⁻¹⁶ runs to O(1) under radiative corrections (Collins–Perez–Sudarsky).
    A custodial (SUSY-like) symmetry gives ε = (m/M_Pl)², placing the breaking scale near
