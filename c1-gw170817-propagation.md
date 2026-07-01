@@ -1,131 +1,121 @@
 # C1 — GW170817 as a propagation delay (H_p1)
 
-**Exploratory — not canon.** A captured hypothesis. Unlike the `a*`/`b*` notes (relabel inside GR, no
-new dynamics), this one *exports new physics* and imports machinery the corpus does not own (disformal
-/ bimetric couplings, Einstein-aether, the SME photon sector, Lorentz-violation naturalness). It is a
-single un-ascertained reading of a degenerate number, held for the record and for its kill conditions
-— not a graded claim.
+*Exploratory application: this exports new physics rather than relabeling inside GR.*
 
-Method: un-fuse the roles GR bundles inside the single metric — the causal-ordering cone and the
-carrier-speed of light — and ask what a *pure-propagation* reading of the GW170817 gap requires.
+## Core claim
 
----
+GR governs four roles with one geometric object, g_μν:
+
+- **propagation** — the cone signals ride;
+- **measurement** — the metric rulers and clocks realize;
+- **gravitational dynamics** — what curves and sources;
+- **operational chronology** — causal precedence and the operational "now."
+
+H_p1 does not modify that object; it decomposes it, declining to assume the four are the same object.
+The GW170817 gap is evidence that at least one role separates from the others at ε ≈ 3.8×10⁻¹⁶.
+
+Minimal surviving statement: **the matter light-cone is universally and slightly interior to the
+gravitational-wave cone** — one cone for all matter (*universal*), strictly nested inside gravity's
+(*interior*), by ε (*slight*).
+
+The construction below re-bundles propagation, measurement, and chronology onto one matter cone and
+dynamics onto gravity's. One event does not force that bundling — only *a* dissociation, not which.
+It is the minimal re-fusion, adopted for calculation.
 
 ## The measurement
 
-GW170817: the gravitational-wave merger peak and the GRB 170817A gamma-ray onset arrived **1.74 s**
-apart, over ~40 Mpc (~144 Mly; light-travel time τ ≈ 4.5×10¹⁵ s). The 1.74 s is a single
-arrival-time difference — GW peak by matched filter, gamma onset by a count-rate threshold. One event
-cannot split it into emission offset vs propagation offset; the two enter the same scalar.
+GW170817: the gravitational-wave merger peak and the GRB 170817A gamma-ray onset arrived 1.74 s apart,
+over ~40 Mpc (~144 Mly; light-travel time τ ≈ 4.5×10¹⁵ s). The 1.74 s is a single arrival-time
+difference — GW peak by matched filter, gamma onset by a count-rate threshold. One event cannot split
+it into emission offset and propagation offset; both enter the same scalar.
 
-## The claim
+## The cone ratio
 
-Read the whole 1.74 s as propagation, not emission. Gravity's causal cone is very slightly wider than
-light's. The frame-independent content is the **ratio** of cone-speeds:
+Gravity's causal cone is slightly wider than light's. The frame-independent content is the ratio:
 
     c_grav / c_light = 1 + ε ,   ε ≈ 3.8×10⁻¹⁶ = 1.74 s / τ .
 
-Light is not the edge of cause-and-effect; it runs just inside the true edge, which gravity marks.
-An isotropic offset of light alone is coordinate-absorbable — only the ratio to gravity is physical,
+An isotropic offset of light alone is coordinate-absorbable; only the ratio to gravity is physical,
 because there are two cones to compare.
 
-## Construction (one dynamical metric, no ghost)
+## Construction — the minimal re-fusion
 
-One dynamical metric `g`, pure Einstein–Hilbert gravity — gravitational waves and the real causal
-structure follow `g`'s null cones. Matter and light couple minimally to a slightly narrower effective
-metric via a constant disformal deformation to a fixed unit timelike direction `n` (a preferred frame,
-taken as the CMB rest frame):
+One dynamical metric `g`, pure Einstein–Hilbert gravity: gravitational waves and the causal structure
+follow `g`'s null cones. Matter and light couple to a slightly narrower effective metric via a constant
+disformal deformation to a fixed unit timelike `n` (the CMB rest frame):
 
     g̃_μν = g_μν + B n_μ n_ν ,   B ≈ 2ε ≈ 7.6×10⁻¹⁶ .
 
-Toy action (units c=ℏ=1, signature −+++):
+Toy action (c=ℏ=1, signature −+++):
 
-    S = (1/16πG) ∫√(−g) R[g]                                  (gravity, untouched GR)
-      − ¼ ∫√(−g̃) g̃^{μα} g̃^{νβ} F_{μν}F_{αβ}                    (EM on g̃)
-      + ∫√(−g̃) [ −½ g̃^{μν}∂_μφ ∂_νφ − V(φ) ] + …             (matter on g̃)
+    S = (1/16πG) ∫√(−g) R[g]
+      − ¼ ∫√(−g̃) g̃^{μα} g̃^{νβ} F_{μν}F_{αβ}
+      + ∫√(−g̃) [ −½ g̃^{μν}∂_μφ ∂_νφ − V(φ) ] + …
 
-In the rest frame of `n`, g̃ = diag(−(1−B), 1, 1, 1), so the eikonal/null condition g̃^{μν}k_μk_ν = 0
-gives ω = |k|√(1−B), i.e. c_light = √(1−B) ≈ 1 − B/2, while GW's follow `g` at c_grav = 1. Hence
-ε = B/2. `n` is fixed and non-dynamical, `B` is constant → no new propagating degree of freedom →
-no Boulware–Deser ghost. The price is that `n` is put in by hand.
+In `n`'s rest frame, g̃ = diag(−(1−B), 1, 1, 1), so g̃^{μν}k_μk_ν = 0 gives ω = |k|√(1−B): light
+travels at c_light = √(1−B) ≈ 1 − B/2 while gravitational waves follow `g` at c_grav = 1, so ε = B/2.
+With `n` fixed and `B` constant there is no new propagating degree of freedom and no Boulware–Deser
+ghost. The cost is that `n` is put in by hand.
 
-## What is measured vs assumed
+## Measured vs assumed
 
-Measured: one number, ε, **averaged along one line of sight** through mostly-empty space —
-ε_eff = (1/D)∫ε dl. Treating ε as a universal constant `B` is an *assumption*, not a result (and the
-one that makes the effect maximally hidden). Under the constant reading:
+One number is measured: ε, averaged along a single line of sight through mostly-empty space,
+ε_eff = (1/D)∫ε dl. Taking ε as a universal constant `B` is an assumption. Under it:
 
-- **Achromatic** — no frequency dependence (dimension-4, geometric). Forced, not tuned.
-- **Non-birefringent** — both polarizations ride the single effective metric g̃. Exact in every
-  frame, because a single metric has a single cone. Maps to the non-birefringent (c-type) SME sector.
-- **Isotropic in the CMB frame**; a boosted observer sees a dipole scaling with their velocity.
-- Over comoving distances the delay simply adds up.
+- achromatic — no frequency dependence (dimension-4, geometric);
+- non-birefringent — both polarizations ride the single metric g̃, in every frame; this is the
+  non-birefringent (c-type) SME sector;
+- isotropic in the CMB frame; a boosted observer sees a dipole scaling with velocity;
+- over comoving distances the delay adds up.
 
-## Predictions (constant ε)
+## Predictions
 
-- Delay linear in **comoving** distance: Δt(z) = ε ∫₀^z dz′/H(z′). Plotted against *luminosity*
-  distance it looks slightly curved — that curvature is ordinary cosmology, not a failure of the model.
+- Delay linear in comoving distance: Δt(z) = ε ∫₀^z dz′/H(z′). Against luminosity distance it curves;
+  that curvature is cosmology, not the model.
 - Directional term ~2 ms from our motion through the CMB frame.
-- Lab photon-speed anisotropy at O(B·β_boost) ≈ 10⁻¹⁸ (β_boost ≈ 1.23×10⁻³), near current
-  optical-resonator reach.
+- Lab photon-speed anisotropy at O(B·β_boost) ≈ 10⁻¹⁸ (β_boost ≈ 1.23×10⁻³).
 
-## Tests, and how it dies
+## Tests
 
-One event is degenerate with a source-timing coincidence. A population of standard sirens breaks it:
+One event is degenerate with a source-timing coincidence. A population of standard sirens separates
+the cases:
 
-- Δt tracks **distance** → this hypothesis (constant cone-gap).
-- Δt tracks **integrated potential** ∫Φ dl per sight-line → the potential-dependent variant (= H_p2).
-- Δt **scatters** with host astrophysics → ordinary emission timing.
+- Δt ∝ distance → constant cone-gap (this reading);
+- Δt ∝ ∫Φ dl per sight-line → the potential-dependent variant (H_p2);
+- Δt scattered with host astrophysics → emission timing.
 
-Decisive tests: (1) the distance-scaling across sirens; (2) the ~10⁻¹⁸ lab anisotropy. Kill: any
-robust deviation of Δt from proportionality to comoving distance across a siren population (beyond the
-known FLRW distance mapping), or a lab anisotropy bound below ~10⁻¹⁸ with no dipole.
+Kill: Δt departing from proportionality to comoving distance across a siren population (beyond the
+FLRW mapping), or a lab anisotropy bound below ~10⁻¹⁸ with no dipole.
 
-## Costs and open points
+## Costs
 
-1. **Absolute structure.** The fixed `n` reintroduces a preferred frame. Its concrete technical price:
-   explicit Lorentz violation gives ∇^μT_{μν} = O(B) ≠ 0, in tension with the Bianchi identity's
-   demand ∇^μT_{μν} = 0 (Kostelecký no-go for explicit LV in gravity). Harmless on the exact FLRW
-   background — the propagation calc stands — so the model is a good *effective* description, not a
-   complete theory. The consistent completion promotes `n` to a dynamical field (spontaneous breaking,
-   Einstein-aether / bumblebee), which restores conservation but **reintroduces the degree of freedom
-   the fixed version avoided** and re-opens the ghost and preferred-frame (α₁, α₂) audits.
+1. **Absolute structure.** Fixed `n` is a preferred frame. Explicit Lorentz violation gives
+   ∇^μT_{μν} = O(B) ≠ 0, against the Bianchi identity's ∇^μT_{μν} = 0 (Kostelecký). This vanishes on
+   the FLRW background, so the model works as an effective description there but is not complete.
+   Promoting `n` to a dynamical field (spontaneous breaking; Einstein-aether / bumblebee) restores
+   conservation, reintroduces a degree of freedom, and reopens the ghost and preferred-frame (α₁, α₂)
+   audits.
 
-2. **Naturalness.** ε ≈ 3.8×10⁻¹⁶ is unnaturally small under radiative corrections (Collins–Perez–
-   Sudarsky percolation). A custodial (SUSY-like) symmetry gives ε = (m/M_Pl)², placing the breaking
-   scale at m ≈ 2×10¹¹ GeV. Lands at the right order; stability under gravitational loops is unproven.
+2. **Naturalness.** ε ≈ 3.8×10⁻¹⁶ runs to O(1) under radiative corrections (Collins–Perez–Sudarsky).
+   A custodial (SUSY-like) symmetry gives ε = (m/M_Pl)², placing the breaking scale near
+   m ≈ 2×10¹¹ GeV. Stability under gravitational loops is open.
 
-3. **The uniformity fork.** If ε is not constant:
-   - ε ∝ Φ (potential) → an achromatic Shapiro-sector anomaly in Cassini / LLR / pulsar timing / clock
-     redshift, ~10⁻¹⁷–10⁻¹⁸ at the scaled slope — under current bounds, and *this is H_p2*.
-   - ε ∝ ρ (density) → **not a weak test but a consistency fork**: the densest point on the path is the
-     merger itself, so part of the delay is acquired *at the source*, breaking the emission-vs-
-     propagation split the hypothesis rests on. "ε independent of local density" is therefore an
-     assumption the hypothesis *needs*, not a detail.
+3. **Uniformity.** If ε varies with position: ε ∝ Φ gives an achromatic Shapiro-sector anomaly in
+   Cassini / LLR / pulsar timing / clock redshift at ~10⁻¹⁷–10⁻¹⁸ (this is H_p2). ε ∝ ρ acquires part
+   of the delay at the merger itself — the densest point on the path — collapsing the
+   emission/propagation split. Density-independence is a requirement of the reading, not a detail.
 
-## Consistency with existing bounds (constant ε)
+## Existing bounds
 
-Survives not by smallness alone but by structure: birefringence limits (~10⁻³²) target a sector this
-operator is not in; GRB dispersion limits target dimension-5 (this is dimension-4); PPN α₁,α₂ ∝ ε are
-~10⁻¹⁶ ≪ 10⁻⁷–10⁻⁹; binary-pulsar timing and Shapiro test the gravity sector, which is pristine GR
-here. Gravitational-Cherenkov cosmic-ray bounds (~10⁻¹⁹) constrain only the *opposite* sign
-(gravity slower); H_p1 has gravity faster, in that probe's blind spot.
+Birefringence limits (~10⁻³²) apply to a sector this operator is not in; GRB dispersion limits apply
+to dimension-5 (this is dimension-4); PPN α₁, α₂ ∝ ε ~ 10⁻¹⁶ sit below the 10⁻⁷–10⁻⁹ bounds;
+binary-pulsar timing and Shapiro delay test the gravity sector, which is pristine GR here.
+Gravitational-Cherenkov cosmic-ray bounds (~10⁻¹⁹) constrain the opposite sign (gravity slower); here
+gravity is faster.
 
 ## Status
 
-A single, un-ascertained reading of one degenerate number. Internally consistent, sharp and
-falsifiable at the population level, with an explicit cost (an absolute frame, whose technical
-signature is a conservation-law tension). Fully interchangeable with a source-emission explanation
-until more than one siren is in hand.
-
-## Methodology note (why the quantum parallel is not counted as support)
-
-The ordering ≠ adjacency split this hypothesis makes at the propagation level also appears, already at
-O(1), in the correlation sector: Tsirelson (2√2) is the per-adjacency (space-like) witness; Leggett–
-Garg is the per-ordering (time-like) witness, and it is *not* pinned at 2√2 (it runs to the algebraic
-4). That is s(cut) refusing to be one number — PB-2's "not necessarily a constant" in the quantum
-sector. But per the repo's retrodiction rule, H_p1 and LG ≠ Tsirelson **share the held variable**
-"ordering ≠ adjacency," so they do not aggregate to convergence — they sharpen the bet, and weight
-lands only where that variable is forced to dissociate. LG ≠ Tsirelson needs no ε (it is O(1),
-preferred-frame-free), so it is a lineage-clean *prior instance* of the carve, not evidence for the
-10⁻¹⁶. It is not counted as support.
+A single reading of one degenerate number, interchangeable with a source-emission explanation until
+more than one siren is in hand. The decomposition — propagation, measurement, dynamics, and chronology
+no longer assumed to share one geometric object — is the durable content; the two-cone closure is one
+way to realize it.
