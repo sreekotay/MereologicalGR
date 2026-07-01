@@ -42,7 +42,7 @@ MGR is a relabel inside GR by design, but an exported constraint system outside 
 | **Root** | `A0-…md` | Grammar, influence ladder, splits, composition, PB bets, ownership rules |
 | **Applications (A)** | `a1` … `a5` | Photon seed run, gravity adjacency, record vs constitution, QEC engine autopsy, quantum thermodynamics closure audit |
 | **Phenomena (B)** | `b1`–`b9` (canonical: `b4`–`b7`; engine: `b8`; PB fork: `b9`) | Role-location for horizons, Unruh, virtual exchange, Zych flow-register, many-body ordering bound, etc. — not new dynamics |
-| **Frontier (C)** | `c1`, `c2` | High-risk defusion attempts and kill-lanes; used to sharpen GR's role-bundles, not canon |
+| **Frontier (C)** | `c1`–`c3` | High-risk defusion attempts, kill-lanes, and conditional quantification; used to sharpen GR's role-bundles, not canon |
 | **Diagnostics** | `diagnostic-ledger.md`, `contrast-diagnostic-program.md` | Contact lanes, null guards, demotion conditions |
 | **Workbench / archive** | `archive/`, `workbench/`, `data/` | Provisional numerics — **not canonical center** |
 
@@ -110,7 +110,7 @@ C-note rule:
 
 Their value is not that the proposed split is likely true. Their value is that a clean failure teaches which GR fusion was load-bearing.
 
-`c1` tries a propagation-cone split. `c2` tries to kill that split by making non-cone carriers pay first.
+`c1` tries a propagation-cone split. `c2` tries to kill that split by making non-cone carriers pay first. `c3` grants the split and prices the estimator — what a cone delta looks like in data and how it is measured or killed.
 
 ---
 
@@ -120,6 +120,7 @@ Their value is not that the proposed split is likely true. Their value is that a
 A0, a1-a5, b1-b9          argument + application notes
 c1-gw170817-propagation   exploratory application (not canon; exports new physics)
 c2-path-before-propagation  exploratory kill-lane for c1 (not canon)
+c3-quantifying-the-cone-delta  conditional estimator lane for c1 (not canon)
 diagnostic-ledger.md      lane index (§4)
 contrast-diagnostic-program.md
 archive/b5-torsion-*      sensitivity workbench only (D9)
