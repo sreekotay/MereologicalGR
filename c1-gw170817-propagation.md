@@ -28,7 +28,10 @@ GW170817: the gravitational-wave merger peak and the GRB 170817A gamma-ray onset
 over ~40 Mpc (~144 Mly; light-travel time τ ≈ 4.5×10¹⁵ s). The 1.74 s is a single arrival-time
 difference — GW peak by matched filter, gamma onset by a count-rate threshold. One event cannot split
 it into emission offset and propagation offset; both enter the same scalar. The conventional reading
-assigns the whole gap to source timing — the delay between merger and gamma-ray breakout.
+assigns the whole gap to source timing — the merger-to-breakout delay — but that is a model fitted to
+keep c_grav = c, not an independent measurement. At a full 1.74 s the propagation alternative is not
+dismissible a priori, so it earns a run-down even if it ends up false: a high-risk defusion, priced
+and killable, useful in clean failure.
 
 ## The cone ratio
 
@@ -53,7 +56,10 @@ constituted-vs-constituted comparisons never see.
 The gap survives constitution only when two records rode *different* in-transit legs — gravity's
 IS-adjacency (fabric) vs matter's RIDES-adjacency (content). Same-leg pairs (ν and γ, both matter)
 cancel; the cross-leg pair (GW and γ) reads out the relative accumulation. The accumulation is
-in-transit, so it scales with path — propagation, not a source or readout offset.
+in-transit, so it scales with path — propagation, not a source or readout offset. Constitution
+*reveals* the gap, it does not generate it: ε is fixed to a number only at the readout cut, so for an
+influence-only interaction (no register) it is undefined, not zero — the degenerate structure is
+present, but there is nothing constituted for ε to be the value of.
 
 (Whether that degenerate in-transit structure *is* the s-bound is left un-pointed: the same shape —
 degenerate until a cut — is not licence to identify them, and the claim does not need s to stand.)
