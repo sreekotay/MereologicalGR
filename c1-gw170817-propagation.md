@@ -152,3 +152,6 @@ explanation until a population of sirens spanning distance exists. The decomposi
 measurement, dynamics, and chronology no longer assumed to share one geometric object — is the durable
 content; the two-cone constant-ε closure is one way to realize it, and "c_grav = c_light" is the
 conditional closure it competes with, not an established fact.
+
+The companion kill-lane [C2](c2-lensing-before-propagation.md) prices the non-cone carriers — source
+timing, population, waveform, path/lensing — before any cone delta is licensed.
