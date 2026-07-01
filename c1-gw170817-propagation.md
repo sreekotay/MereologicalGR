@@ -27,7 +27,8 @@ It is the minimal re-fusion, adopted for calculation.
 GW170817: the gravitational-wave merger peak and the GRB 170817A gamma-ray onset arrived 1.74 s apart,
 over ~40 Mpc (~144 Mly; light-travel time τ ≈ 4.5×10¹⁵ s). The 1.74 s is a single arrival-time
 difference — GW peak by matched filter, gamma onset by a count-rate threshold. One event cannot split
-it into emission offset and propagation offset; both enter the same scalar.
+it into emission offset and propagation offset; both enter the same scalar. The conventional reading
+assigns the whole gap to source timing — the delay between merger and gamma-ray breakout.
 
 ## The cone ratio
 
@@ -65,7 +66,8 @@ One number is measured: ε, averaged along a single line of sight through mostly
 - achromatic — no frequency dependence (dimension-4, geometric);
 - non-birefringent — both polarizations ride the single metric g̃, in every frame; this is the
   non-birefringent (c-type) SME sector;
-- isotropic in the CMB frame; a boosted observer sees a dipole scaling with velocity;
+- isotropic in the CMB frame; our motion through it makes the offset direction-dependent, but only
+  against gravity (multimessenger) — never in a matter-only measurement;
 - over comoving distances the delay adds up.
 
 ## Predictions
@@ -131,9 +133,11 @@ every matter-only comparison — photon-vs-fermion resonators, atomic clocks, ne
 cosmological baselines beat the ε suppression. Lab tests therefore do not constrain H_p1;
 multimessenger timing is the sole access.
 
-- **GW170817 speed:** (c_grav − c)/c ∈ [−3×10⁻¹⁵, +7×10⁻¹⁶] (Abbott et al. 2017). The +7×10⁻¹⁶ edge
-  *is* the pure-propagation reading; the window's width is the assumed 0–10 s emission delay. H_p1
-  sits at that positive edge — contained, not excluded, not independently confirmed.
+- **GW170817 speed:** (c_grav − c)/c ∈ [−3×10⁻¹⁵, +7×10⁻¹⁶] (Abbott et al. 2017). The + edge is the
+  all-propagation reading — H_p1's defining move; its value floats with the assumed distance (≈3.8×10⁻¹⁶
+  at 40 Mpc, up to ~7×10⁻¹⁶ at the conservative ~26 Mpc used for the bound). H_p1 sits inside the
+  window: contained, not excluded, not independently confirmed. The window's width is the assumed
+  0–10 s emission delay.
 - **Gravitational Cherenkov (cosmic rays):** c − c_grav < 2×10⁻¹⁹ extragalactic (Moore–Nelson 2001),
   but only for gravity slower. H_p1 has gravity faster — the sign in this probe's blind spot.
 - **Preferred-frame PPN:** α̂₁ ~ 10⁻⁵, α̂₂ ≲ 10⁻⁴ (Shao–Wex 2012), already taking the CMB frame as
@@ -148,7 +152,7 @@ multimessenger timing is the sole access.
   is neither.
 
 **Status.** A single reading of one degenerate number, interchangeable with a source-emission
-explanation until a population of sirens spanning distance exists. The decomposition — propagation,
-measurement, dynamics, and chronology no longer assumed to share one geometric object — is the durable
-content; the two-cone constant-ε closure is one way to realize it, and "c_grav = c_light" is the
-conditional closure it competes with, not an established fact.
+explanation until a population of sirens spanning distance exists. This note develops only the
+propagation separation; measurement, dynamics, and chronology are named in the frame but not pursued
+here. "c_grav = c_light" is the conditional closure H_p1 competes with, not an established fact — and
+the two-cone constant-ε model is one realization of the propagation split, not the split itself.

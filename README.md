@@ -96,7 +96,7 @@ Claim status: [CLAIMS.md](CLAIMS.md).
 ```text
 A0, a1-a5, b1-b9          argument + application notes
 c1-gw170817-propagation   exploratory application (not canon; exports new physics)
-c2-lensing-before-propagation  exploratory kill-lane for c1 (not canon)
+c2-path-before-propagation  exploratory kill-lane for c1 (not canon)
 diagnostic-ledger.md      lane index (§4)
 contrast-diagnostic-program.md
 archive/b5-torsion-*      sensitivity workbench only (D9)
