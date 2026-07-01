@@ -5,8 +5,9 @@
 A gravitational-wave residual is not yet a propagation residual. The arrival gap, phase drift,
 amplitude mismatch, and odd source parameters arrive bundled, and the propagation carrier — in C1's
 reading, the cross-leg in-transit degeneracy read out at constitution — is the *last* to bill, after
-source timing, population/selection, waveform, and path/lensing have each failed to carry it. C1 alone
-is coefficient-shopping.
+source timing, population/selection, waveform, and path/lensing have each failed to carry it.
+
+C2 does not protect C1. It tries to make C1 lose cleanly.
 
 The carriers are not equal against C1's signature (achromatic, sign-stable, scaling with comoving
 distance). Ranked by their ability to mimic it:
@@ -41,6 +42,9 @@ lever is the cosmological baseline, not the lens.
 
 C1 survives C2 if a residual with that signature remains after every carrier is priced. C2 demotes if
 every carrier is exhausted and a clean cone residual is what's left.
+
+A failed C1 is not wasted. It marks which GR fusion held: source timing, path geometry, waveform phase,
+amplitude distance, or propagation cone. That is the workbench value of the note.
 
 Owned: the carrier split and the rule that propagation bills last. Imported: event data, lensing and
 waveform models, massive-graviton parameterizations, inference, calibration, all numbers, and the
