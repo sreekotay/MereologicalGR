@@ -84,10 +84,16 @@ Toy action (c=ℏ=1, signature −+++):
 
 In `n`'s rest frame, g̃ = diag(−(1−B), 1, 1, 1), so g̃^{μν}k_μk_ν = 0 gives ω = |k|√(1−B): light
 travels at c_light = √(1−B) ≈ 1 − B/2 while gravitational waves follow `g` at c_grav = 1, so ε = B/2.
-With `n` fixed and `B` constant there is no new propagating degree of freedom and no Boulware–Deser
-ghost. This is the Horn-A realization (constant `B`, `n` a fixed background); `n` aligns with the
-constituting matter's rest frame, but with `B` constant it is functioning as a physical background —
-the cost that makes Horn B worth wanting (see Costs; no Horn-B realization is currently priced).
+
+The toy's scope is local: it fixes the dispersion relation and the ε = B/2 dictionary on a patch,
+and that is all it is used for. A genuinely fixed unit timelike `n` exists globally only on flat
+spacetime; the CMB frame is the comoving congruence — position-dependent, defined by the matter
+distribution. So the Horn-A realization forks under its own construction: hold `n` truly fixed and
+the no-new-dof, no-ghost statement holds, but the field is honest flat-background Lorentz violation
+with no global cosmological extension of its own; let `n` track the congruence and it is dynamical —
+aether territory, new propagating degrees of freedom, its own constraint structure, the ghost
+disclaimer unearned. Either way `n` functions as a physical background at constant `B` — the cost
+that makes Horn B worth wanting (see Costs; no Horn-B realization is currently priced).
 
 ## Measured vs assumed
 
@@ -105,8 +111,10 @@ One number is measured: ε, averaged along a single line of sight through mostly
 
 - Propagation delay accumulates along the path as ∫ε dl. For constant ε this is linear in comoving
   distance, Δt(z) = ε ∫₀^z dz′/H(z′) (curved in luminosity distance — that curvature is cosmology,
-  not the model). Constant ε is a special case: the accumulation *kernel* is what the data recovers,
-  and its shape — not a slope — is the discriminant (see Source vs propagation).
+  not the model). This takes `B` constant in the comoving frame at each point along the path — the
+  minimal global extension, assumed here, not supplied by the local toy (see Construction).
+  Constant ε is a special case: the accumulation *kernel* is what the data recovers, and its
+  shape — not a slope — is the discriminant (see Source vs propagation).
 - A directional ~2 ms term from our motion through the CMB frame, appearing as a dipole in
   multimessenger arrival-time differences (a matter-vs-gravity comparison), not in any single-sector
   lab measurement (see Existing bounds and status).
@@ -144,7 +152,9 @@ trend points back to emission timing.
    gravitational field) does real work in matter propagation — the only question is which, and
    consistency already narrows it. *Horn A*: `n` is a fixed background field (constant `B`) — explicit
    Lorentz violation, ∇^μT_{μν} = O(B) ≠ 0 against the Bianchi identity (Kostelecký), vanishing only
-   on the FLRW background; numbers safe (ε ~ 10⁻¹⁶), ontology costly. *Horn B*: the delta is sourced by
+   on the FLRW background; numbers safe (ε ~ 10⁻¹⁶), ontology costly — and a globally fixed `n` does
+   not exist off flat spacetime, so the field is either flat-patch honest or covertly dynamical (see
+   Construction). *Horn B*: the delta is sourced by
    the gravitational field (ε → 0 in flat space, `n` only setting direction), so no flat-space
    background — but no priced realization is on the table. A raw curvature invariant is ruled
    out by strong-field consistency: tuned to the observed weak-field 1.74 s it gives ε ≫ 1 at a
