@@ -11,11 +11,9 @@ is coefficient-shopping.
 The carriers are not equal against C1's signature (achromatic, sign-stable, scaling with comoving
 distance). Ranked by their ability to mimic it:
 
-**1. Source-emission timing — the primary carrier.** The gap is b + propagation (see C1, *Source vs
-propagation*): b is distance-independent with event-to-event scatter, propagation grows with path. One
-event cannot separate them; a population can — propagation is what trends with distance once b's
-scatter is subtracted. Pricing it means fixing the D→0 intercept and its spread from source modeling
-and the observed range of merger→emission delays.
+**1. Source-emission timing — the primary carrier.** C1's intercept-vs-kernel (see C1, *Source vs
+propagation*): b distance-independent, propagation trending with distance. Pricing it means fixing the
+D→0 intercept and its spread from source modeling and the observed range of merger→emission delays.
 
 **2. Population / selection — the main confound.** Detector selection couples mass, distance, and
 inclination, so a carrier-class trend can masquerade as a distance trend. Pricing it means testing the
@@ -41,9 +39,8 @@ for C1: for constant ε both images scale the same short lens delay by (1±ε), 
 regardless. It tests the potential-coupled cone (H_p2), where the delay lives in the lens's Φ. C1's
 lever is the cosmological baseline, not the lens.
 
-C1 survives C2 if, after the carriers are priced, a residual remains that is achromatic, sign-stable,
-and trends with comoving distance rather than any carrier class. C2 demotes if every carrier is
-exhausted and a clean cone residual is what's left.
+C1 survives C2 if a residual with that signature remains after every carrier is priced. C2 demotes if
+every carrier is exhausted and a clean cone residual is what's left.
 
 Owned: the carrier split and the rule that propagation bills last. Imported: event data, lensing and
 waveform models, massive-graviton parameterizations, inference, calibration, all numbers, and the
