@@ -87,7 +87,7 @@ travels at c_light = √(1−B) ≈ 1 − B/2 while gravitational waves follow `
 With `n` fixed and `B` constant there is no new propagating degree of freedom and no Boulware–Deser
 ghost. This is the Horn-A realization (constant `B`, `n` a fixed background); `n` aligns with the
 constituting matter's rest frame, but with `B` constant it is functioning as a physical background —
-which is the cost that motivates the Horn-B alternative below.
+the cost that makes Horn B worth wanting (see Costs; no Horn-B realization is currently priced).
 
 ## Measured vs assumed
 
@@ -146,14 +146,16 @@ trend points back to emission timing.
    Lorentz violation, ∇^μT_{μν} = O(B) ≠ 0 against the Bianchi identity (Kostelecký), vanishing only
    on the FLRW background; numbers safe (ε ~ 10⁻¹⁶), ontology costly. *Horn B*: the delta is sourced by
    the gravitational field (ε → 0 in flat space, `n` only setting direction), so no flat-space
-   background — but *how* it couples is constrained from both ends. A raw curvature invariant is ruled
+   background — but no priced realization is on the table. A raw curvature invariant is ruled
    out by strong-field consistency: tuned to the observed weak-field 1.74 s it gives ε ≫ 1 at a
    black-hole horizon (curvature spans ~10³⁸ between the two regimes), while demanding ε < 1 there
-   makes the weak-field effect unmeasurable — inconsistent or invisible. What survives is a *bounded,
-   frame-relative potential* (the redshift/lapse relative to the congruence, ∈ [0,1] even at a horizon)
-   — finite in strong fields, reproducing the Shapiro number (~10⁻⁷, saturating the γ bound), though
-   that form is potential-sourced and so not fully background-free. Neither horn is banked; the
-   surviving fork is Horn A vs a bounded-potential Horn B.
+   makes the weak-field effect unmeasurable — inconsistent or invisible. Any surviving sourcing must
+   stay bounded across those ~38 orders *and* leave the solar system quiet at Cost 3's
+   Shapiro-sector level once tuned to the 1.74 s; no candidate written down so far passes both ends.
+   Horn B is parked as a requirement, not banked as a form. What a form would buy: universality for
+   free — geometric sourcing couples every matter species identically, where Horn A must posit exact
+   universality as an unexplained coincidence (every "blind" entry under Existing bounds leans on it).
+   The fork is Horn A, priced, vs Horn B, wanted but unrealized.
 
 2. **Naturalness.** ε ≈ 3.8×10⁻¹⁶ runs to O(1) under radiative corrections (Collins–Perez–Sudarsky).
    A custodial (SUSY-like) symmetry gives ε = (m/M_Pl)², placing the breaking scale near
