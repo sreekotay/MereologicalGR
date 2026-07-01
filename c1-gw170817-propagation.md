@@ -70,22 +70,40 @@ One number is measured: ε, averaged along a single line of sight through mostly
 
 ## Predictions
 
-- Delay linear in comoving distance: Δt(z) = ε ∫₀^z dz′/H(z′). Against luminosity distance it curves;
-  that curvature is cosmology, not the model.
-- Directional term ~2 ms from our motion through the CMB frame.
-- Lab photon-speed anisotropy at O(B·β_boost) ≈ 10⁻¹⁸ (β_boost ≈ 1.23×10⁻³).
+- Propagation delay accumulates along the path as ∫ε dl. For constant ε this is linear in comoving
+  distance, Δt(z) = ε ∫₀^z dz′/H(z′) (curved in luminosity distance — that curvature is cosmology,
+  not the model). Constant ε is a special case: the accumulation *kernel* is what the data recovers,
+  and its shape — not a slope — is the discriminant (see Source vs propagation).
+- A directional ~2 ms term from our motion through the CMB frame, appearing as a dipole in
+  multimessenger arrival-time differences (a matter-vs-gravity comparison), not in any single-sector
+  lab measurement (see Existing bounds and status).
 
-## Tests
+## Source vs propagation
 
-One event is degenerate with a source-timing coincidence. A population of standard sirens separates
-the cases:
+The observable in the only accessible channel — cosmological multimessenger timing — is a single gap,
 
-- Δt ∝ distance → constant cone-gap (this reading);
-- Δt ∝ ∫Φ dl per sight-line → the potential-dependent variant (H_p2);
-- Δt scattered with host astrophysics → emission timing.
+    Δt = b + (path-accumulated propagation term) + (frequency terms),
 
-Kill: Δt departing from proportionality to comoving distance across a siren population (beyond the
-FLRW mapping), or a lab anisotropy bound below ~10⁻¹⁸ with no dipole.
+with b the intrinsic emission offset (distance-independent, with event-to-event scatter). One event is
+one (D, Δt) point: source and propagation are not separable from it. Source is what survives at zero
+baseline (the D→0 intercept); propagation is what grows with path. That split is robust to the
+accumulation shape — *except* when the kernel is source-peaked (ε ∝ ρ), which loads propagation onto
+the intercept and collapses the split.
+
+The propagation term is an accumulation kernel of unknown shape, not a slope. A population spanning
+distance, line-of-sight potential, and redshift recovers it:
+
+- constant cone → linear in comoving distance;
+- ∝ ∫Φ dl → structure-lumpy, correlated with line-of-sight potential (H_p2);
+- ∝ ∫ρ dl → source-peaked (collapses the source/propagation split);
+- ∝ ρ_DE(z)/(1+w) → concave, low-z weighted (dark-energy drag);
+- general ε(z) → the curve is ε(z) itself.
+
+The shape is the discriminant, and it is open (PB-2: ε is an intensive, possibly configuration-
+dependent rate, not a universal scalar). "c_grav = c_light" is the closure assigning the whole gap to
+b under an assumed source model; H_p1 is the closure assigning it to propagation. GW170817 alone picks
+neither — the accumulation shape across a population does. Host-astrophysics scatter with no coherent
+trend points back to emission timing.
 
 ## Costs
 
@@ -105,17 +123,32 @@ FLRW mapping), or a lab anisotropy bound below ~10⁻¹⁸ with no dipole.
    of the delay at the merger itself — the densest point on the path — collapsing the
    emission/propagation split. Density-independence is a requirement of the reading, not a detail.
 
-## Existing bounds
+## Existing bounds and status
 
-Birefringence limits (~10⁻³²) apply to a sector this operator is not in; GRB dispersion limits apply
-to dimension-5 (this is dimension-4); PPN α₁, α₂ ∝ ε ~ 10⁻¹⁶ sit below the 10⁻⁷–10⁻⁹ bounds;
-binary-pulsar timing and Shapiro delay test the gravity sector, which is pristine GR here.
-Gravitational-Cherenkov cosmic-ray bounds (~10⁻¹⁹) constrain the opposite sign (gravity slower); here
-gravity is faster.
+Because all matter shares one cone g̃, a universal matter-sector shift is a coordinate rescaling:
+every matter-only comparison — photon-vs-fermion resonators, atomic clocks, neutrino-vs-photon timing
+— is common-mode and blind. Only matter-vs-gravity comparisons are physical, and among those only
+cosmological baselines beat the ε suppression. Lab tests therefore do not constrain H_p1;
+multimessenger timing is the sole access.
 
-## Status
+- **GW170817 speed:** (c_grav − c)/c ∈ [−3×10⁻¹⁵, +7×10⁻¹⁶] (Abbott et al. 2017). The +7×10⁻¹⁶ edge
+  *is* the pure-propagation reading; the window's width is the assumed 0–10 s emission delay. H_p1
+  sits at that positive edge — contained, not excluded, not independently confirmed.
+- **Gravitational Cherenkov (cosmic rays):** c − c_grav < 2×10⁻¹⁹ extragalactic (Moore–Nelson 2001),
+  but only for gravity slower. H_p1 has gravity faster — the sign in this probe's blind spot.
+- **Preferred-frame PPN:** α̂₁ ~ 10⁻⁵, α̂₂ ≲ 10⁻⁴ (Shao–Wex 2012), already taking the CMB frame as
+  preferred. H_p1's α ∝ ε ~ 10⁻¹⁶ is far below.
+- **Photon-sector Lorentz violation:** anisotropy bounds reach ~9×10⁻¹⁹ (Nagel et al. 2015),
+  isotropic κ̃_tr ~ 10⁻⁹ — both measure a photon-vs-matter difference, which universality sets to
+  zero.
+- **Neutrino–photon (SN1987A):** (v − c)/c ~ 2×10⁻⁹ — matter-vs-matter, predicted null.
+- **GW luminosity distance / friction:** GWTC-3 is compatible with GR. H_p1 predicts an exact null
+  (gravity is pristine), distinguishing it from running-Planck-mass models.
+- **Birefringence (~10⁻³²) and GRB dispersion** target birefringent / dimension-5 operators; this one
+  is neither.
 
-A single reading of one degenerate number, interchangeable with a source-emission explanation until
-more than one siren is in hand. The decomposition — propagation, measurement, dynamics, and chronology
-no longer assumed to share one geometric object — is the durable content; the two-cone closure is one
-way to realize it.
+**Status.** A single reading of one degenerate number, interchangeable with a source-emission
+explanation until a population of sirens spanning distance exists. The decomposition — propagation,
+measurement, dynamics, and chronology no longer assumed to share one geometric object — is the durable
+content; the two-cone constant-ε closure is one way to realize it, and "c_grav = c_light" is the
+conditional closure it competes with, not an established fact.
