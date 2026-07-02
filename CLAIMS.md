@@ -221,6 +221,32 @@ Published experiment map: `diagnostic-ledger.md` §14.
 
 ---
 
+## Frontier bets (CD) — cone-delta lane (not canon)
+
+Exposure rows for the C-lane (c1–c4). Placed July 2026 with **one event in hand** (GW170817),
+before any second multimessenger coincidence exists — a bet adjusted after contact is void; the
+adjustment is the confession. Each row states what the role-carve forces that the bare EFT leaves
+free; that gap is the stake against a confirmed cone delta collapsing into a relabel of an SME
+coefficient. Frontier grade: these carry no PB weight and are not canon. Numbers and derivations
+live in the source notes; this table is the at-a-glance exposure.
+
+| ID | Bet (compact) | Decided by | Expected | Dies if | Source |
+|---|---|---|---|---|---|
+| **CD-1** | Constant-kernel floor: every GW–EM coincidence shows Δt ≥ 1.74 s × (D/40 Mpc) | next coincidence ≳ 150 Mpc | **loses** — banks ε ≲ 6×10⁻¹⁷ from one event | gap under floor (constant kernel dead) | c3 |
+| **CD-2** | Sign lock: the propagation residual never demands matter faster than gravity; the wedge never inverts; anisotropy modulates magnitude, never sign | any coincidence, standing | holds | negative-ε residual (carve dead) | c1 |
+| **CD-3** | One matter cone: species cone-splits forbidden at every precision, forever | Galactic/LMC CCSN ν–γ; any matter-vs-matter timing | holds at every precision | any species split (carve dead) | c1, c3 |
+| **CD-4** | Pristine fabric: every gravity-only propagation test exactly GR — no dispersion, friction, birefringence, extra polarizations | every GW-sector test, standing | holds | any GW-sector propagation anomaly (wrong carve) | c1 |
+| **CD-5** | Relation, not sourced: recovered kernel lies in the concave-to-linear band (T1–T2); residuals uncorrelated with line-of-sight structure at fixed distance | kernel regression; first contact z ≈ 0.09 (late O5) | holds | convex density-class curve, or structure covariance (sourced — H_p2 wins the lane) | c4 |
+| **CD-6** | Axis: any resolved cross-leg anisotropy points at the CMB dipole apex, galactic (l, b) ≈ (264°, 48°) | far-future population (N ~ 10³–10⁵) | registered; untestable soon | resolved axis elsewhere | c1, c3 |
+| **CD-7** | The split: T1 commits to N_eff(BBN) = N_eff(CMB) exactly; T2's residue is BBN-side only (12.3 κ ε_max, ceiling 0.3, CMB-S4 reach 0.06). Equal-shift anomalies are dark radiation; CMB-side-only anomalies are neither | BBN-vs-CMB N_eff consistency; CMB-S4 | equality (T1) or BBN-side split (T2) | CMB-side or equal-shift anomaly claimed as cone currency | c4 |
+
+CD-1 is the only row expected to lose; its loss is the lane's main export. CD-2–CD-4 are standing
+forever-nulls guarding the carve itself, not the toy. CD-5 and CD-7 price the internal forks
+(relation vs sourced; T1 vs T2) before discriminating data exists. No constitution-layer bet is
+placeable; that layer stays gloss until it places one.
+
+---
+
 ## Workbench (non-canonical)
 
 | Material | Location | Status |
@@ -236,4 +262,4 @@ Do not treat workbench outputs as witness for PB or core grammar without promoti
 
 When adding a claim: state **grade**, **owned**, **imported**, **could-fail**, **discount** (if lineage-witness), **source file**. If a row duplicates the ledger, the ledger row wins for lane detail; this file wins for **at-a-glance status**.
 
-Last aligned with corpus: June 2026 (A0 through §14, B1 §2, B4 §6a, B9, B8, diagnostic-ledger §4.1–§4.2).
+Last aligned with corpus: July 2026 (A0 through §14, B1 §2, B4 §6a, B9, B8, diagnostic-ledger §4.1–§4.2, C-lane c1–c4 + CD rows).
