@@ -227,16 +227,18 @@ Exposure rows for the C-lane (c1–c4). Placed July 2026 with **one event in han
 before any second multimessenger coincidence exists — a bet adjusted after contact is void; the
 adjustment is the confession. Each row states what the role-carve forces that the bare EFT leaves
 free; that gap is the stake against a confirmed cone delta collapsing into a relabel of an SME
-coefficient. Frontier grade: these carry no PB weight and are not canon. Numbers and derivations
-live in the source notes; this table is the at-a-glance exposure.
+coefficient. Frontier grade: these carry no PB weight and are not canon. Move-type (A0 §11):
+architecture bets riding a composition split — the fabric/content carve and the ordering fork are
+priced in c1, Cost 0. Numbers and derivations live in the source notes; this table is the
+at-a-glance exposure.
 
 | ID | Bet (compact) | Decided by | Expected | Dies if | Source |
 |---|---|---|---|---|---|
-| **CD-1** | Constant-kernel floor: every GW–EM coincidence shows Δt ≥ 1.74 s × (D/40 Mpc) | next coincidence ≳ 150 Mpc | **loses** — banks ε ≲ 6×10⁻¹⁷ from one event | gap under floor (constant kernel dead) | c3 |
-| **CD-2** | Sign lock: the propagation residual never demands matter faster than gravity; the wedge never inverts; anisotropy modulates magnitude, never sign | any coincidence, standing | holds | negative-ε residual (carve dead) | c1 |
+| **CD-1** | Constant-kernel floor: every GW–EM coincidence shows Δt ≥ 1.74 s × (D/44 Mpc), main-pulse onset (precursors excluded — the false-kill guard) | next coincidence ≳ 150 Mpc | **loses** — banks ε ≲ 7×10⁻¹⁷ from one event | gap under floor (constant kernel dead) | c3 |
+| **CD-2** | Sign lock: the propagation residual never demands matter faster than gravity; the wedge never inverts; anisotropy modulates magnitude, never sign. Foundation-form derived: `space = ordering + adjacency` seats ordering in the fabric; `cause = ordering + influence` forbids content influence outside it — theorem-strength equals the carve's | any coincidence, standing | holds | negative-ε residual (carve dead) | c1 |
 | **CD-3** | One matter cone: species cone-splits forbidden at every precision, forever | Galactic/LMC CCSN ν–γ; any matter-vs-matter timing | holds at every precision | any species split (carve dead) | c1, c3 |
 | **CD-4** | Pristine fabric: every gravity-only propagation test exactly GR — no dispersion, friction, birefringence, extra polarizations | every GW-sector test, standing | holds | any GW-sector propagation anomaly (wrong carve) | c1 |
-| **CD-5** | Relation, not sourced: recovered kernel lies in the concave-to-linear band (T1–T2); residuals uncorrelated with line-of-sight structure at fixed distance | kernel regression; first contact z ≈ 0.09 (late O5) | holds | convex density-class curve, or structure covariance (sourced — H_p2 wins the lane) | c4 |
+| **CD-5** | Relation, not sourced: recovered kernel lies in the concave-to-linear band (T1–T2); residuals uncorrelated with line-of-sight structure at fixed distance. Carries PB-2 contact weight: T1 = universal scalar lands PB-2's could-fail corner; T2 = the intensive-rate reading (c4, Status) | kernel regression; first contact z ≈ 0.09 (late O5) | holds | convex density-class curve, or structure covariance (sourced — H_p2 wins the lane) | c4 |
 | **CD-6** | Axis: any resolved cross-leg anisotropy points at the CMB dipole apex, galactic (l, b) ≈ (264°, 48°) | far-future population (N ~ 10³–10⁵) | registered; untestable soon | resolved axis elsewhere | c1, c3 |
 | **CD-7** | The split: T1 commits to N_eff(BBN) = N_eff(CMB) exactly; T2's residue is BBN-side only (12.3 κ ε_max, ceiling 0.3, CMB-S4 reach 0.06). Equal-shift anomalies are dark radiation; CMB-side-only anomalies are neither | BBN-vs-CMB N_eff consistency; CMB-S4 | equality (T1) or BBN-side split (T2) | CMB-side or equal-shift anomaly claimed as cone currency | c4 |
 

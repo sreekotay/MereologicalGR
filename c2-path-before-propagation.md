@@ -10,7 +10,8 @@ source timing, population/selection, waveform, and path/lensing have each failed
 C2 does not protect C1. It tries to make C1 lose cleanly.
 
 The carriers are not equal against C1's signature (achromatic, sign-stable, scaling with comoving
-distance). Ranked by their ability to mimic it:
+distance). Ranked by their capacity to carry the residual — mimicry of the full signature is rarer
+than ownership of the gap:
 
 **1. Source-emission timing — the primary carrier.** C1's intercept-vs-kernel (see C1, *Source vs
 propagation*): b distance-independent, propagation trending with distance. Pricing it means fixing the

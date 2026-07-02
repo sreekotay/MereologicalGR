@@ -1,6 +1,7 @@
 # C4 — Cone-Delta Curves
 
-*Exploratory — not canon. Theory-space lane for [C1](c1-gw170817-propagation.md): grant the
+*Exploratory — not canon. Grade: theory-class probe, conditional. Theory-space lane for
+[C1](c1-gw170817-propagation.md): grant the
 propagation reading and develop what can shape a cone delta, the curve each shaper draws, and where
 each theory class touches data outside GW170817. [C3](c3-quantifying-the-cone-delta.md) prices the
 estimator; this note prices the theory classes. Source physics gets no vote here — it is the
@@ -17,12 +18,14 @@ and every propagation hypothesis is a choice of what ε may depend on. Along a c
 there are exactly five things available: nothing, the expansion, the background densities, the
 structure crossed, and noise. That is the whole menu.
 
-## The forced menu
+## The forced family
 
 The grammar sorts the menu before any data does. B2 fixes H as *adjacency-scale change per cosmic
-flow* — the only invariant rate the shared congruence renders. So if the delta is a property of the
-riding relation itself, the relation has access to exactly two rates, and the relation-level branch
-is forced to two members:
+flow* — the rate the shared congruence renders. What is forced: if the delta is a property of the
+riding relation itself, ε may depend only on expansion *kinematics* — H and its flow-derivatives
+(Ḣ, the deceleration parameter) — with no content import. What is chosen: pricing the family's two
+leading members and parking the rest (an ε ∝ q(z) member exists and draws its own distinguishable
+curve):
 
 - **T1 — ε constant.** A bare property of the riding relation. Exactly degenerate, forever, with
   dark-energy sourcing at w = −1.
@@ -138,9 +141,10 @@ Two places where an axiom-to-fit closure filed evidence under the wrong role:
 
 - **SN1987A.** The equal Shapiro delays of the neutrinos and photons (Longo 1988; Krauss–Tremaine
   1988) are filed in the literature as a test of *gravity* — equivalence principle, GR's cone. The
-  route shows gravity was never in the measurement: ν and γ are both content, the comparison is
-  same-leg, and it tested matter-cone *universality* only. The fabric leg was untouched until 2017,
-  and has been touched exactly once.
+  route shows the fabric *leg* was never in the measurement: the Galactic potential is the lens,
+  but ν and γ are both content — same-leg — so it tested content-universality of gravitational
+  response, not gravity's cone. The fabric leg was untouched until 2017, and has been touched
+  exactly once.
 - **BBN's N_eff.** The standard analysis fuses *the expansion that gravitates* with *the expansion
   matter feels* — the same propagation/dynamics fusion C1 unfuses, applied at the earliest measured
   epoch, unlabeled. The ΔN_eff slot would silently absorb a violation as "dark radiation," and a
@@ -159,7 +163,15 @@ already capped at 2.4×10⁻², CMB-S4 probes to 5×10⁻³). T2 is strictly mor
 repo's currency, the better bet. The sourced classes carry the wall in both directions; the
 diffusive class owns the variance channel alone and is untouched by any of this.
 
-Owned: the forced two-member relation-level menu (from b2's single rendered rate); the curve table
+The fork also carries foundation-bet weight. C1 already reads ε through PB-2 — an intensive,
+possibly configuration-dependent rate, not a universal scalar — and PB-2's could-fail includes the
+measure coming out universal (c-like). T1 *is* a universal scalar; T2 is the intensive-rate
+reading. So the T1/T2 curve discrimination is a PB-2 contact, not lane-internal housekeeping —
+conditional exactly as C1 leaves it (the s-bound identification stays un-pointed), but the
+citation is C1's own.
+
+Owned: the relation-level branch forced to expansion-kinematic functionals (from b2's rendered
+rate), with T1/T2 priced as its leading members; the curve table
 and discrimination redshifts; the temporal wall and its identification with C1's spatial wall as
 one boundedness requirement; the one-scale reading of T2 and H* as what GW170817 measured; the
 ΔN_eff = 12.3 κ ε_max chain and the BBN-vs-CMB split as T2's discriminant; the r_d no-payment

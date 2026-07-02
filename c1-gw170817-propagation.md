@@ -1,6 +1,8 @@
 # C1 — GW170817 as a propagation delay (H_p1)
 
-*Exploratory application: this exports new physics rather than relabeling inside GR.*
+*Exploratory application: this exports new physics rather than relabeling inside GR.
+Grade: probe / exploratory export. Move-type (A0 §11): composition split of a GR role-bundle —
+not a new peer role.*
 
 ## Core claim
 
@@ -25,7 +27,7 @@ It is the minimal re-fusion, adopted for calculation.
 ## The measurement
 
 GW170817: the gravitational-wave merger peak and the GRB 170817A gamma-ray onset arrived 1.74 s apart,
-over ~40 Mpc (~144 Mly; light-travel time τ ≈ 4.5×10¹⁵ s). The 1.74 s is a single arrival-time
+over ~44 Mpc (~144 Mly; light-travel time τ ≈ 4.5×10¹⁵ s). The 1.74 s is a single arrival-time
 difference — GW peak by matched filter, gamma onset by a count-rate threshold. One event cannot split
 it into emission offset and propagation offset; both enter the same scalar. The conventional reading
 assigns the whole gap to source timing — the merger-to-breakout delay — but that is a model fitted to
@@ -58,12 +60,21 @@ cone delta is sourced by the gravitational field with `n` only setting its direc
 — see Costs.
 
 The gap survives constitution only when two records rode *different* in-transit legs — gravity's
-IS-adjacency (fabric) vs matter's RIDES-adjacency (content). Same-leg pairs (ν and γ, both matter)
+IS-adjacency (fabric) vs matter's RIDES-adjacency (content). That fabric/content carve is *chosen*,
+not forced: A0 carries one adjacency role, imported and parked, and the two-place split is coined
+here — the audit it owes is priced in Costs, item 0. Same-leg pairs (ν and γ, both matter)
 cancel; the cross-leg pair (GW and γ) reads out the relative accumulation. The accumulation is
 in-transit, so it scales with path — propagation, not a source or readout offset. Constitution
 *reveals* the gap, it does not generate it: ε is fixed to a number only at the readout cut, so for an
 influence-only interaction (no register) it is undefined, not zero — the degenerate structure is
 present, but there is nothing constituted for ε to be the value of.
+
+If the carve holds, *interior* in the core claim is forced, not merely observed: `space = ordering
++ adjacency` seats ordering in the fabric, and `cause = ordering + influence` requires influence to
+live inside ordering — a content cone exterior to the fabric cone would put content influence
+outside ordering, which the grammar forbids. Matter-interior is a theorem of the carve;
+gravity-slower is not just unobserved (Cherenkov, below) but ungrammatical. The theorem is exactly
+as strong as the carve it rides on.
 
 (Whether that degenerate in-transit structure *is* the s-bound is left un-pointed: the same shape —
 degenerate until a cut — is not licence to identify them, and the claim does not need s to stand.)
@@ -148,6 +159,15 @@ trend points back to emission timing.
 
 ## Costs
 
+0. **The ordering role itself splits.** A0 defines `ordering` as one invariant cone-direction
+   structure, and A0 §1's metric bundle reads: ordering, adjacency, clock/separation magnitudes,
+   signature. This note's four metric-jobs map onto that roster unevenly — propagation *and*
+   chronology are both ordering-flavored — so H_p1 does not only unfuse propagation from
+   measurement: it forks A0's `ordering` into fabric-ordering and content-ordering, riding on the
+   fabric/content adjacency carve (chosen, coined in this note). Neither move is audited upstream;
+   PB-1's axis is defined off `ordering`, so this is a standing re-audit trigger — priced as a
+   cost, not hidden as vocabulary.
+
 1. **Frame and conservation (Horn A vs Horn B).** The cone difference is physical, so `n` (or the
    gravitational field) does real work in matter propagation — the only question is which, and
    consistency already narrows it. *Horn A*: `n` is a fixed background field (constant `B`) — explicit
@@ -187,7 +207,7 @@ cross-leg multimessenger timing is the sole access.
 
 - **GW170817 speed:** (c_grav − c)/c ∈ [−3×10⁻¹⁵, +7×10⁻¹⁶] (Abbott et al. 2017). The + edge is the
   all-propagation reading — H_p1's defining move; its value floats with the assumed distance (≈3.8×10⁻¹⁶
-  at 40 Mpc, up to ~7×10⁻¹⁶ at the conservative ~26 Mpc used for the bound). H_p1 sits inside the
+  at 44 Mpc, up to ~7×10⁻¹⁶ at the conservative ~26 Mpc used for the bound). H_p1 sits inside the
   window: contained, not excluded, not independently confirmed. The window's width is the assumed
   0–10 s emission delay.
 - **Gravitational Cherenkov (cosmic rays):** c − c_grav < 2×10⁻¹⁹ extragalactic (Moore–Nelson 2001),

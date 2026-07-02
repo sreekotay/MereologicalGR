@@ -1,6 +1,7 @@
 # C3 — Quantifying the Cone Delta
 
-*Exploratory — not canon. Conditional lane for [C1](c1-gw170817-propagation.md): grant that the gap
+*Exploratory — not canon. Grade: diagnostic / estimator lane. Conditional on
+[C1](c1-gw170817-propagation.md): grant that the gap
 is propagation — not source, not readout — and ask what a cone delta looks like and how it is
 computed. [C2](c2-path-before-propagation.md) prices the carriers that must fail first; this note
 prices the estimator that runs once they have.*
@@ -17,11 +18,13 @@ timing. Nothing else moves:
 - cosmological backreaction at ε ~ 10⁻¹⁶ is nil.
 
 So there is exactly one plot. Each event i with a gravity-leg and a matter-leg arrival gives a
-point (T_i, Δt_i): T_i the light-travel time from the host redshift, Δt_i the measured gap, and
+point (T_i, Δt_i): T_i the comoving distance over c from the host redshift — the constant-kernel
+covariate; at GW170817's z it coincides with the light-travel time — Δt_i the measured gap, and
 
     Δt_i = b_i + ε T_i ,   b_i ≥ 0 ,
 
-with b_i the emission offset (matter signal cannot precede the merger). A real cone delta looks
+with b_i the *observed* emission offset — the source-frame offset dilated by (1+z_i); the matter
+signal cannot precede the merger, so b_i ≥ 0 survives dilation. A real cone delta looks
 like a **forbidden wedge**: no event below the line Δt = εT, source scatter riding above it, the
 floor rising linearly with baseline. A source-only world is a horizontal band — floor at zero, no
 T-trend. The wedge *is* the signature; everything below quantifies it.
@@ -36,11 +39,15 @@ Because b ≥ 0 is the only assumption, every event is a prior-free upper bound:
   no lower bound, ε = 0 fully allowed.
 - **Kill (one event).** The floor rises with distance while jet-breakout gaps do not:
 
-      floor(D) = 1.74 s × (D / 40 Mpc) :   100 Mpc → 4.4 s,  200 → 8.7 s,  300 → 13 s.
+      floor(D) = 1.74 s × (D / 44 Mpc) :   100 Mpc → 4.0 s,  200 → 7.9 s,  300 → 11.9 s.
 
-  A single BNS–GRB coincidence at 300 Mpc with a ~2 s gap forces ε ≤ 6×10⁻¹⁷ and constant-ε at
+  A single BNS–GRB coincidence at 300 Mpc with a ~2 s gap forces ε ≤ 7×10⁻¹⁷ and constant-ε at
   the GW170817 value is dead. No population, no regression — the very next distant coincidence is
-  near-decisive against the constant kernel. This is the cheapest kill C2's carrier program feeds.
+  near-decisive against the constant kernel. One protocol line guards the kill's false-fire mode:
+  the onset must be the main pulse, precursor emission excluded — BNS mergers emit EM precursors
+  seconds before merger, and a precursor-contaminated onset fakes a floor violation. (The bound
+  direction is safe: contamination only inflates Δt.) This is the cheapest kill C2's carrier
+  program feeds.
 - **Detect (population).** A lower bound ε > 0 needs the floor's *rise*: a T-trend that source
   scatter cannot supply, priced against selection (C2, carrier 2). Note the naive selection tilt
   runs anti-mimicking — at large D only loud, near-axis events survive, and near-axis favors
@@ -54,8 +61,10 @@ Two, one prior-free and one hierarchical:
 1. **Floor statistic.** ε̂ = min_i (Δt_i / T_i). Consistent from above; bias = b_min/T at the
    deepest event (b_min ~ 0.1 s at 300 Mpc → ~3×10⁻¹⁸, below the target). Distant events do all
    the work — the statistic improves with reach, not with count.
-2. **Hierarchical regression.** Δt_i = ε T_i + b(z_i; θ) with a population prior on b from jet
-   modeling (non-negative, scale ~ seconds, event-to-event scatter σ_b). Fisher scaling:
+2. **Hierarchical regression.** Δt_i = ε T_i + (1+z_i)·b(z_i; θ) with a population prior on b from
+   jet modeling (non-negative, scale ~ seconds, event-to-event scatter σ_b); the (1+z) dilation is
+   the source term's only distance growth — a factor ~2 by z = 1, slow against any path-accumulated
+   term. Fisher scaling:
 
        σ_ε ≈ σ_b / (σ_T √N) ,
 
@@ -95,8 +104,8 @@ across channels is not the physics but whose b you must believe:
 
 | channel | T (s) | σ_b | σ_ε per event | note |
 |---|---|---|---|---|
-| BNS–GRB, 40 Mpc | 4.5×10¹⁵ | ~1 s | 2×10⁻¹⁶ | the anchor (GW170817) |
-| BNS–GRB, 300 Mpc | 3.4×10¹⁶ | ~1 s | 3×10⁻¹⁷ | best per event; kill-lane |
+| BNS–GRB, 44 Mpc | 4.5×10¹⁵ | ~1 s | 2×10⁻¹⁶ | the anchor (GW170817) |
+| BNS–GRB, 300 Mpc | 3.1×10¹⁶ | ~1 s | 3×10⁻¹⁷ | best per event; kill-lane |
 | Galactic CCSN, ν vs GW, 10 kpc | 1×10¹² | 1–10 ms | 10⁻¹⁵–10⁻¹⁴ | cross-leg; b is modeled bounce dynamics, not fitted jet astrophysics |
 | LMC CCSN, 50 kpc | 5×10¹² | 1–10 ms | 2×10⁻¹⁶–2×10⁻¹⁵ | one event reaches the anchor at the optimistic edge |
 | LISA MBHB + EM, z ~ 2 | 5×10¹⁷ | hours–days | ~10⁻¹³ | εT ~ 200 s, but the baseline is wasted on b |
