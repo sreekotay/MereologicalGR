@@ -53,7 +53,14 @@ violation of measured physics; each record is LI. It is an unfused in-transit st
 constituted-vs-constituted comparisons never see.
 
 `n` aligns with the constituting matter's rest frame (the CMB frame the pulsar preferred-frame
-analyses already use). That alignment is a kinematic fact, not prior geometry — but it is not "merely"
+analyses already use). A note owed on that parenthetical: it fuses two frames — where the CMB is
+isotropic and where the distant matter bulk is isotropic — that shared-congruence FLRW declares
+identical and that number-count dipoles currently strain at the ~5σ level (amplitudes 2–4× the
+kinematic expectation, apex ~28° off the CMB's; read kinematically the frames differ by
+~480 km/s). If they split, the grammar leans matter-side — constitution is flow-bearing uptake,
+and the CMB was only ever its proxy — and any resolved cross-leg anisotropy then reads out *which*
+congruence constitutes. Registered as a fork, not resolved; the owning seam is b2's
+shared-congruence collision-room. That alignment is a kinematic fact, not prior geometry — but it is not "merely"
 a sampling condition either: for the gap to be propagation, matter's cone is physically modified, so
 this *is* new physics in matter propagation. Whether `n` is a fixed background field (Horn A) or the
 cone delta is sourced by the gravitational field with `n` only setting its direction (Horn B) is open
