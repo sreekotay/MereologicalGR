@@ -89,7 +89,12 @@ c1sol = sp.solve(sp.Eq(o1, 0), c1)[0]
 eps_k = sp.simplify(-c1sol)   # c = 1 - eps(khat)
 pred = sp.Rational(1, 2)*(h00 + 2*(h0.T*khat)[0] + (khat.T*hS*khat)[0])
 print("eps(khat) - (1/2)[h00+2h0.k+hS:kk] == 0 on |khat|=1:",
-      sp.simplify((eps_k - pred).subs(kz**2, 1-kx**2-ky**2)) == 0)
+      sp.simplify(sp.expand(eps_k - pred).subs(kz**2, 1-kx**2-ky**2)) == 0)
 # isotropic member: h = B n x n  (h00=B, h0=0, hS=0) -> eps = B/2 const; lambda*g adds (h00=-l, hS=l delta):
 lam = sp.Symbol('lam')
-print("conformal piece invisible:", sp.simplify(pred.subs({h00: -lam}).subs({hS[i, j]: lam*(1 if i == j else 0) for i in range(3) for j in range(3)}).subs(kz**2, 1-kx**2-ky**2)) == 0)
+conf = sp.expand(pred.subs(h00, -lam).subs({h0[i]: 0 for i in range(3)}).subs(
+    {hS[i, j]: lam*(1 if i == j else 0) for i in range(3) for j in range(3)}))
+print("conformal piece invisible:", sp.simplify(conf.subs(kz**2, 1-kx**2-ky**2)) == 0)
+iso = sp.expand(pred.subs(h00, B).subs({h0[i]: 0 for i in range(3)}).subs(
+    {hS[i, j]: 0 for i in range(3) for j in range(3)}))
+print("h = B n x n gives eps(khat) = B/2 (isotropic):", sp.simplify(iso - B/2) == 0)
