@@ -139,7 +139,9 @@ One number is measured: ε, averaged along a single line of sight through mostly
   shape — not a slope — is the discriminant (see Source vs propagation).
 - A directional ~2 ms term from our motion through the CMB frame, appearing as a dipole in
   multimessenger arrival-time differences (a matter-vs-gravity comparison), not in any single-sector
-  lab measurement (see Existing bounds and status).
+  lab measurement (see Existing bounds and status). The dipole is a frame reading — the observer's
+  boost against the seam congruence — real as a velocity measurement, not invariant seam
+  anisotropy; the invariant anisotropy, if any, is quadrupolar.
 
 ## Source vs propagation
 
@@ -223,8 +225,10 @@ cross-leg multimessenger timing is the sole access.
   0–10 s emission delay.
 - **Gravitational Cherenkov (cosmic rays):** c − c_grav < 2×10⁻¹⁹ extragalactic (Moore–Nelson 2001),
   but only for gravity slower. H_p1 has gravity faster — the sign in this probe's blind spot.
-- **Preferred-frame PPN:** α̂₁ ~ 10⁻⁵, α̂₂ ≲ 10⁻⁴ (Shao–Wex 2012), already taking the CMB frame as
-  preferred. H_p1's α ∝ ε ~ 10⁻¹⁶ is far below.
+- **Preferred-frame PPN:** α̂₁ ~ 10⁻⁵ (Shao–Wex 2012); α̂₂ < 1.6×10⁻⁹ (solitary-MSP spin
+  precession, Shao et al. 2013 — five orders past the binary-era figure), already taking the CMB
+  frame as preferred. H_p1's α ∝ ε ~ 10⁻¹⁶ is still far below, and in generic preferred-frame
+  theories the tensor-speed parameter and (α₁, α₂) are independent coupling combinations.
 - **Photon-sector Lorentz violation:** anisotropy bounds reach ~9×10⁻¹⁹ (Nagel et al. 2015),
   isotropic κ̃_tr ~ 10⁻⁹ — both measure a photon-vs-matter difference, which universality sets to
   zero.
