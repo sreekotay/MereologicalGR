@@ -23,6 +23,9 @@ Layer 2 — projected (computed here or upstream in the lane):
   the near-zone conversion scale ~1/ω
   the frame-entry derivation of cone-guarding (relativity of simultaneity + commutator support)
   the ε_n(D) identity, the n = 1 degeneracy, and the per-template archive boundaries
+  the intercept/slope role-split of the distance ladder (near-event table)
+  the conditional kernel-scale floor on n and the two-point exponent (filed under the bet)
+  the ƛ-scaling achromaticity constraint on quantum-floor chains
 
 Layer 3 — imported:
   LSZ / pole residues / Källén–Lehmann (with gauge-scheme caveats)
@@ -222,6 +225,64 @@ curvature (the path integral picks up cosmological weighting; a frame-chain coun
 the chain's density does) or by the differential ε_γ − ε_GW moving between messenger pairs. An
 n = 1 fit alone can never certify which side of the decomposition it lives on.
 
+## Narrowing n: what the ends of the ladder can and cannot do
+
+The kernel-scale end looks, at first pass, like a second datum against the templates: near-zone
+and tunneling physics measures a per-interface, distance-blind conversion cost ~1/ω (Hartman
+saturation — the cost does not grow with barrier length), which is an n = 0 *form* with its
+coefficient at the quantum floor. It is not usable unconditionally, for three separately stated
+reasons: the measurement is cross-**tier** (photon kernel against laboratory clocks), not
+cross-**leg** (γ against GW); the interface is a different type (a barrier is not a merger); and
+an accumulation law plausibly launches at a finite mesoscale, below which extrapolating it asserts
+a domain no data certifies. Granting all three — one law across interface types, one coefficient
+family, domain down to ƛ — is precisely the unpointed bet above, so the following are filed
+**under the bet**, as its first kernel-scale teeth, and not as bounds on n:
+
+- *Conditional floor:* the anchored law Δt_\*(D/D_\*)ⁿ must pass under the quantum floor at the
+  launch scale ƛ, giving n ≳ 0.6 (1 MeV gammas; the ~37-decade lever makes this slack-robust — a
+  10⁶ allowance above the floor relaxes it only to ~0.4). Kills n = 0 *within the one-law
+  reading only*.
+- *Conditional two-point law:* one power law through both measured points is D^0.58 —
+  non-integer, matching no geometric template, with a falling apparent ε (∝ D^−0.4) and ≈ 4 s
+  forecast at 200 Mpc, separable from every integer member at the first second event. If the
+  one-law reading holds *and* a second event selects an integer n, this exponent's failure is
+  informative: the two ends are then two regimes, which is what the three-term decomposition
+  already asserts (s₀ ~ 1/ω at the interface; ΔC_n accumulating).
+
+Unconditionally, the family narrows only on cross-leg data, and the distance ladder splits that
+work by role. The n = 0 member differs from every n ≥ 1 member at the near end *in kind*, not
+degree: power laws have exactly zero intercept, while n = 0 keeps its full coefficient at
+approximately zero — and approximately zero is physically reachable (the minimum baseline is the
+source's own near zone) where exactly zero is not. No cross-leg timing exists below the anchor
+distance, so **the intercept is untested, not excluded**. Where it becomes a measurement
+(44-anchor template projections; the CCSN pair is ν-vs-GW, both bounce-locked — the EM leg is
+envelope-blocked and unusable there):
+
+| distance | n = 0 | n = 1 | n = 2 |
+|---|---|---|---|
+| 8 kpc (Galactic CCSN) | 1.74 s | 0.32 ms | 58 ns |
+| 50 kpc (LMC) | 1.74 s | 2.0 ms | 2.2 μs |
+
+A bounce-locked Galactic event with the ms clock already named above separates the intercept from
+every slope by three-plus orders in one event; it cannot see n ≥ 2 (58 ns under a millisecond
+clock). Far events fan the slopes apart and cannot test the intercept (distance-flat n = 0 is
+degenerate with scattered jet-b there — priced in the three-term section). **Near events own the
+intercept; far events own the exponent; no single distance owns both.** A caution the table
+inherits: the near pair swaps the photon for the neutrino, so it measures ε_ν − ε_GW — reading it
+against the anchor's ε_γ − ε_GW assumes matter-sector universality of the coefficient, an
+assumption to be named at use, not silently spent.
+
+One structural result that holds given only its own premise: if the chain member charges the
+quantum-floor cost 1/ω per step, achromaticity is automatic *iff the step length scales with the
+messenger's ƛ* — per-step cost ∝ 1/ω against step density ∝ ω cancels exactly, total εD/c,
+frequency-blind. So GW170817's achromaticity does not kill quantum-floor-cost chains; it selects
+their microstructure. The n = 1 member then carries two internal readings — a suppressed
+dimensionless drag ~ε per ƛ-step, or the full floor cost per step of L = ƛ/ε (~500 m at 1 MeV) —
+and either way the construction is per-messenger: a sector-universal version gives every carrier
+the *same* ε and a vanishing cross-leg differential, leaving the anchor uncarried. Carrying the
+anchor requires the coefficient to be sector-owned — which is not a new assumption discovered
+here, but the bet's own register-owned-coefficients clause, met where it was already stated.
+
 ## Conversion depth orders the stack
 
 If each tier-crossing pays, cone-interiority tracks ladder height: the nesting order of the
@@ -257,12 +318,16 @@ Owned: the census and its three-slot form; the impedance formulation; the meteri
 with chromaticity as its meter; the three-term decomposition and s₀'s signatures; the chain
 rederivation with frame-entry as its covariance derivation; the per-sector response-cone reading
 (shared with C5); the Ξ_s domain/codomain constraint; the unified arrival relation with the
-degeneracy priced; the area-native n = 2 recast and its boundaries; the conversion-depth ordering
+degeneracy priced; the area-native n = 2 recast and its boundaries; the intercept/slope role-split
+with n = 0 filed untested-not-excluded; the conditional kernel-scale results filed under the bet;
+the ƛ-scaling constraint on the chain member's microstructure; the conversion-depth ordering
 claim; the coherence could-fail; the ratio answer to the relabel rebuttal. Imported: every
 theorem, efficiency, velocity ratio, and magnitude named above; Z's scheme entanglements; the
 Bancal assumptions; microcausality's field-strength-algebra scope; the coupled-support-leak
 arithmetic. Could-fail: signaling ever → the grammar dies at the root; off-cone response of a
 local physical observable ever certified → the frame-entry derivation dies and the chain with it;
-shadow-form mismatch → one law dies, registers survive; no common ratio-grammar → the program
+a local bounce-locked cross-leg event with Δt far below 1.74 s → the n = 0 conversion member
+retires (its distance-flat coefficient relabels to astro-correlated b), modulo the named
+matter-sector-universality assumption; shadow-form mismatch → one law dies, registers survive; no common ratio-grammar → the program
 relabels to standard causality and that closure is banked; PB-2.2 unmet at pointing time → the
 bet stays unpointed.
