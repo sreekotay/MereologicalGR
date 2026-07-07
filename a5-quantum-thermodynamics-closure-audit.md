@@ -188,9 +188,8 @@ Uniform success under stripped composites is a weak diagnostic — the layer spl
 
 ## 8. Instances — the register's measured structure
 
-The audit stops being a schema here: the thermodynamic register already contains, in measured
-form, structural signatures the corpus bets on elsewhere. Three items — each with citation, layer
-read, and could-fail; retrodictions confessed as such; one open arm.
+The thermodynamic register already contains, in measured form, structural signatures the corpus
+bets on elsewhere. Retrodictions are marked; one arm is open.
 
 **8.1 Finite-time Landauer is the count/duration split, measured.** The erasure invoice per bit
 decomposes as
@@ -228,9 +227,8 @@ Mandal–Jarzynski (PNAS 109, 11641 (2012))   reset budget as physical supply: e
 
 All retrodictions — standard accounting (Sagawa–Ueda, resource theories) already prices each.
 What standard accounting never asks: whether these ratios share a grammar — converted weight,
-unconverted remainder, sum-rule shape — with the conversion weights at *other* interfaces.
-Stating that question, with this table as its data, is this note's export; the question itself is
-owned downstream by the conversion seam, not here.
+unconverted remainder, sum-rule shape — with the conversion weights at *other* interfaces. The
+table is that question's data.
 
 **8.3 The open arm — the cross-register cliff.** A4's commit cliff (logical memory dies as
 τ_dec/τ_cycle → 1) crosswalks (§5) to: feedback-engine yield collapses as feedback latency

@@ -138,8 +138,8 @@ a Galactic CCSN (bounce-locked at ms) is the cross-class discriminator.
 
 ## The chain, rederived
 
-The claim under check, stated once: **cone-delta is not raw off-cone influence; it is what
-off-cone influence looks like after being forced through frame-entry into response.** The stack:
+**Cone-delta is not raw off-cone influence; it is what off-cone influence looks like after being
+forced through frame-entry into response.** The stack:
 
 ```text
 K(x,y)  →  R_AB(x,y)  →  δQ_m(x,k)  →  Δt  →  W
@@ -189,7 +189,7 @@ Each arrow with its warrant, GR-space where possible:
   the *observable shadow* of conversion plus path, never the speed of raw influence; a "speed of
   the kernel" read off Δt is a category error the chain now blocks by construction.
 
-Sign audit, closing the loop with C1/C5: retardation puts each sector's response after its cause
+Sign audit: retardation puts each sector's response after its cause
 within *its own* cone, and the nesting ≺_m ⊆ ≺_f makes each sector's delay against the fabric
 cone one-sided — ε_s ≥ 0 per messenger, the one-sidedness theorem inherited per sector. What the
 theorem does **not** lock is the *difference* between two matter-sector messengers: GW170817's
@@ -233,7 +233,7 @@ cut-versus-chain itself. The n = 2 member is the achromatic cut-metered survivor
 first template that makes PB-2.1's depth-jurisdiction *lose* gracefully: area-metered traversal
 conversion, if found, sides with the write-side's metering geometry against the chain reading.
 
-One degeneracy, priced rather than hidden (the check's one real bite): ΔC_s,1 ∝ D is *exactly*
+One degeneracy, priced: ΔC_s,1 ∝ D is *exactly*
 degenerate with a constant-ε path term at low z — 11.9 s equals 11.9 s at 300 Mpc, term for term.
 The three-term signatures survive because s₀ was the n = 0 member; once conversion carries n = 1
 the split between "conversion cost" and "path cost" is convention, separable only by redshift
@@ -243,11 +243,10 @@ n = 1 fit alone can never certify which side of the decomposition it lives on.
 
 ## Narrowing n: what the ends of the ladder can and cannot do
 
-The kernel-scale end looks, at first pass, like a second datum against the templates: near-zone
+The kernel-scale end looks like a second datum against the templates: near-zone
 and tunneling physics measures a per-interface, distance-blind conversion cost ~1/ω (Hartman
 saturation — the cost does not grow with barrier length), which is an n = 0 *form* with its
-coefficient at the quantum floor. It is not usable unconditionally, for three separately stated
-reasons: the measurement is cross-**tier** (photon kernel against laboratory clocks), not
+coefficient at the quantum floor. It is not usable unconditionally, for three reasons: the measurement is cross-**tier** (photon kernel against laboratory clocks), not
 cross-**leg** (γ against GW); the interface is a different type (a barrier is not a merger); and
 an accumulation law plausibly launches at a finite mesoscale, below which extrapolating it asserts
 a domain no data certifies. Granting all three — one law across interface types, one coefficient
@@ -288,7 +287,7 @@ inherits: the near pair swaps the photon for the neutrino, so it measures ε_ν 
 against the anchor's ε_γ − ε_GW assumes matter-sector universality of the coefficient, an
 assumption to be named at use, not silently spent.
 
-One structural result that holds given only its own premise: if the chain member charges the
+If the chain member charges the
 quantum-floor cost 1/ω per step, achromaticity is automatic *iff the step length scales with the
 messenger's ƛ* — per-step cost ∝ 1/ω against step density ∝ ω cancels exactly, total εD/c,
 frequency-blind. So GW170817's achromaticity does not kill quantum-floor-cost chains; it selects
@@ -296,8 +295,8 @@ their microstructure. The n = 1 member then carries two internal readings — a 
 dimensionless drag ~ε per ƛ-step, or the full floor cost per step of L = ƛ/ε (~500 m at 1 MeV) —
 and either way the construction is per-messenger: a sector-universal version gives every carrier
 the *same* ε and a vanishing cross-leg differential, leaving the anchor uncarried. Carrying the
-anchor requires the coefficient to be sector-owned — which is not a new assumption discovered
-here, but the bet's own register-owned-coefficients clause, met where it was already stated.
+anchor requires the coefficient to be sector-owned — the bet's register-owned-coefficients
+clause, already stated.
 
 ## Conversion depth orders the stack
 

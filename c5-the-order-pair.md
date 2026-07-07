@@ -19,7 +19,7 @@ Layer 2 — projected (standard order-geometry):
   order + number = geometry: counting supplies the conformal factor, hence proper time
   horismos: the null boundary x ↗ y, y ∈ J⁺(x)\I⁺(x)
   eigenstructure of the relative tensor g⁻¹g̃
-  the pair as per-sector commutator supports (response cones; shared with C8's chain)
+  the pair as per-sector commutator supports (response cones)
 
 Layer 3 — imported (machinery + calibration):
   causal-set kinematics, sprinkling phenomenology, link structure
@@ -74,8 +74,7 @@ are **invariants of the pair of orders**. Consequences:
 
 ## The pair as response cones
 
-A physical reading of the two orders, added downstream (C8's chain derivation, backward-referenced
-here because it lands on this note's object): each order is the **commutator support of its
+A physical reading of the two orders: each order is the **commutator support of its
 sector's local observable algebra**. Matter fields quantized on g̃ have retarded response kernels
 supported in ≺_m; fabric perturbations on g respond within ≺_f. The pair is not two abstract
 orders wearing one manifold — it is two *response* cones, and the frame-entry argument (a retarded
@@ -125,7 +124,6 @@ g̃-flow-indexed and **the constitution cone is ≺_m**. Two consequences:
   neither. n is a preferred congruence, and one-sidedness (above) nests all influence inside one
   outermost cone — gap-set influence cannot close a loop. GW170817's ordering is then
   unremarkable: the GW is an early messenger *within* matter chronology, not a violation of it.
-  Stated here because no note in the lane had, and it is the objection every reader raises first.
 
 Could-fail, gravity-side (GB-3's register): a write-chain whose constitution is g-flow-indexed —
 a gravitational register constituting with no matter uptake anywhere in its chain — breaks the
@@ -174,7 +172,7 @@ quadratic cones, gap unknown.
   identification.
 
 Owned: the pair as H_p1's foundation object; the gap-set relocation of the lane's observables; n
-and ε as pair-invariants with the seam reading; the response-cone reading of the pair (with C8);
+and ε as pair-invariants with the seam reading; the response-cone reading of the pair;
 the one-sidedness theorem; the constitution-cone theorem (≺_m, via PB-4) with the forced
 re-bundling and the chronology-protection dissolution; the one-count rigidity observation; the
 form-vs-magnitude audit. Imported: Malament's theorem and its distinguishing
