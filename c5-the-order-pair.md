@@ -20,6 +20,7 @@ Layer 2 — projected (standard order-geometry):
   horismos: the null boundary x ↗ y, y ∈ J⁺(x)\I⁺(x)
   eigenstructure of the relative tensor g⁻¹g̃
   the pair as per-sector commutator supports (response cones)
+  per-sector KMS response; the horizon stack (gap-set thickness at a trapping surface)
 
 Layer 3 — imported (machinery + calibration):
   causal-set kinematics, sprinkling phenomenology, link structure
@@ -129,6 +130,31 @@ Could-fail, gravity-side (GB-3's register): a write-chain whose constitution is 
 a gravitational register constituting with no matter uptake anywhere in its chain — breaks the
 ≺_m assignment and reopens the fork.
 
+## The pair at a horizon
+
+Two metrics, two trapping structures. At a black hole the gap set acquires a thickness: a shell
+of order ε·r_s where matter is trapped and fabric-futures still escape — the first concrete
+inhabitant of the fabric-timelike, matter-spacelike chains parked above. The horizon's fused jobs
+separate there. g's horizon bounds **influence** (one-sidedness makes it outermost; nothing
+consequence-capable crosses out); g̃'s horizon bounds **carriers**; constitution sites are
+wherever matter flow is (the constitution cone). The shell leaks influence, not information:
+escaping fabric quanta are carrier-tier influence-structure (PB-3/GB-3), and records constituted
+outside from them are legal — so the information boundary is the *fabric* horizon, and the matter
+horizon was only ever the carrier boundary wearing three jobs.
+
+Temperature forks the same way. Temperature is a per-sector response scale (response cones,
+above): a uniformly accelerated detector sees KMS at T_s = ħa/2πc_s per sector, so
+
+    T_m / T_f = c_f / c_m = 1 + ε ,
+
+and one-sidedness orders the temperatures — matter-hot, fabric-cold, everywhere. The fused
+reading, temperature as a property of the point, forbids any split; the pair forces a one-sided
+one (~10⁻²⁴ K astrophysically — the register's content is consistency, not measurement). No
+exposure beyond the sign lock: the ordering dies with CD-2's carve — a corollary, not a bet.
+Realization note: the fixed-n member cannot reach the horizon (no global unit timelike n survives
+there); the composite member stays regular and delivers the split — the same member the
+backreaction computation selected.
+
 ## Discrete rigidity
 
 Order + number needs one counting for *two* orders — volume counts points, not relations. So
@@ -167,6 +193,12 @@ quadratic cones, gap unknown.
   front stays at c and the phase excursion never carries influence. That ambiguity is standing and
   unresolved in the imported literature; the theorem inherits whichever resolution holds. Named as
   a wall, not resolved.
+- **The GSL wall.** A stationary two-temperature horizon is a heat-engine resource: coupling the
+  matter bath (hot) to the fabric bath (cold) extracts work from a stationary geometry, charged
+  to the mass. Whether the generalized second law tolerates that (an O(ε) evaporation channel,
+  banked), forbids it (T_m = T_f forced at stationarity — the pair dies at the thermal register),
+  or forces structure between the split and the two surface gravities is an open, well-posed
+  calculation. Imported machinery throughout; named as a wall, not resolved.
 - No identification of the pair's gap with any A0 bound axis is made here; A0 §12 explicitly
   forecloses reading PB-1 as "a second speed," and that wall stands between this note and any such
   identification.
@@ -174,9 +206,11 @@ quadratic cones, gap unknown.
 Owned: the pair as H_p1's foundation object; the gap-set relocation of the lane's observables; n
 and ε as pair-invariants with the seam reading; the response-cone reading of the pair;
 the one-sidedness theorem; the constitution-cone theorem (≺_m, via PB-4) with the forced
-re-bundling and the chronology-protection dissolution; the one-count rigidity observation; the
-form-vs-magnitude audit. Imported: Malament's theorem and its distinguishing
+re-bundling and the chronology-protection dissolution; the horizon stack with the one-sided
+temperature ordering (corollary); the one-count rigidity observation; the form-vs-magnitude
+audit. Imported: Malament's theorem and its distinguishing
 conditions, causal-set kinematics and phenomenology, birefringence bounds, and every coefficient.
 Could-fail: a credible negative-ε residual (kills the nesting, with CD-2); non-quadratic matter-cone
 structure at any precision (kills the pair ansatz); joint non-realizability of the pair as
-Lorentzian orders (kills the formalization while leaving C1's physics intact).
+Lorentzian orders (kills the formalization while leaving C1's physics intact); a GSL demonstration
+that stationarity forces T_m = T_f exactly (kills the pair at the thermal register).
