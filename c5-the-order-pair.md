@@ -110,6 +110,13 @@ quadratic cones, gap unknown.
   global statement needs compatibility axioms (nested partial orders exist that realize no
   Lorentzian pair) and is unproven.
 - The adjacency wound is inherited, not healed.
+- The one-sidedness theorem, as stated, presumes front-velocity discipline. Drummond–Hathrell
+  photons (imported: one-loop QED in curved backgrounds) carry a polarization whose low-frequency
+  phase cones sit *outside* the metric's null cone. Either the fabric order is the influence
+  envelope — the metric cone demoting to a construct wherever dressing outruns it — or the signal
+  front stays at c and the phase excursion never carries influence. That ambiguity is standing and
+  unresolved in the imported literature; the theorem inherits whichever resolution holds. Named as
+  a wall, not resolved.
 - No identification of the pair's gap with any A0 bound axis is made here; A0 §12 explicitly
   forecloses reading PB-1 as "a second speed," and that wall stands between this note and any such
   identification.

@@ -89,6 +89,35 @@ fabric gets extreme** — strong fields spatially, the early universe temporally
 free. T2 survives only by saturating at some ε_max < 1, buying a new epoch ("when re-binding
 saturated"). The sourced classes must saturate pre-recombination or die.
 
+## The floor — standard-theory members
+
+The sourced classes are not hypothetical: QED computes members of them wherever an environment
+breaks the vacuum's symmetry. Scharnhorst (boundary-sourced: photons between Casimir plates run
+*faster* — less virtual dressing to drag through); thermal QED (content-sourced:
+δv/c ~ −α²T⁴/m_e⁴ in a blackbody bath); Drummond–Hathrell (curvature-sourced: the photon's
+virtual dressing couples to curvature at one loop, δc/c ~ α λ_C² R, polarization-dependent). The
+Latorre–Pascual–Tarrach form unifies the family: δv ∝ −α² ρ/m⁴ — drag proportional to the energy
+density the dressing couples to, interior sign — the binding-cost mechanism, computed at one loop
+in imported theory. Two consistency notes: the strong-field wall killed *anchor-scale* curvature
+sourcing only — D-H exists ~25 orders below it, untuned and bounded; and D-H's birefringence
+keeps it excluded as a cosmological carrier by the 10⁻³² form-certification, so these members are
+local and tiny by construction.
+
+The consequence is a floor. The actual universe is an environment — bath, curvature, congruence —
+so the standard-theory cone shift is nonzero and computable: the thermal term alone gives
+ε_QED ~ α²(T_CMB/m_e)⁴ ≈ 2×10⁻⁴² today. Exact cone-coincidence has no protective symmetry in an
+environed universe; nominal is generic, and exactness would be the tuning. The seam parameter is
+therefore bracketed from both ends:
+
+    ε ∈ [ ~10⁻⁴² (computed, imported QED) , 4×10⁻¹⁶ (measured once, C1) ]
+
+— twenty-six decades, floor from theory, ceiling from one event. The open question is not whether
+the seam exists but whether any term sits above the environmental floor. Guard, stated so the
+bracket cannot be over-read: none of these members evidences an anchor-scale term — the known
+floor changes the question's *form* (every register narrows a bracket, not a point hypothesis),
+not the answer's likelihood. Magnitudes all imported; this section owns the placement of the QED
+members within the family, the bracket, and the burden statement.
+
 ## T2 as a one-scale theory
 
 Write T2 as ε(z) = H(z)/H*. Then GW170817's number is not an unexplained small constant — it is
