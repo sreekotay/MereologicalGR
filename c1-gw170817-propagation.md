@@ -22,7 +22,11 @@ gravitational-wave cone** — one cone for all matter (*universal*), strictly ne
 
 The construction below re-bundles propagation, measurement, and chronology onto one matter cone and
 dynamics onto gravity's. One event does not force that bundling — only *a* dissociation, not which.
-It is the minimal re-fusion, adopted for calculation.
+The grammar, however, forces half of it: constitution is flow-bearing uptake and the constituting
+registers are matter (both stated below — "the constituting matter's rest frame"), so measurement
+and the operational "now" ride the matter cone as a consequence of the carve, by the same machinery
+as the sign-lock. What remains chosen is the minimal single-pair form — one matter cone, dynamics
+on gravity's — adopted for calculation.
 
 ## The measurement
 
