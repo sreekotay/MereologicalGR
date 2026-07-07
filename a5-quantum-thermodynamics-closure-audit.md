@@ -107,7 +107,7 @@ No reset, no closed information-thermodynamic cycle.
 No register / write-chain, no constituted information.
 ```
 
-Each is a could-fail condition, not a slogan. **False** locates malformed bundling or a holding route. **True** forces new bets (which battery, which reset path, which pinned threshold). **Relabel** if the audit only recovers textbook resource vocabulary with no downstream export that could have failed.
+Each is a could-fail condition, not a slogan. **False** locates malformed bundling or a holding route. **True** forces new bets (which battery, which reset path, which pinned threshold). **Relabel** if the audit only recovers textbook resource vocabulary with no downstream export that could have failed — §8 now carries that export (the count-form reading, the ratio table's grammar question, and the cross-register cliff bet).
 
 ---
 
@@ -186,18 +186,74 @@ Uniform success under stripped composites is a weak diagnostic — the layer spl
 
 ---
 
-## 8. Demotion
+## 8. Instances — the register's measured structure
+
+The audit stops being a schema here: the thermodynamic register already contains, in measured
+form, structural signatures the corpus bets on elsewhere. Three items — each with citation, layer
+read, and could-fail; retrodictions confessed as such; one open arm.
+
+**8.1 Finite-time Landauer is the count/duration split, measured.** The erasure invoice per bit
+decomposes as
+
+```text
+W = kT ln 2  +  B/τ
+    count-metered bound        duration-metered excess
+    (per bit, duration-blind)  (finite-time dissipation)
+```
+
+Bérut et al. (*Nature* **483**, 187 (2012)) measured exactly this approach curve in a colloidal
+double-well. Read against b4 §6a: the write-conversion's ordering-resource is a **count** (bits);
+the bound per count is intensive and state-dependent (kT ln 2 — a rate, not a universal scalar:
+PB-2's declared form); and bound/realized separate on duration. b9 exhibits the count-form
+signature in the influence register (layer-count on a lattice, metric absent); this is the same
+signature in the **write register**, independently measured — a second register for PB-2.2's
+count-not-duration demand. Retrodiction confessed: standard stochastic thermodynamics owns the
+formula; MGR owns only the reading. Could-fail: if the bit-count cannot be pinned
+threshold-independently (the "bit" dissolving under threshold choice), the count-form read dies
+in this register.
+
+**8.2 The record→constitution conversion rung, tabulated.** Each demon experiment is a measured
+(bound, realized) pair at this interface:
+
+```text
+Toyabe et al.  (Nat. Phys. 6, 988 (2010))   feedback work vs kT·I bound; realized ~28%;
+                                            measured degradation as feedback delay grows
+Koski et al.   (PRL 115, 260602 (2015))     autonomous on-chip demon; the demon's own register
+                                            dissipation metered — clock/control and reset legs
+                                            made physical
+Bérut et al.   (Nature 483, 187 (2012))     the reset leg alone, priced to its floor
+Mandal–Jarzynski (PNAS 109, 11641 (2012))   reset budget as physical supply: engine/eraser/dud
+                                            regime set by the incoming tape's blank capacity
+```
+
+All retrodictions — standard accounting (Sagawa–Ueda, resource theories) already prices each.
+What standard accounting never asks: whether these ratios share a grammar — converted weight,
+unconverted remainder, sum-rule shape — with the conversion weights at *other* interfaces.
+Stating that question, with this table as its data, is this note's export; the question itself is
+owned downstream by the conversion seam, not here.
+
+**8.3 The open arm — the cross-register cliff.** A4's commit cliff (logical memory dies as
+τ_dec/τ_cycle → 1) crosswalks (§5) to: feedback-engine yield collapses as feedback latency
+approaches the system's correlation time. Both sides have data (Toyabe's delay curve; QEC
+decoder-backlog studies); the **shapes have never been compared**. The bet, form-level only: same
+cliff class, coefficients register-owned. Falsifier: the classes differ — then the §5 crosswalk
+was analogy, not grammar, and this note demotes to vocabulary by its own §4 rule.
+
+---
+
+## 9. Demotion
 
 ```text
 constituted work, information, or cycle achievable from state functionals alone
 without battery, register/write, reset, or pinned threshold;
 entropy / MI / correlation sufficient for constitution across varied uptake conditions;
-reset omitted while cycle headline still claimed.
+reset omitted while cycle headline still claimed;
+cliff classes differ across the §8.3 registers (the crosswalk demotes to analogy).
 ```
 
 ---
 
-## 9. Compact result
+## 10. Compact result
 
 ```text
 Lane:     D13 — quantum thermodynamics operational closure audit

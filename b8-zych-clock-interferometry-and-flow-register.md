@@ -69,7 +69,7 @@ A0 §9 sub-cell (fixed before contact):
 |---|---|---|
 | φ, ∆Φ | Interferometer phase (includes Newtonian m∆V and GR corrections) | (12) |
 | V | Fringe visibility (contrast) | (5), (13), **(16)** |
-| D | Path distinguishability from clock readout | D = 1 − V²/2 (pure states) |
+| D | Path distinguishability from clock readout | D = √(1 − V²) (pure states) |
 | ∆τ | Proper-time difference between arms | ∆τ ≈ ∆V ∆T / c² (small height diff.) |
 | t⊥ | Orthogonalization time of internal state under H | t⊥ = πℏ/∆E (two-level) |
 
@@ -283,7 +283,7 @@ Clock-OFF control:             no data
 |---|---|---|---|---|
 | Colella, Overhauser, Werner (1975) — COW | Gravitational **phase** | No | **render** | Zych ref. 7; bounds σ_τ only if ΔV assumed |
 | Atom fountains / light-pulse AI (g, gradients) | **Phase** / acceleration | No | **render** | Contrast often logged for **technical** decoherence — not proper-time witness |
-| Chou et al., *Nature* 2010 — 33 cm clocks | **Redshift** (static compare) | No | **render** | Ledger §14.3; no AI visibility |
+| Chou et al., *Science* 2010 — 33 cm clocks | **Redshift** (static compare) | No | **render** | Ledger §14.3; no AI visibility |
 | Overstreet et al., *Science* 2022 — grav. AB (Kasevich group) | Gravitational **phase** (proper-time / potential; 25 cm AI) | **No** | **render** | φ from ∆τ difference; **not** internal-clock V — Zych’s AB vs proper-time distinction |
 | Zych et al., *Nat Commun* 2011 | **Theory** + feasibility (Table 2) | **Target** | **flow-register** | Required Δh·ΔT for full V loss ≫ achieved (2011) |
 | Zych et al. 2012 — photonic timing | Theory | Partial | **render/timing** | Not massive internal register |
@@ -291,7 +291,7 @@ Clock-OFF control:             no data
 
 **Bounds ≠ detection:** Zych reuses phase experiments to constrain proper-time width σ_τ (Table 1). Consistent with V = V_QM is **not** a measurement of the visibility drop.
 
-**Feasibility (Zych Table 2, atoms / hyperfine):** full visibility loss needs Δh·ΔT ~ 10 ms (g ~ 10 m/s²); achieved ~ 10⁻⁵ ms (2011). Partial effect still needs ΔV ~ 10⁻⁶ visibility precision + decoherence control.
+**Feasibility (Zych Table 2):** full visibility loss needs Δh·ΔT ~ 10 m·s for an optical-frequency internal clock (ΔE ~ 1 eV; t⊥c²/g — hyperfine registers sit ~10⁵ higher); achieved ~ 10⁻⁵ m·s (2011). Partial effect still needs ΔV ~ 10⁻⁶ visibility precision + decoherence control. *(Corrected 2026-07: the requirement's unit is m·s, not ms, and the ~10 figure is the optical register.)*
 
 **On the horizon (not data):** Florence Sr/Cd AI + optical-clock program; trapped-atom minute-scale superposition + Ramsey extensions.
 

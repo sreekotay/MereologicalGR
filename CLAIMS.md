@@ -104,7 +104,7 @@ Realism of composable roles is the conceit; PBs are prices, not theorem outputs 
 
 | ID | Claim (foundation form) | Grade | MGR-owned | Imported | Could fail / demote |
 |---|---|---|---|---|---|
-| **PB-3** | Photons in flight carry ordered influence, not constituted information (`information = ordering + influence + flow`; flow → 0 on null line) | bet / proscription | composition rule; flow required for constitution | detector readout ordinary | Completed information-grade operation with **no** flow-bearing uptake in constitution chain |
+| **PB-3** | Photons in flight carry ordered influence, not constituted information (`information = ordering + influence + flow`; flow → 0 on null line) | bet / proscription | composition rule; flow required for constitution | detector readout ordinary | Completed information-grade operation with **no** flow-bearing uptake in constitution chain. **Generative failure (the live one):** PB-3 makes PB-4, which makes more (D11, b8, a3/a4, c5's constitution cone, c7's tier gate) — if that chain peels back to a label with nothing forced, PB-3 demotes to definition (cascade, as Tier B) |
 | **PB-4** | Constitution supervenes on physical write-chain + **pinned threshold rule T**, not observer-involvement; rendering is frame/worldline-set | bet | uptake vs read; write-not-read | POVMs, QRF formalism; **T declared before contact** | (1) Constituted fact covaries with observer at fixed write-chain **and fixed T** (D11). (2) Constitution survives sliding **T** without uptake/threshold-rule change (self-rescue) |
 
 ### Tier B — architecture (ordering/influence axis under unit pressure)
@@ -215,7 +215,7 @@ Same layer break; different register — predicted by role split, not by QEC num
 | Mid-circuit / latency | A4, ledger §14.1 | Commit cliff when τ_dec/τ_cycle → 1 | — (engineering contact) |
 | Metrology mirror | A4 §6 | Decode policy vs commit (e.g. M=1 → SQL class) | HL scaling without commit leg |
 | Zych clock interferometry + clock-OFF | B8; ledger §14.3.1; A0 §9 | ON/OFF factorial at fixed φ; **lab open** (no V data; render-leg only: COW, grav. AB 2022) | V drops with clock-OFF at fixed φ; or V tracks φ only with clock ON |
-| QThermo composites sort by layer | A5; D13 | Same correlation record → vary battery, reset, register/write, clock/control | Work/cycle/information from state functionals alone; reset omitted while cycle headline stands |
+| QThermo composites sort by layer | A5; D13 | Same correlation record → vary battery, reset, register/write, clock/control. **Instances (a5 §8):** finite-time Landauer as the measured count/duration split (PB-2.2's form, write register); the record→constitution ratio rung tabulated (Toyabe, Koski, Bérut, Mandal–Jarzynski); open cross-register cliff bet (feedback-latency vs decoder-latency cliff class) | Work/cycle/information from state functionals alone; reset omitted while cycle headline stands; cliff classes differ across registers (crosswalk demotes to analogy) |
 
 Published experiment map: `diagnostic-ledger.md` §14.
 
@@ -268,4 +268,4 @@ Do not treat workbench outputs as witness for PB or core grammar without promoti
 
 When adding a claim: state **grade**, **owned**, **imported**, **could-fail**, **discount** (if lineage-witness), **source file**. If a row duplicates the ledger, the ledger row wins for lane detail; this file wins for **at-a-glance status**.
 
-Last aligned with corpus: July 2026 (A0 through §14, B1 §2, B4 §6a, B9, B8, diagnostic-ledger §4.1–§4.2, C-lane c1–c8 + CD rows).
+Last aligned with corpus: July 2026 (A0 through §14, B1 §2, B4 §6a, B9, B8, diagnostic-ledger §4.1–§4.2, C-lane c1–c8 + CD rows; 2026-07 audit pass: a2 short-form demoted to label, a5 §8 instances added, b3 §7 realigned to b4 §3's verdict form, b8 errata corrected, c5 constitution-cone section added).

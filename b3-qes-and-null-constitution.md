@@ -211,16 +211,22 @@ bulk/radiation degrees:
 
 So QES is not a horizon-information proof. It is a record/constitution splitter.
 
-## 7. Quantitative null
+## 7. Forbidden residual — verdict form
 
-The QES contact suggests a forbidden residual, not a new magnitude.
+The QES contact suggests a forbidden residual, not a new magnitude. An earlier draft stated it as
+a magnitude-shaped pair (ε_QES-constitution = 0, ε_horizon-null-constitution = 0). **Withdrawn
+(2026-07):** b4 §3 refuses exactly that move, for reasons that apply here unchanged — it re-emits
+GB-3 rather than exposing anything QES-specific, it risks an absorbing re-description with no
+independent test, and a magnitude-shaped ε has no equation or measurement role at this seam. The
+honest statement is verdict-form:
 
 ```text
-ε_QES-constitution = 0
-ε_horizon-null-constitution = 0
+No island/QES accounting in the standard literature requires an irreducible
+constituted-information term living on the QES surface or on a null horizon
+generator itself.
 ```
 
-Meaning:
+This is a clarifier-grade guard, not a witness (b4 §3's grading, adopted). Meaning:
 
 ```text
 After accounting for:
@@ -261,19 +267,10 @@ S_total = Area/(4G_N) + S_bulk + S_null-horizon-constitution
 
 where the extra term is irreducible to area/count, bulk entropy, radiation dynamics, reconstruction maps, detector/uptake effects, or non-null QG microstructure.
 
-Failure condition:
-
-```text
-ε_QES-constitution ≠ 0
-```
-
-or:
-
-```text
-ε_horizon-null-constitution ≠ 0
-```
-
-would mean the QES/horizon surface is not merely a cut/count/capacity structure but a constituted-information site. That would break GB-3.
+Failure condition (verdict form): a correct accounting **requiring** such a term — irreducible to
+area/count, bulk entropy, radiation dynamics, reconstruction maps, detector/uptake effects, or
+non-null QG microstructure — would mean the QES/horizon surface is not merely a
+cut/count/capacity structure but a constituted-information site. That would break GB-3.
 
 ## 8. Could-have-failed
 
@@ -383,9 +380,8 @@ QES / horizon test:
   lineage-witness for GB-3 / no-null-constitution
   role carve predates contact
 
-Quantitative null:
-  ε_QES-constitution = 0
-  ε_horizon-null-constitution = 0
+Forbidden residual:
+  verdict form (§7); ε-notation withdrawn per b4 §3
 
 Secondary:
   clarifier for record ≠ constitution
@@ -396,7 +392,7 @@ Magnitude:
 Collision-room:
   fine-grained constituted information on null generators would break GB-3
   QES-as-receiver or area-term-as-constituted-information would break the role map
-  nonzero S_QES-constitution or S_null-horizon-constitution would break the quantitative null
+  a required S_QES-constitution or S_null-horizon-constitution term would break the verdict (§7)
 ```
 
 Lineage: GB-3 and record/constitution distinction have a fixed role-route before this contact (A0 §11). Magnitude: QG-supplied and MGR-disowned.
@@ -426,14 +422,9 @@ Constitution occurs only at flow-bearing uptake / reconstruction / measurement.
 
 Therefore QES does not force information onto null horizon generators. It splits record/count/cut from constitution.
 
-Quantitative null:
-
-```text
-ε_QES-constitution = 0
-ε_horizon-null-constitution = 0
-```
-
-MGR's null residual claim is that no correct accounting should require an irreducible constituted-information term living on the QES surface or null horizon generator itself.
+Forbidden residual, verdict form (§7; ε-notation withdrawn per b4 §3): no correct accounting
+should require an irreducible constituted-information term living on the QES surface or null
+horizon generator itself.
 
 ## References / external anchors
 

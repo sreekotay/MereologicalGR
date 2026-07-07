@@ -73,7 +73,9 @@ attached: Z's *value* is scheme- and gauge-entangled; the physical content is th
 split. The claim is not "Z is s" but that the rung demonstrates the form. The **ratio program**
 follows: conversion weights at every rung — Z (kernel→carrier, computed), distillation/heralding
 efficiencies (relatedness→record, measured daily and never read this way), commit efficiencies
-(record→constitution, engineered — a4's layers, with the commit cliff as a ratio at its floor).
+(record→constitution, engineered — a4's layers, with the commit cliff as a ratio at its floor;
+the rung's measured (bound, realized) pairs are now tabulated in a5 §8.2, and a5 §8.1 exhibits
+the write register's bound as count-metered — PB-2.2's form, measured).
 This is also the separable answer to the relabel rebuttal: locality + unitarity explains why each
 rung has a *fence*; it does not predict that the *ratios* share a grammar. Common ratio-form earns
 the ladder beyond-locality status; no common form demotes the program to a relabel of standard

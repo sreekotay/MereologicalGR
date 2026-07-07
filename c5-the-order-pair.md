@@ -12,6 +12,7 @@ Layer 1 — owned (C1 / A0 lineage):
   the pair (P, ≺_f, ≺_m) with ≺_m ⊆ ≺_f as H_p1's foundation object
   one-sidedness: the nesting is C1's sign-lock in order form
   n as the seam's invariant, not posited equipment
+  the constitution cone: g̃-flow-indexed uptake; C1's re-bundling forced; chronology protected
 
 Layer 2 — projected (standard order-geometry):
   Malament: for distinguishing spacetimes, ≺ determines the conformal class
@@ -98,6 +99,38 @@ ungrammatical, not merely unobserved: the noise member of the family is one-side
 and distinguishable by its second moment (C4, corrected family). The theorem is exactly as strong
 as the carve it rides on (C1, Cost 0).
 
+## The constitution cone
+
+Flow forks with the pair. Proper time from g and from g̃ differ at O(ε) — g̃₀₀ = g₀₀(1−B) in n's
+frame, the same B read on the time axis — and a trajectory in the gap set G(x) is fabric-timelike
+but matter-spacelike: fabric-flow with no matter-flow. So the grammar's constitution requirement
+(information = ordering + influence + flow) acquires a question the fused theory never had to
+ask: **which flow?**
+
+The grammar answers it. Write-chains are matter systems — detectors, registers, thresholds all
+live on g̃ (PB-4: constitution supervenes on the physical write-chain) — so constitution is
+g̃-flow-indexed and **the constitution cone is ≺_m**. Two consequences:
+
+- **C1's re-bundling is forced, not chosen.** C1 assigns measurement and chronology to the matter
+  cone and prices the bundling as adopted-for-calculation ("one event does not force that
+  bundling"). Given the carve plus PB-4, it is forced: the operational "now" is defined by
+  constitution events, constitution is matter-flow uptake, so operational chronology rides ≺_m.
+  The upgrade is grammar-side — no observable moves (same-leg blindness applies to clocks exactly
+  as to cones: a constant g/g̃ time-rate offset absorbs into units) — but one "chosen" flag in
+  the lane's origin becomes a theorem of machinery the corpus already owns.
+
+- **Chronology is protected; the paradox objection dissolves.** The standard objection to a wider
+  gravity cone is causal paradox: superluminal channels plus boosts build closed loops. The loop
+  machinery needs boost-invariance of the wide channel and two-sided excursions; the seam has
+  neither. n is a preferred congruence, and one-sidedness (above) nests all influence inside one
+  outermost cone — gap-set influence cannot close a loop. GW170817's ordering is then
+  unremarkable: the GW is an early messenger *within* matter chronology, not a violation of it.
+  Stated here because no note in the lane had, and it is the objection every reader raises first.
+
+Could-fail, gravity-side (GB-3's register): a write-chain whose constitution is g-flow-indexed —
+a gravitational register constituting with no matter uptake anywhere in its chain — breaks the
+≺_m assignment and reopens the fork.
+
 ## Discrete rigidity
 
 Order + number needs one counting for *two* orders — volume counts points, not relations. So
@@ -142,7 +175,9 @@ quadratic cones, gap unknown.
 
 Owned: the pair as H_p1's foundation object; the gap-set relocation of the lane's observables; n
 and ε as pair-invariants with the seam reading; the response-cone reading of the pair (with C8);
-the one-sidedness theorem; the one-count rigidity observation; the form-vs-magnitude audit. Imported: Malament's theorem and its distinguishing
+the one-sidedness theorem; the constitution-cone theorem (≺_m, via PB-4) with the forced
+re-bundling and the chronology-protection dissolution; the one-count rigidity observation; the
+form-vs-magnitude audit. Imported: Malament's theorem and its distinguishing
 conditions, causal-set kinematics and phenomenology, birefringence bounds, and every coefficient.
 Could-fail: a credible negative-ε residual (kills the nesting, with CD-2); non-quadratic matter-cone
 structure at any precision (kills the pair ansatz); joint non-realizability of the pair as

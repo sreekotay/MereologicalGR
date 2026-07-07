@@ -23,11 +23,18 @@ therefore:
   their difference, in the massive torsion-free sector, is the adjacency-face / energy-momentum sector.
 ```
 
-Punchy short form:
+Punchy short form — **demoted on audit (2026-07)**:
 
 ```text
-gravity = information + adjacency
+gravity = information + adjacency      [label, not composition]
 ```
+
+The subtraction requires `flow = flow-face`, but the flow-face of energy-momentum is *energy* —
+the flow-**conjugate** projection, not proper-time flow itself. A conjugate is not its variable;
+reading them as one is a homonym fusion, the failure shape this corpus polices everywhere else.
+The short form is retained as a mnemonic label only (A0 §11: label, no weight). The scoped
+statement above and the operational expansion below survive unchanged — the shared
+`ordering + influence` legs and the transport/uptake divergence never depended on the subtraction.
 
 Here "adjacency" is shorthand for the adjacency-face of energy-momentum (massive, torsion-free sector), not the spatial-adjacency role of the glossary.
 
@@ -383,6 +390,11 @@ the split stands unless GR exhibits either:
   a massive worldline denied the curvature face.
 neither exists.
 ```
+
+Audit note (2026-07): the clause above is definitional — null content lacks normalizable u by
+construction, so GR could never exhibit the first item; the split's *live* exposure is downstream,
+in b8's clock-ON/OFF factorial, where the render leg (ΔΦ) and the flow-register leg (V) are
+separately measurable and the split fails if V drops with the clock OFF at matched phase.
 
 So §6's list reads as the two faces, handled: `E = −p·u` on the render side (photon retains it); within transport, proper acceleration on the forced face (flow-only), holonomy and geodesic deviation on the mass-blind curvature face, torsion the parked translational-closure residue.
 
