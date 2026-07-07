@@ -65,14 +65,25 @@ only ±0.027 — and the claimed value cross-predicts the sky curve to ±2 s at 
 the p = 0 and p = 1 landmarks and separable from both per event). One 2σ abundance anomaly, if
 real, out-measures ~300 coincidences on the exponent.
 
+*Status, July 2026 (adversarially-verified literature sweep):* LBT Y_p = 0.2458 ± 0.0013
+(arXiv:2601.22238; 2.6× more precise) supersedes EMPRESS at ~2.5σ and anchors the BBN side
+standard — κε_max = −0.004 ± 0.006, ε_max ≤ 0.014. The excluded-unsaturated boundary tightens to
+p < 0.78 against the 0.77 visibility threshold: **the self-regularized band closes** ([0.77, 0.78],
+one hundredth wide). Survivors: p < 0.77 (register-silent, sky-only) or p > 0.89 (saturated,
+ε_max ≤ 0.014). The register goes dormant pending resolution of the helium systematics themselves
+(EMPRESS 0.2387 vs LBT 0.2458 vs Aver 0.2453 — the field's own open wound).
+
 **The sign, settled within the grammar (C4, κ menu).** The composite realization — n from the
 matter congruence, matter-normalized; the only globally-defined member; the one b7's FT-2 licenses
 as *flow* — gives κ = +½. A saturated residue therefore *adds* to BBN-side expansion, and the
 current EMPRESS-class deficit is a **bound** (ε_max ≲ 0.02 at 2σ), claimable as a channel only by
-buying a Horn-A background vector (κ = −½). Current empirical state, computed: the anomaly is
-ξ-shaped (deuterium resists the uniform vector at ~2σ; mismatch joint fit κε_max = −0.017 ± 0.013)
-— bound-not-signal twice over. The decision lever is the d(p,γ)³He theory prediction plus a ~3×
-better Y_p.
+buying a Horn-A background vector (κ = −½). Empirical state as first computed: the EMPRESS-era
+anomaly was ξ-shaped (deuterium resisting the uniform vector at ~2σ; mismatch joint fit
+κε_max = −0.017 ± 0.013) — bound-not-signal twice over. The "~3× better Y_p" lever then arrived
+(LBT, above) and voted standard. Instructive residue: the anomaly *migrated to the CMB side*
+(ACT+SPT+Planck N_eff = 2.81 ± 0.12, foreground-suspect) — numerically near the old target and on
+the structurally wrong side, and the sorting rule **rejected it**. Sidedness discipline
+distinguishing physics from numerology, in live data.
 
 **Structure covariance — the three-way sign discriminant.** Per-step metering: none. Per-renewal:
 *negative* (expansion is suppressed inside bound structure — less delay through overdense
@@ -136,7 +147,12 @@ association priors bury 10–20 s offsets — the b = 0 branch predicts that rea
 re-search the GBM/Swift × GWTC subthreshold archives with a distance-scaled window,
 Δt ∈ [0.9, 1.1] × 4×10⁻¹⁶ · T(D). A source-side world has no reason to put gamma onsets on a
 distance-proportional line; positive yield is confirmation-class, null is beaming-degenerate but
-still bounds. Existing data, re-ranking cost only.
+still bounds. Existing data, re-ranking cost only. *Literature confirmation (July 2026):* the deep
+O2 pipeline's ranking statistic demonstrably down-weights the band — I_dt = 30 − |dt|, 83% weight
+at +5 s, 33% at +20 s, zero at +30 s (arXiv:2306.04373) — and all current nulls are shallow:
+luminosity limits at 100–500 Mpc sit 2–4 orders above GRB 170817A (arXiv:2308.13666), so a
+subluminous delayed-orphan population survives every search run to date. The templates should run
+per geometry exponent n (constant, D, D², D³).
 
 ## Solid versus soft
 
@@ -153,9 +169,20 @@ band's location (observability geometry, not physics preferring it).
 
 One response function, one exponent, one amplitude — with the amplitude anchored, the exponent
 measurable three ways (sky ±0.1 at N = 30; early universe ±0.03 if ever claimable; a candidate lab
-analog), the sign settled within the grammar against the one currently-live anomaly, and a
-family-universal forecast the next coincidence tests whole. Expected outcome unchanged: the
-forecast probably fails and the failure banks the tightest cone bound a single event can set.
+analog), the sign settled within the grammar, and a family-universal forecast the next coincidence
+tests whole. Expected outcome unchanged: the forecast probably fails and the failure banks the
+tightest cone bound a single event can set.
+
+*Sweep verdict, July 2026:* a 103-agent adversarially-verified literature triangulation
+(2024–mid-2026) found **no** coherent misattribution — zero anchors for ε₀ or p anywhere; the one
+sign-consistent anomaly (EMPRESS) dissolved under LBT; the tension pattern inverted to the
+register-violating side; GWTC-4.0 confirmed blind to the achromatic seam (α = 2 deliberately
+excluded from its dispersion suite). **The fusion banks, quantitatively: "the expansion that
+gravitates = the expansion matter feels" is now a measured cross-epoch identity, ΔH/H = −0.4 ± 0.6%
+at BBN** — a fused role converted into a sub-percent measurement, which is the clean-FAIL product
+this lane exists to produce. The seam survives only where nothing has looked: the next coincidence,
+the under-weighted archive band, the clock networks, and the sidereal templates — all priced,
+none searched.
 
 Owned: the metering framing and its PB-2.2 exposure; f(0) = 0 and the discounting of the constant
 member; the threshold structure's existence and the lever-arm logic; the family-universal forecast
