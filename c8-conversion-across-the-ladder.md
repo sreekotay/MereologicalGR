@@ -29,6 +29,7 @@ Layer 2 — projected (computed here or upstream in the lane):
 
 Layer 3 — imported:
   LSZ / pole residues / Källén–Lehmann (with gauge-scheme caveats)
+  confinement; fragmentation functions and their sum rules (DGLAP scheme caveats)
   the Bancal–Pironio–Gisin theorem; no-signaling and microcausality
   quench-front data, distillation/heralding efficiencies, holographic
   velocity ratios; all magnitudes and coefficients
@@ -41,6 +42,7 @@ Every sub-carrier tier "appears superluminal," and every appearance fills the sa
 | tier | occupant | shadow | protection | conversion interface | ratio |
 |---|---|---|---|---|---|
 | kernel | virtual photons, off-shell exchange | spacelike propagator support; Hartman/evanescent behavior | microcausality (b1: commutator, not propagator, is the diagnostic) | on-shell boundary (q² → 0, LSZ) | Z, 0 ≤ Z ≤ 1 |
+| kernel (colored) | quarks, gluons, colored exchange | none reaches asymptopia | confinement — no colored asymptotic state exists; the conversion weight to any colored carrier is exactly zero | hadronization | fragmentation functions D_h(z), measured; momentum sum rule Σ_h ∫ z D_h dz = 1 |
 | relatedness | entanglement | nonlocal correlations | no-signaling | the write / measurement | unformulated (faces: visibility, distillation) |
 | carrier + | real photons, GW, matter | none — cone-bound | the cone | already converted | — |
 
@@ -80,6 +82,18 @@ This is also the separable answer to the relabel rebuttal: locality + unitarity 
 rung has a *fence*; it does not predict that the *ratios* share a grammar. Common ratio-form earns
 the ladder beyond-locality status; no common form demotes the program to a relabel of standard
 causality, banked as such.
+
+The kernel→carrier rung also carries both extremes, and QCD supplies the other one: conversion to
+a colored carrier is **forbidden** (confinement — no colored asymptotic state, LSZ weight exactly
+zero) while conversion to hadrons is **compulsory** — fragmentation functions D_h(z), whose
+momentum sum rule Σ_h ∫ z D_h(z) dz = 1 is the Källén–Lehmann sum rule with the inequality
+saturated. One interface, zero weight to the kernel's own quantum numbers, unit total weight to
+the carrier tier. The D_h(z) family is the largest measured conversion-weight dataset in physics,
+collected at every collider and never read as a rung. Honesty attached: FFs are
+factorization-scheme- and scale-dependent (DGLAP); the physical content is the completeness and
+the z-shape, not any single value. The ratio program gains its extremal row, priced as the rest:
+common grammar across D(z), Z's pole/continuum split, and the distillation/commit ratios earns;
+scatter demotes.
 
 ## Metering geometry: chain and cut
 
@@ -316,8 +330,8 @@ metering question as the ET-era kernel curve, at order-unity size, on current te
 the bet into the PB ledger is deferred: it is an A0-level act, and PB-2.2's count-form demand
 stands unmet at the gate.
 
-Owned: the census and its three-slot form; the impedance formulation; the metering-geometry axis
-with chromaticity as its meter; the three-term decomposition and s₀'s signatures; the chain
+Owned: the census and its three-slot form, with the confinement/hadronization extremal row; the
+impedance formulation; the metering-geometry axis with chromaticity as its meter; the three-term decomposition and s₀'s signatures; the chain
 rederivation with frame-entry as its covariance derivation; the per-sector response-cone reading
 (shared with C5); the Ξ_s domain/codomain constraint; the unified arrival relation with the
 degeneracy priced; the area-native n = 2 recast and its boundaries; the intercept/slope role-split
