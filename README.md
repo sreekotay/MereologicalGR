@@ -42,7 +42,7 @@ MGR is a relabel inside GR by design, but an exported constraint system outside 
 | **Root** | `A0-…md` | Grammar, influence ladder, splits, composition, PB bets, ownership rules |
 | **Applications (A)** | `a1` … `a5` | Photon seed run, gravity adjacency, record vs constitution, QEC engine autopsy, quantum thermodynamics closure audit |
 | **Phenomena (B)** | `b1`–`b9` (canonical: `b4`–`b7`; engine: `b8`; PB fork: `b9`) | Role-location for horizons, Unruh, virtual exchange, Zych flow-register, many-body ordering bound, etc. — not new dynamics |
-| **Frontier (C)** | `c1`–`c4` | High-risk defusion attempts, kill-lanes, quantification, and theory classes; exposure ledgered in CLAIMS.md (CD rows); not canon |
+| **Frontier (C)** | `c1`–`c6` | High-risk defusion attempts, kill-lanes, quantification, theory classes, formal spine, and the response family; exposure ledgered in CLAIMS.md (CD rows); not canon |
 | **Diagnostics** | `diagnostic-ledger.md`, `contrast-diagnostic-program.md` | Contact lanes, null guards, demotion conditions |
 | **Workbench / archive** | `archive/`, `workbench/`, `data/` | Provisional numerics — **not canonical center** |
 
@@ -110,7 +110,7 @@ C-note rule:
 
 Their value is not that the proposed split is likely true. Their value is that a clean failure teaches which GR fusion was load-bearing.
 
-`c1` tries a propagation-cone split. `c2` tries to kill that split by making non-cone carriers pay first. `c3` grants the split and prices the estimator — what a cone delta looks like in data and how it is measured or killed. `c4` develops the propagation-level theory space — the curve family, the boundedness walls, and where each class touches data outside GW170817. The lane's pre-registered exposure lives in [CLAIMS.md](CLAIMS.md) as the CD rows — placed July 2026, one event in hand.
+`c1` tries a propagation-cone split. `c2` tries to kill that split by making non-cone carriers pay first. `c3` grants the split and prices the estimator — what a cone delta looks like in data and how it is measured or killed. `c4` develops the propagation-level theory space — the curve family, the boundedness walls, and where each class touches data outside GW170817. `c5` states the split as order structure — the pair (P, ≺_f, ≺_m), its invariants, and the one-sidedness theorem. `c6` collapses the theory space to one response function and prices its registers, including the maximally exposed b = 0 reading and its archive prediction. The lane's pre-registered exposure lives in [CLAIMS.md](CLAIMS.md) as the CD rows — placed July 2026, one event in hand.
 
 ---
 
@@ -122,6 +122,8 @@ c1-gw170817-propagation   exploratory application (not canon; exports new physic
 c2-path-before-propagation  exploratory kill-lane for c1 (not canon)
 c3-quantifying-the-cone-delta  conditional estimator lane for c1 (not canon)
 c4-cone-delta-curves        propagation-level theory classes for c1 (not canon; bets → CLAIMS.md CD rows)
+c5-the-order-pair           the split as order structure; pair-invariants (not canon)
+c6-the-response-family      one response function, its registers, the b=0 forecast (not canon)
 diagnostic-ledger.md      lane index (§4)
 contrast-diagnostic-program.md
 archive/b5-torsion-*      sensitivity workbench only (D9)

@@ -37,8 +37,10 @@ name:
 
 - **T3 — ε ∝ (1+z)³** (matter density); **T3′ — ε ∝ (1+z)⁴** (radiation bath);
 - **T4 — ε ∝ Φ** along the line of sight (H_p2; the ∂Φ/∂t variant is low-z, ISW-weighted);
-- **T5 — ⟨ε⟩ = 0, fluctuating** — the diffusive cone; no mean trend, variance σ(Δt) ∝ √D with no
-  source-side counterfeit (source scatter is distance-independent).
+- **T5 — one-sided noise.** C1's sign-lock holds pointwise — content influence outside ordering is
+  ungrammatical — so ε(x) ≥ 0 everywhere and a fluctuating seam fluctuates one-sided: a nonzero
+  mean (the floor survives) plus variance σ(Δt) ∝ √D with no source-side counterfeit (source
+  scatter is distance-independent). Zero-mean diffusion is dead by grammar, not by data.
 
 ## Curves
 
@@ -104,10 +106,16 @@ reading is used anywhere in this note.
 
 In any T2 realization, gravity computes expansion from the Friedmann equation on `g` while matter
 physics (weak rates, thermodynamics, clocks) runs on g̃. During the saturated era the mismatch
-between *the expansion that gravitates* and *the expansion matter feels* is ΔH/H = κ·ε_max, with κ
-collecting the lapse mismatch, the √(−g̃)/√(−g) factor in the effective stress, and the
-rate-vs-expansion bookkeeping at freeze-out. κ = O(1), sign model-dependent; computing κ needs a
-full realization — the open piece. Given κ, the chain is exact:
+between *the expansion that gravitates* and *the expansion matter feels* is ΔH/H = κ·ε_max. κ is
+now computed per realization of `n` in the toy: foliation (covector fixed) +3/2; external vector
+fixed −1/2; g-normalized +5/2; **composite** — n built from the matter congruence, normalized in
+matter's own metric — **+1/2**, in closed form (the implicit construction collapses to
+g̃₀₀ = g₀₀/(1+B)). The composite is the only globally well-defined member (n exists wherever
+matter flows: the global-n cost of Cost 0 dissolves there), and it is the realization b7's FT-2
+licenses as *flow* — the others are background fields wearing flow vocabulary. So the
+grammar-consistent sign is **positive**: a saturated T2 residue *adds* to the BBN-side expansion,
+and an observed deficit is a bound on ε_max, not a claimable channel, unless one buys a Horn-A
+background vector (the κ = −1/2 member) with its ontology bill. Given κ, the chain is exact:
 
 - BBN reads the expansion rate at n/p freeze-out. In N_eff currency (g* = 10.75, one ν species =
   0.163 of the radiation density): **ΔN_eff = 12.3 × ΔH/H = 12.3 κ ε_max**.
@@ -161,7 +169,8 @@ scale in place of a bare constant, an exactly linear curve with no shape freedom
 independent kill channels: the wedge (ET/CE era, z ≳ 0.22) and the BBN-side N_eff split (ceiling
 already capped at 2.4×10⁻², CMB-S4 probes to 5×10⁻³). T2 is strictly more exposed than T1 — by the
 repo's currency, the better bet. The sourced classes carry the wall in both directions; the
-diffusive class owns the variance channel alone and is untouched by any of this.
+noise class is one-sided (ε ≥ 0 by C1's sign-lock), floor-bearing, and distinguishable by its
+second moment — σ ∝ √D against every deterministic member's measurement-error-only scatter.
 
 The fork also carries foundation-bet weight. C1 already reads ε through PB-2 — an intensive,
 possibly configuration-dependent rate, not a universal scalar — and PB-2's could-fail includes the

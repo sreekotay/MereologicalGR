@@ -223,7 +223,7 @@ Published experiment map: `diagnostic-ledger.md` §14.
 
 ## Frontier bets (CD) — cone-delta lane (not canon)
 
-Exposure rows for the C-lane (c1–c4). Placed July 2026 with **one event in hand** (GW170817),
+Exposure rows for the C-lane (c1–c6). Placed July 2026 with **one event in hand** (GW170817),
 before any second multimessenger coincidence exists — a bet adjusted after contact is void; the
 adjustment is the confession. Each row states what the role-carve forces that the bare EFT leaves
 free; that gap is the stake against a confirmed cone delta collapsing into a relabel of an SME
@@ -238,14 +238,16 @@ at-a-glance exposure.
 | **CD-2** | Sign lock: the propagation residual never demands matter faster than gravity; the wedge never inverts; anisotropy modulates magnitude, never sign. Foundation-form derived: `space = ordering + adjacency` seats ordering in the fabric; `cause = ordering + influence` forbids content influence outside it — theorem-strength equals the carve's | any coincidence, standing | holds | negative-ε residual (carve dead) | c1 |
 | **CD-3** | One matter cone: species cone-splits forbidden at every precision, forever | Galactic/LMC CCSN ν–γ; any matter-vs-matter timing | holds at every precision | any species split (carve dead) | c1, c3 |
 | **CD-4** | Pristine fabric: every gravity-only propagation test exactly GR — no dispersion, friction, birefringence, extra polarizations | every GW-sector test, standing | holds | any GW-sector propagation anomaly (wrong carve) | c1 |
-| **CD-5** | Relation, not sourced: recovered kernel lies in the concave-to-linear band (T1–T2); residuals uncorrelated with line-of-sight structure at fixed distance. Carries PB-2 contact weight: T1 = universal scalar lands PB-2's could-fail corner; T2 = the intensive-rate reading (c4, Status) | kernel regression; first contact z ≈ 0.09 (late O5) | holds | convex density-class curve, or structure covariance (sourced — H_p2 wins the lane) | c4 |
+| **CD-5** | Relation, not sourced: recovered kernel lies in the response family f(H/H*) with f(0) = 0, measured as an exponent p; structure covariance carries the three-way sign discriminant — zero (per-step), negative (per-renewal: void suppression), positive (H_p2). Carries PB-2 contact weight: a universal-scalar kernel lands PB-2's could-fail corner; the intensive-rate reading is the family (c6) | kernel regression + LSS covariance; first contact z ≈ 0.09 (late O5) | holds | positive structure covariance (H_p2 wins the lane), or a kernel outside the family (carve dead) | c4, c6 |
 | **CD-6** | Axis: any resolved cross-leg anisotropy points at the CMB dipole apex, galactic (l, b) ≈ (264°, 48°) | far-future population (N ~ 10³–10⁵) | registered; untestable soon | resolved axis elsewhere | c1, c3 |
-| **CD-7** | The split: T1 commits to N_eff(BBN) = N_eff(CMB) exactly; T2's residue is BBN-side only (12.3 κ ε_max, ceiling 0.3, CMB-S4 reach 0.06). Equal-shift anomalies are dark radiation; CMB-side-only anomalies are neither | BBN-vs-CMB N_eff consistency; CMB-S4 | equality (T1) or BBN-side split (T2) | CMB-side or equal-shift anomaly claimed as cone currency | c4 |
+| **CD-7** | The split: BBN-side-only N_eff shifts are the family's residue register (12.3 κ ε_max); equal-shift anomalies are dark radiation; CMB-side-only are neither. Sign computed: the grammar-consistent realization (composite/flow, b7-licensed) gives κ = +1/2, so a deficit is a **bound** (ε_max ≲ 0.02), claimable only via a Horn-A background vector (κ = −1/2). Register live only for response exponent p > 0.77 | BBN-vs-CMB N_eff consistency; CMB-S4; the d(p,γ)³He theory prediction | bound (current deficit is ξ-shaped: 2σ against the uniform vector) | BBN-side excess above the ε_max bound (kills the composite class); CMB-side or equal-shift anomaly claimed as cone currency | c4, c6 |
+| **CD-8** | The archive line: under b = 0, real counterparts of 300–400 Mpc events appear as *unassociated* short GRBs at +10–16 s — outside [−1,+5] s windows, buried by association priors — with gamma onsets on the distance-proportional line Δt = 4×10⁻¹⁶·T(D) | re-search GBM/Swift × GWTC subthreshold archives with the distance-scaled window (existing data, re-ranking cost only) | null (beaming-degenerate; still bounds) | onsets found on the line = confirmation-class; a distant coincidence *under* the line kills the family wholesale | c6 |
 
 CD-1 is the only row expected to lose; its loss is the lane's main export. CD-2–CD-4 are standing
 forever-nulls guarding the carve itself, not the toy. CD-5 and CD-7 price the internal forks
-(relation vs sourced; T1 vs T2) before discriminating data exists. No constitution-layer bet is
-placeable; that layer stays gloss until it places one.
+(relation vs sourced; the response exponent) before discriminating data exists. CD-8 is the one
+row decidable from existing data alone. No constitution-layer bet is placeable; that layer stays
+gloss until it places one.
 
 ---
 
@@ -264,4 +266,4 @@ Do not treat workbench outputs as witness for PB or core grammar without promoti
 
 When adding a claim: state **grade**, **owned**, **imported**, **could-fail**, **discount** (if lineage-witness), **source file**. If a row duplicates the ledger, the ledger row wins for lane detail; this file wins for **at-a-glance status**.
 
-Last aligned with corpus: July 2026 (A0 through §14, B1 §2, B4 §6a, B9, B8, diagnostic-ledger §4.1–§4.2, C-lane c1–c4 + CD rows).
+Last aligned with corpus: July 2026 (A0 through §14, B1 §2, B4 §6a, B9, B8, diagnostic-ledger §4.1–§4.2, C-lane c1–c6 + CD rows).
