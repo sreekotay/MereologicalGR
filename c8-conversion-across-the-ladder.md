@@ -21,6 +21,8 @@ Layer 2 — projected (computed here or upstream in the lane):
   the per-quantum area-channel kill (pulsar arithmetic, 22 orders)
   the FRB-DM degeneracy and its policing; scatter-texture event counts
   the near-zone conversion scale ~1/ω
+  the frame-entry derivation of cone-guarding (relativity of simultaneity + commutator support)
+  the ε_n(D) identity, the n = 1 degeneracy, and the per-template archive boundaries
 
 Layer 3 — imported:
   LSZ / pole residues / Källén–Lehmann (with gauge-scheme caveats)
@@ -115,6 +117,111 @@ texture degeneracy is priced: both are distance-flat at ~2 s; rigid-vs-scattered
 17:1 / 68:1 / 1144:1 odds with 2/3/5 events, jet-true self-identifying via one ~1 s outlier, and
 a Galactic CCSN (bounce-locked at ms) is the cross-class discriminator.
 
+## The chain, rederived
+
+The claim under check, stated once: **cone-delta is not raw off-cone influence; it is what
+off-cone influence looks like after being forced through frame-entry into response.** The stack:
+
+```text
+K(x,y)  →  R_AB(x,y)  →  δQ_m(x,k)  →  Δt  →  W
+kernel      rendered      messenger     residual  write
+(off-cone   (cone-        (converted    (priced   (constituted;
+ allowed)    guarded)      observable)   below)    a4's tier)
+```
+
+Each arrow with its warrant, GR-space where possible:
+
+- **K → R (frame-entry, F_s).** The kernel has off-cone support — computed, not conjectured:
+  Wightman functions and Feynman propagators are nonzero at spacelike separation (the census's
+  kernel row; b1's diagnostic). Response requires an *after*:
+  R_AB(x,y) = iθ_u(x⁰−y⁰)⟨[A(x), B(y)]⟩ — and the θ is the frame-entry, importing a congruence u.
+  Here the derivation is pure GR: for spacelike-separated points the sign of x⁰−y⁰ is
+  frame-relative (relativity of simultaneity), so θ_u is covariant *only where the commutator
+  already vanishes*. Microcausality is not an axiom stapled onto response theory; it is exactly
+  the condition under which frame-entry commutes with covariance. Off-cone influence cannot render
+  — not because a censor eats it, but because "after" fails to be a fact there. A0's rendered
+  tier, derived rather than postulated: rendering is content through a frame, and the cone is
+  where frames agree.
+
+- **Which cone (per-sector).** "Microcausality" underspecifies until the algebra is named.
+  Commutator support for a hyperbolic field is the characteristic cone of *its own* kinetic
+  operator: matter fields on g̃ have vanishing commutators outside ≺_m; fabric perturbations on g
+  vanish outside ≺_f. The pair ([C5](c5-the-order-pair.md)) is thereby restated: two sectors, two
+  commutator supports — two response cones. Honesty attached: coupled systems support-leak to the
+  outermost characteristic cone of the coupled equations, so matter coupled to gravity can respond
+  throughout ≺_f at gravitational strength. The leak is not a defect; it is the seam itself,
+  G-suppressed, and it is the only channel a cross-cone measurement can use. Second honesty:
+  microcausality is certified for the local field-strength algebra; dressed gauge-invariant
+  observables are nonlocal, and the guardrail is claimed only for the former (imported wall).
+
+- **R → δQ_m (conversion, Ξ_s).** Domain: kernels with off-cone support. Codomain: cone-guarded
+  response — R_offcone = 0 identically, by construction, not by measurement. The map may consume
+  only invariants of the pair and the interface data: q², intervals, k·u, cut area A_Σ, curvature
+  scalars — no bare coordinates, no bare frame components. So what survives conversion is not
+  "the superluminal part, carried across"; it is a **cone-interior distortion** — arrival-time
+  structure. The delta is the shadow the off-cone kernel casts *inside* the cone once frame-entry
+  has killed everything outside it. In the GR limit (one metric, one cone) Ξ collapses to the
+  identity on-cone and the distortion is forced to zero: the observable exists only where the
+  fusion fails, the same seam-only shape as C5's n.
+
+- **Δt → W.** The residual exists as physics only as a comparison of two writes on one detector
+  worldline (a4's constitution tier): frame-entry runs twice, once per messenger, and Δt is
+  chronometry of writes — not geometry read directly. The anchor's 1.74 s therefore calibrates
+  the *observable shadow* of conversion plus path, never the speed of raw influence; a "speed of
+  the kernel" read off Δt is a category error the chain now blocks by construction.
+
+Sign audit, closing the loop with C1/C5: retardation puts each sector's response after its cause
+within *its own* cone, and the nesting ≺_m ⊆ ≺_f makes each sector's delay against the fabric
+cone one-sided — ε_s ≥ 0 per messenger, the one-sidedness theorem inherited per sector. What the
+theorem does **not** lock is the *difference* between two matter-sector messengers: GW170817's
+positive Δt orders the photon cone inside the gravitational one along that line of sight as
+**data, not grammar**.
+
+## The unified arrival relation
+
+With conversion charged as a distance-family rather than a constant, C3's master relation and this
+note's three-term form merge:
+
+    Δt_γ−GW(D) = b_source + ΔC_s(D) + (1/c) ∫_Γ (ε_γ − ε_GW) dl ,
+
+s₀ recovered as ΔC_s's n = 0 member, and the path term written as the messenger *differential* it
+always was. The C4/C6 geometry exponents reread as frame-entry costs:
+
+| n | ΔC_s,n(D) | conversion reading |
+|---|---|---|
+| 0 | Δt_* | fixed interface cost (s₀; chromatic-at-emission face ~1/ω) |
+| 1 | Δt_*(D/D_*) | accumulated frame-chain entry, per step |
+| 2 | Δt_*(A_eff/A_*), A ∝ D² | cut/wavefront-area cost — **area-native**, distance only a projection |
+| 3 | Δt_*(D/D_*)³ | bulk response (swept volume) |
+
+Apparent cone-depth follows as an identity: ε_n(D) ≡ cΔt/D = ε_*(D/D_*)^(n−1), with
+ε_* = cΔt_*/D_* = 3.8×10⁻¹⁶ at the anchor (D_* = 44 Mpc; the GW-only luminosity-distance
+convention D_* = 40 Mpc gives 4.2×10⁻¹⁶ and shifts every projection below by ~10% — inside C1's
+±8% band, but conventions must not be mixed within one computation). **Only n = 1 mimics a
+constant fractional speed offset. The others are not speed laws; they are geometry shadows** — a
+falling apparent-ε (n = 0) or a growing one (n = 2, 3) measured across events is the conversion
+geometry showing through, not a variable c.
+
+The area-native member, priced (44-anchor; 40-anchor in parentheses): Δt = 36 s (43.5 s) at
+200 Mpc; the +30 s archive window goes blind at 183 Mpc (166 Mpc) and a +120 s window at 365 Mpc
+(332 Mpc); GW190425 (~159 Mpc, if BNS distance holds) projects ≈ 23 s (27 s) — squarely inside
+the standard ±30 s coincidence net yet *outside* the [−1, +5] s windows several pipelines score
+most highly, and its down-weighting of late arrivals (CD-8's confirmed I_dt penalty) is exactly
+the selection this template predicts. Chromaticity discipline carries over unchanged: the
+per-quantum cut charge (∝ λ²) died by 22 orders on pulsar dedispersion, but a **per-front** area
+charge is frequency-blind — the meter meters the quantum-granularity of the charge, not
+cut-versus-chain itself. The n = 2 member is the achromatic cut-metered survivor, and it is the
+first template that makes PB-2.1's depth-jurisdiction *lose* gracefully: area-metered traversal
+conversion, if found, sides with the write-side's metering geometry against the chain reading.
+
+One degeneracy, priced rather than hidden (the check's one real bite): ΔC_s,1 ∝ D is *exactly*
+degenerate with a constant-ε path term at low z — 11.9 s equals 11.9 s at 300 Mpc, term for term.
+The three-term signatures survive because s₀ was the n = 0 member; once conversion carries n = 1
+the split between "conversion cost" and "path cost" is convention, separable only by redshift
+curvature (the path integral picks up cosmological weighting; a frame-chain count does whatever
+the chain's density does) or by the differential ε_γ − ε_GW moving between messenger pairs. An
+n = 1 fit alone can never certify which side of the decomposition it lives on.
+
 ## Conversion depth orders the stack
 
 If each tier-crossing pays, cone-interiority tracks ladder height: the nesting order of the
@@ -147,10 +254,15 @@ the bet into the PB ledger is deferred: it is an A0-level act, and PB-2.2's coun
 stands unmet at the gate.
 
 Owned: the census and its three-slot form; the impedance formulation; the metering-geometry axis
-with chromaticity as its meter; the three-term decomposition and s₀'s signatures; the
-conversion-depth ordering claim; the coherence could-fail; the ratio answer to the relabel
-rebuttal. Imported: every theorem, efficiency, velocity ratio, and magnitude named above; Z's
-scheme entanglements; the Bancal assumptions. Could-fail: signaling ever → the grammar dies at the
-root; shadow-form mismatch → one law dies, registers survive; no common ratio-grammar → the
-program relabels to standard causality and that closure is banked; PB-2.2 unmet at pointing time →
-the bet stays unpointed.
+with chromaticity as its meter; the three-term decomposition and s₀'s signatures; the chain
+rederivation with frame-entry as its covariance derivation; the per-sector response-cone reading
+(shared with C5); the Ξ_s domain/codomain constraint; the unified arrival relation with the
+degeneracy priced; the area-native n = 2 recast and its boundaries; the conversion-depth ordering
+claim; the coherence could-fail; the ratio answer to the relabel rebuttal. Imported: every
+theorem, efficiency, velocity ratio, and magnitude named above; Z's scheme entanglements; the
+Bancal assumptions; microcausality's field-strength-algebra scope; the coupled-support-leak
+arithmetic. Could-fail: signaling ever → the grammar dies at the root; off-cone response of a
+local physical observable ever certified → the frame-entry derivation dies and the chain with it;
+shadow-form mismatch → one law dies, registers survive; no common ratio-grammar → the program
+relabels to standard causality and that closure is banked; PB-2.2 unmet at pointing time → the
+bet stays unpointed.

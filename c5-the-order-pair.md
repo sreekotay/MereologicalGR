@@ -18,6 +18,7 @@ Layer 2 — projected (standard order-geometry):
   order + number = geometry: counting supplies the conformal factor, hence proper time
   horismos: the null boundary x ↗ y, y ∈ J⁺(x)\I⁺(x)
   eigenstructure of the relative tensor g⁻¹g̃
+  the pair as per-sector commutator supports (response cones; shared with C8's chain)
 
 Layer 3 — imported (machinery + calibration):
   causal-set kinematics, sprinkling phenomenology, link structure
@@ -69,6 +70,24 @@ are **invariants of the pair of orders**. Consequences:
 - The corpus has a precedent for seam-only structure: b4 §6b's fused limit, where the
   ordering-charge is indistinguishable from the area at stationarity and separates only under
   non-stationarity. Same shape: the pair's extra structure is visible only off the fused point.
+
+## The pair as response cones
+
+A physical reading of the two orders, added downstream (C8's chain derivation, backward-referenced
+here because it lands on this note's object): each order is the **commutator support of its
+sector's local observable algebra**. Matter fields quantized on g̃ have retarded response kernels
+supported in ≺_m; fabric perturbations on g respond within ≺_f. The pair is not two abstract
+orders wearing one manifold — it is two *response* cones, and the frame-entry argument (a retarded
+θ is covariant only where the commutator vanishes; relativity of simultaneity supplies the
+GR-space step) makes each sector's cone-guarding a covariance requirement rather than an axiom.
+The coupled-sector leak — matter responding throughout ≺_f at gravitational strength — is the gap
+set G(x) made operational: it is *how* anything ever measures the seam.
+
+This sharpens the Drummond–Hathrell wall below into a single well-posed question: **does the
+photon-field commutator vanish outside the metric's null cone in the D-H regime?** Support outside
+means the matter response cone genuinely exceeds the metric cone there (the envelope reading);
+vanishing support means the phase excursion never renders (the front reading). The wall is
+unresolved, but it is now a commutator-support question, not a vocabulary dispute.
 
 ## One-sidedness
 
@@ -122,8 +141,8 @@ quadratic cones, gap unknown.
   identification.
 
 Owned: the pair as H_p1's foundation object; the gap-set relocation of the lane's observables; n
-and ε as pair-invariants with the seam reading; the one-sidedness theorem; the one-count rigidity
-observation; the form-vs-magnitude audit. Imported: Malament's theorem and its distinguishing
+and ε as pair-invariants with the seam reading; the response-cone reading of the pair (with C8);
+the one-sidedness theorem; the one-count rigidity observation; the form-vs-magnitude audit. Imported: Malament's theorem and its distinguishing
 conditions, causal-set kinematics and phenomenology, birefringence bounds, and every coefficient.
 Could-fail: a credible negative-ε residual (kills the nesting, with CD-2); non-quadratic matter-cone
 structure at any precision (kills the pair ansatz); joint non-realizability of the pair as

@@ -97,7 +97,7 @@ tine — tying this seam's n to the gravitational seam's n through pure geometry
 | outcome | what it banks |
 |---|---|
 | dips found (finite v_q) | relatedness has kinematic structure: a third order is real, the tier gate is physics, n exists independently of gravity |
-| v_q → ∞ under every improvement | the fusion banks, strangely: establishment has no cone — relatedness is order-transcendent, not a process in spacetime |
+| v_q → ∞ under every improvement | the fusion banks, strangely: establishment has no cone — the **traversal predicate fails** for relatedness (there is no "how fast," not an infinite answer to it), while expression predicates — geometry-dependent degradation, e.g. area-based dilation of establishment fidelity — remain well-posed and separately searchable |
 | signaling ever demonstrated | grammar dead at the root — the cleanest possible refutation of the program |
 
 No branch is uninformative. FAIL here teaches which fusion held, exactly as the lane's charter
