@@ -54,9 +54,10 @@ E_Al = E_Ae.copy()                            # A-late (t2): same device, later 
 E_Bl = E_Be.copy()                            # B-late (t2)
 assert np.allclose(E_Ae @ E_Be, E_Be @ E_Ae)  # early events commute (unordered)
 
-V_fine = CNOT_cp @ E_Al @ E_Bl @ SWAP_rails @ E_Ae @ E_Be @ CNOT_cp
-# unroute at the end returns rail register to |0>; extract action on c (x) pol
-# with p in |0> in and out:
+# after SWAP the photon sits on rail 1-c, so un-routing = CNOT then rail flip
+UNROUTE = SWAP_rails @ CNOT_cp
+V_fine = UNROUTE @ E_Al @ E_Bl @ SWAP_rails @ E_Ae @ E_Be @ CNOT_cp
+# rail register returns to |0>; extract action on c (x) pol with p=|0> in/out:
 idx = [0,1,4,5]  # basis states |c p pol> with p=0: 000,001,100,101
 V_cpol = V_fine[np.ix_(idx, idx)]
 
@@ -99,18 +100,16 @@ for pc in range(2):
 print("(4) contraction of pure process |w> with (U_A, U_B) == W_switch:",
       np.allclose(Mop, W_switch))
 
-# causal non-separability of the coarse-grained process is standard (the switch
-# violates causal inequalities' device-dependent witnesses); here we exhibit the
-# signature: with U_A, U_B anticommuting Paulis the two orders differ by sign,
-# and measuring control in |+/-> reads out the commutator:
+# signature of the (coarse-grained) switch: with anticommuting U_A=X, U_B=Z the
+# two orders differ by a sign; control |+> input, measured in |+/->, reads out
+# the commutator with certainty. Run it through the FINE-GRAINED circuit:
 X = np.array([[0,1],[1,0]], dtype=complex); Z = np.diag([1,-1]).astype(complex)
-Vs = kron(P0, Z @ X) + kron(P1, X @ Z)
-plus = np.array([1,1])/np.sqrt(2)
-psi = np.kron(plus, np.array([1,0]))
-out = Vs @ psi
-# control measured in +/- basis:
-pm = np.kron(np.array([1,-1])/np.sqrt(2), I2[:,0]*0+1)  # projector done manually below
-ctrl_minus = np.kron(np.array([1,-1])/np.sqrt(2), np.eye(2))
-p_minus = np.linalg.norm(ctrl_minus.reshape(2,4)[0] @ 0 + (ctrl_minus @ out))**2 / 2
-amp = np.array([ (np.kron(np.array([1,-1])/np.sqrt(2), e) @ out) for e in np.eye(2)])
-print("    commutator witness P(control=-) with A=X,B=Z:", float(np.sum(abs(amp)**2)))
+E_Ae = kron(I2, P0, X) + kron(I2, P1, I2)
+E_Be = kron(I2, P1, Z) + kron(I2, P0, I2)
+Vf = UNROUTE @ E_Ae @ E_Be @ SWAP_rails @ E_Ae @ E_Be @ CNOT_cp  # same devices both times
+psi_in = np.kron(np.array([1,1])/np.sqrt(2), np.kron([1,0], [1,0]))  # |+>_c |A-rail> |0>_pol
+out = Vf @ psi_in
+minus_proj = np.kron(np.outer([1,-1],[1,-1])/2, np.eye(4))
+p_minus = float(np.real(out.conj() @ minus_proj @ out))
+print("    fine-grained circuit, A=X, B=Z, control |+>: P(control=-) =", round(p_minus, 12),
+      " (switch commutator witness = 1)")
