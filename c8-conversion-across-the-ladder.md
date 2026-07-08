@@ -16,6 +16,9 @@ Layer 1 — owned (A0 / b1 / a4 / b4 / b7 / C-lane lineage):
   the three-term timing decomposition and s0's signatures
   the conversion-depth ordering claim; the coherence could-fail
   the ratio answer to the relabel rebuttal
+  the transport register: the horizontal conversion class the census was missing;
+    thermality as the two-leg lock (b1 §5.1 legs), radiation as its invoice;
+    the universal-lock / indexed-invoice split; the per-sector two-lock statement
 
 Layer 2 — projected (computed here or upstream in the lane):
   the per-quantum area-channel kill (pulsar arithmetic, 22 orders)
@@ -33,6 +36,9 @@ Layer 3 — imported:
   the Bancal–Pironio–Gisin theorem; no-signaling and microcausality
   quench-front data, distillation/heralding efficiencies, holographic
   velocity ratios; all magnitudes and coefficients
+  Bisognano–Wichmann; the KMS / fluctuation-dissipation machinery; the
+    Higuchi–Matsas–Sudarsky identity; Larmor / Schott accounting; the
+    CLMV bremsstrahlung-verifies-Unruh claim (contested)
 ```
 
 ## The census
@@ -334,6 +340,86 @@ the holographic velocity zoo (v_E, v_B) have no standard explanation for their s
 if they carry conversion-counting structure, that is ratio-grammar evidence; if they scatter, this
 section's claim dies at the cost of a literature afternoon.
 
+## The transport register
+
+Every row of the census is vertical — a tier change: kernel to carrier, relatedness to record,
+record to constitution. One conversion class is horizontal and the census was missing it: **frame
+transport** — moving content between inertial renderings at a single tier. Velocity relates
+inertial descriptions; only acceleration changes which one is occupied (b7's split), and the reason
+the pricing hangs on acceleration specifically is the compactness dichotomy of the frame group:
+boosts are the noncompact directions, the only family with a fixed-null-ray structure — rotations
+are compact, no horizon, no thermal lock.
+
+**The lock.** Sustained non-geodesic transport of flow at rate a puts the two legs of the
+two-point function (b1 §5.1) into a forced ratio — the KMS condition along the accelerated
+worldline is exactly
+
+    S̃(ω) = coth(ħω/2k_B T) · χ̃″(ω) ,   T = ħa/2πck_B ,
+
+the symmetric (relatedness) leg locked to the commutator (influence) leg. The influence leg is
+kinematic and does not move; transport re-renders the state-dressed leg until the ratio holds.
+The theorem-grade anchor is Bisognano–Wichmann: the boost generator — the frame-transport
+generator itself — is the modular Hamiltonian of the Rindler wedge, KMS at 1/2π in rapidity
+before any calibration; b7's geometric 2π is this theorem's shadow. Unruh thermality, defused:
+**not a bath and not a drag — a forced ratio between the relatedness and influence legs under
+transport.** b6's temperature/information daylight, restated as structure.
+
+**The limit, and why it causes the lock.** Transport at rate a carries a validity boundary at
+proper distance c²/a behind the worldline: the events whose influence can never be rendered in
+the transported frame. The lock's temperature is the inverse of that headroom —
+T = (ħc/2πk_B)·(a/c²) — because the thermal character *is* the trace over the amputated region:
+wedge entanglement, restricted, is the KMS state. Boundary owed: the exact horizon and exact KMS
+require eternal uniform acceleration; a finite transport episode keeps the priced faces
+(transition rates, radiated energy) and loses only the idealized scaffold.
+
+**The invoice.** What the transported system carries, it pays on: an accelerated charge radiates
+P = q²a²/6πε₀c³. The identity welding this to the lock (Higuchi–Matsas–Sudarsky): the
+bremsstrahlung computed in the inertial frame equals, entry for entry, emission-plus-absorption
+of zero-energy Rindler photons in the accelerated frame — invoice and lock are one transaction in
+two ledgers, and in the accelerated ledger every entry carries zero energy, which is why the
+charge feels nothing (the radiated energy is booked to the Schott term; the Abraham–Lorentz force
+vanishes at constant a). The books refuse to close locally and close only asymptotically — the
+two-ledger anholonomy the horizon audit met (c5), recurring in flat spacetime with no curvature
+in the room.
+
+Two asymmetries structure the register:
+
+- **Universal lock, indexed invoice.** The temperature is coupling-blind — any detector, one T; a
+  geometric period (b7). The radiated power is priced by what is carried: q² for charge, nothing
+  electromagnetic for a free neutral mass. The lock is the interface-independent face; the
+  invoice is interface impedance made literal.
+- **The cost outran the thing** — the register's oldest entry. The lock at laboratory a is
+  ~10⁻²⁰ K per g of acceleration; the invoice is measured at every synchrotron, and Larmor (1897)
+  predates every other conversion-cost instance in the corpus by decades (Landauer's bound, the
+  halo width, the D₀D₂ inequality). One contested sharpening, imported as-is: the claim that the
+  inertial radiation pattern already encodes the bath (Cozzella–Landulfo–Matsas–Vanzella) — the
+  lock's invoice face measured daily, if the reading holds.
+
+**What the defusion forces that the fused statement cannot phrase.** The fused form — "the
+Minkowski vacuum is KMS with respect to the boost" — fuses two definite articles: the state and
+the metric's boost. Defused, the lock rides whatever cone structure prices the transport, per
+sector:
+
+- *Two cones, two locks.* Under the seam hypothesis each sector owns its boost structure, wedge,
+  and modular flow: one detector at one a, coupled to both sectors, sits under **two locks split
+  linear in ε**. That is C5's two-temperature pair in flat spacetime — no collapse, no horizon
+  formation, and none of the geometric-optics premise the black-hole version owes: wedge modular
+  structure has no optics in it. The magnitude is hopeless directly; the HMS bridge names the
+  only conceivable meter — seam structure in accelerated-charge radiation spectra — and that
+  arithmetic has not been run. Named, not priced.
+- *A displaced lock is sayable.* Where the relatedness leg is dressed and the influence leg
+  protected (the halo/cone split, b1), the lock engages at not-ħa/2πck_B as a coherent priced
+  outcome rather than an anomaly to refit.
+- *Finite episodes speak.* The lock is rate-indexed and engages adiabatically at instantaneous
+  a(τ), where "which global vacuum" has no answer; the fused statement is silent there.
+
+Could-fail, this register: the two legs independently measured under acceleration failing the
+coth ratio at T = ħa/2πck_B with no seam structure kills the lock reading and KMS with it — the
+reading shelters behind nothing; a two-leg comparison under Fermi–Walker transport is this
+register's direct test. The invoice face fails if
+the HMS zero-energy accounting acquires a local line-item — the anholonomy closing locally after
+all.
+
 ## The arrow, and the bet stated
 
 The direction that makes this one program rather than two: **s shapes how influence becomes
@@ -361,11 +447,17 @@ rederivation with frame-entry as its covariance derivation; the per-sector respo
 degeneracy priced; the area-native n = 2 recast and its boundaries; the intercept/slope role-split
 with n = 0 filed untested-not-excluded; the conditional kernel-scale results filed under the bet;
 the ƛ-scaling constraint on the chain member's microstructure; the conversion-depth ordering
-claim; the coherence could-fail; the ratio answer to the relabel rebuttal. Imported: every
+claim; the coherence could-fail; the ratio answer to the relabel rebuttal; the transport register
+(the horizontal class returned as the census's missing), the two-leg-lock reading of thermality,
+the lock/invoice asymmetry, and the per-sector two-lock statement as the flat-space form of C5's
+pair. Imported: every
 theorem, efficiency, velocity ratio, and magnitude named above; Z's scheme entanglements; the
 Bancal assumptions; microcausality's field-strength-algebra scope; the coupled-support-leak
-arithmetic. Could-fail: signaling ever → the grammar dies at the root; off-cone response of a
+arithmetic; Bisognano–Wichmann, KMS/FDT, the HMS identity, and the Larmor/Schott accounting.
+Could-fail: signaling ever → the grammar dies at the root; off-cone response of a
 local physical observable ever certified → the frame-entry derivation dies and the chain with it;
+the coth lock violated under acceleration with no seam structure → the two-leg-lock reading dies
+with KMS itself; the HMS accounting closing locally → the invoice face retires;
 a local bounce-locked cross-leg event with Δt far below 1.74 s → the n = 0 conversion member
 retires (its distance-flat coefficient relabels to astro-correlated b), modulo the named
 matter-sector-universality assumption; shadow-form mismatch → one law dies, registers survive; no common ratio-grammar → the program
