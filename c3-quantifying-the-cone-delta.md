@@ -54,6 +54,53 @@ Because b ≥ 0 is the only assumption, every event is a prior-free upper bound:
   *shorter* breakout delays, tilting the band down where the cone tilts it up. Imported and
   model-dependent; priced, not banked.
 
+## The anchor's error budget
+
+The one measured event, decomposed by assumption. Each row conditions ε on a prior for the
+emission offset b; timing error (±0.05 s) and distance error (~7.5%) ride along. 40 Mpc
+convention — 44 Mpc rows sit ~9% lower; the wedge edge above (3.9×10⁻¹⁶) is the central 44 Mpc
+value, the 4.8 here the conservative 2σ-timing, −1σ-distance edge:
+
+| assumption on b | ε (×10⁻¹⁶) | character |
+|---|---|---|
+| prior-free (b ≥ 0; Cherenkov closes the far side) | −0.002 ≤ ε ≤ +4.8 | the only assumption-free statement |
+| b = 0 (maximally exposed; C6's branch) | +4.2 ± 0.4 | conditional measurement |
+| b = 0.5 ± 0.3 s (fast breakout) | +3.0 ± 0.7 | model-conditional |
+| b = 1.0 ± 0.5 s | +1.8 ± 1.2 | model-conditional |
+| b = 1.7 ± 0.5 s (standard jet model) | +0.1 ± 1.2 | the orthodox posterior |
+| b flat on [0, 10] s (the LVC assumption) | −20 … +4.2 | the published band, reproduced |
+
+What the table shows:
+
+- **The error budget is ~90% model, ~10% data.** In units of 10⁻¹⁶: timing contributes ±0.12,
+  distance ±0.34, the b-prior ±1.2. The dominant uncertainty on the anchor was never
+  instrumental; it is the width of a jet-breakout model never independently measured for this
+  event.
+- **The orthodox reading moves the center, not the width.** Under the standard jet prior,
+  ε = +0.1 ± 1.2 — consistent with zero, with an error bar three times the b = 0 branch's.
+  "c_grav = c confirmed" is, stated honestly, ε = 0 ± 1.2×10⁻¹⁶ conditional on a source model
+  whose own ±0.5 s width is an estimate.
+- **Only the wedge is prior-robust.** Every row respects ε ≲ 5×10⁻¹⁶ on the positive side; no
+  row's center survives a prior change. The event's unconditional content is the one-sided bound
+  and one degenerate scalar; everything this lane banks unconditionally rides on those alone.
+- Shape note, recorded and not leaned on: the interval closes three orders tighter on the
+  negative side — but by a cosmic-ray accident (Cherenkov), not by the carve; the open room
+  merely happens to sit where one-sidedness says physics could be.
+
+Role discipline, stated for the lane as a whole: the projections downstream — the b = 0
+forecast, the distance-scaling templates, the per-face ledgers — are role realism's method:
+assume the propagation reading, label the bets, price the kills. None of that converts a row of
+this table into a conclusion. The concluding read of GW170817 is the disjunction the table
+carries: **the gap may be all source (the prior-favored row), all propagation (the exposed row),
+or any split between — and this event cannot say which.** The wedge, the floor, and the
+population program below exist because only new events move a row's status; no reanalysis of
+this one can.
+
+The b-prior width dies only by population — b scatters event-to-event while propagation trends
+with baseline, so the model term shrinks as σ_b/(σ_T√N) (the regression below). Better host
+distances shrink the b = 0 bar; a Galactic intercept event bypasses b entirely. Nothing removes
+the single event's prior-dependence.
+
 ## Estimators
 
 Two, one prior-free and one hierarchical:
@@ -126,7 +173,8 @@ the detection needs ten and a priced b population. If the wedge never rises, C1 
 C2 specifies, and the floor's final position is the export: the tightest matter-vs-gravity cone
 bound the population supports.
 
-Owned: the wedge as the complete observable surface; the prior-free floor statistic and its
+Owned: the wedge as the complete observable surface; the anchor's error budget with its
+prior-indexed decomposition and the disjunction it forces; the prior-free floor statistic and its
 one-event kill; the σ_b/T channel rule; the kernel-to-covariate assignments; naming source
 evolution as the sole full-signature source-side mimic. Imported: all rates, jet and bounce
 emission models, σ_b values, selection functions, density-field reconstructions, cosmology,
