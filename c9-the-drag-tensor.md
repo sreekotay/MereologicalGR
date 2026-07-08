@@ -163,8 +163,12 @@ keeps exact. The fused global boost group has one cross-sector datum. The scoreb
 
 The weight branch carries its own sign derivation: interiority scales with dressing, dressing
 with coupling, and gravity (G) is the least-dressed carrier in physics — its realized front hugs
-the kinematic cone closest, photons (α) run interior, the observed ordering forced with nothing
-chosen. Species order among matter messengers by coupling at the 10⁻⁴³ class: real, forced, and
+the kinematic cone closest, photons (α) run interior. At floor level the sign is **expected, not
+forced**: one comparison is still owed — the fabric leg's own classical medium-dressing (GW
+dispersion in cosmic matter, δv ~ Gρ/ω², comparable to the photon's QED floor at the LIGO band
+and growing toward low frequencies) has never been folded into the two-leg arithmetic. The
+anchor-scale sign derivations (the grammar theorem; the halo asymmetry) are untouched by this.
+Species order among matter messengers by coupling at the 10⁻⁴³ class: real, forced, and
 operationally invisible — which is why the one-matter-cone statement survives.
 
 The 2026-07 sweep sharpened the mechanism and drew its boundary. Realized fronts saturate their

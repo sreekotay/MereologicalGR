@@ -214,7 +214,13 @@ quadratic cones, gap unknown.
   energy-dependent ε (matter's cone running onto the fabric cone in the UV), i.e. a dispersive
   seam with frequency-dependent GW/EM residuals: a structural fork, each tine with its own
   signature. Imported machinery throughout; the two-ledger analysis and the flux-constitution
-  reading are owned.
+  reading are owned. **Caveat owed (2026-07):** the two-temperature premise is geometric-optics,
+  and the regime is sub-wavelength — Hawking wavelengths (~r_s) exceed the horizon separation
+  (~ε·r_s) by ~10¹⁶, so no emitted mode resolves the shell; whether the two-KMS-state
+  bookkeeping (state-level, not ray-level) survives wave-optics smearing is an open calculation.
+  The flux-constitution theorem stands as the consistency resolution *if* the two-temperature
+  regime is well-defined; if smearing dissolves the premise, the wall closes benignly and the
+  theorem loses its forcing — Horn A's thermal kill softening with it. Named, not resolved.
 - No identification of the pair's gap with any A0 bound axis is made here; A0 §12 explicitly
   forecloses reading PB-1 as "a second speed," and that wall stands between this note and any such
   identification.

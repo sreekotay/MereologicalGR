@@ -105,7 +105,7 @@ Realism of composable roles is the conceit; PBs are prices, not theorem outputs 
 | ID | Claim (foundation form) | Grade | MGR-owned | Imported | Could fail / demote |
 |---|---|---|---|---|---|
 | **PB-3** | Photons in flight carry ordered influence, not constituted information (`information = ordering + influence + flow`; flow → 0 on null line) | bet / proscription | composition rule; flow required for constitution | detector readout ordinary | Completed information-grade operation with **no** flow-bearing uptake in constitution chain. **Generative failure (the live one):** PB-3 makes PB-4, which makes more (D11, b8, a3/a4, c5's constitution cone, c7's tier gate) — if that chain peels back to a label with nothing forced, PB-3 demotes to definition (cascade, as Tier B) |
-| **PB-4** | Constitution supervenes on physical write-chain + **pinned threshold rule T**, not observer-involvement; rendering is frame/worldline-set | bet | uptake vs read; write-not-read | POVMs, QRF formalism; **T declared before contact** | (1) Constituted fact covaries with observer at fixed write-chain **and fixed T** (D11). (2) Constitution survives sliding **T** without uptake/threshold-rule change (self-rescue) |
+| **PB-4** | Constitution supervenes on physical write-chain + **pinned threshold rule T**, not observer-involvement; rendering is frame/worldline-set | bet | uptake vs read; write-not-read | POVMs, QRF formalism; **T declared before contact** | (1) Constituted fact covaries with observer at fixed write-chain **and fixed T** (D11). (2) Constitution survives sliding **T** without uptake/threshold-rule change (self-rescue). **Gravitational register (2026-07, c10):** the arity-reducer trilemma is a new contact surface — a verified collapse/diffusion signal fills the reducer seat with the fabric and **rewrites the threshold-provenance clause** (T fabric-supplied, universal) while write-not-read survives; the time-delocalized-register loophole makes "what counts as a write site" carry device-independent consequences |
 
 ### Tier B — architecture (ordering/influence axis under unit pressure)
 
@@ -223,7 +223,7 @@ Published experiment map: `diagnostic-ledger.md` §14.
 
 ## Frontier bets (CD) — cone-delta lane (not canon)
 
-Exposure rows for the C-lane (c1–c9). Placed July 2026 with **one event in hand** (GW170817),
+Exposure rows for the C-lane (c1–c10). Placed July 2026 with **one event in hand** (GW170817),
 before any second multimessenger coincidence exists — a bet adjusted after contact is void; the
 adjustment is the confession. Each row states what the role-carve forces that the bare EFT leaves
 free; that gap is the stake against a confirmed cone delta collapsing into a relabel of an SME
@@ -268,4 +268,4 @@ Do not treat workbench outputs as witness for PB or core grammar without promoti
 
 When adding a claim: state **grade**, **owned**, **imported**, **could-fail**, **discount** (if lineage-witness), **source file**. If a row duplicates the ledger, the ledger row wins for lane detail; this file wins for **at-a-glance status**.
 
-Last aligned with corpus: July 2026 (A0 through §14, B1 §2, B4 §6a, B9, B8, diagnostic-ledger §4.1–§4.2, C-lane c1–c9 + CD rows; 2026-07 audit pass: a2 short-form demoted to label, a5 §8 instances added, b3 §7 realigned to b4 §3's verdict form, b8 errata corrected, c5 constitution-cone section added; c9 added with the CD-3 tilt/dilation refinement and the CD-6 multipole re-cut; 2026-07 physics pass: b9 §2 reconciliation resolved (witness relocated), c5 GSL wall resolved to flux-constitution with Horn A dead at the thermal register and the Hawking/Unruh sign protocol-dependence corrected, c9 protected-sector boundary + thermodynamic selector + pulsar slice-kill added; b1 §5.1 two-leg decomposition added with c8's negative-control distillation and three-condition test).
+Last aligned with corpus: July 2026 (A0 through §14, B1 §2, B4 §6a, B9, B8, diagnostic-ledger §4.1–§4.2, C-lane c1–c9 + CD rows; 2026-07 audit pass: a2 short-form demoted to label, a5 §8 instances added, b3 §7 realigned to b4 §3's verdict form, b8 errata corrected, c5 constitution-cone section added; c9 added with the CD-3 tilt/dilation refinement and the CD-6 multipole re-cut; 2026-07 physics pass: b9 §2 reconciliation resolved (witness relocated), c5 GSL wall resolved to flux-constitution with Horn A dead at the thermal register and the Hawking/Unruh sign protocol-dependence corrected, c9 protected-sector boundary + thermodynamic selector + pulsar slice-kill added; b1 §5.1 two-leg decomposition added with c8's negative-control distillation and three-condition test; c10 definiteness axis added with the PB-4 gravitational register, the c5 wave-optics caveat, and the c9 floor-sign softening).
