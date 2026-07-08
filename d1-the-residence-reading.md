@@ -28,6 +28,9 @@ Layer 1 — owned (A0 / C5 / C8 / C9 lineage):
   the cross-sector / self-sector interface split; the internal-census re-read of σ/m
   the strand/kill distinction; the composition-not-magnitude clause
   the relabel bar and the cone-delta dependency
+  the role-spec reading of the field; the scaffold observation
+  the rival-occupant fork (content vs texture) and its discriminator
+  the two on-record tensions: the abundance coincidence; the neutrino precedent
 
 Layer 2 — projected (flat-space estimates; workbench referee owed):
   the messenger-universality budget: dark-sourced Shapiro common-mode ~10¹³ s at z ≈ 1;
@@ -65,6 +68,27 @@ residence forces — gravitational-only sourcing, permanent interface emptiness,
 cross-sector behavior — is the observed profile, feature for feature. The carve predates the
 contact: the support-leak clause and the conversion census were inked for the C-lane's program,
 not for dark matter.
+
+## The spec, already unfused
+
+In current theory the profile lives in three places that barely communicate. Cosmology carries it
+as a fluid parameter — Ω_c h² = 0.120; cold, collisionless, dark is everything the pipeline
+consumes, and ΛCDM never asks what the occupant is. Particle physics carries it as a candidate
+zoo — WIMPs, axions, sterile neutrinos, dark sectors — every entry an attempt to fuse that fluid
+onto a substance. Astrophysics carries it as a modeling layer, degenerate with baryonic feedback.
+The disconnect is diagnostic: **"cold dark matter" is already a pure role-specification, and the
+cosmological usage is complete as one.** Every crisis in the domain is a crisis of
+substance-fusion — the WIMP miracle dead, the haloscopes empty, no surviving preferred candidate
+— never of the spec. Residence adds no role-reading to the field; the field already computes with
+nothing else. What it adds is a structural home for the spec — which cone the kinetics ride — in
+place of a parametric one — how small the couplings.
+
+The spec's emptiness is load-bearing, not incidental. Structure exists because dark potential
+wells grew through the radiation era while baryons sat pressure-locked to the photon fluid until
+recombination; a baryon-only universe does not build galaxies on the observed timeline. Darkness
+is the property that did the work — the scaffold. Under residence, the other sector dug the wells
+ours condensed into. Elegance, not discrimination: every dark candidate inherits the scaffold,
+and nothing in it selects residence.
 
 ## The single-seam clause
 
@@ -118,6 +142,21 @@ the same events that run the C-lane's distance fan, at no additional cost.
   decision of it; gravity-mediated coupling to baryonic write-chains remains an environment
   under every corner).
 
+## The rival occupant
+
+The seat's occupancy conditions admit a second, structurally different occupant: fabric
+**texture** rather than fabric-side **content**. A primordial-black-hole population is dark,
+gravitational-only, collisionless, and carries its own worldlines through the Bullet — the full
+profile, with no second sector anywhere: localized configurations of the one fabric orthodoxy
+already has. The feature-for-feature match claimed above is therefore shared, not exclusive, and
+residence must hold the seat against texture, not merely against small couplings. The fork is
+decidable: a confirmed subsolar-mass black-hole merger population at abundance-carrying scale
+hands the seat to texture without touching the seam (the asteroid-mass window stands open);
+conversely, texture at full abundance is squeezed by microlensing, evaporation, and accretion
+bounds that residence never feels. Until decided, the claim is conditional in one more place than
+the header states: residence is *an* occupant the seam forces to be dark, not *the* demonstrated
+occupant.
+
 ## The relabel bar
 
 "A sector coupled to us only gravitationally" is vocabulary orthodoxy already owns, and
@@ -129,6 +168,23 @@ the reading collapses into the orthodox gravity-only sector and banks as a relab
 keep the books straight: dark matter puts **no number on ε** — residence works at any ε ≠ 0, so
 this contact is composition-evidence, never magnitude-evidence; and the aggregation rule holds —
 a retrodiction sharpens the seam bet, it does not confirm the seam.
+
+## Two arguments against, on the record
+
+- **The abundance coincidence leans portal.** Ω_dark/Ω_baryon ≈ 5 — order unity. Gravitational
+  production, the only channel single-seam permits, sets abundances by (m, H_inflation) with no
+  mechanism tying the result to the baryon density; landing within an order of magnitude is,
+  under this reading, an accident. The asymmetric-dark-matter program exists precisely because
+  5 : 1 smells like shared production machinery — a portal. The most suggestive unexplained
+  number in the domain is circumstantial evidence against the exactness clause. Consequence for
+  the lane: the abundance note is not an open question but a live threat — if seam throughput
+  cannot yield O(1) naturally, residence keeps the seat only by pricing 5 : 1 as coincidence,
+  and that price is carried visibly, not waved off.
+- **The precedent favors the drift story.** Nature has run the nearly-dark play once before: the
+  neutrino — no electromagnetic coupling, feeble weak coupling, nearly collisionless — where
+  "small coupling, keep digging" was correct, and detection came twenty-six years after
+  postulation. On the one historical trial available, exact-zero is 0 for 1. The standing bet
+  below is placed against that precedent, knowingly.
 
 ## The standing bet
 
@@ -143,6 +199,9 @@ killed:    any non-gravitational dark-matter conversion event — a recoil, an
            annihilation line, a confirmed portal-mediated signal; residence dies
            instantly and the corner reverts to unexplained
 killed:    dark self-structure demonstrably requiring cross-sector explanation
+handed over: a confirmed subsolar-mass black-hole merger population at
+           abundance-carrying scale — the seat goes to fabric texture; the
+           seam is untouched and the lane re-opens on a different occupant
 stranded:  the seam dies (CD-2 fires; the template family dies wholesale at
            cosmological depth) — the seat is removed without the occupancy claim
            being tested; stranded is neither vindicated nor refuted, and reverts
@@ -154,8 +213,12 @@ demoted:   a second seam found (portal) — darkness approximate; the reading
 Owned: the lane charter and rule; the seat derivation and its forcing direction; the single-seam
 clause with the seam-counting re-read; the cross/self split and the internal-census re-read; the
 strand/kill distinction; the composition-not-magnitude clause; the relabel bar with the
-cone-delta dependency. Imported: every dark-matter observation, bound, and null named above; the
-production machinery; the bimetric prior art; the published Shapiro constraint. Could-fail: as
-the kill table — and upstream, the seat itself fails if the support-leak clause fails (off-cone
-response of a local observable certified kills C8's chain and this seat with it); the lane fails
-as a lane if its notes cannot beat the relabel bar without borrowing magnitude from the C-lane.
+cone-delta dependency; the role-spec reading of the field and the scaffold observation; the
+rival-occupant fork with its discriminator; the two on-record tensions. Imported: every
+dark-matter observation, bound, and null named above; the production machinery; the bimetric
+prior art; the published Shapiro constraint; the PBH bound structure; the asymmetric-dark-matter
+motivation. Could-fail: as the kill table — and upstream, the seat itself fails if the
+support-leak clause fails (off-cone response of a local observable certified kills C8's chain and
+this seat with it); the lane fails as a lane if its notes cannot beat the relabel bar without
+borrowing magnitude from the C-lane; and the abundance arithmetic failing to yield O(1) does not
+kill the note but converts the 5 : 1 coincidence into a permanent, visible discount on it.
