@@ -253,6 +253,19 @@ forever-nulls guarding the carve itself, not the toy. CD-5 and CD-7 price the in
 decidable from existing data alone. CD-9 carries the C-lane's first constitution-adjacent
 observable: the tier gate's boundary degradation, placeable only under the finite-v_q branch.
 
+### DR rows — the occupancy lane (d1)
+
+Occupancy rows for the D-lane. Placed July 2026, before the direct-detection program reaches the
+neutrino fog and with no confirmed non-gravitational dark-matter conversion in hand. Doubly
+conditional: every DR row rides the seam (CD rows) and **strands** — neither refuted nor
+vindicated, reverting to the gravity-only relabel, banked — if the seam dies. No PB weight; not
+canon.
+
+| ID | Bet (compact) | Decided by | Expected | Dies if | Source |
+|---|---|---|---|---|---|
+| **DR-1** | Residence: dark matter is fabric-side content; darkness is structural (support-leak: exact-zero cross-sector conversion under the single-seam clause), not parametric. Standing form: **permanent direct-detection nulls** — no non-gravitational conversion event, ever; the program is counting seams and the count stays one | every direct-, indirect-, and portal-search, standing; the neutrino fog ends the baryonic-register count | holds — nulls forever; each null is affirmative data | any non-gravitational dark-matter conversion event (instant); a confirmed portal demotes exactness to seam-count ≥ 2; seam death strands the row | d1 |
+| **DR-2** | Their census through gravity: self-interaction and free-streaming bounds are measurements of the resident sector's internal conversion structure (σ/m ≲ 1 cm²/g = the other column's first rows), and messenger-universality of dark-sourced potentials is the seat's premise metered — 10⁻⁷ class at the anchor, 10⁻¹² class per cosmological pair (common-mode Shapiro ~10¹³ s at z ≈ 1) | halo-shape / merging-cluster σ/m programs; every cosmological GW–EM pair | internal structure may be nonzero (their physics, not ours); universality holds and tightens | messenger-differential weighing of dark-sourced potentials (kills the shared-fabric premise and the seat with it) | d1 |
+
 ---
 
 ## Workbench (non-canonical)
@@ -270,4 +283,4 @@ Do not treat workbench outputs as witness for PB or core grammar without promoti
 
 When adding a claim: state **grade**, **owned**, **imported**, **could-fail**, **discount** (if lineage-witness), **source file**. If a row duplicates the ledger, the ledger row wins for lane detail; this file wins for **at-a-glance status**.
 
-Last aligned with corpus: July 2026 (A0 through §14, B1 §2, B4 §6a, B9, B8, diagnostic-ledger §4.1–§4.2, C-lane c1–c9 + CD rows; 2026-07 audit pass: a2 short-form demoted to label, a5 §8 instances added, b3 §7 realigned to b4 §3's verdict form, b8 errata corrected, c5 constitution-cone section added; c9 added with the CD-3 tilt/dilation refinement and the CD-6 multipole re-cut; 2026-07 physics pass: b9 §2 reconciliation resolved (witness relocated), c5 GSL wall resolved to flux-constitution with Horn A dead at the thermal register and the Hawking/Unruh sign protocol-dependence corrected, c9 protected-sector boundary + thermodynamic selector + pulsar slice-kill added; b1 §5.1 two-leg decomposition added with c8's negative-control distillation and three-condition test; c10 definiteness axis added with the PB-4 gravitational register, the c5 wave-optics caveat, and the c9 floor-sign softening; c8 transport register added (the census's horizontal class — thermality as the two-leg lock, radiation as its invoice, the per-sector two-lock statement) with CD-11 and the README export-defusion clause).
+Last aligned with corpus: July 2026 (A0 through §14, B1 §2, B4 §6a, B9, B8, diagnostic-ledger §4.1–§4.2, C-lane c1–c9 + CD rows; 2026-07 audit pass: a2 short-form demoted to label, a5 §8 instances added, b3 §7 realigned to b4 §3's verdict form, b8 errata corrected, c5 constitution-cone section added; c9 added with the CD-3 tilt/dilation refinement and the CD-6 multipole re-cut; 2026-07 physics pass: b9 §2 reconciliation resolved (witness relocated), c5 GSL wall resolved to flux-constitution with Horn A dead at the thermal register and the Hawking/Unruh sign protocol-dependence corrected, c9 protected-sector boundary + thermodynamic selector + pulsar slice-kill added; b1 §5.1 two-leg decomposition added with c8's negative-control distillation and three-condition test; c10 definiteness axis added with the PB-4 gravitational register, the c5 wave-optics caveat, and the c9 floor-sign softening; c8 transport register added (the census's horizontal class — thermality as the two-leg lock, radiation as its invoice, the per-sector two-lock statement) with CD-11 and the README export-defusion clause; D-lane opened with d1 (the residence reading — dark matter as fabric-side content) and the DR rows).

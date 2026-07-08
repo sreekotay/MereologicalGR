@@ -43,6 +43,7 @@ MGR is a relabel inside GR by design, but an exported constraint system outside 
 | **Applications (A)** | `a1` … `a5` | Photon seed run, gravity adjacency, record vs constitution, QEC engine autopsy, quantum thermodynamics closure audit |
 | **Phenomena (B)** | `b1`–`b9` (canonical: `b4`–`b7`; engine: `b8`; PB fork: `b9`) | Role-location for horizons, Unruh, virtual exchange, Zych flow-register, many-body ordering bound, etc. — not new dynamics |
 | **Frontier (C)** | `c1`–`c10` | The seam program: defusion attempts, kill-lanes, quantification, theory classes, formal spine, response family, the relatedness seam, conversion across the ladder, the drag tensor, and the definiteness axis; exposure ledgered in CLAIMS.md (CD rows); not canon |
+| **Occupancy (D)** | `d1` | Given the seam, who resides on which side — the residence reading for dark matter; doubly conditional (strands if the seam dies); exposure in CLAIMS.md (DR rows); not canon. Lowercase d-notes; uppercase D1–D13 are diagnostic-ledger lanes |
 | **Diagnostics** | `diagnostic-ledger.md`, `contrast-diagnostic-program.md` | Contact lanes, null guards, demotion conditions |
 | **Workbench / archive** | `archive/`, `workbench/`, `data/` | Provisional numerics — **not canonical center** |
 
@@ -97,7 +98,7 @@ Claim status: [CLAIMS.md](CLAIMS.md).
 
 ---
 
-## C-notes and high-risk defusion
+## C-notes, D-notes, and high-risk defusion
 
 C-notes are not canon. They are deliberately exposed attempts to pull on a GR role-bundle and see whether the pull survives contact.
 
@@ -113,6 +114,8 @@ C-note rule:
 Their value is not that the proposed split is likely true. Their value is that a clean failure teaches which GR fusion was load-bearing.
 
 `c1` tries a propagation-cone split. `c2` tries to kill that split by making non-cone carriers pay first. `c3` grants the split and prices the estimator — what a cone delta looks like in data and how it is measured or killed. `c4` develops the propagation-level theory space — the curve family, the boundedness walls, and where each class touches data outside GW170817. `c5` states the split as order structure — the pair (P, ≺_f, ≺_m), its invariants, and the one-sidedness theorem. `c6` collapses the theory space to one response function and prices its registers, including the maximally exposed b = 0 reading and its archive prediction. `c7` opens a second seam of the same shape — the relatedness cone: a forced tier classification, the sidereal archive search, and the third order. `c8` consolidates the conversion seam — the five-sector census, interface impedance, metering geometry with chromaticity as its meter, the kernel→response→write chain with frame-entry as its covariance derivation, the unified arrival relation (with the n = 1 degeneracy priced and the area-native n = 2 recast), the transport register — the census's horizontal class: thermality as the two-leg lock, radiation as its invoice — and the one-law bet stated but not pointed. `c9` develops the drag as transport structure — the connection-difference tensor with its C = 0 theorem (timing-only observability), the congruence decomposition that derives the curve family, the translational-holonomy reading, the multipole theorem (invariant anisotropy = monopole + quadrupole), the tilt/dilation split, the third realization fork (compatibility-determined, with its axiom fight and confessed existence gap), and the per-face bound ledger with the frequency wall. `c10` opens the orthogonal axis — definiteness: the classical metric's unlisted fifth job (supplying the Boolean-ness of causal relations), the arity delta as the taxonomy's third shape, the one-way law assembling from published theorems, the party-relative/stage-level split (constructed, not cited), the reducer-seat trilemma with one corner already bleeding, and the Compton-amplifier reading of the experimental hierarchy. The lane's pre-registered exposure lives in [CLAIMS.md](CLAIMS.md) as the CD rows — placed July 2026, one event in hand.
+
+The D-lane opens on the C-lane's structure with a different question: not whether the seam exists, but who resides on which side. `d1` places the residence reading — dark matter as fabric-side content, its darkness forced by the seam's single cross-sector channel rather than chosen by small couplings — under the lane's own rule: derive what residence forces, never what it permits; price the double conditionality (a d-note strands with the seam, neither refuted nor vindicated); beat the relabel bar set by orthodoxy's pre-existing "gravity-only sector" vocabulary. D-lane exposure is the DR rows in [CLAIMS.md](CLAIMS.md), including the standing bet placed against the field's expectation: permanent direct-detection nulls, with the program re-read as counting seams.
 
 ---
 
@@ -130,6 +133,7 @@ c7-the-third-order          the relatedness cone; forced tier classification (no
 c8-conversion-across-the-ladder  the conversion seam; census, metering, the unpointed bet (not canon)
 c9-the-drag-tensor          the drag as transport structure; faces, holonomy, bounds ledger (not canon)
 c10-the-definiteness-axis   the arity seam; the fifth job, the reducer trilemma (not canon)
+d1-the-residence-reading    occupancy: dark matter as fabric-side residence (not canon; strands with the seam)
 diagnostic-ledger.md      lane index (§4)
 contrast-diagnostic-program.md
 archive/b5-torsion-*      sensitivity workbench only (D9)
