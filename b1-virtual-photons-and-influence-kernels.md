@@ -56,6 +56,8 @@ Layer 2 — projected (read from standard propagator math):
   Sokhotski–Plemelj split: PV ↔ kernel, on-shell δ ↔ endpoint
   q² shell gate: 0 = carrier boundary, ≠0 = kernel
   M ~ j D j as licensed kernel slot between currents
+  the two-leg decomposition (§5.1): symmetric ↔ relatedness (halo),
+    antisymmetric ↔ influence (cone); the support table as role composition
 
 Layer 3 — imported (QFT contact closure):
   gauge-invariant amplitude assembly and cross-sections
@@ -238,6 +240,74 @@ Test causal order on physical observable commutators / signal possibility.
 
 That is exactly where standard QFT places the test.
 
+### 5.1 The two-leg decomposition — the support table as role composition
+
+The §5 reading carries further. The objects informal language compresses are not merely three
+functions; they are composites of two roles whose bookkeeping the formalism has kept separate
+since the 1930s. Any two-point structure splits uniquely into symmetric and antisymmetric parts,
+
+```text
+W(x,y) = ½⟨{φ(x),φ(y)}⟩ + ½⟨[φ(x),φ(y)]⟩ ,
+```
+
+and the grammar assigns the legs before QFT is consulted:
+
+```text
+relatedness leg — symmetric:
+  the substrate precedes ordering (A0 §6), so it cannot carry an orientation;
+  and ordering does not govern the substrate, so no cone restriction applies.
+  Halo-supported: nonzero at spacelike separation, decaying on the scale of
+  the lightest exchangeable quantum (Källén–Lehmann).
+
+influence leg — antisymmetric:
+  cause = ordering + influence: the consequence-capable part composes with an
+  orientation. For spacelike separation the sign of x⁰−y⁰ is frame-dependent
+  (relativity of simultaneity), so an oriented functional with spacelike
+  support is ungrammatical — the antisymmetric leg is cone-supported.
+  Microcausality is this requirement located, not imported: QFT proves the
+  commutator vanishes at spacelike separation; the grammar says why that is
+  the only place an oriented leg could live.
+```
+
+The support table of the two-point zoo is then a role-composition table:
+
+```text
+⟨{φ,φ}⟩   Hadamard              relatedness only               halo — everywhere, decaying
+⟨[φ,φ]⟩   Pauli–Jordan          influence, bare orientation    cone only
+G_R, G_A  retarded / advanced   influence + frame-θ            cone only, one-sided
+W         Wightman              relatedness + influence        halo + cone
+G_F       Feynman               relatedness + influence
+                                 + endpoint flow-orientation   halo + cone
+```
+
+with G_F = ½⟨{φ,φ}⟩ + ½ sgn(x⁰−y⁰)⟨[φ,φ]⟩ — the sgn-dressing is the unique endpoint-symmetric
+composition, and the iε implementing it is the positive-frequency placement b7 owns (energy
+oriented by future flow at the rendering endpoints). Which functions have off-cone support is
+read off which roles they compose: response functions are influence-pure and have no halo;
+amplitude kernels include the relatedness leg and do.
+
+Off the cone the zoo collapses into two classes: every relatedness-bearing function coincides
+(G_F = W = ½⟨{φ,φ}⟩ — with the commutator zero, time-ordering has nothing to disagree about),
+and every influence-pure function vanishes. The spacelike region carries exactly one structure —
+bare relatedness, unsigned — and §4's two-register count is thereby derived rather than
+asserted: the "virtual photon" is that structure engaged between two endpoints with no
+conversion, and everything nominally superluminal about it is the halo's *width*, never an
+oriented excursion — off-cone there is no invariant "after" for an excursion to be oriented
+against.
+
+State-dependence sorts by role: the influence leg is protected (for free fields the commutator
+is a c-number; its cone-support is state-independent in general), while the relatedness leg is
+state-dressed — thermal states fatten the halo, never the cone.
+
+One standing interpretive dispute resolves by tier. Tunneling/evanescent "superluminality"
+(Hartman-effect saturation, near-field phase advances) is real at the **rendered** tier —
+phase-sensitive and centroid observables register the advance, capped by the halo width ~1/ω —
+and forbidden at the **constituted** tier: threshold crossings are front-limited, and
+constitution requires a threshold (A0 §7). Both camps of the thirty-year dispute are correct
+about different rungs; the compression of "arrival" across tiers *was* the dispute. Could-fail,
+sharp: a threshold detector ever firing early kills this resolution, and the cone-support of
+the influence leg with it.
+
 ## 6. Magnitude import
 
 MGR does not compute QED cross-sections. QED supplies them.
@@ -382,6 +452,8 @@ Role register discipline:
 Microcausality seam:
   diagnostic
   propagator support ≠ signal support
+  §5.1: support = role composition; halo unsigned, cone oriented;
+  Hartman dispute tier-resolved (rendered real, constituted forbidden)
 
 Magnitude:
   QED-priced; MGR-disowned
@@ -410,7 +482,7 @@ Virtual photons are not another photon case.
 They are the negative-control for photon-language.
 ```
 
-Real photons show influence without flow by nullness. Virtual photons show influence-kernel without carrierhood. Microcausality belongs to observable endpoint influence, not internal propagator support. QED, not MGR, prices the amplitudes.
+Real photons show influence without flow by nullness. Virtual photons show influence-kernel without carrierhood. Microcausality belongs to observable endpoint influence, not internal propagator support. The two-point zoo's support properties are a role-composition table (§5.1): the halo is relatedness, unsigned; the cone is influence, oriented; the spacelike region carries bare relatedness and nothing else. QED, not MGR, prices the amplitudes.
 
 ## References / external anchors
 

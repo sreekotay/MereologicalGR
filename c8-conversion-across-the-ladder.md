@@ -61,6 +61,31 @@ the copying story). And the rebuttal "this is just locality + unitarity" must fi
 causal order with QFT's microcausal order — i.e., assume ≺_f = ≺_m, the fused pair the lane
 measures (C1, C5). The objection is conditional on the fusion under audit.
 
+**The negative control, distilled** (derivation: b1 §5.1 — the two-point zoo's support table as
+role composition). A virtual photon is bare relatedness doing kernel work in the gap between two
+role-boundaries: the halo past the cone, where every influence-pure function vanishes and every
+relatedness-bearing function coincides. Its "superluminality" is the gap's unsigned *width*
+(~ƛ), never a tilt — off-cone there is no invariant "after" for a tilt to be oriented against.
+That makes it the census's calibration case: role-boundaries demonstrably separate with zero new
+geometry. What a genuine cone-delta must therefore show *beyond* boundary mismatch — the
+three-condition test:
+
+```text
+same-tier:          both boundaries carrier-grade, not kernel-vs-signal
+signed:             an invariant orientation exists (on/inside the cone only)
+path-accumulating:  scales with baseline, not interface-pinned and halo-capped
+```
+
+The kernel gap fails all three by construction; H_p1's claim passes all three by construction —
+two influence cones, oriented by nesting, accumulating as holonomy. The test polices both
+relabels at once: the deflationary ("cone deltas are just the familiar kernel/signal gap") and
+the inflationary ("virtual photons already show cone deltas exist"). Compact form: *a real
+photon is influence that acquired a cone at conversion; a virtual photon is relatedness that
+never converted; the gap between where relatedness reaches and where influence is licensed is
+the only "faster than light" at this tier — an unsigned width, not a signed speed. The signed,
+accumulating object lives one tier up, between two sectors' cones, and that is the only place
+"cone-delta" names new physics rather than names the ladder.*
+
 ## s as interface impedance
 
 Not a speed of anything: **a cut/conversion bound — the ratio by which influence becomes
