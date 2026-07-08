@@ -151,6 +151,7 @@ interfaces does the dark sector have?*
 | photon–thermal | FIRAS μ/y spectral distortions | \|μ\| < 9×10⁻⁵, \|y\| < 1.5×10⁻⁵ — no dark–photon energy exchange, z ~ 2×10⁶ through recombination |
 | photon–scattering | Planck acoustic peaks | drag-free at fit precision; dark–photon scattering capped |
 | baryon–thermal | 21-cm cosmic dawn | the completed case study: EDGES claimed anomalous baryon cooling — portal-shaped — and SARAS-3 refuted it; the null stands |
+| dark→visible conversion | Fermi-LAT dwarf stacking; H.E.S.S.; IceCube; AMS | thermal-relic annihilation excluded up to ~10² GeV masses; the Galactic-center GeV excess is a second case study in progress — portal-shaped, progressively resolved astrophysically, not yet closed. Annihilation into dark products is self-sector and invisible; this row meters the dark→visible channel only — the one residence forbids |
 | dissipative morphology | Gaia local kinematics | dark disk ≲ few % of local dark density — no dark dissipation channel |
 | phase-space fossil | dwarf spheroidals; Lyman-α | coarse-grained phase-space density consistent with purely gravitational mixing (Tremaine–Gunn floor) |
 | self-sector | merging clusters; halo shapes | σ/m ≲ 1 cm²/g — their census (DR-2) |
@@ -165,8 +166,10 @@ demand exercised once, at full severity, with the null prevailing.
 
 Blind spot, named: the census meters energy exchange. A conservative portal — elastic scattering
 with no net transfer, an oscillation channel — hides from every thermodynamic row and shows only
-in direct detection. Two seam-counting methods, independent: FIRAS-class data ends one count,
-the neutrino fog ends the other; DR-1 rides both.
+in conversion instruments: the underground recoil program, and the haloscope class (ADMX,
+CAST — photon-oscillation portals metered in resonant cavities; if the occupant is an axion,
+DR-1 dies in a cavity, not underground). Seam-counting methods, independent: FIRAS-class data
+ends one count, the fog and the cavities end the others; DR-1 rides all of them.
 
 ## What residence forces downstream
 
@@ -249,15 +252,36 @@ demoted:   a second seam found (portal) — darkness approximate; the reading
            survives as bookkeeping at seam-count ≥ 2, its exactness clause dead
 ```
 
+## The program
+
+The census indexes by interface register; the program indexes by observational lane. Every lane
+runs on existing data or funded instruments, and every outcome moves a named ledger row:
+
+| lane | extant data | measures under residence | outcome type | loads |
+|---|---|---|---|---|
+| direct detection | LZ, XENONnT, PandaX, SuperCDMS | baryonic-recoil conversion eligibility | nulls load seam-count one; positive kills | DR-1 |
+| oscillation portals | ADMX, CAST, haloscope class | photon-conversion eligibility — the census blind spot, metered | positive kills; nulls close the blind spot | DR-1 |
+| indirect detection | Fermi dwarfs, H.E.S.S., IceCube, AMS | dark→visible annihilation/decay portals | positive kills or demotes exactness; anomalies must first survive astrophysics (the GC-excess discipline) | DR-1 |
+| CMB / Lyα drag | Planck, BAO, Lyα forest | early momentum exchange with baryons and photons | cross-sector drag constrained toward zero | DR-3 |
+| thermal registers | FIRAS; 21-cm (EDGES/SARAS-3) | energy exchange across cosmic time | anomalous heating/cooling = portal detection | DR-3 |
+| compulsory channel | dynamical friction; stream gaps; disk/dwarf heating | seam throughput — the only lane reading positive | consistency demand: gravity-only accounting must balance; excess = portal | DR-3 |
+| GW/EM Shapiro | GW170817; future BNS pairs | shared-fabric common-mode sourcing | messenger-differential detection kills the seat | DR-2 |
+| cluster mergers / halo shapes | Bullet, MACS-class | self-sector impedance | their census; no residence exposure | DR-2 |
+| substructure / compact objects | microlensing (OGLE, HSC, EROS); LVK subsolar-merger searches; stream gaps | resident content vs fabric texture | the occupant fork — a subsolar merger population hands the seat to texture; stream substructure is occupant-neutral at current sensitivity (both occupants make substructure; the mass-function shape and Poisson power eventually discriminate) | kill table (handed over) |
+| abundance | Planck + BBN + structure growth | seam-throughput production of Ω_dark/Ω_baryon ≈ 5 | the standing discount; an O(1) failure prices 5 : 1 as coincidence | tension ledger |
+
 Owned: the lane charter and rule; the seat derivation and its forcing direction; the single-seam
 clause with the seam-counting re-read; the cross/self split and the internal-census re-read; the
 strand/kill distinction; the composition-not-magnitude clause; the relabel bar with the
 cone-delta dependency; the role-spec reading of the field and the scaffold observation; the
 rival-occupant fork with its discriminator; the two on-record tensions; the
-chronological-silence corollary and the eligibility census with its accounting demand. Imported:
+chronological-silence corollary and the eligibility census with its accounting demand; the
+program table and its ledger loading. Imported:
 every dark-matter observation, bound, and null named above; the production machinery; the
 bimetric prior art; the published Shapiro constraint; the PBH bound structure; the
-asymmetric-dark-matter motivation; the census meters and the entropic-time exhibit. Could-fail: as the kill table — and upstream, the seat itself fails if the
+asymmetric-dark-matter motivation; the census meters and the entropic-time exhibit; the
+indirect-detection bounds and the GC-excess status; the haloscope program; the microlensing and
+subsolar-merger nulls. Could-fail: as the kill table — and upstream, the seat itself fails if the
 support-leak clause fails (off-cone response of a local observable certified kills C8's chain and
 this seat with it); the lane fails as a lane if its notes cannot beat the relabel bar without
 borrowing magnitude from the C-lane; and the abundance arithmetic failing to yield O(1) does not
