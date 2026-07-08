@@ -2,8 +2,7 @@
 
 *Exploratory — not canon. Grade: occupancy note — doubly conditional: on the seam
 ([C5](c5-the-order-pair.md)/[C9](c9-the-drag-tensor.md)'s pair) and then on the residence claim
-itself; the note strands with the seam without being refuted by it (the distinction is priced
-below). Opens the D-lane: the C-lane asks whether the two-cone structure exists; this lane asks
+itself; the note strands with the seam without being refuted by it. Opens the D-lane: the C-lane asks whether the two-cone structure exists; this lane asks
 who resides on which side. Move-type (A0 §11): one occupancy claim on existing structure; no new
 dynamics anywhere.*
 
@@ -79,9 +78,9 @@ onto a substance. Astrophysics carries it as a modeling layer, degenerate with b
 The disconnect is diagnostic: **"cold dark matter" is already a pure role-specification, and the
 cosmological usage is complete as one.** Every crisis in the domain is a crisis of
 substance-fusion — the WIMP miracle dead, the haloscopes empty, no surviving preferred candidate
-— never of the spec. Residence adds no role-reading to the field; the field already computes with
-nothing else. What it adds is a structural home for the spec — which cone the kinetics ride — in
-place of a parametric one — how small the couplings.
+— never of the spec. The field already computes with the role-spec; residence supplies it a
+structural home — which cone the kinetics ride — in place of a parametric one — how small the
+couplings.
 
 The spec's emptiness is load-bearing, not incidental. Structure exists because dark potential
 wells grew through the radiation era while baryons sat pressure-locked to the photon fluid until
@@ -92,8 +91,8 @@ and nothing in it selects residence.
 
 ## The single-seam clause
 
-The exactness is conditional and the condition must be named: residence forces exact darkness
-only if the gravitational seam is the **only** cross-sector structure. A portal — a field with
+The exactness is conditional: residence forces exact darkness only if the gravitational seam is
+the **only** cross-sector structure. A portal — a field with
 kinetic or interaction terms straddling both sectors — is a second seam, and darkness degrades to
 approximate. A metric split makes portals unnatural, not unwritable: a local cross-term is still
 constructible, so exactness is bought by seam-count one, held here as a postulate.
@@ -148,14 +147,13 @@ The seat's occupancy conditions admit a second, structurally different occupant:
 **texture** rather than fabric-side **content**. A primordial-black-hole population is dark,
 gravitational-only, collisionless, and carries its own worldlines through the Bullet — the full
 profile, with no second sector anywhere: localized configurations of the one fabric orthodoxy
-already has. The feature-for-feature match claimed above is therefore shared, not exclusive, and
-residence must hold the seat against texture, not merely against small couplings. The fork is
-decidable: a confirmed subsolar-mass black-hole merger population at abundance-carrying scale
-hands the seat to texture without touching the seam (the asteroid-mass window stands open);
-conversely, texture at full abundance is squeezed by microlensing, evaporation, and accretion
-bounds that residence never feels. Until decided, the claim is conditional in one more place than
-the header states: residence is *an* occupant the seam forces to be dark, not *the* demonstrated
-occupant.
+already has. The feature-for-feature match is shared, not exclusive: residence holds the seat
+against texture, not merely against small couplings. The fork is decidable: a confirmed
+subsolar-mass black-hole merger population at abundance-carrying scale hands the seat to texture
+without touching the seam (the asteroid-mass window stands open); conversely, texture at full
+abundance is squeezed by microlensing, evaporation, and accretion bounds that residence never
+feels. Until decided, residence is *an* occupant the seam forces to be dark, not *the*
+demonstrated occupant.
 
 ## The relabel bar
 
@@ -169,30 +167,29 @@ keep the books straight: dark matter puts **no number on ε** — residence work
 this contact is composition-evidence, never magnitude-evidence; and the aggregation rule holds —
 a retrodiction sharpens the seam bet, it does not confirm the seam.
 
-## Two arguments against, on the record
+## Two arguments against
 
 - **The abundance coincidence leans portal.** Ω_dark/Ω_baryon ≈ 5 — order unity. Gravitational
   production, the only channel single-seam permits, sets abundances by (m, H_inflation) with no
   mechanism tying the result to the baryon density; landing within an order of magnitude is,
   under this reading, an accident. The asymmetric-dark-matter program exists precisely because
   5 : 1 smells like shared production machinery — a portal. The most suggestive unexplained
-  number in the domain is circumstantial evidence against the exactness clause. Consequence for
-  the lane: the abundance note is not an open question but a live threat — if seam throughput
-  cannot yield O(1) naturally, residence keeps the seat only by pricing 5 : 1 as coincidence,
-  and that price is carried visibly, not waved off.
+  number in the domain is circumstantial evidence against the exactness clause, and it makes the
+  abundance note a live threat: if seam throughput cannot yield O(1) naturally, residence keeps
+  the seat only by pricing 5 : 1 as coincidence.
 - **The precedent favors the drift story.** Nature has run the nearly-dark play once before: the
   neutrino — no electromagnetic coupling, feeble weak coupling, nearly collisionless — where
   "small coupling, keep digging" was correct, and detection came twenty-six years after
-  postulation. On the one historical trial available, exact-zero is 0 for 1. The standing bet
-  below is placed against that precedent, knowingly.
+  postulation. On the one historical trial available, exact-zero is 0 for 1. DR-1 is placed
+  against that precedent.
 
 ## The standing bet
 
 **Permanent direct-detection nulls.** Not nulls until the fog, not nulls at current sensitivity
 — no non-gravitational dark-matter conversion event, ever, on any interface, at any depth.
-Placed while the field still expects a recoil. The bet's value is its discomfort: every
-alternative posture (couplings drifting downward, parameter space shrinking) is unfalsifiable by
-nulls; residence is the only reading that stakes something on the nulls continuing.
+Placed while the field still expects a recoil or a haloscope conversion. The drift posture
+(couplings downward, parameter space shrinking) is unfalsifiable by nulls; residence stakes
+something on the nulls continuing.
 
 ```text
 killed:    any non-gravitational dark-matter conversion event — a recoil, an
