@@ -167,6 +167,19 @@ the kinematic cone closest, photons (α) run interior, the observed ordering for
 chosen. Species order among matter messengers by coupling at the 10⁻⁴³ class: real, forced, and
 operationally invisible — which is why the one-matter-cone statement survives.
 
+The 2026-07 sweep sharpened the mechanism and drew its boundary. Realized fronts saturate their
+ceilings exactly in **protected** sectors — free, integrable, or phase-space-starved (d = 2
+chiral CFTs saturate at strong coupling, v_B = v_E = c: the honest counterexample, protected
+because no transverse phase space exists for weight to spread into) — and sit strictly interior
+at generic coupling (v_B = √(2/3)·c at *infinite* coupling in 3+1d holography; v_E ≈ 0.62;
+log-cone at the MBL extreme). Where rigor is forced, the bound's form comes out intensive and
+state-dependent (no state-independent LR bound exists for lattice bosons; the honest bound
+scales with local density) — PB-2's declared form, landed independently. So what orders realized
+fronts is proximity to protection, not coupling per se — and gravitons are the most
+free-field-like carrier in nature: gravity riding closest to its cone is the pattern's own
+prediction, not its exception. b9's reconciliation contact resolves on exactly this split (its
+§2 carries the resolution).
+
 ## Tilt and dilation: two phenomena, one degeneracy
 
 A **tilt** is ordering-role structure: a signed, oriented cone ratio, coherent and universal,
@@ -193,6 +206,17 @@ an *unsigned width*, ~ƛ — and the signed structure lives at interfaces, with 
   ν–γ differentials are possible with the cone still one. **A timing split is not a cone split.**
   CD-3 is refined accordingly in CLAIMS: a CCSN ν–γ residual kills the row-as-written only if the
   dilation channel is excluded; under dilation the one-cone claim survives the split.
+- **Realization-space update (2026-07, computed against PTA noise budgets).** The ƛ-step chain
+  predicts a per-epoch white-noise floor σ = √(D ε₀ ƛ)/c, scaling D^{1/2} ν^{−1/2} — 75 ns at
+  J1909−3744 (1.15 kpc, 1.4 GHz) against a noise budget that closes at ~10 ns: **excluded ~7×,
+  but only for latency decorrelation times in the observational window** (minutes–hours).
+  Quenched realizations — the natural, state-tracking case, since the sightline crosses one
+  ~500 AU step in ~25 yr — freeze into constants absorbed by pulsar phase; per-pulse
+  realizations bury under ~9 μs of intrinsic single-pulse jitter (a 10⁻⁵ variance fraction).
+  Retained handle: the chain predicts **distance-correlated jitter (∝ D^{1/2}) across the MSP
+  population; intrinsic jitter predicts none** — decidable by re-analysis of published jitter
+  tables. The measured jitter frequency-index (−0.42, near the chain's −1/2) is filed as
+  coincidence unless the distance test says otherwise.
 - **The rendered/constituted resolution**: the thirty-year Hartman-effect dispute — are
   tunneling/evanescent advances real? — is a tier collapse. The advance is real at the rendered
   tier (phase-sensitive, centroid observables) and forbidden at the constituted tier (threshold
@@ -235,6 +259,20 @@ Cauchy data. What is established, what fights, and what is owed:
   wave or retarded response (independent Cauchy data) pushes the structure to Horn B. No
   CPS-style radiative analysis of a congruence-sourced disformal factor exists in the
   literature — an open niche.
+- **The thermodynamic selector (2026-07; resolution at C5's GSL wall).** A standing
+  two-temperature horizon is a genuine second-law breach — Dubovsky–Sibiryakov's perpetuum
+  mobile, with a classical shell-extraction version (Eling–Foster–Jacobson–Wall) that needs no
+  quantum channels — and smallness of ε sets the rate, never the verdict. The unique escape is
+  **flux-constitution**: n is the infalling matter congruence, so B vanishes on exactly
+  stationary horizons, the horizons fuse, and the GSL holds; the two-temperature state exists
+  only during accretion, where accretion's own entropy production dominates by ≥ 45 orders.
+  That escape is Horn C's state-tracking form and nothing else's: **Horn A dies at this register
+  outright**, and the axiom fight above loses its constant-B tine on stationary geometries
+  (a universal-density count axiom forcing global constant B would include them — dead). Third
+  independent selection of the composite member: global sanity, naturalness, now thermodynamic
+  consistency. The orthodox alternative — a universal-horizon rescue — requires energy-dependent
+  ε, a dispersive seam living on the frequency wall's axis: a structural fork with its own
+  signature (frequency-dependent cross-leg residuals).
 - **The objection, unsoftened.** Horn C has no uniqueness theorem. Levi-Civita earns its status
   by existence-and-uniqueness; the two-order analog (the pair plus one count determines both
   geometries plus n plus B up to scale) is C5's open conjecture, and until it is proven,
@@ -276,11 +314,18 @@ Owned: the connection-difference reading with the gauge/differential split; the 
 the curve family; the holonomy reading with the defect-density profile of n; the multipole
 theorem's re-cut of the anisotropy program; the scoreboard with the fused-propagation kill; the
 tilt/dilation split with its three sign derivations and the CD-3 refinement; the third fork with
-its axiom fight, kill shots, and confessed existence gap; the ledger assembly. Imported: all
-disformal/EFT machinery, every bound and coefficient, the cutoff argument, CPS and its evasions,
-the aether basis. Could-fail: a credible negative-ε residual (dies with CD-2); a GW/EM path-
-geometry difference beyond δα/α = ε (kills the transport reading wholesale); a threshold detector
-firing early (kills the tier resolution); seam waves or retardation (kills Horn C into Horn B); a
-drag tracking a fixed sidereal or wrong-congruence frame (kills Horn C's congruence form at C1's
-fork); the two-order uniqueness conjecture failing (Horn C demotes to vocabulary); a distant
-coincidence under C3's floor (kills the constant member and banks the bound, as designed).
+its axiom fight, kill shots, thermodynamic selector, and confessed existence gap; the
+protected-sector boundary of the interiority mechanism; the pulsar slice-kill with its retained
+population test; the ledger assembly. Imported: all disformal/EFT machinery, every bound and
+coefficient, the cutoff argument, CPS and its evasions, the aether basis, the
+Dubovsky–Sibiryakov/EFJW/Jacobson–Wall thermodynamic results, the v_B/v_E literature. Could-fail:
+a credible negative-ε residual (dies with CD-2); a GW/EM path-geometry difference beyond
+δα/α = ε (kills the transport reading wholesale); a threshold detector firing early (kills the
+tier resolution); seam waves or retardation (kills Horn C into Horn B); a drag tracking a fixed
+sidereal or wrong-congruence frame (kills Horn C's congruence form at C1's fork); a standing
+two-temperature requirement on an exactly stationary horizon (breaks flux-constitution, with
+C5); realized fronts saturating their ceilings at generic coupling outside the protected sectors
+(kills the weight branch's mechanism); MSP jitter showing no distance correlation *and* the
+chain surviving anyway by quenching (not a kill — the honest no-contest outcome); the two-order
+uniqueness conjecture failing (Horn C demotes to vocabulary); a distant coincidence under C3's
+floor (kills the constant member and banks the bound, as designed).

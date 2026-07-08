@@ -135,25 +135,26 @@ a gravitational register constituting with no matter uptake anywhere in its chai
 Two metrics, two trapping structures. At a black hole the gap set acquires a thickness: a shell
 of order ε·r_s where matter is trapped and fabric-futures still escape — the first concrete
 inhabitant of the fabric-timelike, matter-spacelike chains parked above. The horizon's fused jobs
-separate there. g's horizon bounds **influence** (one-sidedness makes it outermost; nothing
-consequence-capable crosses out); g̃'s horizon bounds **carriers**; constitution sites are
-wherever matter flow is (the constitution cone). The shell leaks influence, not information:
+separate there. g's horizon bounds **influence** (one-sidedness makes it *causally* outermost —
+nothing consequence-capable crosses out — though radially it is the inner surface: the matter
+trapping radius sits at r_s(1 + 2ε), outside it); g̃'s horizon bounds **carriers**; constitution
+sites are wherever matter flow is (the constitution cone). The shell leaks influence, not
+information:
 escaping fabric quanta are carrier-tier influence-structure (PB-3/GB-3), and records constituted
 outside from them are legal — so the information boundary is the *fabric* horizon, and the matter
 horizon was only ever the carrier boundary wearing three jobs.
 
-Temperature forks the same way. Temperature is a per-sector response scale (response cones,
-above): a uniformly accelerated detector sees KMS at T_s = ħa/2πc_s per sector, so
-
-    T_m / T_f = c_f / c_m = 1 + ε ,
-
-and one-sidedness orders the temperatures — matter-hot, fabric-cold, everywhere. The fused
-reading, temperature as a property of the point, forbids any split; the pair forces a one-sided
-one (~10⁻²⁴ K astrophysically — the register's content is consistency, not measurement). No
-exposure beyond the sign lock: the ordering dies with CD-2's carve — a corollary, not a bet.
-Realization note: the fixed-n member cannot reach the horizon (no global unit timelike n survives
-there); the composite member stays regular and delivers the split — the same member the
-backreaction computation selected.
+Temperature forks the same way, and the split's *sign* is protocol-indexed. A uniformly
+accelerated detector sees per-sector KMS at T_s = ħa/2πc_s, ordering the Unruh temperatures
+matter-hot: T_m/T_f = 1 + ε. Horizon temperatures order the other way: T_i ∝ κ_i ∝ c_i³ (the
+matter horizon's displacement and redshift overcompensate the 1/c_i), so the Hawking split is
+matter-cold, T_m/T_f ≈ 1 − 3ε. The fused reading — temperature as a property of the point —
+forbids any split; the pair forces one in every protocol, with the sign carrying the protocol
+(~10⁻²² K astrophysically — the register's content is consistency, not measurement). No exposure
+beyond the sign lock: the fork dies with CD-2's carve — a corollary, not a bet. Realization note:
+the fixed-n member cannot reach the horizon (no global unit timelike n survives there); the
+composite member stays regular and delivers the split — the same member the backreaction
+computation selected, and the thermodynamic audit below selects a third time.
 
 ## Discrete rigidity
 
@@ -193,12 +194,27 @@ quadratic cones, gap unknown.
   front stays at c and the phase excursion never carries influence. That ambiguity is standing and
   unresolved in the imported literature; the theorem inherits whichever resolution holds. Named as
   a wall, not resolved.
-- **The GSL wall.** A stationary two-temperature horizon is a heat-engine resource: coupling the
-  matter bath (hot) to the fabric bath (cold) extracts work from a stationary geometry, charged
-  to the mass. Whether the generalized second law tolerates that (an O(ε) evaporation channel,
-  banked), forbids it (T_m = T_f forced at stationarity — the pair dies at the thermal register),
-  or forces structure between the split and the two surface gravities is an open, well-posed
-  calculation. Imported machinery throughout; named as a wall, not resolved.
+- **The GSL wall — resolved (2026-07): forbid-as-stationary, forcing the realization.** A
+  stationary two-temperature horizon is a genuine second-law breach, not an O(ε) channel:
+  reversible exchange forces T_H = T_m in the photon channel and T_H = T_f in the graviton
+  channel, one state function cannot carry two slopes, and a cycle harvests the anholonomy as
+  work at zero entropy export — Dubovsky–Sibiryakov's perpetuum mobile (hep-th/0603158), with a
+  classical shell-ergoregion version needing no quantum channels at all (Eling–Foster–Jacobson–
+  Wall hep-th/0702124; the gap-set shell above is their extraction region). Smallness sets the
+  rate (~1 k_B per 3×10⁵ yr at M_⊙), never the verdict. The escape is framework-native and
+  unique: **the seam is flux-constituted** — n is the infalling matter congruence, an exactly
+  stationary non-accreting hole has no infall to constitute it, B vanishes there, the horizons
+  fuse, one temperature, GSL intact; during accretion the state is manifestly non-stationary and
+  accretion's own entropy production dominates any engine by ≥ 45 orders. The wall thereby
+  converts to a theorem: **no standing two-temperature horizons — the seam exists only where
+  flux constitutes it and relaxes with it.** A fixed matter-independent n (Horn A) is killed
+  outright at this register; Deffayet–Jacobson rigidity (1107.4978: stationary bimetric horizons
+  force equal surface gravities) closes the same door from the geometry side. The one orthodox
+  alternative — a universal-horizon rescue (Del Porro et al. 2310.01472) — requires
+  energy-dependent ε (matter's cone running onto the fabric cone in the UV), i.e. a dispersive
+  seam with frequency-dependent GW/EM residuals: a structural fork, each tine with its own
+  signature. Imported machinery throughout; the two-ledger analysis and the flux-constitution
+  reading are owned.
 - No identification of the pair's gap with any A0 bound axis is made here; A0 §12 explicitly
   forecloses reading PB-1 as "a second speed," and that wall stands between this note and any such
   identification.
@@ -212,5 +228,7 @@ audit. Imported: Malament's theorem and its distinguishing
 conditions, causal-set kinematics and phenomenology, birefringence bounds, and every coefficient.
 Could-fail: a credible negative-ε residual (kills the nesting, with CD-2); non-quadratic matter-cone
 structure at any precision (kills the pair ansatz); joint non-realizability of the pair as
-Lorentzian orders (kills the formalization while leaving C1's physics intact); a GSL demonstration
-that stationarity forces T_m = T_f exactly (kills the pair at the thermal register).
+Lorentzian orders (kills the formalization while leaving C1's physics intact); a standing
+two-temperature spectrum ever required on an exactly stationary, non-accreting horizon (breaks
+the flux-constitution theorem — the GSL wall's resolution reverses); any realization needing
+stationary B ≠ 0 with fixed n (dead at the thermal register, with Horn A).

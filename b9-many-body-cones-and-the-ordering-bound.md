@@ -75,14 +75,34 @@ claim the norm is a tier on MGR's influence ladder (A0 §3). The role-claim is
 the cone's existence and its depth-dependence — not the magnitude.
 ```
 
-Reconciliation contact (open):
+Reconciliation contact (resolved 2026-07 — the witness relocates and survives):
 
 ```text
 the independence above rests on the non-relativistic regime, where v_LR is set
-by couplings and c is absent. In a Lorentz-invariant continuum limit the cone
-is expected to track c. Whether lattice v_LR and continuum c are two faces of
-one bound or two distinct bounds is the live PB-1 could-fail — named here, not
-resolved.
+by couplings and c is absent. In a Lorentz-invariant continuum limit the
+CEILING does track c — rigorously for free/harmonic lattice fields (the LR
+cone collapses onto the exact relativistic cone: Cramer–Serafini–Eisert
+0803.0890), loosely for bounded-spin models (rigorous constants overshoot by
+combinatorial factors), and with no theorem at all for interacting gauge
+theories. That collapse costs the witness nothing: the ceiling was never the
+invariant content. Two structures survive the continuum —
+
+  1. the bound/realized split (§5): realized fronts sit strictly interior to
+     the ceiling at every generic nonzero coupling (v_B = √(2/3)·c at infinite
+     coupling in 3+1d holography; log-cone at the MBL extreme), saturating
+     only in protected sectors — free, integrable, or d = 2 chiral, where no
+     transverse phase space exists for weight to spread into;
+  2. the bound's form where rigor is forced: for lattice bosons no
+     state-independent LR bound exists at all (Eisert–Gross 0808.3581), and
+     the honest bound is intensive and state-dependent — velocity scaling
+     with local number density (Yin–Lucas, PRX 12, 021039) — PB-2's declared
+     form (a rate, not a universal scalar), landed independently of the
+     grammar.
+
+PB-1's witness relocates accordingly: not "a non-c bound exists" (that was
+ceiling-grade, and the ceiling collapses as relativity demands) but "the
+bound/realized split and the intensive state-dependent form persist with and
+without the metric." The PB-1 demotion condition below is re-scoped to match.
 ```
 
 ---
@@ -229,8 +249,11 @@ the cone advances by parallel width alone → per-adjacency (PB-2.1 fails);
 the only bound carries irreducible duration with no depth-count → flow not
   ordering (PB-2.2 fails);
 ceiling and realized front cannot separate → PB-2 decomposition fails;
-every many-body influence bound reduces to the ambient metric c once relativity
-  is restored → the ordering-axis bound was not independent (PB-1).
+the bound/realized split closes once relativity is restored — realized fronts
+  saturating their ceilings at generic coupling outside the protected sectors
+  (free, integrable, d = 2 chiral) → the relocated PB-1 witness fails;
+the interacting bounds prove state-independent and universal after all
+  (c-like) → PB-2's intensive-rate form fails (the §2 resolution reverses).
 ```
 
 Standing result:
@@ -239,8 +262,9 @@ Standing result:
 B9 is a clarifier / candidate positive witness — retrodictive contact, not
 engine. It is the favorable wall for PB-2: per-ordering, flow-free, and
 bound-vs-realized are all testable here, where the horizon corner (b4 §6)
-could only open the fork. Witness-status is earned only when the adversarial
-corner is run (a4 §6) and the PB-1 reconciliation contact (§2, lattice v_LR
-vs continuum c) is settled. Favorable-by-construction does not falsify the
-adversarial corner.
+could only open the fork. The PB-1 reconciliation contact (§2) is resolved:
+the witness relocates to the bound/realized split and the intensive
+state-dependent form, both of which survive the relativistic continuum.
+Witness-status still waits on the adversarial corner (a4 §6);
+favorable-by-construction does not falsify it.
 ```
