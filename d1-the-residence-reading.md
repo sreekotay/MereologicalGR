@@ -30,6 +30,8 @@ Layer 1 — owned (A0 / C5 / C8 / C9 lineage):
   the role-spec reading of the field; the scaffold observation
   the rival-occupant fork (content vs texture) and its discriminator
   the two on-record tensions: the abundance coincidence; the neutrino precedent
+  the chronological-silence corollary; the eligibility census and its
+    gravity-only accounting demand; the conservative-portal blind spot
 
 Layer 2 — projected (flat-space estimates; workbench referee owed):
   the messenger-universality budget: dark-sourced Shapiro common-mode ~10¹³ s at z ≈ 1;
@@ -44,6 +46,11 @@ Layer 3 — imported:
     the residence reading differs in being a role-split with nested cones, not massive
     gravity, and in the derivation direction; the overlap is flagged, not litigated
   the published GW170817 messenger-Shapiro constraint (10⁻⁷ class, Milky Way potential)
+  the census meters: FIRAS distortion limits; Planck scattering bounds; the EDGES/SARAS-3
+    episode; Gaia dark-disk kinematics; phase-space fossils (Tremaine–Gunn); dynamical
+    friction, stream-gap, and disk/dwarf-heating measurements
+  the exchange-metered chronology exhibit (cold-atom entropic time, arXiv:2509.07745 —
+    an internal time that ticks on entropy exchange and stops when exchange stops)
 ```
 
 ## The seat
@@ -125,6 +132,41 @@ identically** — at the 10⁻⁷ class from the anchor event (the published Mil
 bound), at the 10⁻¹² class from any cosmological pair. The premise residence needs — the dark
 population's one interface is the shared fabric, not a sector-split channel — is certified by
 the same events that run the C-lane's distance fan, at no additional cost.
+
+## The eligibility census
+
+Chronology built from exchange is blind to the exchange-less. A coarse-grained entropic time is
+metered on interface events — realized as an instrument in an engineered register (the cold-atom
+exhibit: an internal time that ticks on entropy exchange and stops when exchange stops) — so
+interface-ineligible content contributes no ticks. Under residence the record-tier chronology of
+the universe is authored by the eligible sixth of its matter; the dark sector is chronologically
+silent on every register but one.
+
+The silence is measurable register by register, and the meters already exist — collected across
+three decades and three literatures under other names, never read as one question: *how many
+interfaces does the dark sector have?*
+
+| register | extant meter | reading |
+|---|---|---|
+| photon–thermal | FIRAS μ/y spectral distortions | \|μ\| < 9×10⁻⁵, \|y\| < 1.5×10⁻⁵ — no dark–photon energy exchange, z ~ 2×10⁶ through recombination |
+| photon–scattering | Planck acoustic peaks | drag-free at fit precision; dark–photon scattering capped |
+| baryon–thermal | 21-cm cosmic dawn | the completed case study: EDGES claimed anomalous baryon cooling — portal-shaped — and SARAS-3 refuted it; the null stands |
+| dissipative morphology | Gaia local kinematics | dark disk ≲ few % of local dark density — no dark dissipation channel |
+| phase-space fossil | dwarf spheroidals; Lyman-α | coarse-grained phase-space density consistent with purely gravitational mixing (Tremaine–Gunn floor) |
+| self-sector | merging clusters; halo shapes | σ/m ≲ 1 cm²/g — their census (DR-2) |
+| gravitational (compulsory) | dynamical friction (satellite sinking, Fornax timing); stream gaps (GD-1, Pal 5); disk/dwarf heating | **positive throughput, measured** — and bounded above |
+
+Every optional register reads zero; the compulsory register reads nonzero with measured drag —
+the interface profile of residence, met column by column in data already in hand. The census
+carries a standing demand sharper than any single row: **all cross-sector energy exchange,
+anywhere, must be fully accounted by gravitational dynamics alone** — any anomalous heating or
+cooling of baryons, in any system at any epoch, is a portal detection. The 21-cm episode is the
+demand exercised once, at full severity, with the null prevailing.
+
+Blind spot, named: the census meters energy exchange. A conservative portal — elastic scattering
+with no net transfer, an oscillation channel — hides from every thermodynamic row and shows only
+in direct detection. Two seam-counting methods, independent: FIRAS-class data ends one count,
+the neutrino fog ends the other; DR-1 rides both.
 
 ## What residence forces downstream
 
@@ -211,10 +253,11 @@ Owned: the lane charter and rule; the seat derivation and its forcing direction;
 clause with the seam-counting re-read; the cross/self split and the internal-census re-read; the
 strand/kill distinction; the composition-not-magnitude clause; the relabel bar with the
 cone-delta dependency; the role-spec reading of the field and the scaffold observation; the
-rival-occupant fork with its discriminator; the two on-record tensions. Imported: every
-dark-matter observation, bound, and null named above; the production machinery; the bimetric
-prior art; the published Shapiro constraint; the PBH bound structure; the asymmetric-dark-matter
-motivation. Could-fail: as the kill table — and upstream, the seat itself fails if the
+rival-occupant fork with its discriminator; the two on-record tensions; the
+chronological-silence corollary and the eligibility census with its accounting demand. Imported:
+every dark-matter observation, bound, and null named above; the production machinery; the
+bimetric prior art; the published Shapiro constraint; the PBH bound structure; the
+asymmetric-dark-matter motivation; the census meters and the entropic-time exhibit. Could-fail: as the kill table — and upstream, the seat itself fails if the
 support-leak clause fails (off-cone response of a local observable certified kills C8's chain and
 this seat with it); the lane fails as a lane if its notes cannot beat the relabel bar without
 borrowing magnitude from the C-lane; and the abundance arithmetic failing to yield O(1) does not
