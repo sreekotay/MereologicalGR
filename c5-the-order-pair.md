@@ -154,7 +154,12 @@ forbids any split; the pair forces one in every protocol, with the sign carrying
 beyond the sign lock: the fork dies with CD-2's carve — a corollary, not a bet. Realization note:
 the fixed-n member cannot reach the horizon (no global unit timelike n survives there); the
 composite member stays regular and delivers the split — the same member the backreaction
-computation selected, and the thermodynamic audit below selects a third time.
+computation selected, and the thermodynamic audit below selects a third time. Both halves are now
+sympy-verified, and for that member the split is *exact*: with n the infalling congruence and B
+constant, g̃ = g + B n⊗n is itself Schwarzschild with r̃_s = r_s/(1−B) = 2GM/c_m², so
+T_m/T_f = (c_m/c_f)³ = (1−B)^{3/2} — the cube global, not near-horizon
+(`workbench/two-metric-seam/verify_horizon_pair.py`; wave-optics standing of the premise:
+the resolved entry under Open).
 
 ## Discrete rigidity
 
@@ -214,13 +219,42 @@ quadratic cones, gap unknown.
   energy-dependent ε (matter's cone running onto the fabric cone in the UV), i.e. a dispersive
   seam with frequency-dependent GW/EM residuals: a structural fork, each tine with its own
   signature. Imported machinery throughout; the two-ledger analysis and the flux-constitution
-  reading are owned. **Caveat owed (2026-07):** the two-temperature premise is geometric-optics,
-  and the regime is sub-wavelength — Hawking wavelengths (~r_s) exceed the horizon separation
-  (~ε·r_s) by ~10¹⁶, so no emitted mode resolves the shell; whether the two-KMS-state
-  bookkeeping (state-level, not ray-level) survives wave-optics smearing is an open calculation.
-  The flux-constitution theorem stands as the consistency resolution *if* the two-temperature
-  regime is well-defined; if smearing dissolves the premise, the wall closes benignly and the
-  theorem loses its forcing — Horn A's thermal kill softening with it. Named, not resolved.
+  reading are owned. **Caveat resolved (2026-07): the split is state-level and survives wave
+  optics; what dies is the shell-local emission picture.** The worry conflated two registers.
+  What geometric optics cannot do — resolve δr ~ ε·r_s with quanta of λ ~ r_s — kills only the
+  picture of radiation happening *between* the horizons. What sets each temperature never used
+  that picture: Hawking temperature is fixed by surface gravity through global structure
+  (Euclidean periodicity; Kay–Wald KMS uniqueness on a bifurcate Killing horizon; exact
+  exponential peeling off each sector's own horizon — the flat-space sibling is c8's two-lock
+  statement, "wedge modular structure has no optics in it"), and each sector's field propagates
+  on its own metric, whose wave equation contains one horizon only — the shell is a two-metric
+  *comparison* object that no single field's dynamics contains. For the composite member the
+  statement is exact (`workbench/two-metric-seam/verify_horizon_pair.py`): g̃ is itself
+  Schwarzschild with r̃_s = 2GM/c_m², the matter field sees one clean global geometry in which
+  r = r_s is no locus at all, and T_m/T_f = (1−B)^{3/2} exactly. Robust against short-distance
+  physics too (dispersive-Hawking universality: Unruh gr-qc/9409008; Corley–Jacobson
+  hep-th/9601073; Unruh–Schützhold gr-qc/0408009): temperature corrections are O(T_H/E_Pl) ~
+  10⁻⁴⁰, twenty-four orders under ε. Three residues, named: (i) proper-vs-coordinate — the
+  shell's proper thickness is 2r_s√(2ε), √ε-small not ε-small (~0.2 mm at M_⊙, ~10³ km at
+  M87*), so extraction machinery inhabits it; but mode-tracing still cannot split the two κ's
+  inside the sub-Planckian window (1/ε ~ 10¹⁵ peeling e-folds needed, ~90–110 available), so
+  "which horizon emitted this quantum" stays dead at ray level; (ii) operational
+  distinguishability is never — two thermal channels split by ε need ~1/ε² quanta: ~5×10²¹ yr
+  at M_⊙, ~3×10³¹ yr at M87* (10¹¹–10²¹ Hubble times, though inside the evaporation lifetime by
+  46–65 orders), require graviton-channel spectroscopy, and flux-constitution self-blocks the
+  ensemble (holding ε steady over 1/ε² quanta needs Ṁ ≲ 10⁻¹¹ g/s while B is constituted by
+  that very flux — steady enough to measure runs toward stationary, where B → 0; constitutive
+  relation unbuilt, so this is an observation, not a theorem); the register stays consistency,
+  not measurement; (iii) exactness is the constant-B idealization — the flux-constituted member
+  carries ∇B corrections, its κ's defined adiabatically like every astrophysical horizon's. So
+  the wall does **not** close benignly: the premise is confirmed at the register the GSL
+  argument runs on, flux-constitution stays load-bearing, and Horn A's thermal kill stands —
+  D-S needs only the asymptotic per-species split (their derivation is per-species-per-horizon,
+  never shell-local), and an eternal Horn-A hole grants the 1/ε² rectification time freely. One
+  import corrected en route: the classical EFJW tine carries a published dynamical obstruction
+  (Benkel et al. 1803.01624 — Penrose-splitting extraction fails wherever gravity is attractive,
+  satisfied by known aether/Hořava solutions), so the kill's weight sits on the quantum D-S
+  channel — exactly the one wave optics confirms.
 - No identification of the pair's gap with any A0 bound axis is made here; A0 §12 explicitly
   forecloses reading PB-1 as "a second speed," and that wall stands between this note and any such
   identification.
@@ -229,8 +263,9 @@ Owned: the pair as H_p1's foundation object; the gap-set relocation of the lane'
 and ε as pair-invariants with the seam reading; the response-cone reading of the pair;
 the one-sidedness theorem; the constitution-cone theorem (≺_m, via PB-4) with the forced
 re-bundling and the chronology-protection dissolution; the horizon stack with the one-sided
-temperature ordering (corollary); the one-count rigidity observation; the form-vs-magnitude
-audit. Imported: Malament's theorem and its distinguishing
+temperature ordering (corollary — now exact per-sector, (1−B)^{3/2}, with the wave-optics
+resolution of the two-temperature premise); the one-count rigidity observation; the
+form-vs-magnitude audit. Imported: Malament's theorem and its distinguishing
 conditions, causal-set kinematics and phenomenology, birefringence bounds, and every coefficient.
 Could-fail: a credible negative-ε residual (kills the nesting, with CD-2); non-quadratic matter-cone
 structure at any precision (kills the pair ansatz); joint non-realizability of the pair as
