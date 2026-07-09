@@ -42,7 +42,7 @@ MGR is a relabel inside GR by design, but an exported constraint system outside 
 |---|---|---|
 | **Root** | `A0-…md` | Grammar, influence ladder, splits, composition, PB bets, ownership rules |
 | **Applications (A)** | `a1` … `a5` | Photon seed run, gravity adjacency, record vs constitution, QEC engine autopsy, quantum thermodynamics closure audit |
-| **Phenomena (B)** | `b1`–`b9` (canonical: `b4`–`b7`; engine: `b8`; PB fork: `b9`) | Role-location for horizons, Unruh, virtual exchange, Zych flow-register, many-body ordering bound, etc. — not new dynamics |
+| **Phenomena (B)** | `b1`–`b10` (canonical: `b4`–`b7`; engine: `b8`; PB fork: `b9`; retrodictive verdict: `b10`) | Role-location for horizons, Unruh, virtual exchange, Zych flow-register, many-body ordering bound, double-slit uptake wall, etc. — not new dynamics |
 | **Frontier (C)** | `c1`–`c10` | The seam program: defusion attempts, kill-lanes, quantification, theory classes, formal spine, response family, the relatedness seam, conversion across the ladder, the drag tensor, and the definiteness axis; exposure ledgered in CLAIMS.md (CD rows); not canon |
 | **Occupancy (D)** | `d1`–`d2` | Given the seam, who resides on which side — the residence reading for dark matter, and the abundance arithmetic that prices it; doubly conditional (strands if the seam dies); exposure in CLAIMS.md (DR rows); not canon. Lowercase d-notes; uppercase D1–D13 are diagnostic-ledger lanes |
 | **Diagnostics** | `diagnostic-ledger.md`, `contrast-diagnostic-program.md` | Contact lanes, null guards, demotion conditions |
@@ -123,7 +123,7 @@ The D-lane opens on the C-lane's structure with a different question: not whethe
 ## Layout
 
 ```text
-A0, a1-a5, b1-b9          argument + application notes
+A0, a1-a5, b1-b10         argument + application notes
 c1-gw170817-propagation   exploratory application (not canon; exports new physics)
 c2-path-before-propagation  exploratory kill-lane for c1 (not canon)
 c3-quantifying-the-cone-delta  conditional estimator lane for c1 (not canon)
