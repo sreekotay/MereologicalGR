@@ -413,7 +413,11 @@ accumulates as φ = ∫a dτ/c, so a collinear mode chirps exponentially, ω(τ)
 exponential redshift, which is precisely what renders a correlation function thermal. The three
 faces are one decomposition: the **limit** is the eigenstructure's locus (the horizon's
 generators are the eigenrays), the **friction**'s temperature is the eigenvalue drift rate over
-2π (a and κ alike), and the **invoice** is priced by mixing — massive content is never an
+2π — a for Rindler, κ for the hole, H for de Sitter's geodesic observer, who has no proper
+acceleration at all: the drift rate, not the acceleration, was always the variable — engaging
+only where the exponential relation is sustained at constant rate over the state's correlation
+time (transient or non-constant rates render non-thermally; inertial flow renders nothing) —
+and the **invoice** is priced by mixing — massive content is never an
 eigenobject, so it is always chargeable; null content has no worldline to force, so it is only
 ever rendered, and pure redshift radiates nothing. Off-axis null content aberrates, but the
 aberration flow on the celestial sphere has exactly the two eigenrays as its fixed points — the

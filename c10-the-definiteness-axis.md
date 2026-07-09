@@ -95,6 +95,15 @@ fabric with no discharge operator hosts no records; the reducer trilemma's three
 three candidate dischargers; and the two delta axes meet at constitution because both terminate
 there — the extent axis in chronometry of writes, the arity axis in the discharge.
 
+Composites inherit. Temperature is the worked example: not a primitive relation but a rendered
+response scale T(state, flow, generator, access) whose hidden-argument list is the union of its
+inputs' rows — and the classical metric defaults all four in one stroke, the fifth-job pattern
+applied to a composite. "Acceleration causes temperature" is a four-place relation compressed to
+one — an arity error — and the catalog of temperature confusions (the static observer, the fluid
+element, the coordinate artifact, the reified bath) is the catalog of which argument was
+silently defaulted. Branch-indexed temperature, T(… | branch), then needs no new postulate: it
+is inheritance.
+
 Per-role discipline: each row carries its own existence question, settled separately —
 "quantization's existence" is settled only for the influence row. The flow row is this axis's
 open anchor: a clock interfered at proper-time precision would be the first per-role existence
