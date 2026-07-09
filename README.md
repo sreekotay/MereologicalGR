@@ -4,6 +4,7 @@
 
 Start here: **[A0 — Mereological Foundations](A0-Mereological-Foundations-for-General-Relativity.md)**
 Status: **[CLAIMS.md](CLAIMS.md)** — grades, owned vs imported, failure conditions.
+Uses: **[USES.md](USES.md)** — which definitions are locators; cashed, open, and parked novel-uses.
 ---
 
 ## What this repository is

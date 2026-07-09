@@ -40,6 +40,7 @@ Layer 1 — owned (A0 / C5 / C8 / C9 lineage):
     portals as the open flank; the naturalness-now / gauge-upgrade price list
   the definitiveness principle (two-column-blindness); conspiracy pricing; the
     superradiance/self-census joint constraint; the PTA domain boundary
+  the tier-decomposed interface set (kernel/carrier/record) and its meter assignment
 
 Layer 2 — projected (flat-space estimates; workbench referee owed):
   the messenger-universality budget: dark-sourced Shapiro common-mode ~10¹³ s at z ≈ 1;
@@ -175,6 +176,18 @@ versus portal-ed two-sector. The direct-detection program is not measuring a sma
 baryonic register's own noise ends the count. Under residence the program's decades of nulls are
 not disappointments awaiting a recoil — they are the data, and they have been uniformly
 affirmative.
+
+The interface set decomposes by ladder tier (b1's kernel/carrier split, run through the census):
+**I = (I_kernel, I_carrier, I_record)** — an interface can be absent as a coupling term, absent
+as cross-sector propagation, or absent as conversion-to-record, and residence forces all three
+empty. The meters split accordingly: fifth-force and equivalence-principle tests (Eöt-Wash,
+MICROSCOPE) meter the kernel tier; collider and production searches meter the carrier tier;
+recoil, cavity, and annihilation searches meter conversion-to-record. Nulls at different tiers
+mean different things, and the census's blind spot is a tier statement made compact — a
+conservative portal is kernel-present, record-never. The kill table was already tier-graded
+without saying so: a certified record-tier event kills; a kernel-tier detection (a fifth force
+operating today) demotes exactness without a single recoil. A future anomaly is classified by
+the highest tier it certifies.
 
 ## The split: their census, read through gravity
 
