@@ -268,9 +268,15 @@ One degeneracy, priced: ΔC_s,1 ∝ D is *exactly*
 degenerate with a constant-ε path term at low z — 11.9 s equals 11.9 s at 300 Mpc, term for term.
 The three-term signatures survive because s₀ was the n = 0 member; once conversion carries n = 1
 the split between "conversion cost" and "path cost" is convention, separable only by redshift
-curvature (the path integral picks up cosmological weighting; a frame-chain count does whatever
-the chain's density does) or by the differential ε_γ − ε_GW moving between messenger pairs. An
-n = 1 fit alone can never certify which side of the decomposition it lives on.
+curvature — computed (referee: `workbench/cosmological-fan/`): the constant-ε path term is the
+comoving integral εD_C/c (the (1+z′) dilation of locally inserted lag cancels exactly against
+cosmic time per redshift), while a comoving chain-count carries one additional power of (1+z′);
+chain exceeds path by the path-averaged ⟨1+z′⟩ — +23% at z = 0.5, +44% at z = 1 — so one
+counterpart-confirmed event at z ≳ 0.15 with jet systematics held to ±2 s already separates
+them, and anchor-free the (0.5, 1.0) redshift pair separates an expansion-sourced kernel
+exponent p = 1 from p = 0 at 5σ under the same systematics — or by the differential ε_γ − ε_GW
+moving between messenger pairs. An n = 1 fit alone at low z can never certify which side of the
+decomposition it lives on; at depth it can.
 
 ## Narrowing n: what the ends of the ladder can and cannot do
 
@@ -404,9 +410,15 @@ sector:
   and modular flow: one detector at one a, coupled to both sectors, sits under **two locks split
   linear in ε**. That is C5's two-temperature pair in flat spacetime — no collapse, no horizon
   formation, and none of the geometric-optics premise the black-hole version owes: wedge modular
-  structure has no optics in it. The magnitude is hopeless directly; the HMS bridge names the
-  only conceivable meter — seam structure in accelerated-charge radiation spectra — and that
-  arithmetic has not been run. Named, not priced.
+  structure has no optics in it. The magnitude is hopeless directly, and the HMS bridge's meter
+  is priced and closed (2026-07; `workbench/two-metric-seam/two_lock_meter.py`): at tree level
+  in the matter sector the fabric lock enters the charge's radiation at weight exactly zero —
+  the HMS/CLMV construction lives entirely on the inner cone — and the gravitational
+  side-channels carry ε·(48/5)(4πε₀Gm²/e²)(v/c)² ≈ 2×10⁻⁵⁸ for an ultrarelativistic electron:
+  closed by ~52 orders, both factors fixed by nature. The one system that samples both cones
+  coherently is a mass with structure radiating into both sectors — a compact binary — and that
+  meter already ran: **the thermal seam is observationally redundant with the timing seam**;
+  the anchor's ε bound is the two-lock bound read back.
 - *A displaced lock is sayable.* Where the relatedness leg is dressed and the influence leg
   protected (the halo/cone split, b1), the lock engages at not-ħa/2πck_B as a coherent priced
   outcome rather than an anomaly to refit.
@@ -416,7 +428,15 @@ sector:
 Could-fail, this register: the two legs independently measured under acceleration failing the
 coth ratio at T = ħa/2πck_B with no seam structure kills the lock reading and KMS with it — the
 reading shelters behind nothing; a two-leg comparison under Fermi–Walker transport is this
-register's direct test. The invoice face fails if
+register's direct test — run at derivation level (2026-07;
+`workbench/two-metric-seam/two_leg_lock.py`, 13/13 checks): the lock holds exactly — χ̃″(ω) =
+ω/4π bit-for-bit invariant between inertial and accelerated pullbacks, the symmetric leg moved
+by exactly a Planck spectrum, ΔC(0) = πT_U²/12 — leaving the laboratory measurement as the
+kill. Scope earned by the run: the influence leg's state-independence is general, its
+pullback-invariance is Huygens-conditional — massive or curved-background versions move the
+commutator's pullback while staying state-independent, expected physics there, not a failed
+lock; and χ̃″ is the transform of ½⟨[φ,φ]⟩, other normalizations moving an ħ into the
+prefactor. The invoice face fails if
 the HMS zero-energy accounting acquires a local line-item — the anholonomy closing locally after
 all.
 

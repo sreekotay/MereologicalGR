@@ -86,9 +86,11 @@ In FLRW with comoving n the tensor reduces exactly to
 
     C^λ_μν = [B/(1−B)] (θ/3) n^λ P_μν ,   θ = 3H ,
 
-and the accumulated residual is the (1+z)-weighted integral Δt = ε ∫₀^z dz′/H(z′) — C3's master
-relation, confirmed exactly (a proper-path integral without the redshift weight undercounts by
-~χ/η₀).
+and the accumulated residual is the integral Δt = ε ∫₀^z dz′/H(z′) — (1+z)-weighted relative to
+cosmic time, equivalently the unweighted comoving integral εD_C/c — C3's master relation,
+confirmed exactly (a proper-path integral without the redshift weight undercounts by ~χ/η₀; the
+chain realization carries one further power of (1+z), the depth-separable difference —
+`workbench/cosmological-fan/`).
 
 Three consequences the lane previously carried as choices:
 
@@ -163,10 +165,18 @@ keeps exact. The fused global boost group has one cross-sector datum. The scoreb
 
 The weight branch carries its own sign derivation: interiority scales with dressing, dressing
 with coupling, and gravity (G) is the least-dressed carrier in physics — its realized front hugs
-the kinematic cone closest, photons (α) run interior. At floor level the sign is **expected, not
-forced**: one comparison is still owed — the fabric leg's own classical medium-dressing (GW
+the kinematic cone closest, photons (α) run interior. At floor level the photon-leg sign is now
+**forced** (two-leg referee, 2026-07; `workbench/two-metric-seam/two_leg_lock.py`): the
+commutator leg's protection licenses Kramers–Kronig with front = c, KMS passivity makes the
+thermal dressing pure added spectral weight (coth ≥ 1; vacuum-subtracted absorption nonnegative
+below pair threshold), and the sum rule forces n(0) ≥ 1 — δv(ω→0) ≤ 0, the Euler–Heisenberg
+minus sign as structure, not coefficient luck. Scope: forced for KMS dressings and as a
+DC-versus-front statement only — Casimir (mode-removal) genuinely runs v(0) > c, and
+Drummond–Hathrell proper stays dispersion-relation-dependent. The *differential's* sign keeps
+one owed comparison — the fabric leg's own classical medium-dressing (GW
 dispersion in cosmic matter, δv ~ Gρ/ω², comparable to the photon's QED floor at the LIGO band
-and growing toward low frequencies) has never been folded into the two-leg arithmetic. The
+and growing toward low frequencies) has never been folded into the cross-sector two-leg
+arithmetic. The
 anchor-scale sign derivations (the grammar theorem; the halo asymmetry) are untouched by this.
 Species order among matter messengers by coupling at the 10⁻⁴³ class: real, forced, and
 operationally invisible — which is why the one-matter-cone statement survives.

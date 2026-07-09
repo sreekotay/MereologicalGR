@@ -321,6 +321,18 @@ Placed while the field still expects a recoil or a haloscope conversion. The dri
 (couplings downward, parameter space shrinking) is unfalsifiable by nulls; residence stakes
 something on the nulls continuing.
 
+The graveyard, counted (2026-07; `workbench/graveyard/`): **0 confirmed portal couplings in 13
+decisively-resolved portal-shaped anomaly episodes across 5 registers, 1998–2025** — six dead by
+replication, four by systematics, one each by astrophysics, better data, and theory revision;
+four open episodes counted as neither. Against tight drift — couplings within 1–2 rate-decades
+of the frontier when each anomaly was raised, which is what the anomaly-motivated literature
+asserted each time — the register-level likelihood ratio runs 7–300 in favor of exact zero,
+degrading to ~1.5–3 against a drift prior spread over ten decades: the statistic constrains
+*predictive* drift only, and the thirteen recorded retreats are themselves the datum. The
+asymmetry is total and binds this note: each future death buys at most a bit against
+ever-weaker drift; one replicated confirmation ends DR-1 outright, and citing the graveyard
+commits in advance to treating it so.
+
 ```text
 killed:    any non-gravitational dark-matter conversion event — a recoil, an
            annihilation line, a confirmed portal-mediated signal; residence dies
