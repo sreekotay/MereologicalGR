@@ -19,6 +19,8 @@ Layer 1 — owned (A0 / b1 / a4 / b4 / b7 / C-lane lineage):
   the transport register: the horizontal conversion class the census was missing;
     thermality as the two-leg lock (b1 §5.1 legs), radiation as its invoice;
     the universal-lock / indexed-invoice split; the per-sector two-lock statement
+    the spectral reading: the triad as the boost's eigenstructure; the invoice
+      as mixing; the modal species statement (eigenrays null and only null)
 
 Layer 2 — projected (computed here or upstream in the lane):
   the per-quantum area-channel kill (pulsar arithmetic, 22 orders)
@@ -400,6 +402,24 @@ Two asymmetries structure the register:
   halo width, the D₀D₂ inequality). One contested sharpening, imported as-is: the claim that the
   inertial radiation pattern already encodes the bath (Cozzella–Landulfo–Matsas–Vanzella) — the
   lock's invoice face measured daily, if the reading holds.
+
+**The spectral reading.** Acceleration integrated is the boost, and the triad is the boost
+generator's spectral decomposition read across registers. The eigenrays of a boost are null, and
+only null — no timelike direction is an eigendirection of any boost, so massive content always
+mixes under frame transport, while null content can ride an eigenray. The two eigenrays lie in
+the boost 2-plane, carry eigenvalues e^±φ, and generate the transport's horizon; content
+rendered along them rescales by pure eigenvalue — redshift with no rotation — and rapidity
+accumulates as φ = ∫a dτ/c, so a collinear mode chirps exponentially, ω(τ) = ω₀e^∓aτ/c: exact
+exponential redshift, which is precisely what renders a correlation function thermal. The three
+faces are one decomposition: the **limit** is the eigenstructure's locus (the horizon's
+generators are the eigenrays), the **friction**'s temperature is the eigenvalue drift rate over
+2π (a and κ alike), and the **invoice** is priced by mixing — massive content is never an
+eigenobject, so it is always chargeable; null content has no worldline to force, so it is only
+ever rendered, and pure redshift radiates nothing. Off-axis null content aberrates, but the
+aberration flow on the celestial sphere has exactly the two eigenrays as its fixed points — the
+whole rendering map is organized by the same spectral pair. The species statement is modal:
+**massive content is never an eigenobject of transport; null content is the only content that
+can be.**
 
 **What the defusion forces that the fused statement cannot phrase.** The fused form — "the
 Minkowski vacuum is KMS with respect to the boost" — fuses two definite articles: the state and
