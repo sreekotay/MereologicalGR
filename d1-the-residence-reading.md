@@ -32,6 +32,8 @@ Layer 1 — owned (A0 / C5 / C8 / C9 lineage):
   the two on-record tensions: the abundance coincidence; the neutrino precedent
   the chronological-silence corollary; the eligibility census and its
     gravity-only accounting demand; the conservative-portal blind spot
+  the two-epoch single-seam statement; the reheating-portal reading of the abundance
+  the kinematic-idleness clause; the CνB calibration reading
 
 Layer 2 — projected (flat-space estimates; workbench referee owed):
   the messenger-universality budget: dark-sourced Shapiro common-mode ~10¹³ s at z ≈ 1;
@@ -51,6 +53,9 @@ Layer 3 — imported:
     friction, stream-gap, and disk/dwarf-heating measurements
   the exchange-metered chronology exhibit (cold-atom entropic time, arXiv:2509.07745 —
     an internal time that ticks on entropy exchange and stops when exchange stops)
+  the CνB gravitational detection (N_eff = 2.99 ± 0.17; mass bounds from lensing and
+    structure suppression); the Sagittarius-stream bounds on sector-differential gravity
+  inflaton/reheating machinery and its sector-assignment freedom
 ```
 
 ## The seat
@@ -102,7 +107,8 @@ The exactness is conditional: residence forces exact darkness only if the gravit
 the **only** cross-sector structure. A portal — a field with
 kinetic or interaction terms straddling both sectors — is a second seam, and darkness degrades to
 approximate. A metric split makes portals unnatural, not unwritable: a local cross-term is still
-constructible, so exactness is bought by seam-count one, held here as a postulate.
+constructible, so exactness is bought by seam-count one — held here as a postulate about the
+current effective theory; the production era is a separate epoch and is priced separately below.
 
 That maps the exact-zero/small-coupling fork onto an experiment already running: single-seam
 versus portal-ed two-sector. The direct-detection program is not measuring a small number; it is
@@ -155,7 +161,8 @@ interfaces does the dark sector have?*
 | dissipative morphology | Gaia local kinematics | dark disk ≲ few % of local dark density — no dark dissipation channel |
 | phase-space fossil | dwarf spheroidals; Lyman-α | coarse-grained phase-space density consistent with purely gravitational mixing (Tremaine–Gunn floor) |
 | self-sector | merging clusters; halo shapes | σ/m ≲ 1 cm²/g — their census (DR-2) |
-| gravitational (compulsory) | dynamical friction (satellite sinking, Fornax timing); stream gaps (GD-1, Pal 5); disk/dwarf heating | **positive throughput, measured** — and bounded above |
+| gravitational (compulsory) | dynamical friction (Sagittarius orbital decay; the Fornax case — naive friction over-predicts sinking and gravity-only core stalling closes the books: the accounting demand exercised once already); stream gaps (GD-1, Pal 5 — claimed); disk/dwarf heating | **positive throughput, measured** — and bounded above |
+| calibration — known population | cosmic neutrino background | decoupled at z ~ 10¹⁰, interface-negligible since; weighed purely gravitationally — N_eff = 2.99 ± 0.17, mass bounds from lensing and structure suppression. The method's positive control: the gravitational meters correctly read a sector whose existence is independently known |
 
 Every optional register reads zero; the compulsory register reads nonzero with measured drag —
 the interface profile of residence, met column by column in data already in hand. The census
@@ -173,10 +180,16 @@ ends one count, the fog and the cavities end the others; DR-1 rides all of them.
 
 ## What residence forces downstream
 
-- **Abundance at the seam.** Freeze-out spends non-gravitational interfaces the residents do not
-  have; the relic abundance must be set at the only channel that exists — gravitational
-  production. Ω_dark/Ω_baryon ≈ 5 becomes a seam-throughput question with no couplings to hide
-  in. Named as the lane's next note, not run here.
+- **Abundance at the seam — conditionally.** Freeze-out spends non-gravitational interfaces the
+  residents do not have, so present-epoch production is gravitational only. The production era is
+  a separate question: our own sector's abundance was set by inflaton decay, and the inflaton's
+  sector assignment is open. A sector-pure inflaton forces gravitational production of the
+  residents, and the O(1) proximity to the baryon abundance stays an accident. An inflaton
+  coupled to both sectors was a **portal that operated at reheating and closed when the inflaton
+  decayed**: Ω_dark/Ω_baryon ≈ 5 becomes branching-ratio physics, with no surviving detection
+  channel — permanent nulls and the coincidence explained by the same history. Either way the
+  single-seam clause is two-epoch: exact darkness binds the current effective theory. The
+  abundance note's arithmetic is branching arithmetic; named, not run.
 - **Cone-siblings.** Residents and gravitational waves ride the same sector: both fabric-side,
   both on the outer cone. Costless today; a fixed classification any future contact inherits.
 - **The decoherence budget.** Residents' environments couple only through the seam, so their
@@ -212,6 +225,14 @@ keep the books straight: dark matter puts **no number on ε** — residence work
 this contact is composition-evidence, never magnitude-evidence; and the aggregation rule holds —
 a retrodiction sharpens the seam bet, it does not confirm the seam.
 
+One confession the bar demands: for the cold population that constitutes the observed dark
+matter, the cone assignment is kinematically idle — nothing non-relativistic probes its own
+cone, so the in-principle signatures (resident fronts at ε-fast; an O(ε) effective-G split
+between sectors, fourteen orders below the few-percent Sagittarius-stream bounds on
+sector-differential gravity) do no observable work today. The cone delta makes residence
+**well-defined, not detectable**; detectability lives entirely in the interface structure, where
+the bets above sit.
+
 ## Two arguments against
 
 - **The abundance coincidence leans portal.** Ω_dark/Ω_baryon ≈ 5 — order unity. Gravitational
@@ -221,12 +242,17 @@ a retrodiction sharpens the seam bet, it does not confirm the seam.
   5 : 1 smells like shared production machinery — a portal. The most suggestive unexplained
   number in the domain is circumstantial evidence against the exactness clause, and it makes the
   abundance note a live threat: if seam throughput cannot yield O(1) naturally, residence keeps
-  the seat only by pricing 5 : 1 as coincidence.
+  the seat only by pricing 5 : 1 as coincidence. Within residence the lean has one place to
+  land: the reheating-era portal above — the coincidence as the fossil of a channel that closed,
+  the present interface set untouched — which converts the threat into the abundance note's
+  calculation.
 - **The precedent favors the drift story.** Nature has run the nearly-dark play once before: the
   neutrino — no electromagnetic coupling, feeble weak coupling, nearly collisionless — where
   "small coupling, keep digging" was correct, and detection came twenty-six years after
   postulation. On the one historical trial available, exact-zero is 0 for 1. DR-1 is placed
-  against that precedent.
+  against that precedent. The same species cuts the other way too: the cosmic neutrino
+  background is the census's calibration row — a real sector weighed purely gravitationally.
+  One particle, both edges: it warns against the exactness and certifies the method.
 
 ## The standing bet
 
@@ -248,8 +274,10 @@ stranded:  the seam dies (CD-2 fires; the template family dies wholesale at
            cosmological depth) — the seat is removed without the occupancy claim
            being tested; stranded is neither vindicated nor refuted, and reverts
            to the gravity-only relabel, banked
-demoted:   a second seam found (portal) — darkness approximate; the reading
+demoted:   a portal found operating today — darkness approximate; the reading
            survives as bookkeeping at seam-count ≥ 2, its exactness clause dead
+           (a reheating-era portal that closed on decay is the abundance reading,
+           not this demotion)
 ```
 
 ## The program
@@ -276,7 +304,9 @@ strand/kill distinction; the composition-not-magnitude clause; the relabel bar w
 cone-delta dependency; the role-spec reading of the field and the scaffold observation; the
 rival-occupant fork with its discriminator; the two on-record tensions; the
 chronological-silence corollary and the eligibility census with its accounting demand; the
-program table and its ledger loading. Imported:
+program table and its ledger loading; the two-epoch single-seam statement and the
+reheating-portal reading of the abundance; the kinematic-idleness clause; the CνB calibration
+reading. Imported:
 every dark-matter observation, bound, and null named above; the production machinery; the
 bimetric prior art; the published Shapiro constraint; the PBH bound structure; the
 asymmetric-dark-matter motivation; the census meters and the entropic-time exhibit; the
