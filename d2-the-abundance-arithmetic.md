@@ -123,9 +123,11 @@ So the ratio is doing evidential work after all, and the compressed claim's epoc
 right instinct with the wrong default branch: **Ω_dark/Ω_b ≈ 5.4 is evidence about interface
 history.** It leans toward I(t_early) ≠ ∅ closing to I(t₀) = ∅ — and against
 seam-count-one-at-all-epochs — with a scheduled discriminator: the structured branch generically
-leaves ΔN_eff ≳ 0.05, and CMB-S4 measures to 0.03. A ΔN_eff detection near that level is the
-fossil showing; a hard null pushes the lane to A2/A3 and the coincidence to a permanent
-discount.
+leaves ΔN_eff ≳ 0.05, and CMB-S4 measures to 0.03. The fork's grading keeps existence and shape
+distinct: a detection near that level shows early dark radiation *exists* — an existence
+verdict, with branch selection still open; a hard null is a **shape** verdict — it kills the
+generic structured corner, and the history claim survives only at reheating asymmetries above
+~10³ or retreats to the accident branches, where the discount locks.
 
 Owned: the target-number framing; the branch taxonomy with the A1 exclusion; the hot-relic
 ceiling reading; the transplant diagnosis of Branch B; the interface-history corollary and its

@@ -38,6 +38,8 @@ Layer 1 — owned (A0 / C5 / C8 / C9 lineage):
   the kinematic-idleness clause; the CνB calibration reading
   the protection grading: kinetic seam-count-one as conditional theorem; potential
     portals as the open flank; the naturalness-now / gauge-upgrade price list
+  the definitiveness principle (two-column-blindness); conspiracy pricing; the
+    superradiance/self-census joint constraint; the PTA domain boundary
 
 Layer 2 — projected (flat-space estimates; workbench referee owed):
   the messenger-universality budget: dark-sourced Shapiro common-mode ~10¹³ s at z ≈ 1;
@@ -162,7 +164,10 @@ sector gauge symmetry are exactly forbidden and quantum-gravity-safe. Theorem-gr
 therefore has a price list: a dynamical-g̃ embedding (buys the kinetic theorem) plus gauged dark
 charges (buys the potential flank) — structure the reading has not purchased, priced here rather
 than assumed. This is C9's existence gap wearing the lane's clothes: the seam's consistency
-question and the darkness-protection question are one problem.
+question and the darkness-protection question are one problem. Existence/shape discipline: the
+open flank puts the *shape* of the zero at stake — exact against technically-natural-small, the
+compressed claim's not-c≪1 clause — never the existence of residence; a potential portal found
+demotes per the kill table and leaves the seat standing.
 
 That maps the exact-zero/small-coupling fork onto an experiment already running: single-seam
 versus portal-ed two-sector. The direct-detection program is not measuring a small number; it is
@@ -351,6 +356,24 @@ runs on existing data or funded instruments, and every outcome moves a named led
 | cluster mergers / halo shapes | Bullet, MACS-class | self-sector impedance | their census; no residence exposure | DR-2 |
 | substructure / compact objects | microlensing (OGLE, HSC, EROS); LVK subsolar-merger searches; stream gaps | resident content vs fabric texture | the occupant fork — a subsolar merger population hands the seat to texture; stream substructure is occupant-neutral at current sensitivity (both occupants make substructure; the mass-function shape and Poisson power eventually discriminate) | kill table (handed over) |
 | abundance | Planck + BBN + structure growth | seam-throughput production of Ω_dark/Ω_baryon ≈ 5 | the standing discount; an O(1) failure prices 5 : 1 as coincidence | tension ledger |
+
+## Where definitiveness lives
+
+*From the ultralight verdict map (`workbench/ultralight-verdict-map/`; referee scripts there).*
+Every interface meter is one-way: a positive convicts, a null shrinks a parameter that can
+shrink forever. Gravitational meters can acquit — but they split in two. Structure floors are
+conditional on *our* astrophysical modeling; black-hole-spin (superradiance) exclusions are
+conditional on **their self-coupling** — a quartic of one part in ~10⁷⁰ voids them, so the spin
+windows and the σ/m self-census row are one joint constraint, not two. The PTA oscillation
+signal alone depends on nothing but ρ and m. **Definitiveness is independence from both census
+columns' unknowns**, and exactly one instrument class has it — with a hard domain boundary:
+above ~3×10⁻²³ eV the signal falls below any achievable timing floor (reach scales as the cube
+root of array power), and no two-column-blind meter exists at any mass beyond it. Conditional
+meters combine by triangulation: N exclusions with audited-disjoint failure modes yield a
+verdict conditional only on the conjunction of their escape routes — the honest per-region
+deliverable is the conspiracy price, the named list of what must fail coherently, with shared
+variables (a common transfer function, a common production assumption) counted once.
+Triangulation robustifies exclusion; it cannot manufacture discovery.
 
 Owned: the lane charter and rule; the seat derivation and its forcing direction; the single-seam
 clause with the seam-counting re-read; the cross/self split and the internal-census re-read; the

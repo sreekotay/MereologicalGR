@@ -13,6 +13,8 @@ results below re-derived from definitions and verified there).*
 Layer 1 — owned (A0 / PB-4 / C5–C9 lineage):
   the two-axis seam space: extent × definiteness
   the fifth metric job — definiteness-supplier — and its unfusion at QG contact
+  the argument ledger: per-role hidden arguments; the metric as universal
+    default-argument supplier; constitution as the arity-discharge operator
   the reducer-seat trilemma and its outcome map
   the arity one-way law as an assembly, per-component graded
   the party/stage distinction read as PB-4's write-site question
@@ -58,6 +60,45 @@ in QFT consumes it silently: microcausality's index, the frame-entry θ (C8), th
 Lindblad machinery. Quantum-gravity contact is where this role unfuses from the other four. In
 role grammar the QG problem is not "quantize the dynamics role"; it is that **the rendering
 machinery loses its argument when the stage superposes** — the definiteness role has no owner.
+
+## The argument ledger
+
+*Refinement (2026-07): the fifth job, generalized.*
+
+The two delta families differ in what they split. An extent delta splits a relation's value
+structure — R(p,q) → (R_f(p,q), R_m(p,q)): same shape, two reaches. An arity delta splits the
+argument structure — R(p,q) → R(p,q | α): the relation needed more arguments than the classical
+description exposed. Quantum contact does not add one argument to one relation; run role by
+role, every classical relation gains its own:
+
+| role-relation | classical form | argument gained | seam status |
+|---|---|---|---|
+| ordering | ≺(p,q) | branch / order-control | certified, party-relative only (the switch experiments); stage-level uncertified |
+| flow | τ(γ) | clock-branch — proper time along *which* arm | **open** — no clock interference at proper-time precision yet (b8's register) |
+| adjacency | d(p,q) | quantum reference frame | theory-certified; no direct experiment |
+| rendering | content-through-frame | the frame's own state (A0 §9) | open |
+| influence | K(p,q) | composition order — [A,B] ≠ 0, ħ its dial | settled: all of quantum mechanics is its data |
+| chronology | θ(x⁰−y⁰) | frame + branch | inherits ordering's status through frame-entry (c8) |
+
+Two consequences:
+
+**The classical metric is the universal default-argument supplier.** Each row gains a different
+argument, and g fills every one with a single trivial value in one stroke: branch unique, frame
+classical, order definite, clock one. The fifth job is the special case; the general statement
+is that the fusion is the simultaneous discharge of every hidden argument — why the bundle held,
+and why unfusing any role makes its argument reappear.
+
+**Constitution is the one relation that runs the other way.** Every row gains an argument; the
+write removes them — records are two-place Boolean facts, the one-way law's anchor. Constitution
+is the grammar's arity-discharge operator: where R(p,q | α) returns to R(p,q). An arity-raisable
+fabric with no discharge operator hosts no records; the reducer trilemma's three corners are the
+three candidate dischargers; and the two delta axes meet at constitution because both terminate
+there — the extent axis in chronometry of writes, the arity axis in the discharge.
+
+Per-role discipline: each row carries its own existence question, settled separately —
+"quantization's existence" is settled only for the influence row. The flow row is this axis's
+open anchor: a clock interfered at proper-time precision would be the first per-role existence
+certification outside influence — the arity analog of the extent axis's single anchor event.
 
 ## The census row
 
@@ -159,7 +200,8 @@ axes meet at exactly one joint — constitution, where the write site referees t
 occupies the trilemma's seat. Scale discipline as in C7: nothing connects this axis's magnitudes
 to the extent axis's, and nothing here claims to.
 
-Owned: the axis and its gauge/invariant split; the fifth-job diagnosis; the census row with the
+Owned: the axis and its gauge/invariant split; the fifth-job diagnosis; the argument ledger with
+its two consequences and per-role grading; the census row with the
 locus footnote; the one-way assembly with its grades; the party/stage reading and its write-site
 identification; the trilemma with its outcome map and the conversion-cost reading of the CQ
 trade-off; the amplifier reading. Imported: every theorem, exclusion, robustness value, and
