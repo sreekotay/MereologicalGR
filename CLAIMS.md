@@ -280,6 +280,7 @@ purely-gravitational calibration row). No PB weight; not canon.
 |---|---|---|
 | Torsion neutron-star gates, EOS numerics | `archive/b5-torsion-experimental/`, `data/b5-*` | Externally priced; **D9 sensitivity only** |
 | Frame-transport handle CSVs | `workbench/frame-transport-discriminator/` | Numeric experiments |
+| Ultralight verdict map (PTA / superradiance / structure strands; triangulation + conspiracy prices; referee scripts) | `workbench/ultralight-verdict-map/` | D-lane support (DR-2/DR-3); three-strand agent derivation, July 2026 |
 
 Do not treat workbench outputs as witness for PB or core grammar without promotion through A0 grading.
 
