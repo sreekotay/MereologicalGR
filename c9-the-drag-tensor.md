@@ -21,7 +21,8 @@ Layer 1 — owned (C1/C5/C8 lineage; b5's closure grammar):
 Layer 2 — projected (computed; sympy-verified in workbench/two-metric-seam/):
   the exact C formula, det g̃ = (1−B) det g, the Sherman–Morrison inverse
   the C = 0 rigidity theorem; exact path-identity; the δα/α = ε lensing residual
-  the FLRW reduction and the (1+z)-weighted timing integral
+  the FLRW reduction and the comoving timing integral (the chain realization
+    carries the extra (1+z))
   the multipole content ℓ ≤ 2 of the general nesting drag; dipole = gauge
   the count-compatibility rigidity (universal density ⟹ B constant)
   the QED floor with exact coefficient (5.1×10⁻⁴³ today)

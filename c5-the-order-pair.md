@@ -225,8 +225,8 @@ quadratic cones, gap unknown.
   picture of radiation happening *between* the horizons. What sets each temperature never used
   that picture: Hawking temperature is fixed by surface gravity through global structure
   (Euclidean periodicity; Kay–Wald KMS uniqueness on a bifurcate Killing horizon; exact
-  exponential peeling off each sector's own horizon — the flat-space sibling is c8's two-lock
-  statement, "wedge modular structure has no optics in it"), and each sector's field propagates
+  exponential peeling off each sector's own horizon — the same per-sector modular structure
+  that needs no optics in the flat-space wedge), and each sector's field propagates
   on its own metric, whose wave equation contains one horizon only — the shell is a two-metric
   *comparison* object that no single field's dynamics contains. For the composite member the
   statement is exact (`workbench/two-metric-seam/verify_horizon_pair.py`): g̃ is itself

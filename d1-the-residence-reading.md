@@ -248,7 +248,7 @@ ends one count, the fog and the cavities end the others; DR-1 rides all of them.
   decayed**: Ω_dark/Ω_baryon ≈ 5 becomes branching-ratio physics, with no surviving detection
   channel — permanent nulls and the coincidence explained by the same history. Either way the
   single-seam clause is two-epoch: exact darkness binds the current effective theory. The
-  abundance note's arithmetic is branching arithmetic; named, not run.
+  abundance question is branching arithmetic.
 - **Cone-siblings.** Residents and gravitational waves ride the same sector: both fabric-side,
   both on the outer cone. Costless today; a fixed classification any future contact inherits.
 - **The decoherence budget.** Residents' environments couple only through the seam, so their
@@ -303,8 +303,7 @@ the bets above sit.
   abundance note a live threat: if seam throughput cannot yield O(1) naturally, residence keeps
   the seat only by pricing 5 : 1 as coincidence. Within residence the lean has one place to
   land: the reheating-era portal above — the coincidence as the fossil of a channel that closed,
-  the present interface set untouched — which converts the threat into the abundance note's
-  calculation.
+  the present interface set untouched — which converts the threat into a calculation.
 - **The precedent favors the drift story.** Nature has run the nearly-dark play once before: the
   neutrino — no electromagnetic coupling, feeble weak coupling, nearly collisionless — where
   "small coupling, keep digging" was correct, and detection came twenty-six years after
