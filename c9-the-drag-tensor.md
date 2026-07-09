@@ -276,7 +276,10 @@ Cauchy data. What is established, what fights, and what is owed:
 - **The thermodynamic selector (2026-07; resolution at C5's GSL wall).** A standing
   two-temperature horizon is a genuine second-law breach — Dubovsky–Sibiryakov's perpetuum
   mobile, with a classical shell-extraction version (Eling–Foster–Jacobson–Wall) that needs no
-  quantum channels — and smallness of ε sets the rate, never the verdict. The unique escape is
+  quantum channels (import corrected with C5's wave-optics resolution: the classical tine has a
+  published dynamical obstruction, Benkel et al. 1803.01624, so the weight sits on the quantum
+  D-S channel — which the per-sector wave-optics derivation confirms) — and smallness of ε sets
+  the rate, never the verdict. The unique escape is
   **flux-constitution**: n is the infalling matter congruence, so B vanishes on exactly
   stationary horizons, the horizons fuse, and the GSL holds; the two-temperature state exists
   only during accretion, where accretion's own entropy production dominates by ≥ 45 orders.
