@@ -36,6 +36,8 @@ Layer 1 — owned (A0 / C5 / C8 / C9 lineage):
     gravity-only accounting demand; the conservative-portal blind spot
   the two-epoch single-seam statement; the reheating-portal reading of the abundance
   the kinematic-idleness clause; the CνB calibration reading
+  the protection grading: kinetic seam-count-one as conditional theorem; potential
+    portals as the open flank; the naturalness-now / gauge-upgrade price list
 
 Layer 2 — projected (flat-space estimates; workbench referee owed):
   the messenger-universality budget: dark-sourced Shapiro common-mode ~10¹³ s at z ≈ 1;
@@ -58,6 +60,10 @@ Layer 3 — imported:
   the CνB gravitational detection (N_eff = 2.99 ± 0.17; mass bounds from lensing and
     structure suppression); the Sagittarius-stream bounds on sector-differential gravity
   inflaton/reheating machinery and its sector-assignment freedom
+  the ghost-theorem chain: Boulware–Deser; Hassan–Rosen; the doubly-coupled-matter
+    results and the composite-metric exception with its cutoff; the hidden-sector
+    radiative results (Planck-suppressed portal regeneration); the no-global-symmetries
+    pressure
 ```
 
 ## The claim, compressed
@@ -135,6 +141,28 @@ kinetic or interaction terms straddling both sectors — is a second seam, and d
 approximate. A metric split makes portals unnatural, not unwritable: a local cross-term is still
 constructible, so exactness is bought by seam-count one — held here as a postulate about the
 current effective theory; the production era is a separate epoch and is priced separately below.
+
+The postulate's protection status, graded (derivation run 2026-07; scripts in
+`workbench/two-metric-seam/portal_protection_check*.py`). What is derivable: in
+two-dynamical-metric theories of the Hassan–Rosen class, demanding ghost-freedom at all scales
+forces each matter field's kinetic and volume couplings onto exactly one metric — generic double
+couplings resurrect the Boulware–Deser ghost already at Λ₃, and the unique composite-metric
+exception survives only below a cutoff. **Seam-count one per field is a theorem-with-conditions
+for kinetic portals.** What is not derivable, by anything currently known: non-derivative
+potential portals (λ√−g O_ψO_χ). The product symmetry Diff×Diff would forbid them, but the
+metric interaction itself already breaks it to the diagonal, and the diagonal leaves portals
+unchargeable — this flank is open in the field, not merely in this framework. The seam as built
+here is composite (one metric degree of freedom, disformal relation), which escapes the ghost
+machinery and thereby forfeits it as protection; what remains today is technical naturalness —
+bare-zero portals are radiatively stable, with graviton exchange regenerating only
+Planck-suppressed operators and sector-wise global symmetries preserved perturbatively, against
+quantum-gravity no-global-symmetry pressure at the exponentially suppressed level. The one
+airtight upgrade known: **gauge the dark sector's quantum numbers** — portals charged under a
+sector gauge symmetry are exactly forbidden and quantum-gravity-safe. Theorem-grade darkness
+therefore has a price list: a dynamical-g̃ embedding (buys the kinetic theorem) plus gauged dark
+charges (buys the potential flank) — structure the reading has not purchased, priced here rather
+than assumed. This is C9's existence gap wearing the lane's clothes: the seam's consistency
+question and the darkness-protection question are one problem.
 
 That maps the exact-zero/small-coupling fork onto an experiment already running: single-seam
 versus portal-ed two-sector. The direct-detection program is not measuring a small number; it is
