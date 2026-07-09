@@ -74,7 +74,7 @@ role, every classical relation gains its own:
 | role-relation | classical form | argument gained | seam status |
 |---|---|---|---|
 | ordering | ≺(p,q) | branch / order-control | certified, party-relative only (the switch experiments); stage-level uncertified |
-| flow | τ(γ) | clock-branch — proper time along *which* arm | **open** — no clock interference at proper-time precision yet (b8's register) |
+| flow | τ(γ) | clock-branch — proper time along *which* arm | **open, dated** — no clock interference at proper-time precision yet; kinematic route ~2027–2030, gravitational phase ~2029–2033, visibility revival ~2033–2040 (b8's register) |
 | adjacency | d(p,q) | quantum reference frame | theory-certified; no direct experiment |
 | rendering | content-through-frame | the frame's own state (A0 §9) | open |
 | influence | K(p,q) | composition order — [A,B] ≠ 0, ħ its dial | settled: all of quantum mechanics is its data |
@@ -99,6 +99,14 @@ Per-role discipline: each row carries its own existence question, settled separa
 "quantization's existence" is settled only for the influence row. The flow row is this axis's
 open anchor: a clock interfered at proper-time precision would be the first per-role existence
 certification outside influence — the arity analog of the extent axis's single anchor event.
+The anchor has a calendar (2026-07 survey): the bottleneck is optical coherence in macroscopic
+superposition, not geometry — the 2015 record interferometer already carries ωΔτ ≈ 0.4 rad at
+optical clock frequency; the routes run kinematic (ion-clock proper-time superposition,
+~2027–2030), gravitational phase (Roura-class doubly-differential schemes at MAGIS-100/tweezer
+arrays, ~2029–2033), and full visibility revival (~2033–2040). One structural fact the ledger
+absorbs: closed light-pulse interferometers are *insensitive* to uniform-field dilation — the
+redshift phase cancels unless the clock argument is engineered into the pulse sequence. The
+hidden argument must be made readable; that is why it stayed hidden.
 
 ## The census row
 

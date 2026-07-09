@@ -172,11 +172,20 @@ thermal dressing pure added spectral weight (coth ≥ 1; vacuum-subtracted absor
 below pair threshold), and the sum rule forces n(0) ≥ 1 — δv(ω→0) ≤ 0, the Euler–Heisenberg
 minus sign as structure, not coefficient luck. Scope: forced for KMS dressings and as a
 DC-versus-front statement only — Casimir (mode-removal) genuinely runs v(0) > c, and
-Drummond–Hathrell proper stays dispersion-relation-dependent. The *differential's* sign keeps
-one owed comparison — the fabric leg's own classical medium-dressing (GW
-dispersion in cosmic matter, δv ~ Gρ/ω², comparable to the photon's QED floor at the LIGO band
-and growing toward low frequencies) has never been folded into the cross-sector two-leg
-arithmetic. The
+Drummond–Hathrell proper stays dispersion-relation-dependent. The *differential* is now folded
+(2026-07; `workbench/two-metric-seam/cross_sector_fold.py`, 19/19 checks): the fabric leg's
+floor is its own sources' Ricci trace — n_gw − 1 = +R/12ω², phase interior, group exterior by
+exactly the same amount, front pinned at c, photons conformally blind to the term. The photon's
+KK chain provably cannot close there (gapless response — the zero-frequency-pole loophole plasma
+uses); the sign is forced instead by the trace energy condition, p ≤ ρ/3: KMS signs the matter
+leg, an energy condition signs the fabric leg, and where neither holds (kination) the front
+still does. At arrival level the differential is **one-signed at every frequency** — the photon
+runs more interior, both floors adding to Δt_γ−GW > 0 — with the two regimes changing hands at
+f* ≈ 130–430 Hz, inside the LVK band, straddling the frequency wall at 260 Hz (both scales
+H₀-powered). The GW group advance is sub-cycle-capped — under half a radian of accumulated phase
+for any sub-horizon mode over cosmic history — so one-sidedness is untouched at every band: the
+only exterior-signed object the fold produces lives on the fabric leg, below one cycle, at the
+rendered tier. The
 anchor-scale sign derivations (the grammar theorem; the halo asymmetry) are untouched by this.
 Species order among matter messengers by coupling at the 10⁻⁴³ class: real, forced, and
 operationally invisible — which is why the one-matter-cone statement survives.
@@ -295,7 +304,21 @@ Cauchy data. What is established, what fights, and what is owed:
   geometries plus n plus B up to scale) is C5's open conjecture, and until it is proven,
   "compatibility-determined" is an analogy with an existence gap — and possibly only a
   presentation of an algebraically-sourced Horn B. The non-verbal content is exactly: zero
-  Cauchy data, frame-tracking, f(0) = 0, kinematic covariance. Filed as owed.
+  Cauchy data, frame-tracking, f(0) = 0, kinematic covariance. Filed as owed. Surveyed
+  (2026-07; `workbench/two-metric-seam/bianchi_seam_branch.py`): in Hassan–Rosen bimetric
+  gravity the exact lapse-only seam is obstructed on the healthy branch (the Bianchi constraint
+  forces X = y + ẏ/H, so y ≡ 1 forces B ≡ 0) and survives only on the strongly-coupled algebraic
+  branch — but the viable finite branch in its GR limit, with one parameter condition, realizes
+  **g̃ = (1 − B/3)(g + B u⊗u)**: the seam plus a conformal dressing of derived shape, and null
+  cones are conformally invariant, so every timing observable sees the pure seam. The nesting is
+  **forced** — the expanding finite branch gives the fabric cone strictly wider, the opposite
+  orientation living only on the ghost-dead infinite branch. B = 6(H/m_FP)² with B ∝ Ḣ —
+  f(0) = 0 automatic, vanishing in de Sitter as well as Minkowski, sharpening the response
+  family's argument from H to Ḣ and selecting **p = 2** in C6's exponent. B ~ 10⁻¹⁶ today needs
+  m_FP ≈ 1.4×10⁻²⁵ eV — two orders under the graviton-mass bound, five inside the Λ₃ window,
+  Higuchi-safe. The gap narrows to one named calculation: whether the finite branch's early-time
+  gradient window (H ~ m_FP, z ~ 6×10⁴) clears CMB-observable modes at that parameter point.
+  Existence: modified, favorable; uniqueness: still open.
 
 ## The per-face ledger
 
