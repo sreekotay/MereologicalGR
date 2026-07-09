@@ -317,9 +317,17 @@ Cauchy data. What is established, what fights, and what is owed:
   f(0) = 0 automatic, vanishing in de Sitter as well as Minkowski, sharpening the response
   family's argument from H to Ḣ and selecting **p = 2** in C6's exponent. B ~ 10⁻¹⁶ today needs
   m_FP ≈ 1.4×10⁻²⁵ eV — two orders under the graviton-mass bound, five inside the Λ₃ window,
-  Higuchi-safe. The gap narrows to one named calculation: whether the finite branch's early-time
-  gradient window (H ~ m_FP, z ~ 6×10⁴) clears CMB-observable modes at that parameter point.
-  Existence: modified, favorable; uniqueness: still open.
+  Higuchi-safe. The gap narrowed to one named calculation, now run (2026-07;
+  `workbench/two-metric-seam/gradient_window.py`): the α-scaling reconciles exactly —
+  B = C(H/m_FP)² with the mixing's α² cancelling, so m_FP stands and α is a free stability dial
+  at zero cost to B. The instability window ends at z_GI ≈ 1.0×10⁵, where the comoving
+  instability horizon is ~4.6 Mpc: CMB-observable modes accrue ≲ 1 e-fold — **cleared on
+  geometry alone**. The binding scale is Lyα: contamination is O(α²)·e^N, requiring α ≲ 6×10⁻⁴
+  at |c_s| = 1 (bracketed 10⁻² down to 10⁻¹⁵ across the unverified |c_s| range — the one flagged
+  unknown); BBN imposes no lower bound on α at this m_FP, so the condition is satisfiable for
+  free. Verdict: conditional-on-α, condition quantified and cheap — upgrading to unconditional
+  if the published nonlinear (Vainshtein-class) saturation holds at this point. Existence:
+  modified, favorable, priced; uniqueness: still open.
 
 ## The per-face ledger
 
