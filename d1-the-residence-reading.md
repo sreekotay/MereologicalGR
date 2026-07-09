@@ -22,6 +22,8 @@ d-note rule:
 
 ```text
 Layer 1 — owned (A0 / C5 / C8 / C9 lineage):
+  the compressed claim: darkness as interface-set emptiness, epoch-indexed;
+    the interaction/legibility separation
   the seat derivation: fabric-side residence forces exact cross-sector darkness
   the single-seam clause; the seam-counting re-read of direct detection
   the cross-sector / self-sector interface split; the internal-census re-read of σ/m
@@ -57,6 +59,30 @@ Layer 3 — imported:
     structure suppression); the Sagittarius-stream bounds on sector-differential gravity
   inflaton/reheating machinery and its sector-assignment freedom
 ```
+
+## The claim, compressed
+
+```text
+χ is dark     because I_χψ(t₀) = ∅ — not because c_χψ ≪ 1
+χ is visible  because T^μν_χ sources g, and g̃ = g + O(ε):
+              interaction is seam-priced; legibility is near-unit
+
+dark matter = other-side content (not texture)
+            + seam-count one now (the reheating epoch priced separately)
+            + full-strength gravitational legibility
+
+darkness ≠ small coupling
+darkness = other-side residence under seam-count one
+```
+
+Each clause carries a guard. The interface set I_χψ is epoch-indexed: I(t₀) = ∅ is the bet;
+I(t_reheating) may contain the inflaton, and that branch owns the abundance. The visibility
+clause separates what the seam prices from what it does not: cross-sector *interaction* is
+seam-only (the darkness), while gravitational *legibility* is near-unit because g̃ = g + O(ε) —
+dark sourcing appears at full strength, not at ε of it, and the Shapiro row measures exactly
+this. And *content* is load-bearing: fields with kinetic terms on g, against texture —
+configurations of g — which satisfies every other clause without a second sector. "Other-side"
+is mutual: from their column, ours is the dark sector.
 
 ## The seat
 
