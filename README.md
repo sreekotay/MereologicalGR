@@ -5,6 +5,7 @@
 Start here: **[A0 — Mereological Foundations](A0-Mereological-Foundations-for-General-Relativity.md)**
 Status: **[CLAIMS.md](CLAIMS.md)** — grades, owned vs imported, failure conditions.
 Uses: **[USES.md](USES.md)** — which definitions are locators; cashed, open, and parked novel-uses.
+Delta: **[DELTA.md](DELTA.md)** — the definition inventory graded per (definition, closure) pair; relabel banked in GR, constraint spent at contact.
 ---
 
 ## What this repository is
