@@ -24,7 +24,7 @@ when a claim looks final, ask which tier it occupies and what would constitute i
 | rendering ≠ uptake | detector response = measurement | response without uptake is not yet information | b6 (temperature); b8 (phase/register) |
 | the influence ladder | influence is yes/no | tier-classify every "influence/signal/exchange" claim | b1 (virtual photons); c8 (census) |
 | kernel ≠ carrier | virtual particles are tiny carriers | internal-line bookkeeping vs asymptotic influence | b1 §5.1; c8 negative control |
-| temperature as rendered scale | acceleration causes temperature; baths are places | T(state, flow, generator, access); the drift-rate law with the engagement condition | c8 spectral reading; c10 composite inheritance |
+| temperature as rendered scale | acceleration causes temperature; baths are places | T(state, flow, generator, access); the drift-rate law with the engagement condition — onset map computed (first-order rigidity; ~13/42 e-folds for 10%/1%; hot-side finite-time bias; analog scan proposed with one published point bracketed) | c8 spectral reading; c10 composite inheritance; workbench/engagement-spectroscopy/ |
 | cone jobs | one cone, one job | ask which job the cone is doing (propagation, measurement, dynamics, chronology, definiteness) | c1; c10 fifth job |
 | the argument ledger | quantization = fuzziness | which classical relation gained an argument; composites inherit the union | c10 |
 | the closure faces (literal) | curvature = gravity, torsion = exotica | which loop fails to close: rotational, translational, temporal | b5; c9 timing holonomy |

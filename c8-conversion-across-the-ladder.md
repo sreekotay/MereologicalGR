@@ -423,7 +423,16 @@ generators are the eigenrays), the **friction**'s temperature is the eigenvalue 
 2π — a for Rindler, κ for the hole, H for de Sitter's geodesic observer, who has no proper
 acceleration at all: the drift rate, not the acceleration, was always the variable — engaging
 only where the exponential relation is sustained at constant rate over the state's correlation
-time (transient or non-constant rates render non-thermally; inertial flow renders nothing) —
+time (transient or non-constant rates render non-thermally; inertial flow renders nothing). The
+engagement is now a computed map (2026-07; `workbench/engagement-spectroscopy/`): thermality is
+**first-order rigid** — rate drift absorbs exactly into T(τ) tracking at first adiabatic order,
+with genuine shape distortion starting at second order (ξ² = (ȧ/a²)², in-band coefficient
+~0.15) as closed-form Planck-derivative distortions; the onset counts peeling e-folds — ~13 for
+10% thermality, ~42 for 1% — finite episodes always read *hot* (+13/(aΔτ)²), and the Wien tail
+never thermalizes under non-smooth switching (window closes at ω ≈ 0.4·rate/ξ). Exponents and
+structure are probe-universal; coefficients are detector-owned. The analog systems can scan the
+axis — published BEC data already brackets one point (the ramp-up over κΔτ ~ 6–10 sits on the
+predicted segment), and the ξ²-distortion smoking gun needs an engineered κ̇/κ² ≈ 0.3–0.5 —
 and the **invoice** is priced by mixing — massive content is never an
 eigenobject, so it is always chargeable; null content has no worldline to force, so it is only
 ever rendered, and pure redshift radiates nothing. Off-axis null content aberrates, but the
