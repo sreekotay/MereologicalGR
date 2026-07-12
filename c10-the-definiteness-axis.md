@@ -14,7 +14,8 @@ Layer 1 — owned (A0 / PB-4 / C5–C9 lineage):
   the two-axis seam space: extent × definiteness
   the fifth metric job — definiteness-supplier — and its unfusion at QG contact
   the argument ledger: per-role hidden arguments; the metric as universal
-    default-argument supplier; constitution as the arity-discharge operator
+    default-argument supplier; constitution as the arity-discharge operator;
+    composite inheritance (temperature; mass with the opposite signature)
   the reducer-seat trilemma and its outcome map
   the arity one-way law as an assembly, per-component graded
   the party/stage distinction read as PB-4's write-site question
@@ -104,6 +105,15 @@ element, the coordinate artifact, the reified bath) is the catalog of which argu
 silently defaulted. Branch-indexed temperature, T(… | branch), then needs no new postulate: it
 is inheritance.
 
+Mass is the second worked example, with the opposite signature. E = −p·u is rendered — one frame
+argument — while m² = −p·p is the quotient invariant: **no frame argument at all**, which is why
+mass reads as intrinsic while its siblings read as observer-dependent. At quantum contact it
+gains the other axis's argument instead: internal energy contributes to inertia, so a clock
+superposed over internal states is a superposition of masses, m(· | internal branch) — the one
+entry whose extent-axis argument list is empty and whose definiteness-axis argument is already
+under experimental test (the lattice-clock mass-energy protocols). The two axes separate cleanly
+on mass and nowhere else in the table.
+
 Per-role discipline: each row carries its own existence question, settled separately —
 "quantization's existence" is settled only for the influence row. The flow row is this axis's
 open anchor: a clock interfered at proper-time precision would be the first per-role existence
@@ -174,9 +184,14 @@ the fabric is arity-raisable, the **reducer seat** must be filled; an empty seat
 ungrammatical. Three occupants, no fourth:
 
 - **(A) The fabric reduces** — gravitational collapse (Diósi–Penrose class); constitution's
-  threshold T fabric-supplied. *Bleeding*: parameter-free DP is dead (underground radiation
-  searches — collapse noise makes charged matter radiate, none seen; the surviving smearing
-  range no longer collapses macroscopic superpositions effectively). Ultralocal-continuous
+  threshold T fabric-supplied. *Bleeding, updated 2026-07*: parameter-free DP is dead
+  (underground radiation searches — collapse noise makes charged matter radiate, none seen), and
+  the surviving smearing edge is now R₀ > 2.8 nm (XENONnT, 5.7× beyond Majorana; the same search
+  excludes the GRW-value white-noise CSL point for the first time). The surviving DP corner is
+  out of reach of every planned interferometric program, nanoparticle-class included
+  (`workbench/arity-seam/collapse_vs_magis.py`): radiation searches and gravitationally-induced
+  entanglement remain the only live channels, and the non-radiating Penrose variant escapes even
+  those. Ultralocal-continuous
   classical-quantum gravity is dead — by the ℓ→0 divergence intrinsic to its definition, or,
   cut off at the nuclear scale, by light-probe force noise (the corrected mechanism; the
   kilogram-scale squeeze does not close on its own). The instrument doing the killing is the CQ
@@ -197,7 +212,13 @@ application-supplied) while write-not-read survives — a one-clause hit, ledger
 continued attrition → C strengthens by default, separable from B only at experiments generations
 out. Corner A is the only corner with live experiments, and it is being killed by the *costs* of
 forcing definiteness rather than by tests of definiteness — the side-effects were more testable
-than the thing.
+than the thing. One instrument-level split is designed (2026-07): internal clock-state
+superpositions are **collapse-blind** — mass-density-coupled reducers dephase them at
+(Δm/m)² ~ 10⁻²¹ relative — so a co-located spatial-interferometer/clock-Ramsey pair on the same
+atoms separates mass-density-coupled from proper-time-coupled reducer classes by construction,
+and the funded clock-interferometry facilities natively prepare both channels. The class
+precedent already fired once: KTM-type classical-channel gravity was killed by atom
+interferometry itself (the 54-cm superposition), not by a dedicated test.
 
 ## Feasibility: the Compton amplifier
 

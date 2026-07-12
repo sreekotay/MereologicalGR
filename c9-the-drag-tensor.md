@@ -311,7 +311,12 @@ Cauchy data. What is established, what fights, and what is owed:
   forces X = y + ẏ/H, so y ≡ 1 forces B ≡ 0) and survives only on the strongly-coupled algebraic
   branch — but the viable finite branch in its GR limit, with one parameter condition, realizes
   **g̃ = (1 − B/3)(g + B u⊗u)**: the seam plus a conformal dressing of derived shape, and null
-  cones are conformally invariant, so every timing observable sees the pure seam. The nesting is
+  cones are conformally invariant, so every timing observable sees the pure seam — and the
+  dressing's one observable face, cross-messenger distance-duality (d_L^GW/d_L^EM = Ω(z_s)/Ω₀,
+  an endpoint ratio that never accumulates with path), is closed structurally: signal ≲ 2×10⁻¹⁷
+  against an asymptotic 3G floor of ~10⁻³, with the Ξ₀/running-Planck-mass program having
+  already run the test at the tens-of-percent level (`workbench/two-metric-seam/duality.py`).
+  The nesting is
   **forced** — the expanding finite branch gives the fabric cone strictly wider, the opposite
   orientation living only on the ghost-dead infinite branch. B = 6(H/m_FP)² with B ∝ Ḣ —
   f(0) = 0 automatic, vanishing in de Sitter as well as Minkowski, sharpening the response
@@ -338,7 +343,14 @@ Cauchy data. What is established, what fights, and what is owed:
 | θ (epoch, ε = ε₀E(z)^p) | c_T² < 2.85 (95%) at z = 1100 → **p ≤ 3.5**; O(1) at z ≲ 2 | recombination; LSS | 1405.7974; α-basis fits | 15 orders open; every p ≤ 3 unconstrained |
 | a (Φ-correlated, ε = κ_Φ Φ/c²) | κ_Φ ≲ 10⁻⁵ *only if photon-coupled* (Cassini); none GW-only | solar system | Bertotti+ 2003 | **alive**: anchor needs κ_Φ ≈ 4×10⁻¹¹ → 5.4+ orders unprobed (5.5 fs at Cassini) |
 | σ (anisotropic) | ~10⁻¹⁵ per direction, one sightline; \|c_σ\| ≲ 10⁻¹⁵ (aether) | LVK band | SME/aether readings (1802.04303) | alive by a factor of a few, direction-starved |
-| ∇B (source-peaked) | none (10⁻⁷ differential per lensed event, forecast) | lens scale | Collett–Bacon (1602.05882) | unconstrained; lensed events the unique probe |
+| ∇B (source-peaked) | none (10⁻⁷ differential per lensed event, forecast); pointwise-θ kernels sightline-bound: a 10-pc star-forming cloud crossing gives 69 s at the pointwise normalization — anchor-class events already bind it hard (`workbench/two-metric-seam/dynamism_regressor.py`) | lens scale; sub-corner flows (θ ~ 1/Myr, below the 936-yr corner) | Collett–Bacon (1602.05882); 2026-07 regressor run | lensed events the unique clean probe; the pointwise local extrapolation is the constrained one |
+
+A near-source *dynamism* face does not exist (2026-07, same run): the licensed kernel is
+background-response only; the saturated ceiling is 100·GM/c³, below the emission floor by a
+mass-invariant ~10⁻³ (every source clock runs on GM/c³); the one kernel yielding an observable
+term predicts ~9 yr and is excluded by the anchor itself by 2×10⁸; and even granting an
+amplitude, propagation-dynamism and emission-dynamism occupy the same regression column — exact
+rank deficiency, unbroken by count, precision, redshift, or lensing.
 
 Preferred-frame pulsar bounds, corrected import: α̂₂ < 1.6×10⁻⁹ (solitary MSPs — five orders
 tighter than the binary-era figure C1 carried) — and still not mapping onto κ_Φ

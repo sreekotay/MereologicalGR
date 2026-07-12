@@ -1,0 +1,5 @@
+/home/user/MereologicalGR/workbench/tick-census/tick_census.py:86: IntegrationWarning: The algorithm does not converge.  Roundoff error is detected
+  in the extrapolation table.  It is assumed that the requested tolerance
+  cannot be achieved, and that the returned result (if full_output = 1) is 
+  the best which can be obtained.
+  return quad(f, z, 3e7, limit=200)[0]

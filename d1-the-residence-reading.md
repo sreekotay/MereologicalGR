@@ -41,6 +41,9 @@ Layer 1 — owned (A0 / C5 / C8 / C9 lineage):
   the definitiveness principle (two-column-blindness); conspiracy pricing; the
     superradiance/self-census joint constraint; the PTA domain boundary
   the tier-decomposed interface set (kernel/carrier/record) and its meter assignment
+  the amplifier-provenance ordering theorem and the Q_coh coherence audit
+  the dark-leg channel closure and the ELF zero-offset clause
+  the two-clock census quantification (the z ≈ 22 crossover; last-born-first-to-die)
 
 Layer 2 — projected (flat-space estimates; workbench referee owed):
   the messenger-universality budget: dark-sourced Shapiro common-mode ~10¹³ s at z ≈ 1;
@@ -189,6 +192,20 @@ without saying so: a certified record-tier event kills; a kernel-tier detection 
 operating today) demotes exactness without a single recoil. A future anomaly is classified by
 the highest tier it certifies.
 
+The tiers also order (2026-07; `workbench/tier-order/tier_reach.py`) — by **amplifier
+provenance**: kernel's amplifier is apparatus-supplied (always available), carrier's
+kinematics-supplied, record's cosmology-supplied. The conditional theorem: kernel detects first
+for light, unscreened, scalar/vector, tree-level, non-relic portals — by 5–11 decades in
+coupling below ~1 eV; carrier first above ~1 eV; record-relic first only below ~10⁻²⁰ eV and
+only on the relic assumption; **record-flux never first anywhere**. Violations are lawful, not
+scrambling — a haloscope borrows cosmology's vertex; a pseudoscalar's kernel amplifier is
+structurally disabled — and the forward instrument is the **coherence audit**: a genuine portal
+produces (g, m)-aligned sub-threshold pulls across tiers (the Q_coh statistic, pre-registered;
+run retrodictively it convicts the XENON1T excess in 2020, whose solar-axion fit needed a
+coupling ~30× above the standing stellar carrier bound). Outside the two crossover windows the
+audit degrades to a confirmation-sequence rule: a claimed signal back-casts a computable
+adjacent-tier value, and an implied value already excluded pre-convicts the claim as noise.
+
 ## The split: their census, read through gravity
 
 Residence forces cross-sector emptiness only. The self-sector is unconstrained by the
@@ -218,7 +235,17 @@ metered on interface events — realized as an instrument in an engineered regis
 exhibit: an internal time that ticks on entropy exchange and stops when exchange stops) — so
 interface-ineligible content contributes no ticks. Under residence the record-tier chronology of
 the universe is authored by the eligible sixth of its matter; the dark sector is chronologically
-silent on every register but one.
+silent on every register but one. Quantified (2026-07; `workbench/tick-census/`): per-sector
+entropic clocks across cosmic history show the fastest inter-sector rate reversal on record —
+~25 orders across Δz ≈ 20 at cosmic dawn, structure production overtaking baryonic thermal
+production at z ≈ 22, robust from z ≈ 19 to 67 across thirty decades of the unknown
+per-particle bookkeeping. The dark sector's chronology *is* the structure curve: its time starts
+at first collapse (BBN through most of the dark ages are, in its ledger, a single instant), half
+its ticks have passed since z ≈ 3.7, and with Λ saturating growth it is ~94% spent including
+the infinite future — last-born, first-to-die. The one empirical dial: the 21-cm trough reads
+the dark-age baryonic clock at 0.1–1 k_B per baryon, and an EDGES-class anomaly would be a
+detected tick in a dark–baryon channel — the same portal detection the thermal register already
+prices.
 
 The silence is measurable register by register, and the meters already exist — collected across
 three decades and three literatures under other names, never read as one question: *how many
@@ -303,7 +330,14 @@ cone, so the in-principle signatures (resident fronts at ε-fast; an O(ε) effec
 between sectors, fourteen orders below the few-percent Sagittarius-stream bounds on
 sector-differential gravity) do no observable work today. The cone delta makes residence
 **well-defined, not detectable**; detectability lives entirely in the interface structure, where
-the bets above sit.
+the bets above sit. The confession is now arithmetic
+(`workbench/dark-transient-timing/flux_arithmetic.py`): the dark-leg timing channel is empty by
+construction — a dark-leg detection presupposes the portal whose absence is the claim — and
+empty by 10¹¹–10²⁹ in the demoted world, so **GW-vs-EM timing is the residence reading's unique
+kinematic realization**, not merely its best. One free clause survives the closure: any
+GNOME-class exotic-field burst coincident with a GW event must show a purely dispersive delay
+(the D/2γ²c chirp) with **zero cone offset** — a measured non-dispersive offset breaks
+cone-siblinghood without touching ε.
 
 ## Two arguments against
 
@@ -343,7 +377,12 @@ degrading to ~1.5–3 against a drift prior spread over ten decades: the statist
 *predictive* drift only, and the thirteen recorded retreats are themselves the datum. The
 asymmetry is total and binds this note: each future death buys at most a bit against
 ever-weaker drift; one replicated confirmation ends DR-1 outright, and citing the graveyard
-commits in advance to treating it so.
+commits in advance to treating it so. A second, independent statistic joined the count
+(2026-07): tier-classified, the record shows **zero cross-tier alignments in eleven episodes**
+and two active anti-coherences — XENON1T's solar-axion fit sat ~30× above the standing stellar
+carrier bound, and the g-2 dark photon was carrier-killed years before the kernel anomaly
+dissolved — with births concentrating exactly where experiments are densest. The
+noise-dominance signature, twice over.
 
 ```text
 killed:    any non-gravitational dark-matter conversion event — a recoil, an

@@ -20,7 +20,8 @@ Layer 1 — owned (A0 / b1 / a4 / b4 / b7 / C-lane lineage):
     thermality as the two-leg lock (b1 §5.1 legs), radiation as its invoice;
     the universal-lock / indexed-invoice split; the per-sector two-lock statement
     the spectral reading: the triad as the boost's eigenstructure; the invoice
-      as mixing; the modal species statement (eigenrays null and only null)
+      as mixing; the modal species statement (eigenrays null and only null);
+      mass as transport impedance (clock stiffness; EP as zero-transport)
 
 Layer 2 — projected (computed here or upstream in the lane):
   the per-quantum area-channel kill (pulsar arithmetic, 22 orders)
@@ -112,9 +113,15 @@ efficiencies (relatedness→record, measured daily and never read this way), com
 the rung's measured (bound, realized) pairs are now tabulated in a5 §8.2, and a5 §8.1 exhibits
 the write register's bound as count-metered — PB-2.2's form, measured).
 This is also the separable answer to the relabel rebuttal: locality + unitarity explains why each
-rung has a *fence*; it does not predict that the *ratios* share a grammar. Common ratio-form earns
-the ladder beyond-locality status; no common form demotes the program to a relabel of standard
-causality, banked as such.
+rung has a *fence*; it does not predict that the *ratios* share a grammar. Common ratio-grammar
+earns the ladder beyond-locality status; no common grammar demotes the program to a relabel of
+standard causality, banked as such — and the test's form is now constrained (2026-07;
+`workbench/conversion-grammar/`): cross-register *shape* comparison is unrunnable — two-parameter
+families fit arbitrary smooth curves at R² > 0.99, the registers are not one observable class
+(a density against cumulatives), and shared-form is indistinguishable from generic smoothness —
+so the earning test must be a **pre-registered exponent relation** among the register-owned
+exponents, derived from the conversion law, with no per-register abscissa freedom. Until the law
+produces that relation, this leg has no discriminating measurement; named as such.
 
 The kernel→carrier rung also carries both extremes, and QCD supplies the other one: conversion to
 a colored carrier is **forbidden** (confinement — no colored asymptotic state, LSZ weight exactly
@@ -424,6 +431,17 @@ aberration flow on the celestial sphere has exactly the two eigenrays as its fix
 whole rendering map is organized by the same spectral pair. The species statement is modal:
 **massive content is never an eigenobject of transport; null content is the only content that
 can be.**
+
+Mass is the transport impedance, made exact: F = mc·(dφ/dτ) — the price per unit rapidity per
+unit proper time — and the impedance is the internal clock. S = −mc²∫dτ makes m the
+flow-coupling; ω_C = mc²/ħ is its tick rate; inertia is **phase stiffness** — transporting a
+running clock means re-synchronizing its Compton phase across its own extent. The corpus's three
+mass-faces are thereby one grading: mc = ħω_C/c = ħ/ƛ — the halo width (b1), the amplifier
+frequency, the mixing-eligibility above. And the equivalence principle falls out as bookkeeping:
+**free fall is not transport** — a geodesic is inertial carry, and gravity redefines the carry
+rather than forcing content through it — so the impedance never enters, and mass cancels in free
+fall because nothing is being resisted. Gravity is the one interaction that never pays the
+invoice because it never performs the operation the invoice prices.
 
 **What the defusion forces that the fused statement cannot phrase.** The fused form — "the
 Minkowski vacuum is KMS with respect to the boost" — fuses two definite articles: the state and
