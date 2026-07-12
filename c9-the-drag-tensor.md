@@ -300,12 +300,22 @@ Cauchy data. What is established, what fights, and what is owed:
   consistency. The orthodox alternative — a universal-horizon rescue — requires energy-dependent
   ε, a dispersive seam living on the frequency wall's axis: a structural fork with its own
   signature (frequency-dependent cross-leg residuals).
-- **The objection, unsoftened.** Horn C has no uniqueness theorem. Levi-Civita earns its status
-  by existence-and-uniqueness; the two-order analog (the pair plus one count determines both
-  geometries plus n plus B up to scale) is C5's open conjecture, and until it is proven,
-  "compatibility-determined" is an analogy with an existence gap — and possibly only a
-  presentation of an algebraically-sourced Horn B. The non-verbal content is exactly: zero
-  Cauchy data, frame-tracking, f(0) = 0, kinematic covariance. Filed as owed. Surveyed
+- **The objection, half-answered.** Horn C had no uniqueness theorem. Levi-Civita earns its
+  status by existence-and-uniqueness; the two-order analog (the pair plus one count determines
+  both geometries plus n plus B up to scale) is C5's conjecture, and its **algebraic half is now
+  proved** (2026-07; `workbench/recognition-lemma/`, 26/26 — 17 symbolic-exact): the deformation
+  is recognizable and invertible from the two conformal classes alone. The engine is g⁻¹g̃: a
+  triple eigenvalue on the g-spacelike 3-space u⊥ and a simple eigenvalue A(1−B) on u, so (B,
+  the direction of u) are invariants of the cone pair; generic nested cones carry four distinct
+  eigenvalues (0/1000 false recognitions) and the Kerr–Schild null class is separated by Jordan
+  structure, not eigenvalues — membership is decidable, and the class is measure-zero. The
+  volume map F(B) = (1−B/3)⁴(1−B) is strictly monotone on all B < 1, so **two causal orders
+  (Malament 1977, once per cone; distinguishing hypothesis sharp) plus one volume normalization
+  determine (g, g̃, u, B) outright**, u up to sign. What remains owed is the dynamical half —
+  that the field equations select this pair from Cauchy data as metricity selects Levi-Civita.
+  Until then "compatibility-determined" carries a proved recognition-and-inversion statement
+  with a dynamics gap — no longer a bare analogy, not yet a selection theorem. The non-verbal
+  content stands: zero Cauchy data, frame-tracking, f(0) = 0, kinematic covariance. Surveyed
   (2026-07; `workbench/two-metric-seam/bianchi_seam_branch.py`): in Hassan–Rosen bimetric
   gravity the exact lapse-only seam is obstructed on the healthy branch (the Bianchi constraint
   forces X = y + ẏ/H, so y ≡ 1 forces B ≡ 0) and survives only on the strongly-coupled algebraic
@@ -327,12 +337,26 @@ Cauchy data. What is established, what fights, and what is owed:
   B = C(H/m_FP)² with the mixing's α² cancelling, so m_FP stands and α is a free stability dial
   at zero cost to B. The instability window ends at z_GI ≈ 1.0×10⁵, where the comoving
   instability horizon is ~4.6 Mpc: CMB-observable modes accrue ≲ 1 e-fold — **cleared on
-  geometry alone**. The binding scale is Lyα: contamination is O(α²)·e^N, requiring α ≲ 6×10⁻⁴
-  at |c_s| = 1 (bracketed 10⁻² down to 10⁻¹⁵ across the unverified |c_s| range — the one flagged
-  unknown); BBN imposes no lower bound on α at this m_FP, so the condition is satisfiable for
-  free. Verdict: conditional-on-α, condition quantified and cheap — upgrading to unconditional
-  if the published nonlinear (Vainshtein-class) saturation holds at this point. Existence:
-  modified, favorable, priced; uniqueness: still open.
+  geometry alone**. The flagged unknown — |c_s| — is now computed rather than bracketed
+  (2026-07; `workbench/two-metric-seam/cs_extraction.py`; derived at the seam point α → 0, so
+  forced, not imported, with four literature anchors reproduced: branch taxonomy, the
+  finite-branch no-ghost condition, Boulware–Deser degeneracy det K ≡ 0, the tensor cone
+  c_T² = (X/y)²): the hidden scalar is **stable at every k and every z** — c_s² > 0 throughout,
+  with the closed early-time form c²_∞(w) = (3w+4)(3w+5)(15w+22)/[2(15w+17)] (405/22 in
+  radiation, 220/17 in matter, 7/2 in de Sitter; always interior to the f-cone), settling to a
+  healthy luminal Fierz–Pauli scalar, c_s² = 1 − O(10⁻¹⁵), across the observable window. The
+  e^N pricing is thereby **vacated, not rescaled**: the mode it priced accrues N = 0. The
+  literature's finite-branch instability dichotomy is honored by relocation — at α → 0 the
+  instability cannot live in the hidden scalar and sits in the visible dust channel at
+  α²-suppressed rate (the small-α viability mechanism of Akrami et al.), so the gate re-prices
+  on δ_CDM directly: **α ≲ 10⁻³–10⁻²**, the CMB damping tail now binding slightly ahead of
+  Lyα. The surviving parked item is the dust-channel normalization F, bracketed [1, 25]; its
+  named kill is a finite-α computation showing the hidden mode takes an O(1) negative shift
+  below the old bound. BBN imposes no lower bound on α at this m_FP, so the condition is
+  satisfiable for free. Verdict: conditional-on-α with the condition relaxed an order of
+  magnitude and **no longer riding the nonlinear (Vainshtein-class) saturation** — the linear
+  instability is absent at the seam point itself. Existence: modified, favorable, priced;
+  uniqueness: algebraic half proved (above), dynamical half open.
 
 ## The per-face ledger
 
@@ -377,9 +401,13 @@ theorem's re-cut of the anisotropy program; the scoreboard with the fused-propag
 tilt/dilation split with its three sign derivations and the CD-3 refinement; the third fork with
 its axiom fight, kill shots, thermodynamic selector, and confessed existence gap; the
 protected-sector boundary of the interiority mechanism; the pulsar slice-kill with its retained
-population test; the ledger assembly. Imported: all disformal/EFT machinery, every bound and
-coefficient, the cutoff argument, CPS and its evasions, the aether basis, the
-Dubovsky–Sibiryakov/EFJW/Jacobson–Wall thermodynamic results, the v_B/v_E literature. Could-fail:
+population test; the recognition lemma (the 3+1 eigenvalue pattern, the Jordan separation of the
+null class, the monotone volume map — the algebraic half of the uniqueness answer); the
+seam-point c_s² derivation with its closed form c²_∞(w); the ledger assembly. Imported: all
+disformal/EFT machinery, every bound and coefficient, the cutoff argument, CPS and its evasions,
+the aether basis, the Dubovsky–Sibiryakov/EFJW/Jacobson–Wall thermodynamic results, the v_B/v_E
+literature, Malament's conformal theorem with its sharp distinguishing hypothesis, the bigravity
+branch taxonomy and viability mechanism (Comelli et al., Könnig–Amendola, Akrami et al.). Could-fail:
 a credible negative-ε residual (dies with CD-2); a GW/EM path-geometry difference beyond
 δα/α = ε (kills the transport reading wholesale); a threshold detector firing early (kills the
 tier resolution); seam waves or retardation (kills Horn C into Horn B); a drag tracking a fixed
@@ -387,6 +415,7 @@ sidereal or wrong-congruence frame (kills Horn C's congruence form at C1's fork)
 two-temperature requirement on an exactly stationary horizon (breaks flux-constitution, with
 C5); realized fronts saturating their ceilings at generic coupling outside the protected sectors
 (kills the weight branch's mechanism); MSP jitter showing no distance correlation *and* the
-chain surviving anyway by quenching (not a kill — the honest no-contest outcome); the two-order
-uniqueness conjecture failing (Horn C demotes to vocabulary); a distant coincidence under C3's
+chain surviving anyway by quenching (not a kill — the honest no-contest outcome); the dynamical
+half of the two-order uniqueness conjecture failing (Horn C demotes to recognition without
+selection — the algebraic half survives as kinematics); a distant coincidence under C3's
 floor (kills the constant member and banks the bound, as designed).

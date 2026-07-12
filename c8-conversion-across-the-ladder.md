@@ -120,8 +120,26 @@ standard causality, banked as such — and the test's form is now constrained (2
 families fit arbitrary smooth curves at R² > 0.99, the registers are not one observable class
 (a density against cumulatives), and shared-form is indistinguishable from generic smoothness —
 so the earning test must be a **pre-registered exponent relation** among the register-owned
-exponents, derived from the conversion law, with no per-register abscissa freedom. Until the law
-produces that relation, this leg has no discriminating measurement; named as such.
+exponents, derived from the conversion law, with no per-register abscissa freedom. The relation
+is now placed (2026-07; `workbench/conversion-grammar/counting_rules.py`): **rate ~ C_R·ε_R^N
+with f(N) = N in every register**, the level fixed by one data-blind rule — ε_R is the per-part
+cost at the level where the register's parts compose independently (coherent registers take the
+squared per-part amplitude weight, the square automatic; stochastic registers take raw
+probability) — and N counted by a stated procedure before data: field lines crossing the hard
+interface (Brodsky–Farrar, the crossing count dissolving the participant/spectator convention —
+a form-factor constituent crosses twice, paying 1/Q² each), minimal failing error weight ⌈d/2⌉
+(QEC — Monte Carlo recovers 2/3/4 at 1.98/3.00/3.93 for d = 3/5/7), quanta to threshold
+⌈E_ion/ħω⌉ (multiphoton ionization, the pre-registered third register — the Xe I¹¹ law). The
+negative control is principled: chemical order vs molecularity fails because multi-step
+mechanisms violate the law's own one-event hypothesis — a relation that also fit them would be
+the smoothness disease again. Kill conditions filed with the relation: any register needing
+f ≠ identity after the level rule; any N not statable data-blind (the shape program's death,
+recurring); named killers in hand (surface-code error-vs-distance at d = 5→7, JLab exclusive
+90° scaling, sub-saturation intensity scans). Honesty attached, as with Z: the law-form is a
+theorem of locality plus independent-part composition — the relabel outcome pre-priced above,
+partially banked — and the owned residue is exactly the commensuration (the level rule, the
+crossing count) that the kill conditions put at risk. Coefficients C_R stay register-owned, as
+the clause requires.
 
 The kernel→carrier rung also carries both extremes, and QCD supplies the other one: conversion to
 a colored carrier is **forbidden** (confinement — no colored asymptotic state, LSZ weight exactly
@@ -518,7 +536,9 @@ rederivation with frame-entry as its covariance derivation; the per-sector respo
 degeneracy priced; the area-native n = 2 recast and its boundaries; the intercept/slope role-split
 with n = 0 filed untested-not-excluded; the conditional kernel-scale results filed under the bet;
 the ƛ-scaling constraint on the chain member's microstructure; the conversion-depth ordering
-claim; the coherence could-fail; the ratio answer to the relabel rebuttal; the transport register
+claim; the coherence could-fail; the ratio answer to the relabel rebuttal; the counting-rule
+commensuration (the level rule and the crossing count — the exponent relation's owned residue,
+with the derivations and every measured exponent imported); the transport register
 (the horizontal class returned as the census's missing), the two-leg-lock reading of thermality,
 the lock/invoice asymmetry, and the per-sector two-lock statement as the flat-space form of C5's
 pair. Imported: every
@@ -531,6 +551,7 @@ the coth lock violated under acceleration with no seam structure → the two-leg
 with KMS itself; the HMS accounting closing locally → the invoice face retires;
 a local bounce-locked cross-leg event with Δt far below 1.74 s → the n = 0 conversion member
 retires (its distance-flat coefficient relabels to astro-correlated b), modulo the named
-matter-sector-universality assumption; shadow-form mismatch → one law dies, registers survive; no common ratio-grammar → the program
+matter-sector-universality assumption; shadow-form mismatch → one law dies, registers survive; no common ratio-grammar (a register
+needing f ≠ identity after the level rule, or an N not statable data-blind) → the program
 relabels to standard causality and that closure is banked; PB-2.2 unmet at pointing time → the
 bet stays unpointed.
