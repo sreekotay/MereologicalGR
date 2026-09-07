@@ -44,10 +44,30 @@ standard cosmology correctly, including the neat `T_NR = 2 m_χ T_reh/m_φ = 1.1
 accurately; arXiv:2306.04373 is the deep LIGO/Virgo–GBM multimessenger search and is used for
 what it actually says. No fabricated references found in the sample.
 
-**Several individual observations are correct and cleanly put**: record ≠ constitution (a3 —
-Quantum Darwinism diagnostics are state functionals and cannot locate a commit); kernel ≠ carrier
-(b1 — virtual lines are not tiny particles); rendered ≠ constituted (b6 — an Unruh temperature is
-a response scale, not a bath). None of these are new. All are stated better than usual.
+**The A/B lane contains derivation-shaped results, and they are the corpus's strongest material.**
+The program is stated plainly in the README — *a relabel inside GR by design, an exported
+constraint system outside it; GR held fixed, other closures not* — so the right test is whether
+the unfused grammar **derives features the non-GR closures impose as axioms**. Against that test:
+
+- **Microcausality relocated from axiom to consistency condition** (b1 §5.1 + c8's frame-entry).
+  Response theory needs an *after*: `R_AB(x,y) = iθ_u(x⁰−y⁰)⟨[A(x),B(y)]⟩`, and the θ imports a
+  congruence — so θ_u is covariant *only where the commutator already vanishes*. Microcausality
+  stops being a desideratum imposed to prevent signaling and becomes the condition under which
+  response functions are frame-independent objects at all. Stronger than the textbook motivation.
+  Paired with b1's two-leg decomposition it also explains what textbooks wave past: why
+  microcausality coexists with non-vanishing spacelike Wightman/Feynman support. Halo is
+  substrate (symmetric, pre-ordering, unorientable); cone is orientation. The support table across
+  the two-point zoo is then predicted from leg content rather than tabulated.
+- **The engagement onset map** (c8) — ~13 peeling e-folds for 10% thermality, ~42 for 1%, hot-side
+  finite-time bias, Wien tail floored by switching smoothness. The literature handles adiabaticity
+  case-by-case per field; this is a universal budget in generator-drift form. A number, not a reading.
+- **The two-leg lock** (CD-11) — Unruh thermality as a forced coth ratio between the relatedness and
+  influence legs, verified exactly in the scalar register (13/13; influence leg bit-for-bit
+  invariant, symmetric leg moved by exactly a Planck spectrum).
+- **Layer sorting** (a4/a5) — predicts *which* readout moves under a preregistered factorial.
+
+Against those, a3 (record ≠ constitution) and b6 (temperature ≠ bath) are limitation results and
+re-readings rather than derivations — correct, well-stated, in a known genre.
 
 ---
 
@@ -68,14 +88,33 @@ CD-1 row concedes the point: *"the only row expected to lose."*
 Everything downstream — c3 through c9's entire formal apparatus, and the whole D-lane — hangs
 off a number the authors expect to be taken away.
 
-### 2. The new physics is a known model class
+### 2. The C-lane seam is a known model class — and this verdict does NOT transfer to the A/B lane
 
 The seam, stripped of vocabulary, is a **constant disformal deformation to a fixed unit timelike
 `n`** — Bekenstein 1993, with `ε = +α_T/2` in the EFT-of-dark-energy basis, in Einstein-aether
-territory. The corpus cites all of this honestly (c9 Layer 3 is scrupulous). So the novelty claim
-is not the model; it is the *route* — that a role decomposition forces this corner rather than
-selecting it from a zoo. That is a real claim, but it is a claim about derivation lineage, and
-lineage claims are exactly the ones an outside reader cannot check and will not credit.
+territory. The corpus cites all of this honestly (c9 Layer 3 is scrupulous). The novelty claim
+there is the *route*, not the model.
+
+Scope matters: this is a verdict on c1/c9's cone model, not on the grammar's derivations above.
+They are different claims with different standings, and the A/B lane is the better of the two by
+a distance.
+
+### 2b. The real limit on the derivations: lineage is unauditable from outside
+
+Every item in the derivation list has one form: **GR's cone + a composition rule ⇒ a feature the
+other closure imposes separately.** The composition rules — relatedness precedes ordering and so
+cannot be oriented; influence composes with orientation — were written by someone who already
+knew the targets. From outside, "the carve forced this" and "the carve was shaped to land here"
+are not distinguishable. That is not an accusation of bad faith; it is a structural limit on what
+any reader can verify, and the corpus names it itself (*chronology is not evidence; lineage is
+the criterion*).
+
+The corpus's own answer is the correct one — pre-register forward exposure, because the
+retrodictive lane cannot settle itself. The consequence is a weighting: **the value of the A/B
+derivations is hostage to the forward rows.** b1's could-fail (*a threshold detector ever firing
+early kills the tier resolution, and the cone-support of the influence leg with it*) is the most
+valuable sentence in the A/B lane precisely because it is the one place a retrodictive result put
+a real neck out.
 
 ### 3. The costs are priced honestly and are severe
 
@@ -147,20 +186,30 @@ consolidates.
 
 ## Bottom line
 
-A disciplined, self-aware, genuinely well-organized program whose framing exceeds its yield.
-The grammar mostly re-describes what causal-structure theory and quantum measurement theory
-already say, in a vocabulary only this repository speaks. The one place it exports new physics is
-a known disformal/aether model class, arrived at by an interesting route, hanging on a single
-degenerate number its own ledger expects to lose, with the two realizations of it either
-Lorentz-violating-and-non-conserving or entirely unwritten.
+A disciplined, self-aware, genuinely well-organized program with a real result class and a
+verification problem.
+
+The result class is the A/B lane: holding GR fixed and unfusing roles does produce features that
+QFT imposes as axioms — microcausality as a covariance condition on response rather than a
+signaling taboo, the two-point support table as role composition, the thermality budget as a
+counted quantity. That is the program working as advertised, and an earlier draft of this audit
+graded it against a target the README explicitly disclaims (deriving relativity) and dismissed it
+in a line. Correction stands on the record.
+
+The verification problem is that those derivations run on composition rules whose independence
+from their targets no outside reader can check, and the C/D lanes — where the falsifiable
+exposure lives — hang off a single degenerate number the ledger itself expects to lose, in a
+model class already in the literature, with realizations either Lorentz-violating-and-non-
+conserving or entirely unwritten.
 
 The corpus is unusually good at saying what would kill it. It has not yet run the cheap tests
 that could.
 
 ### If I had to pick three things
 
-1. **Run CD-8 and CD-9.** Both are re-rankings of existing archives. They are the only claims here
-   that could produce a surprise this year, and they cost telescope time of zero.
+1. **Run CD-8 and CD-9.** Both are re-rankings of existing archives, at zero telescope cost. They
+   matter more under the corrected reading, not less: the retrodictive lane cannot settle its own
+   lineage, so the forward rows carry the whole evidential load.
 2. **Get c1 and c9 in front of one outside relativist.** Specifically the Horn A conservation
    problem and the Cost 0 ordering fork. If those are fatal, everything downstream should stop
    accruing before more of it is written.
