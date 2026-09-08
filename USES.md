@@ -22,8 +22,9 @@ movement.*
 |---|---|---|---|---|
 | cause = ordering + influence | cause implies time | clock-strip causal claims; name the influence tier or don't say "cause" | the photon-seed corner: cause survives the clock-strip | A1 photon seed; b1; c5 |
 | information = ordering + influence + flow | correlation/entropy/record = information | missing-leg audit: no flow-bearing uptake, no constituted information | correlation-only and temperature-only constitution claims refused | b4, b6, a4, a5 |
-| record ≠ constitution | state diagnostics locate facts | record → route → decode → commit → threshold | a4's layer sort of QEC failures; a5's reset demand on cycle claims | a4 (QEC); a5 (thermo) |
+| record ≠ constitution | state diagnostics locate facts | record → route → decode → commit → threshold | a4's layer sort of QEC failures; a5's reset demand on cycle claims | a4 (QEC); a5 (thermo); b10 (double slit) |
 | rendering ≠ uptake | detector response = measurement | response without uptake is not yet information | b6's bath demotion; b8's clock-OFF factorial design | b6 (temperature); b8 (phase/register) |
+| the eraser-cost asymmetry | erasure is erasure | readiness reverses free (unitary/pre-uptake); constituted records pay kT ln 2 — the wall predicts which eraser pays | b10 §6 (Bérut × Walborn/Kim) |
 | the influence ladder | influence is yes/no | tier-classify every "influence/signal/exchange" claim | D8's minimal toolkit — the virtual-photon tier verdict | b1 (virtual photons); c8 (census) |
 | kernel ≠ carrier | virtual particles are tiny carriers | internal-line bookkeeping vs asymptotic influence | c8's negative control: colored-carrier weight exactly zero, hadron weight unit | b1 §5.1; c8 negative control |
 | temperature as rendered scale | acceleration causes temperature; baths are places | T(state, flow, generator, access); the drift-rate law with the engagement condition | c8's engagement sentence forced to a computed onset map (13/42 e-folds; hot-side finite-time bias; Wien smoothness floor) | c8 spectral reading; c10 composite inheritance; workbench/engagement-spectroscopy/ |

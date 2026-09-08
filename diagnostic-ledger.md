@@ -860,6 +860,30 @@ Same engine pattern as A4 §6: good syndromes/dead memory ↔ good φ/clock-OFF.
 
 ---
 
+### 14.3.2 Double slit / which-path — uptake wall (B10)
+
+Full contact run: **`b10-double-slit-and-the-uptake-wall.md`**. Retrodictive verdict lane;
+no engine move (engine legs: §14.3.1 clock factorial; D11 R3/R4).
+
+| Publication | Register | MGR read |
+|---|---|---|
+| Summhammer–Rauch–Tuppinger 1987; Englert duality line | record | V²+D² ≤ 1 — readiness has an exact exchange rate (imported) |
+| Dürr–Nonn–Rempe, *Nature* 1998 | record | correlation prices V; disturbance mechanism excluded |
+| Chapman et al., PRL 1995 | record | unread record suffices; resolvability d vs λ, readout idle |
+| Kim 2000; Walborn 2002; Jacques 2007 | uptake (null guard) | unconditioned pattern choice-invariant — ε = 0 passed; QM-shared, no exposure |
+| Fein et al. 2019 (25 kDa) | threshold | boundary tracks apparatus; no floor found |
+| Donadi et al. 2021; LISA-Pathfinder / cantilever bounds | threshold provenance | fabric-supplied universal T unsupported where sought — c10 trilemma corner A bleeding |
+| Minev et al. 2019 | commit layer | discharge at irreversible latch, reversible upstream — corner-B-shaped; A4 anatomy in a single quantum |
+| Bérut et al. 2012 | reset budget | Landauer invoice measured; two-erasers asymmetry (b10 §6, a5 row) |
+| Bong et al. 2020 | PB-4 | pre-write branch-relative reports demote to record-tier misreads |
+
+**Standing degeneracy (c10 joint):** all rows jointly predicted by corners B and C;
+separation requires re-interference of a threshold-crossed record — no existing apparatus
+approaches it. Corner A is being adjudicated by its invoices (CQ trade-off), not by tests
+of definiteness.
+
+---
+
 ### 14.4 Crosswalk — three engine proposals × ledger
 
 | Proposal | Primary ledger | Best existing paper | Gap |
@@ -885,7 +909,8 @@ Best role-stress lanes:
 Clean null guards:
   no information-specific redshift;
   no in-flight information degradation;
-  no null/QES/horizon constitution term without changed write-chain.
+  no null/QES/horizon constitution term without changed write-chain;
+  no unconditioned-pattern response to marker choice (eraser/delayed-choice class).
 
 Archived sensitivity lane:
   torsion/spin-current compact-object work, externally priced and non-canonical.
