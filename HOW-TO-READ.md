@@ -1,27 +1,37 @@
 # How To Read This
 
-*Reader's note. Not canon, not graded, not in any lane. Every rule below is stated in the corpus;
-the source is cited.*
+*Reader's note. Not canon, not graded, not in any lane.*
 
 ---
 
-## What it is
+## The argument
 
-Archaeology, not argument.
+Compression fuses, and effectiveness is what hides the fusion. A theory whose equations close has
+no pressure to separate the roles bundled inside it — *"success itself removed the pressure to
+separate them"* (A0 §1). GR is the most effective description available, so it is the most likely
+to carry distinctions nobody has had reason to draw.
 
-The thesis is about how theories work: **an effective compression fuses, and effectiveness is what
-hides the fusion.** GR's equations close while ordering, influence, flow, rendering, uptake and
-constitution stay bundled — *"success itself removed the pressure to separate them"* (A0 §1). So
-the most successful theory is the one most likely carrying fusions nobody noticed, and they are
-invisible precisely because nothing ever went wrong.
+The photon shows one. Along a null geodesic proper time is zero while causal ordering and
+effect-capacity remain. Cause and flow are separable, and GR carries them fused without penalty.
 
-A buried site cannot be targeted. The dig goes where compression was most effective — which is why
-the targets are the spectacular results: Hawking, Unruh, tunneling, Maxwell's demon, GW170817. Most
-trenches come up empty. The empty ones are reported. That is what makes it a survey rather than a
-case.
+From there: name the roles, test whether the named parts compose, and export the unfused grammar
+to the seams where another closure — QFT, thermodynamics, cosmology — takes over. GR is held
+fixed. The other closures are not.
 
-The photon seed is not a claim. It is the existence proof that the question has an answer: here is
-a fusion GR carries — cause and flow — that nothing ever forced apart.
+The instrument reports in both directions. Where separating a role forces something the fused
+description could not state, the fusion was real: microcausality as the covariance condition on
+frame-entry rather than a signalling taboo (b1 §5.1, c8); a QEC headline resolving into five
+layers with different repair paths (a4); the Landauer invoice splitting into a count-metered bound
+and a duration-metered excess (a5 §8.1). Where separation forces nothing, the roles were properly
+bundled, and that locates a boundary: b7 §8 runs the audit at Unruh and returns *no missing/extra
+remainder*; b5's torsion lane was excavated across eleven readout notes and thirteen CSVs and
+archived as non-witness-bearing. Both are findings.
+
+The falsifier is relabel — a renaming that changes no commitment. *"If nothing must follow, the
+reading changed no commitment anywhere"* (A0). If the unfusing forces nothing anywhere, and the
+downstream bets and contacts all fail to force distinct routes, the architecture reduces to
+relabel and the conceit fails (CLAIMS, Tier B cascade). That is a stated kill condition, not a
+standing suspicion.
 
 ---
 
@@ -36,11 +46,12 @@ CLAIMS        grades, ownership, could-fails
 USES          what the definitions are for; the sterility criterion
 ```
 
-Then B-notes as needed. The C and D lanes are probes; starting there misreads the corpus.
+Then B-notes as needed. The C and D lanes are probes, and they are the last thing to read, not the
+first.
 
 ---
 
-## The grades are literal
+## The terms are literal
 
 ```text
 probe:          bounds an interior term without reaching the boundary;
@@ -50,104 +61,53 @@ parked texture: not evidence, not denied; live to revisit,
                 do-not-hunt where fitting risk is high
 ```
 
-Read them as excavation terms, because that is what they are. A *failed floor* is a surface dug for
-and not reached.
+Excavation terms, used as excavation terms. A *failed floor* is a surface dug for and not reached.
 
-Worked case: c1's second line is *Grade: probe / exploratory export*. c3 delivers what A0 §11 says
-a probe delivers — `ε ≤ Δt/T`, one edge, no lower bound, ε = 0 fully allowed. A test pit, labeled,
-yielding a bound. Not the corpus's central claim.
+Worked case: c1's second line reads *Grade: probe / exploratory export*, and c3 delivers what A0
+§11 says a probe delivers — `ε ≤ Δt/T`, one edge, no lower bound, ε = 0 fully allowed. A bound,
+not a location.
 
----
+Two more that carry their literal sense. **Owned** means earned, not first: A0 §10 says
+*framework-owned **if earned***, over route, composition, forced dependency, missing/extra, and
+the README rules out the other reading — *"not novelty alone."* Reaching a published result by a
+different route is corroboration, and CLAIMS grades it `lineage-witness`. **Relabel** means a
+renaming that changes no commitment, so a re-description that resolves a live confusion is the
+opposite of one — and the confusions at issue are not slogan-level: the Hartman dispute ran thirty
+years among professionals and produced published superluminal-signalling claims.
 
-## A0 and A1 carry no confirmatory weight
-
-They say so. A1 §2: *"the photon seed is a launch-site carve, not a witness for itself… seed gives
-the defusion; downstream landings carry any weight."* A0 §13 lists what A0 does not do, and *claim
-experimental confirmation* is on the list. They are method documents.
-
----
-
-## Owned means earned, not first
-
-A0 §10: *framework-owned **if earned***, over route, composition, forced dependency, missing/extra.
-Derivation provenance, not priority. The README forecloses the other reading — *"success = prior
-role-carve + clean missing/extra + stated could-have-failed — **not novelty alone**."*
-
-Reaching a published theorem by a different route is corroboration, and CLAIMS has the grade for
-it: `lineage-witness`.
-
----
-
-## Relabel means a renaming that changes no commitment
-
-Not renaming as such. *"If nothing must follow, the reading changed no commitment anywhere"* (A0).
-A re-description that resolves a live confusion changes commitments, and is therefore the opposite.
-
-The confusions at issue are not slogan-level. The Hartman dispute ran thirty years among
-professionals and produced published superluminal-signalling claims. QEC milestone ambiguity —
-offline versus real-time decoding, postselection, what counts as a maintained logical qubit — is
-live in a funded field now.
-
----
-
-## The empty notes are results
-
-b7 §8 runs the instrument at Unruh, the most tempting target in the corpus, and returns *no
-missing/extra remainder*. b5's torsion lane was excavated across eleven readout notes and thirteen
-CSVs, then archived wholesale as non-witness-bearing.
-
-An instrument that only ever finds something is a machine for finding things. These two are why
-this one isn't: it distinguishes fused-and-hiding-something from fused-and-fine, and says which.
-
----
-
-## The shape of a note
-
-Cold at the header, wide in the body, cold again at the ledger block. That is one narrowing, not
-three registers disagreeing. TONE.md specifies it: *"do not front-load caveats; keep boundaries,
-but place them after the core claim has landed."*
-
----
-
-## The vocabulary is literal
-
-USES states the rule for closure failures, and it generalises: *"without the literal-cycle rule
-this is metaphor; with it, it is a taxonomy of which role fails to close."*
-
-The reason is stronger than tidiness. **Metaphor is compression** — it fuses a source and a target
-and hides the seam, the exact pathology under audit. A corpus about what compression conceals
-cannot run on metaphors without becoming the thing it audits.
-
-So read every term at face value, and treat the README glossary's **"Not meant"** column as
-load-bearing. `flow` is proper-time accrual and nothing else. `information` is not any correlation,
-record, or Shannon bit.
+The vocabulary has to be literal for a reason stronger than tidiness. USES states it for closure
+failures and it generalises: *"without the literal-cycle rule this is metaphor; with it, it is a
+taxonomy of which role fails to close."* Metaphor is compression — it fuses a source and a target
+and hides the seam, the exact pathology under audit. Read every term at face value and treat the
+README glossary's **"Not meant"** column as load-bearing.
 
 ---
 
 ## What the accounting is for
 
-What is in the ground is not controllable. What was brought and what was found is. Hence the layer
-blocks (owned / projected / imported — stratigraphy), the grades (provenance), and CLAIMS' rule
-that lineage-witness rows are **non-additive**: contacts do not stack into confidence.
+The layer blocks (owned / projected / imported) are stratigraphy: what was brought versus what was
+found. The grades are provenance. CLAIMS' rule that lineage-witness rows are **non-additive** —
+contacts do not stack into confidence — costs the program its easiest rhetorical win and is kept
+anyway.
 
-Hence also retrodiction as structural rather than conceded. A site is reconstructed from what was
-left behind; there is no predicting your way to a buried one. *Chronology is not evidence; lineage
-is the criterion* is the same sentence as: what matters is not when a thing was written but what it
-was found under.
+Retrodiction is structural, not conceded. The target is closures already fitted to known effects,
+so the fusion can only be found in the fit; there is no predicting your way to it. *Chronology is
+not evidence; lineage is the criterion* is the same sentence as: what matters is not when a thing
+was written but what it was found under.
 
 ---
 
 ## Open
 
-1. **One trench is deep on unsecured stratigraphy.** The C and D lanes run ten notes down through
-   c1's Cost 0 — the fabric/content split, *chosen, coined in that note, unaudited upstream*. The
-   cost is booked in the open rather than absorbed, and it remains unpaid.
-2. **Four corroborations unbanked.** Greenberg (PRD 73, 087701) reaches the microcausality
+1. **The C and D lanes run ten notes deep through c1's Cost 0** — the fabric/content split,
+   *chosen, coined in that note, unaudited upstream*. Booked in the open as a cost, still unpaid,
+   and everything from c3 to d2 rides on it.
+2. **Four corroborations uncited.** Greenberg (PRD 73, 087701) reaches the microcausality
    reduction from covariance of time-ordered products; the Segré classification of `g⁻¹f` is
    standard in massive gravity; Sommerfeld–Brillouin and Winful (Phys. Rep. 436) own the tunneling
-   resolution; the generalized Landauer bound owns imperfect erasure. None demotes a layer — all
-   four are independent arrival at the same place, which is support currently forfeited. The gap is
-   in formal and axiomatic literature; phenomenology is cited scrupulously.
+   resolution; the generalized Landauer bound owns imperfect erasure. Independent arrival at the
+   same place is support, and it is currently forfeited. The gap is in formal and axiomatic
+   literature; phenomenology is cited scrupulously.
 3. **Two stale lines.** b9 §6 restates a claim b9 §2 narrowed away. b5's header reads
    *structural-bet candidate* against D9's *archived sensitivity*.
 
@@ -157,5 +117,4 @@ was found under.
 
 > **What did GR fuse that we did not notice?**
 
-The notes are attempts. The ledger records which found something and which found nothing. Both are
-results.
+The notes are attempts. The ledger records which found something and which found nothing.
