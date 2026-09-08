@@ -6,31 +6,36 @@
 
 ## The argument
 
+GR archaeology, exporting non-GR claims.
+
 Compression fuses, and effectiveness is what hides the fusion. A theory whose equations close has
 no pressure to separate the roles bundled inside it — *"success itself removed the pressure to
 separate them"* (A0 §1). GR is the most effective description available, so it is the most likely
-to carry distinctions nobody has had reason to draw.
+to carry distinctions nobody has had reason to draw. That makes it the site.
 
-The photon shows one. Along a null geodesic proper time is zero while causal ordering and
+The photon is the first find. Along a null geodesic proper time is zero while causal ordering and
 effect-capacity remain. Cause and flow are separable, and GR carries them fused without penalty.
 
-From there: name the roles, test whether the named parts compose, and export the unfused grammar
-to the seams where another closure — QFT, thermodynamics, cosmology — takes over. GR is held
-fixed. The other closures are not.
+**Inside GR, the result is a relabel, by design.** The README says so: *"MGR is a relabel inside
+GR by design, but an exported constraint system outside GR. GR is held fixed: other physics
+closures are NOT."* No GR calculation changes. The argument is entirely in the export — the
+unfused roles become constraints on QFT, thermodynamics, and cosmology, which are not held fixed
+and which can be told a leg is missing.
 
-The instrument reports in both directions. Where separating a role forces something the fused
-description could not state, the fusion was real: microcausality as the covariance condition on
-frame-entry rather than a signalling taboo (b1 §5.1, c8); a QEC headline resolving into five
-layers with different repair paths (a4); the Landauer invoice splitting into a count-metered bound
-and a duration-metered excess (a5 §8.1). Where separation forces nothing, the roles were properly
-bundled, and that locates a boundary: b7 §8 runs the audit at Unruh and returns *no missing/extra
-remainder*; b5's torsion lane was excavated across eleven readout notes and thirteen CSVs and
-archived as non-witness-bearing. Both are findings.
+The export reports in both directions. Where separating a role forces something the fused
+description could not state, the fusion was real and the receiving closure owes an account:
+microcausality as the covariance condition on frame-entry rather than a signalling taboo (b1
+§5.1, c8); a QEC headline resolving into five layers with different repair paths (a4); the
+Landauer invoice splitting into a count-metered bound and a duration-metered excess (a5 §8.1).
+Where separation forces nothing, the roles were properly bundled and the boundary is located: b7
+§8 runs the audit at Unruh and returns *no missing/extra remainder*; b5's torsion lane was
+excavated across eleven readout notes and thirteen CSVs and archived as non-witness-bearing. Both
+are findings.
 
-The falsifier is relabel — a renaming that changes no commitment. *"If nothing must follow, the
-reading changed no commitment anywhere"* (A0). If the unfusing forces nothing anywhere, and the
-downstream bets and contacts all fail to force distinct routes, the architecture reduces to
-relabel and the conceit fails (CLAIMS, Tier B cascade). That is a stated kill condition, not a
+The falsifier is relabel *outside* GR — a renaming that changes no commitment anywhere it lands.
+*"If nothing must follow, the reading changed no commitment anywhere"* (A0). If the export forces
+nothing, and the downstream bets and contacts all fail to force distinct routes, the architecture
+reduces to relabel and the conceit fails (CLAIMS, Tier B cascade). A stated kill condition, not a
 standing suspicion.
 
 ---
