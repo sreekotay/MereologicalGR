@@ -1,0 +1,113 @@
+{
+  "base_revision": "c2c7815b50d96b3b24494bb8391666ea4588d453",
+  "seed": 20260909,
+  "checks_passed": 24,
+  "checks": [
+    "Invalid channel inputs are rejected",
+    "Entropy endpoints",
+    "Spectral density-matrix QFI equals squared signed confidence",
+    "Bell-state entanglement fidelity agrees with MAP correction",
+    "Independent piston optimization gives entropy functional",
+    "120 random channels: direct joint-state QFI",
+    "120 random channels: explicit locally calibrated measurement attains QFI",
+    "Random readout axes do not exceed the QFI",
+    "120 random channels: MAP compression preserves optimal recovery",
+    "120 random channels: precision loss is conditional confidence variance",
+    "120 random channels: compression does not improve gross-work ceiling",
+    "120 random channels: phase precision moment bounds",
+    "Exact/erased example: same fidelity, phase FI 0.8 versus 0.64",
+    "Same compression lowers reversible work without lowering recovery",
+    "Constructed records match both earlier task values but differ in phase QFI",
+    "Matched example numerical QFI agrees with exact expressions",
+    "60 random inputs: explicit marker circuit realizes each instrument",
+    "Identical uniform classical outcome channel for all inputs and eta",
+    "Identical unconditional dephasing channel for all inputs and eta",
+    "Outcome-controlled correction recovers eta-dependent coherence",
+    "Same marginal channels, joint phase QFI spans 0 to 1",
+    "Ignoring marker label leaves zero phase information",
+    "Coherent marker uncomputation recovers arbitrary input without measurement",
+    "Proper-time QFI scales with clock frequency squared and vanishes clock-off"
+  ],
+  "compression_example": {
+    "full": {
+      "recovery": 0.9,
+      "work_bits": 0.8,
+      "phase_fisher": 0.8
+    },
+    "only_correction_bit": {
+      "recovery": 0.9,
+      "work_bits": 0.5310044064107189,
+      "phase_fisher": 0.6400000000000001
+    }
+  },
+  "matched_pair": {
+    "A": {
+      "recovery": 0.75,
+      "work_bits": 0.25100077693771927,
+      "phase_fisher": 0.30001869429876094
+    },
+    "B": {
+      "recovery": 0.75,
+      "work_bits": 0.25100077693771927,
+      "phase_fisher": 0.3125
+    },
+    "x": 0.10003738859752188,
+    "weights_A": [
+      0.10003738859752188,
+      0.7999252228049563,
+      0.10003738859752188
+    ],
+    "reliability_A": [
+      0,
+      0.5,
+      1
+    ],
+    "weights_B": [
+      0.5,
+      0.5
+    ],
+    "reliability_B": [
+      0.25,
+      0.75
+    ]
+  },
+  "instrument_family": [
+    {
+      "eta": 0,
+      "joint_phase_fisher": 0.0,
+      "ignored_record_phase_fisher": 0.0,
+      "corrected_entanglement_fidelity": 0.5
+    },
+    {
+      "eta": 0.25,
+      "joint_phase_fisher": 0.0625,
+      "ignored_record_phase_fisher": 0.0,
+      "corrected_entanglement_fidelity": 0.625
+    },
+    {
+      "eta": 0.5,
+      "joint_phase_fisher": 0.2499999999999999,
+      "ignored_record_phase_fisher": 0.0,
+      "corrected_entanglement_fidelity": 0.75
+    },
+    {
+      "eta": 0.75,
+      "joint_phase_fisher": 0.5625,
+      "ignored_record_phase_fisher": 0.0,
+      "corrected_entanglement_fidelity": 0.875
+    },
+    {
+      "eta": 1,
+      "joint_phase_fisher": 1.0,
+      "ignored_record_phase_fisher": 0.0,
+      "corrected_entanglement_fidelity": 1.0
+    }
+  ],
+  "largest_random_compression_precision_loss": 0.14153186409732013,
+  "environment": {
+    "python": "3.13.5",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0"
+  },
+  "scope": "Finite model identities; no empirical fit or priority claim."
+}
