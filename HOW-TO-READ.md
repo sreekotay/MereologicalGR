@@ -18,37 +18,40 @@ effect-capacity remain. Cause and flow are separable, and GR carries them fused 
 
 **The initial naming adds no dynamics.** GR does not need these labels to calculate. "Relabel
 inside GR" names that entry step, not a verdict that an inquiry retaining GR can only rename
-results. The physical question is whether the proposed constituents admit separate effective
-actions or forces, and what determines their freedoms and relationships. Neither independence
-nor dependence is granted by naming them. Cleaner derivations from the GR ground and consequences
-at other physical closures are coequal aims; those other closures are not held fixed.
+results. The physical question is what work the roles perform, what they require of one another,
+and which freedoms remain. Naming implies neither independent substrates nor separate actions
+or forces; role concomitance can express a relationship without identity. Cleaner derivations
+from the GR ground and consequences at other physical closures are coequal aims; those other
+closures are not held fixed.
 
-A0 already states the method: *"accept a role reading and ask what else must be true."* Act as if
-the candidate unfusion is physically real, and let the calculation determine what it requires.
+A0 already states the method: *"accept a role reading and ask what else must be true."* Treat
+the candidate distinctions as role-real, and let the calculation determine what they require.
 The current parts are hypotheses to investigate, not a finished inventory to defend.
 
-A/B made the initial unfusion seem "unreasonably reasonable" in the cases examined. That is the
-motivation for harder contact, not evidence that every downstream claim is correct. C/D reach
-farther to find the limits: where the proposed separation stops working, and which relationship
-makes the familiar fusion necessary. Their breadth seeks resistance, not cumulative endorsement.
+The A-series' useful export distinctions prompted the B-series' sharper physical contacts.
+Their surviving relationships and located failures motivate harder contact, not endorsement of
+every downstream claim. C/D reach farther to find the limits: where an implication is rebuffed,
+where a route narrows, and which relationship is required. Their breadth seeks resistance.
 
 The export reports in both directions. Where separating a role establishes a dependency or a
 freedom, the receiving closure owes the corresponding account: microcausality as the covariance
 condition on frame-entry rather than a signalling taboo (b1 §5.1, c8); a QEC headline resolving
-into five layers with different repair paths (a4); the Landauer invoice splitting into a
-count-metered bound and a duration-metered excess (a5 §8.1).
+into five layers with different repair paths (a4); the Landauer invoice distinguishing erased
+amount from duration-dependent excess without identifying bit count with ordered depth (a5 §8.1).
 
 **A demonstrated obstruction locates an edge.** State the attempted separation, held premises,
 failed implication, and relationship required to restore the composition. A failed model or an
 inconclusive calculation does not establish universal inseparability. Conversely, a demonstrated
-necessity under stated premises is a result, not a reason to preserve the failed separation.
-The failed claim stays failed; whether its failure reaches an ancestor follows the dependencies.
+necessity under stated premises is a result: it may constrain how distinct roles relate without
+identifying them. The failed claim stays failed; whether its failure reaches an ancestor follows
+the dependencies.
 
 A pass and an unproductive search are not the same finding. B7 §8 returns *no missing/extra
 remainder* in its stated Unruh audit; that is not by itself proof that every further separation
 is impossible. B5's archived, non-witness-bearing torsion work does not supply such a proof
-either. Failure is deliberately sought because an identified obstruction can explain where and
-how fusion is required; neither mere agreement nor mere lack of progress establishes that edge.
+either. Failure is deliberately sought because an identified obstruction can bound a proposed
+freedom or expose a required relationship; neither mere agreement nor mere lack of progress
+establishes that edge.
 
 The relabel failure mode is an inquiry that establishes nothing beyond naming. If neither an
 explanatory reduction nor a discriminating consequence survives, the corresponding claim has not
