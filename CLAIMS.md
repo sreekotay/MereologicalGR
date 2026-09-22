@@ -15,6 +15,8 @@ Lineage-witness rows are non-additive — three "route predated landing" contact
 Chronology is not evidence; lineage is the criterion.
 Magnitude and coefficients stay disowned unless a row says otherwise.
 Read § Prior art before inferring novelty from role names alone.
+Failure can rebuff an implication or narrow a required relationship;
+  role concomitance alone establishes neither identity nor shared substrate.
 ```
 
 ---
@@ -116,7 +118,7 @@ PB-1 and PB-2 are forks, not theorems. PB-1 names the ordering/influence axis th
 | ID | Claim (foundation form) | Grade | MGR-owned | Imported | Could fail / demote |
 |---|---|---|---|---|---|
 | **PB-1** | Ordering/influence axis exposed by decomposition carries **bound structure** (as flow/adjacency axis carries c) | architecture bet / **fork** | existence of bounded ordering/influence axis | numeric value of bound | Axis has no bound, or role-structure non-uniform exactly where decomposition exposes it |
-| **PB-2** | PB-1 interior is **influence per ordering-resource**; ordinal until a measure on ordering is earned; if earned the measure is a **rate (intensive, state-/configuration-dependent), not a universal scalar**, with ordering-privilege in the **resource amount (extensive), not the ratio**; bound vs realized separable | architecture bet / **fork** | ordinal interior; measure-on-ordering gate; **earn-condition = units + bound + non-degenerate conversion rate**; PB-2.1 / PB-2.2 signatures (b4 §6a) | ratio/measure form; particular scalars per system | Two-sided: ordinal forever (no units/bound/rate) → measure never existed; **or** measure universal (c-like) → rate reading wrong. **Three corners (different registers):** (1, **a4 §6**, adversarial) HL yield bound resource-substitutable — depth ↔ adjacency-count at one Heisenberg bound (PB-2.1 could-fail live); (2, **b4 §6**, negative) classical first law — adjacency extensive only, κ frame-transport (per-adjacency could-fail); (3, **b9 §3–5**, favorable) LR cone — depth not width, layer-count, ceiling vs front (PB-2.1/2.2 positive + bound/realized) |
+| **PB-2** | PB-1 interior is **influence per ordering-resource**; ordinal until a measure on ordering is earned; if earned the measure is a **rate (intensive, state-/configuration-dependent), not a universal scalar**, with ordering-privilege in the **resource amount (extensive), not the ratio**; bound vs realized separable | architecture bet / **fork** | ordinal interior; measure-on-ordering gate; **earn-condition = units + bound + non-degenerate conversion rate**; PB-2.1 / PB-2.2 signatures (b4 §6a) | ratio/measure form; particular scalars per system | Two-sided: ordinal forever (no units/bound/rate) → measure never existed; **or** measure universal (c-like) → rate reading wrong. **Three corners (different registers):** (1, **a4 §6**, adversarial) multipass versus parallel entangled-probe yield under matched resources; M is repetition count, not decoder depth (PB-2.1); (2, **b4 §6**, negative) classical first law — adjacency extensive only, κ frame-transport (per-adjacency could-fail); (3, **b9 §3–5**, favorable) LR cone — depth not width, layer-count, ceiling vs front (PB-2.1/2.2 positive + bound/realized). **a5 §8.1:** Landauer count/duration contact survives; bit count is not yet identified with ordering-resource |
 
 **Cascade demotion:** if PB-1/2 could-fails land **and** downstream operational bets and contacts (PB-3/4, engine rows, grammar contacts) **all** fail to force distinct routes — the architecture forks **reduce to relabel** (nothing MUST follow that GR/QFT closure did not already price). That is conceit failure, not a single lost scalar.
 
@@ -132,7 +134,7 @@ Gravity-side role claims from A2. Non-PB; same grading discipline. GB-3 is the g
 
 | ID | Claim (foundation form) | Grade | Source | Could fail / demote | Lane |
 |---|---|---|---|---|---|
-| **GB-1** | Gravity and information differ by the adjacency-face / energy-momentum sector (massive, torsion-free) | definition + consistency-check | A2 §4 | Difference is not the adjacency-face sector; or flow ≠ flow-face in this sector | — |
+| **GB-1** | Shared ordering + influence; energy-momentum-conditioned transport ≠ flow-bearing uptake (massive, torsion-free) | definition + consistency-check; adjacency-only subtraction rejected | A2 §4 | Energy is flow-conjugate, not flow: the old cancellation fails. The transport/uptake relationship remains without an adjacency-only remainder | — |
 | **GB-2** | Invariant information-stranding ⇒ ordering-collapse; invariant ordering-collapse ⇒ loss or unaccountability pathology | architecture bet (directional) | A2 §7 | Stranding with no collapse; or collapse with neither loss nor unaccountability pathology | D2 |
 | **GB-3** | No null structure constitutes information by itself (gravity-side register of PB-3) | bet / proscription | A2 §8 | Null generator / GW ray / photon-in-flight constitutes a result with no flow-bearing uptake | D2 / D3 |
 | **EB-1** | Photon box has rest mass though a single photon has none | illustration / round-trip to GR | A2 §12 | — (no confirmatory weight) |
@@ -144,7 +146,7 @@ Gravity-side role claims from A2. Non-PB; same grading discipline. GB-3 is the g
 
 | Claim | Grade | Source | MGR-owned | Imported | Could fail / demote |
 |---|---|---|---|---|---|
-| Record ≠ constitution | clarifier / bet | A3 | constitution = operation + threshold | QD state functionals | Convention-free state functional locates constitution without uptake |
+| Record ≠ constitution | clarifier / bet | A3 | input-state diagnostics do not specify the target write map and threshold | QD state functionals | Input-only criterion settles completion across the declared admissible write maps; output-state descriptions under fixed protocols are not excluded |
 | Cause ≠ flow (photon seed) | exhibit | A0 §2, A1 | corner-strip | GR null geodesics | — |
 | Acceleration = forced-face exhibit on timelike flow; ≠ gravity | clarifier | A0 §4, A2 §5–6 | role split | a^μ, R, T_μν | Gravity identified with proper acceleration only |
 | Influence ladder (no tier collapse) | definition / method | A0 §3 | tier discipline; **partial order**, not total order | QFT guardrail map in A0 §3 | Guardrail purely bookkeeping with no tier reading |
@@ -162,7 +164,7 @@ Full prose: `diagnostic-ledger.md` §4–§14. Compact:
 | **D1** | Unruh / accelerated response | route + null | Response routes through pullback/coupling/gap/uptake; no invariant bath | Detector-independent bath required |
 | **D2** | Horizon / Hawking | route + forbidden | No constitution on null generator / transit | Irreducible constituted-information term on null structure |
 | **D3** | QES / holographic entropy | formal discriminator | Accounting ≠ automatic write site | Constitution on QES surface irreducible to area/edge/bulk/backreaction |
-| **D4** | Quantum Darwinism / SBS | record vs constitution | Record diagnostics ≠ constitution without uptake | Pure state-functional constitution criterion |
+| **D4** | Quantum Darwinism / SBS | record vs constitution | Input record diagnostics do not replace the target write operation | Input-only completion criterion across admissible write maps, with target and threshold pinned |
 | **D5** | Temperature / information | role diagnostic | Same as grammar row above | Temperature alone suffices for constitution |
 | **D6** | CMB T–redshift | null guard | No information-specific thermal degradation | Deviation tracks constitution not cosmology/thermalization |
 | **D7** | Information-specific redshift | null guard | Semantic content not extra gravitational source | Same channel, different content → reproducible Δz |
@@ -170,8 +172,8 @@ Full prose: `diagnostic-ledger.md` §4–§14. Compact:
 | **D9** | Torsion / spin-current | **archived sensitivity** | Spin/current-routed correction if live | Absorbed by GR+EOS; or role-level forced-empty result |
 | **D10** | RFI-QKD | confirmation / misread | Correlator = record; key at uptake | — (structurally confirmation lane) |
 | **D11** | QRF / relational facts | engine + PB-4 | Frame relativity in reversible regime; committed records agree at fixed write-chain **and pinned threshold T** | Constituted record frame-relative at fixed write-chain **and fixed T**; or **T** slid post hoc to rescue constitution |
-| **D12** | Ordering/influence bound (PB-1/2) | **fork; three walls — b4 §6a demand, b9 favorable, a4 §6 adversarial** | PB-1 axis + PB-2 ordinal interior; PB-2.1/2.2 signatures (b4 §6a); **b9:** LR cone GR-free, depth/width, bound vs front; **a4 §6:** `N_pass`/depth vs `N_photon`; **b4 §6:** κ/A absence read | Axis bounded with metric absent (b9 §2); depth non-substitutable for cone advance (b9 §3); layer-count not duration (b9 §4); ceiling vs realized front (b9 §5); quotient not yet licensed at metrology wall | Axis unbounded; ratio per-adjacency only; no bound/realized split; ordinal forever or measure universal (c-like); **or** HL yield substitutable (a4 §6, PB-2.1 adversarial); **or** horizon adjacency-only extensive (b4 §6); **or** cone advances by width alone (b9 §3); **or** LR reduces to ambient c once metric restored (b9 §2, PB-1); **or** cascade → relabel |
-| **D13** | Quantum thermodynamics closure | record vs constitution + engine | Work/cycle/engine require battery, clock/control, register/write, reset | State functionals alone suffice for constituted work/information/cycle; reset omitted while cycle claimed |
+| **D12** | Ordering/influence bound (PB-1/2) | **fork; three walls — b4 §6a demand, b9 favorable, a4 §6 adversarial** | PB-1 axis + PB-2 ordinal interior; **b9:** depth/width, layer-count, bound/front; **a4 §6:** multipass versus parallel-probe yield, with repetitions and scheduling explicit; **b4 §6:** κ/A absence read; **a5 §8.1:** count/duration, ordering identification open | Axis unbounded; ratio per-adjacency only; no bound/realized split; ordinal forever or measure universal (c-like); HL yield substitutable under matched resources (PB-2.1); horizon adjacency-only extensive; cone advances by width alone; or cascade → relabel. Relativistic ceiling = c is not by itself a failure: b9 §2's re-scoped front/form test applies |
+| **D13** | Quantum thermodynamics closure | record vs constitution + engine | Work/cycle/engine require their corresponding storage, control, write and reset roles; reset closes the cycle, not every write | Same pinned target succeeds with a required role genuinely absent; input diagnostics suffice across varied write maps; common-cliff mismatch defeats that transfer, not every operational relation |
 
 Full prose for D12: A0 §12, A1 §7; `b4-hawking-radiation-and-ordering-collapse.md` §6a (demand); `b9-many-body-cones-and-the-ordering-bound.md` (favorable wall); `a4-qec-failure-layer-autopsy.md` §6 (adversarial PB-2.1). **Triangulation:** b4 exports PB-2.1/2.2 signatures; b9 tests them favorably on influence spread (GR absent); a4 tests PB-2.1 adversarially on precision yield (Heisenberg substitutability) — different registers, not contradictory. **b4 §6b** adds the Wald/Page ordering-charge contact (imported, D2/D3): the §6 per-adjacency corner is the stationary **fused** limit (C1, Wald), pre-Page the per-ordering home where the charge **un-fuses** (C2, Page) — contact, not owned, could-fail weight only. Architecture demotion via cascade still applies (Tier B).
 
@@ -204,19 +206,19 @@ Lineage-witness is **defined**, not **accumulated** — see reading rules above.
 Layer template parity between QEC and metrology (A4 §6). **One grammar transfer** (not a shared coefficient):
 
 ```text
-QEC:   good syndromes, dead memory  →  record OK; commit/uptake leg failed
-Meta:  good path phase, visibility needs clock-OFF  →  render OK; flow-register leg failed
-Same layer break; different register — predicted by role split, not by QEC numerics.
+QEC:   good syndromes, dead memory  →  record OK; target commit failed
+Meta:  good path phase, clock-OFF   →  render OK; flow-register inactive
+Same composition question; a shared failure class or substrate requires a separate argument.
 ```
 
 | Claim | Source | MGR-owned signature | Fails if |
 |---|---|---|---|
 | QEC failures sort by layer | A4 | Same stream → move decoder / commit / threshold; predict which readout moves | Logical success predicted by syndrome quality alone with all layers pinned |
 | Predictive closure | A4 §5–6 | Open cell → closure or projection → class/cliff/correlation | Residual tracks wrong projection under preregistered factorial |
-| Mid-circuit / latency | A4, ledger §14.1 | Commit cliff when τ_dec/τ_cycle → 1 | — (engineering contact) |
-| Metrology mirror | A4 §6 | Decode policy vs commit (e.g. M=1 → SQL class) | HL scaling without commit leg |
+| Mid-circuit / latency | A4, ledger §14.1 | Protocol dependency deadline and throughput govern timely frame/apply/handoff; one-cycle cliff rejected | Deadline/backlog prediction fails with convention and resource budget fixed; slow diagnostics alone do not refute the role |
+| Metrology mirror | A4 §6 | M changes interrogation repetitions, not decoder depth; resource axes are nonlinear; feedback requirements are protocol-specific | Mandatory adaptive commit rebuffed by nonadaptive HL; unchanged complete record + estimator cannot lose precision from absent later actuation. Acquisition/target-operation distinction survives |
 | Zych clock interferometry + clock-OFF | B8; ledger §14.3.1; A0 §9 | ON/OFF factorial at fixed φ; **lab open** (no V data; render-leg only: COW, grav. AB 2022) | V drops with clock-OFF at fixed φ; or V tracks φ only with clock ON |
-| QThermo composites sort by layer | A5; D13 | Same correlation record → vary battery, reset, register/write, clock/control. **Instances (a5 §8):** finite-time Landauer as the measured count/duration split (PB-2.2's form, write register); the record→constitution ratio rung tabulated (Toyabe, Koski, Bérut, Mandal–Jarzynski); open cross-register cliff bet (feedback-latency vs decoder-latency cliff class) | Work/cycle/information from state functionals alone; reset omitted while cycle headline stands; cliff classes differ across registers (crosswalk demotes to analogy) |
+| QThermo composites sort by layer | A5; D13 | Same input diagnostics → vary storage, reset, write and control roles. **a5 §8:** Landauer count/duration contact, not automatic ordering-resource; Toyabe/Koski/Bérut measured, Mandal–Jarzynski theoretical; common-cliff comparison open with matching criterion pinned | Same task succeeds with a required role absent; input criterion determines completion across write maps; different matched cliff classes rebuff the universal transfer while narrower relations remain testable |
 
 Published experiment map: `diagnostic-ledger.md` §14.
 
