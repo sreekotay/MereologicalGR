@@ -109,11 +109,23 @@ access is the framework's central object, explicitly unfused, and the firewall a
 access; it fights on feasibility. So the role grammar arrives after the separation has been made,
 by a tool built for it.
 
-*The write-chain adds nothing.* A causal diamond is closed under the worldline's own future, so a
-register that records the decoding inside the diamond is carried into the interior by construction.
-There is no further constraint to impose, and no non-causal obstruction on offer. The proposed
-"structural rather than complexity-contingent" discriminator therefore has no content, and
-Harlow–Hayden's resolution is not displaced.
+*The separation is aimed at the wrong layer.* The sharpest AMPS argument contains no observer.
+Unitarity makes a late mode `b` maximally entangled with the early radiation `R`; the equivalence
+principle makes `b` maximally entangled with its interior partner `b̃`; monogamy forbids both. That
+is a statement about the state on a slice, with no reference to access, worldline, or record. The
+observer appears only in the reply to a complementarity objection — the decode-then-jump
+dramatization — so it is downstream of the core argument, not the core. This is exactly what
+Bousso's title reports: causal patch complementarity **fails**, because the two conditions conflict
+at state level where no observer-based resolution can reach them.
+
+*And the write-chain adds nothing even there.* A register is a physical system on the worldline and
+travels with it — which is trivially true and precisely what AMPS assume. The earlier version of
+this row argued the point from causal diamonds being closed under the worldline's future; that is a
+tautology doing no work, and it is corrected here rather than kept. The proposed "structural rather
+than complexity-contingent" discriminator has no content, and Harlow–Hayden is not displaced.
+
+*Where a fusion would have to be, if there is one:* in `unitarity`, in `the equivalence principle`,
+or in `maximally entangled` — not in who is looking.
 
 *What survives, weakly.* Muthukrishnan's operational/descriptive split (arXiv:2211.15650) is
 access versus global description, not access versus write — so a record-tier distinction may still
