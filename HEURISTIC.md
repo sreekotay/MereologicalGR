@@ -93,6 +93,67 @@ priority search runs before the note.
 
 ---
 
+## Outcomes — audited 2026-09, after the register above was committed
+
+**H-1 — firewalls. Fusion found; conclusion recovered; one discriminator.**
+
+In the AMPS argument one agent must do three jobs: ride a worldline that leaves the exterior and
+crosses the horizon; act on the early-radiation algebra to decode it; and *hold* the decoded
+result across the crossing to compare it with what the interior renders. Monogamy of entanglement
+licenses the second — it is a constraint on states and algebras. The paradox needs the third: a
+register carrying a threshold-crossed record across an access boundary. Whether that register
+exists is a different physical question from whether the algebras overlap, and "observer" supplies
+both under one word.
+
+Separated, the verdict is that no contradiction is ever *constituted* — which is Harlow–Hayden's
+conclusion by another route. HH get there from computational complexity (the decoding takes longer
+than the hole lives; Aaronson grounds the hardness in one-way functions). The role reading gets
+there from the constitution chain failing to close across b4's access boundary.
+
+**Discriminator:** HH's resolution is *contingent on complexity* — a fast decoder restores the
+paradox, and the Aaronson grounding makes the contingency explicit. The role reading is
+*structural* — no decoding speed helps. Exhibit a protocol where the decoded result is constituted
+and carried across, and the role reading dies and complexity is the whole story; show the
+obstruction survives arbitrary decoding power, and HH's bound is a symptom rather than the cause
+(the regime where this matters is the one Ong's cold-black-hole case already pressures).
+
+**Owed before this is a note:** Muthukrishnan, *Unpacking Black Hole Complementarity*
+(arXiv:2211.15650), and Bousso's observer-complementarity papers — both plausibly occupy part of
+this separation already.
+
+**H-2 — arrow of time. Fusion found; diagnosis is standard. Partial miss.**
+
+`time = ordering + flow` supplies no thermodynamic direction: ordering is boost-invariant
+precedence, flow is proper-time accrual, and neither is the arrow. The direction enters as a
+boundary condition, and the coarse-graining as a partition choice. That is exactly the standard
+diagnosis (Albert, Price, Wallace), so the row returns **relabel** as it stands.
+
+One residue, flagged not banked: on this grammar the coarse-graining *is* a pinned-threshold
+choice, which makes entropy constitution-indexed rather than state-indexed, and the arrow the
+direction in which thresholds are crossed. Sharper than "the partition is conventional" — but not
+yet forcing anything, and it must clear the same bar before it moves.
+
+**H-3 — weak values. Fusion found; deflationary position occupied; one protocol discriminator.**
+
+A postselected weak value is a property of a pre- and post-selected *ensemble*, never a
+threshold-crossed record of a single system, so on this grammar it is record-tier and not
+constituted. Anomalous-fact readings ("the particle was in both arms", negative kinetic energy)
+are record-tier misreads. That position is already occupied — Ferrie–Combes against, Vaidman for —
+so the verdict alone is lineage-witness.
+
+The discriminator is new as far as the search reaches: the record/constitution line here is
+**threshold-relative**, so whether a given weak value is constituted is a fact about where T is
+pinned in the apparatus, not about interpretation. That predicts two protocols differing *only* in
+threshold placement should disagree about the weak value's status, predictably. Testable, and it
+would dissolve the dispute into a protocol specification rather than settling it.
+
+**Heuristic score, first forward run:** 3 targets named, 3 fusions found, 0 counterexamples; two
+returned the pre-registered outcome class (lineage-witness plus a discriminator), one returned
+relabel. The relabel is the useful row — it is the first target that passed the filter and yielded
+nothing bankable, which the Discipline below had listed as owed.
+
+---
+
 ## Discipline
 
 ```text
