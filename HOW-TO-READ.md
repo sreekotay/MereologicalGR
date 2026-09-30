@@ -4,60 +4,95 @@
 
 ---
 
-## The argument
+## The architecture
 
-GR archaeology: separate candidate parts, derive what follows, and find where the separation fails.
+**Decompose where you cannot fit. Export where you can be wrong.**
+
+Mereology needs a fixed whole to take apart. GR supplies it: predictively closed, uncontested, and
+held fixed by charter — so there is nothing to tune. A carve made against GR cannot be shaped to
+the phenomenon it will later meet.
+
+That is why *relabel inside GR* is the guarantee rather than the embarrassment. The README says it
+in one line — *"a relabel inside GR by design, but an exported constraint system outside GR; GR is
+held fixed, other physics closures are NOT."* No GR calculation changes. The unfittable
+decomposition is the asset; the export is where it is spent and where it can fail.
+
+Three of the corpus's rules follow from that single choice, and read as arbitrary without it:
+
+```text
+relabel is the failure mode      — the export forcing nothing is the only way to lose
+novelty is not the criterion     — being first is irrelevant to an unfittable carve
+retrodiction is required         — the targets are closures already fitted to known effects,
+                                   so the fusion can only be found in the fit
+```
+
+**Why GR and nowhere else.** Quantum foundations are contested, so a decomposition there could be
+shaped to whichever interpretation you favour. Thermodynamics hands you a partition to choose.
+GR is the only whole that is both closed and not up for revision, which makes it the only site
+where the carve costs nothing.
+
+---
+
+## Why there is anything to find
 
 Compression fuses, and effectiveness is what hides the fusion. A theory whose equations close has
 no pressure to separate the roles bundled inside it — *"success itself removed the pressure to
 separate them"* (A0 §1). GR is the most effective description available, so it is the most likely
-to carry distinctions nobody has had reason to draw. That makes it the site.
+to be carrying distinctions nobody has had reason to draw.
 
-The photon is the first find. Along a null geodesic proper time is zero while causal ordering and
-effect-capacity remain. Cause and flow are separable, and GR carries them fused without penalty.
+The photon is the existence proof, not a claim: along a null geodesic proper time is zero while
+causal ordering and effect-capacity remain, so cause and flow are separable and GR carries them
+fused without penalty.
 
-**The initial naming adds no dynamics.** GR does not need these labels to calculate. "Relabel
-inside GR" names that entry step, not a verdict that an inquiry retaining GR can only rename
-results. The physical question is what work the roles perform, what they require of one another,
-and which freedoms remain. Naming implies neither independent substrates nor separate actions
-or forces; role concomitance can express a relationship without identity. Cleaner derivations
-from the GR ground and consequences at other physical closures are coequal aims; those other
-closures are not held fixed.
+---
 
-A0 already states the method: *"accept a role reading and ask what else must be true."* Treat
-the candidate distinctions as role-real, and let the calculation determine what they require.
-The current parts are hypotheses to investigate, not a finished inventory to defend.
+## Three export outcomes, not two
 
-The A-series' useful export distinctions prompted the B-series' sharper physical contacts.
-Their surviving relationships and located failures motivate harder contact, not endorsement of
-every downstream claim. C/D reach farther to find the limits: where an implication is rebuffed,
-where a route narrows, and which relationship is required. Their breadth seeks resistance.
+The contact outcomes are FALSE, TRUE, RELABEL — and one more the ledger has no name for.
 
-The export reports in both directions. Where separating a role establishes a dependency or a
-freedom, the receiving closure owes the corresponding account: microcausality as the covariance
-condition on frame-entry rather than a signalling taboo (b1 §5.1, c8); a QEC headline resolving
-into five layers with different repair paths (a4); the Landauer invoice distinguishing erased
-amount from duration-dependent excess without identifying bit count with ordered depth (a5 §8.1).
+A question can be **malformed**: it demands a value for a composite at a point where one of the
+composite's co-required roles is absent. c1 states it in place — for an influence-only interaction
+with no register, *"ε is **undefined, not zero** — the degenerate structure is present, but there
+is nothing constituted for ε to be the value of."* A1 §6 has the same shape: photon energy is
+*"not a one-place in-flight constituted property,"* so *what is its energy* does not parse until a
+worldline is supplied.
 
-**A demonstrated obstruction locates an edge.** State the attempted separation, held premises,
-failed implication, and relationship required to restore the composition. A failed model or an
-inconclusive calculation does not establish universal inseparability. Conversely, a demonstrated
-necessity under stated premises is a result: it may constrain how distinct roles relate without
-identifying them. The failed claim stays failed; whether its failure reaches an ancestor follows
-the dependencies.
+This is the corpus's most common product and its most dangerous move, so it carries a mechanical
+test:
 
-A pass and an unproductive search are not the same finding. B7 §8 returns *no missing/extra
-remainder* in its stated Unruh audit; that is not by itself proof that every further separation
-is impossible. B5's archived, non-witness-bearing torsion work does not supply such a proof
-either. Failure is deliberately sought because an identified obstruction can bound a proposed
-freedom or expose a required relationship; neither mere agreement nor mere lack of progress
-establishes that edge.
+```text
+name the composite;
+name its co-required roles;
+exhibit which role is absent where the question demands a value.
 
-The relabel failure mode is an inquiry that establishes nothing beyond naming. If neither an
-explanatory reduction nor a discriminating consequence survives, the corresponding claim has not
-earned more. If the downstream bets and contacts all fail to force distinct routes, the
-architecture's cascade condition is tested (CLAIMS, Tier B). Neither the method's stated intent
-nor a failed branch is blanket support for the program.
+cannot exhibit one → the question is well-formed and you owe an answer.
+```
+
+Applied, it is why the wins so rarely take a side. *When did it arrive* (Hartman), *did it work*
+(QEC), *was work extracted* (demons), *is there a bath* (Unruh) — none gets a verdict, because
+taking a side would concede the question parses.
+
+---
+
+## What each closure imports
+
+The general pattern: a receiving closure treats some component as atomic and one-place; the
+grammar shows it is a composite; questions whose subject is that component are candidates for
+malformedness. Read down the middle column and the corpus's whole target list is one move.
+
+| closure | its imported primitive | the question that stops parsing | note |
+|---|---|---|---|
+| QM / QFT | **observer** — an agent with outcomes | *when did it arrive* · *what did the friend see* · *did erasure change the past* | b1, b6, b10, D11 |
+| thermodynamics | **the partition / the closed cycle** | *how much work was extracted* · *did entropy increase* | a5 |
+| cosmology | **the global scalar** | *what is H₀* — sampled through `W(z)`, not read off the universe | b2 |
+| quantum gravity | **definiteness** — silently metric-supplied | *what is the quantum state of the geometry* | c10 |
+| QEC / metrology | **the milestone** | *do we have a logical qubit* | a4 |
+| dark sector | **coupling strength as darkness** | *how weakly does it couple* — `I(t₀) = ∅`, not `c ≪ 1` | d1 |
+
+The QM observer is the sharpest case because it is a GR-side word carrying a QM import: GR's
+observer is a worldline plus a frame, with no agency — *a frame is not a mind or observer* (A0) —
+while QM's arrives with the measurement postulate. Running one word over both is the compression
+signature, and the charter already forbids the import.
 
 ---
 
@@ -70,10 +105,10 @@ A0 §1–§7      roles, the ladder, compose / missing / extra
 A1            the seed run
 CLAIMS        grades, ownership, could-fails
 USES          what the definitions are for; the sterility criterion
+DELTA         where each definition stands per closure — the two-column structure above
 ```
 
-Then B-notes as needed. The C and D lanes are probes, and they are the last thing to read, not the
-first.
+Then B-notes as needed. The C and D lanes are probes, and they are the last thing to read.
 
 ---
 
@@ -87,60 +122,55 @@ parked texture: not evidence, not denied; live to revisit,
                 do-not-hunt where fitting risk is high
 ```
 
-Excavation terms, used as excavation terms. A *failed floor* is a surface dug for and not reached.
-
-Worked case: c1's second line reads *Grade: probe / exploratory export*, and c3 delivers what A0
-§11 says a probe delivers — `ε ≤ Δt/T`, one edge, no lower bound, ε = 0 fully allowed. A bound,
+Excavation terms used as excavation terms. c1's second line reads *Grade: probe / exploratory
+export*, and c3 delivers what a probe delivers — `ε ≤ Δt/T`, one edge, no lower bound. A bound,
 not a location.
 
-Two more that carry their literal sense. **Owned** means earned, not first: A0 §10 says
-*framework-owned **if earned***, over route, composition, forced dependency, missing/extra, and
-the README rules out the other reading — *"not novelty alone."* A known result can support a
-`lineage-witness` claim when the new route earns the specified dependency or reduction; another
-author's arrival is not an extra confirming observation. **Mere relabeling** means establishing
-nothing beyond the naming. Resolving a live confusion must identify the physical inference that
-changes, not merely change the prose. The confusions at issue can be consequential: the Hartman
-dispute produced published superluminal-signalling claims.
+**Owned** means earned, not first: A0 §10 says *framework-owned **if earned***, over route,
+composition, forced dependency, missing/extra. **Relabel** means a renaming that changes no
+commitment, so a re-description resolving a live confusion is its opposite.
 
-The vocabulary has to be literal for a reason stronger than tidiness. USES states it for closure
-failures and it generalises: *"without the literal-cycle rule this is metaphor; with it, it is a
-taxonomy of which role fails to close."* Metaphor is compression — it fuses a source and a target
-and hides the seam, the exact pathology under audit. Read every term at face value and treat the
-README glossary's **"Not meant"** column as load-bearing.
+And the vocabulary has to be literal for a structural reason, not a stylistic one. **Metaphor is
+compression** — it fuses a source and a target and hides the seam, the exact pathology under
+audit. USES states the rule for closure failures and it generalises: *"without the literal-cycle
+rule this is metaphor; with it, it is a taxonomy of which role fails to close."* Read every term
+at face value; the README glossary's **"Not meant"** column is load-bearing.
+
+---
+
+## Why adjacency is parked
+
+Not caution about a claim. Adjacency is the one root role with no strip corner, so any carve of it
+would have to be **chosen** — and a chosen carve inside the reference decomposition contaminates
+the unfittability that every export draws on. USES puts it as *"hunting would risk fitting rather
+than derivation."* Parking protects the asset.
+
+The same reason explains why c1 books Cost 0 as a cost instead of absorbing it: the fabric/content
+split *is* a chosen carve of adjacency, and doing it silently would have spent the bank.
 
 ---
 
 ## What the accounting is for
 
-The layer blocks (owned / projected / imported) distinguish what was supplied from what was
-derived. Grades attach to claims and their dependencies, not to authors or dates. CLAIMS' rule
-that lineage-witness rows are **non-additive** prevents repeated uses of the same dependency from
-being counted as independent confirmation.
+Layer blocks (owned / projected / imported) are stratigraphy: what was brought versus what was
+found. Grades are provenance. CLAIMS' rule that lineage-witness rows are **non-additive** —
+contacts do not stack into confidence — costs the program its easiest win and is kept anyway.
 
-Retrodiction is part of the inquiry: known effects can be examined for the dependencies that
-constitute them. *Chronology is not evidence; lineage is the criterion* means inferential
-lineage — what the conclusion requires and how those requirements are justified. Knowing the
-answer may guide discovery; it neither supplies a missing premise nor invalidates a derivation.
-Dates can document a protocol or establish credit, but do not establish validity.
-
-Keep the audit at the level of terms: what became necessary, remained free, or ceased to need a
-separate stipulation? Numerical responses check a construction and its approximation; they do
-not replace the derivation of that relationship. Neither criticism nor agreement earns weight
-merely by being repeated.
+*Chronology is not evidence; lineage is the criterion* is the same sentence as: what matters is
+not when a thing was written but what it was found under.
 
 ---
 
 ## Open
 
-1. **The C and D lanes run ten notes deep through c1's Cost 0** — the fabric/content split,
-   *chosen, coined in that note, unaudited upstream*. Booked in the open as a cost, still unpaid,
+1. **The C and D lanes run ten notes deep through c1's Cost 0** — booked in the open, still unpaid,
    and everything from c3 to d2 rides on it.
-2. **Four literature comparisons to verify.** Greenberg (PRD 73, 087701) on covariance of
-   time-ordered products and microcausality; the Segré classification of `g⁻¹f`; the
-   Sommerfeld–Brillouin and Winful (Phys. Rep. 436) tunneling analyses; and generalized Landauer
-   bounds for imperfect erasure. Compare their actual assumptions and conclusions with the
-   relevant claims. Shared destinations alone establish neither a new derivation nor independent
-   confirmation.
+2. **Four corroborations uncited.** Greenberg (PRD 73, 087701) reaches the microcausality
+   reduction from covariance of time-ordered products; the Segré classification of `g⁻¹f` is
+   standard in massive gravity; Sommerfeld–Brillouin and Winful (Phys. Rep. 436) own the tunneling
+   resolution; the generalized Landauer bound owns imperfect erasure. Independent arrival is
+   support, currently forfeited. The gap is in formal and axiomatic literature; phenomenology is
+   cited scrupulously.
 3. **Two stale lines.** b9 §6 restates a claim b9 §2 narrowed away. b5's header reads
    *structural-bet candidate* against D9's *archived sensitivity*.
 
@@ -150,5 +180,4 @@ merely by being repeated.
 
 > **What did GR fuse that we did not notice?**
 
-The notes are attempts. The ledger must record what survives, what fails, and exactly which
-freedom or required relationship the result establishes — or that the question remains open.
+The notes are attempts. The ledger records which found something and which found nothing.
