@@ -6,18 +6,18 @@ Status: application document / quantum-Darwinism boundary.
 Primary target: A0 information grammar, A1 photon-run record/uptake split, and PB-4.  
 Grade: mathematical reduction + diagnostic-program bet. Not a new quantum-measurement theory.
 
-A probe entangles with an environment; fragments of the joint state carry redundant copies of one outcome. Mutual information, redundancy, and spectrum broadcast structure score that copy structure. A separate step — a POVM, an irreversible register, a declared commit — crosses the application threshold. The first is record; the second is constitution.
+A probe entangles with an environment; fragments of the joint state carry redundant copies of one outcome. Mutual information, redundancy, and spectrum broadcast structure score that copy structure. A specified uptake/write operation crosses the application threshold in a target register. The first is record; the second is constitution.
 
 ```text
 record is state-structure;
 constitution is uptake-operation.
 ```
 
-Quantum Darwinism diagnostics are functionals of the joint system-fragment state, so they measure record. Constitution is a flow-bearing uptake/write: an operation applied to a fragment, not a number already in the state.
+Quantum Darwinism diagnostics are functionals of the joint system-fragment state, so they measure record. Constitution is a flow-bearing uptake/write: an operation applied to a fragment, not a number already in the input state.
 
 ```text
 QD diagnostics can measure record-readiness.
-They cannot locate constitution itself.
+They cannot by themselves settle completion of an unspecified write operation.
 ```
 
 QD remains the record theory; A3 marks the boundary.
@@ -73,20 +73,25 @@ spectrum broadcast structure:
 
 All are read from the state.
 
-Constitution, by contrast, is an operation on the fragment:
+Constitution, by contrast, requires an operation on the fragment:
 
 ```text
 constitution:
-  a flow-bearing uptake / measurement / CPTP map / POVM applied to F
+  a specified flow-bearing write map / instrument from F to the target register,
+  evaluated at the pinned threshold T
 ```
 
 So the sharp statement is:
 
 ```text
-Record diagnostics ∈ functionals of ρ_SF.
-Constitution ∉ functionals of ρ_SF.
-Constitution is an operation on ρ_SF, not a scalar read off ρ_SF.
+Record diagnostics ∈ functionals of the input ρ_SF.
+Completion depends on ρ_SF, the write operation, and the target threshold.
+The input state alone cannot settle completion while the write operation remains unspecified.
 ```
+
+Hold the input, target register, and T fixed; vary the admissible write map. If completion changes,
+an input-only criterion fails over that map class. A completed register may still be characterized
+by its output state under a specified protocol; state representation is not the write operation.
 
 Equivalent form:
 
@@ -95,7 +100,7 @@ Record = available correlation / broadcastable structure.
 Constitution = uptake crossing application consequence threshold.
 ```
 
-You cannot read an operation off its own operand.
+You cannot read an unspecified operation off its operand.
 
 ---
 
@@ -105,7 +110,7 @@ The record/constitution split explains why QD's recurring diagnostic problems do
 
 ### 3.1 Objectivity thresholds remain conventional in application
 
-If constitution is not a state-functional, no value of `I(S:F)` can be the point where record becomes constituted information.
+No value of `I(S:F)` alone fixes completion when the write operation and target threshold remain unspecified.
 
 A `δ` threshold can be useful, but it is a convention:
 
@@ -213,10 +218,10 @@ Net:
 
 ```text
 state structure can encode record-readiness;
-constitution itself still does not appear as a state feature.
+that does not by itself settle completion in a target register under an unspecified write map.
 ```
 
-This is the important correction: A3 does not claim QD lacks state criteria. It claims state criteria locate record/objectivity structure, not completed constitution.
+This is the important correction: A3 does not claim QD lacks state criteria. It claims state criteria locate record/objectivity structure, not completed constitution without the operational specification.
 
 ---
 
@@ -231,7 +236,7 @@ field expectation:
   diagnostic residue shrinks toward zero as criteria improve
 
 MGR expectation:
-  residue relocates because constitution is not in the state
+  residue relocates because the input state does not specify the uptake operation
 ```
 
 Observed trajectory so far:
@@ -270,7 +275,9 @@ every published proposal, refinement, or correction of a QD/SBS/strong-QD object
 in the monitoring window enters the series, whether it relocates or shrinks the residue.
 ```
 
-This closes the selection channel. Shrinkage entries count too.
+This closes the selection channel. Shrinkage entries count too. Fix the target operation and the
+criterion for zero operational residue before comparison; approximation error and missing
+write-map dependence are not interchangeable residues.
 
 ---
 
@@ -297,7 +304,7 @@ standard expectation:
   convention / measurement-anchor residue should vanish with better criteria
 
 MGR expectation:
-  residue relocates because state diagnostics cannot contain the uptake operation
+  residue relocates because input-state diagnostics do not specify the uptake operation
 ```
 
 This is an operational bet, not a relabeling.
@@ -353,8 +360,8 @@ Derived / MGR-claimed:
 
 ```text
 1. QD diagnostics are state functionals.
-2. Constitution is an uptake/write operation, not a state functional.
-3. Therefore QD diagnostics cannot locate constitution itself.
+2. Constitution requires an uptake/write operation; the input ρ_SF does not specify it.
+3. Therefore QD diagnostics alone cannot settle target completion across unspecified write maps.
 4. QMI conflation follows from correlations being counted in-state.
 5. Threshold residue is expected when applying state criteria to real states.
 6. Redshift dissolves as a two-place rendering, not an in-flight energy-drain mechanism.
@@ -399,9 +406,10 @@ Demotion / failure conditions:
 a real-state, basis-intrinsic, convention-free state-functional criterion
 locates objectivity/constitution without measurement-anchor or application residue;
 
-a future criteria sequence shows residue shrinking to zero rather than relocating;
+a future criteria sequence shows the specified operational residue shrinking to zero rather than relocating;
 
-constitution can be represented as a state-functional without smuggling in the uptake operation.
+an input-state criterion settles the pinned target operation across the declared admissible
+write maps without encoding those maps in the state specification.
 ```
 
 Standing result:

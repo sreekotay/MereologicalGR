@@ -166,7 +166,7 @@ unless the document has separately earned that stronger status.
 | D1 | Unruh / accelerated detector response | route diagnostic + null guard | QFT detector response from Wightman pullback to worldline | phase-bearing relatedness -> frame-transport sampling -> response -> detector uptake | no invariant in-flight particle bath; no pre-constituted record | robust detector-independent bath term required; response ignores pullback/coupling/switching/detector gap |
 | D2 | Horizon / null constitution | route diagnostic + forbidden-term guard | BH area entropy, edge modes, horizon algebra, Hawking/QES accounting | horizon = access/accounting; radiation = channel; detector = uptake/write | no constituted information term living on null generator or null transit | required term exists specifically as constituted information on null structure and cannot be accounted otherwise |
 | D3 | QES / holographic entropy | formal discriminator | generalized entropy, area terms, bulk entropy, edge/reconstruction/backreaction terms | QES/Page = recoverability/accounting, not automatic write site | no independent QES-constitution term | entropy formalism requires constituted information on QES/null surface irreducible to allowed terms |
-| D4 | Quantum Darwinism / SBS | record-vs-constitution discriminator | redundancy, SBS, mutual-information plateau, objectivity diagnostics | record diagnostics are not constitution without operation/threshold/uptake | no purely state-functional constitution criterion | basis-intrinsic, convention-free state functional identifies constituted information without uptake/application threshold |
+| D4 | Quantum Darwinism / SBS | record-vs-constitution discriminator | redundancy, SBS, mutual-information plateau, objectivity diagnostics | input record diagnostics do not replace the target write operation | no input-only completion criterion across unspecified write maps | input criterion settles the pinned target across the declared admissible maps without encoding them; output-state descriptions under fixed protocols are allowed |
 | D5 | Temperature / information separation | role diagnostic | thermodynamic/statistical temperature as response/distribution parameter | temperature = flow-indexed response scale; information = uptake/write | temperature alone does not constitute information | temperature alone determines constituted information without record channel/coarse-graining/application threshold |
 | D6 | CMB temperature-redshift | null guard | T(z)=T0(1+z), with standard deviations handled by cosmology/thermalization | temperature is congruence-rendered distribution scale | no information-specific temperature degradation term | deviation specifically tracks information/constitution rather than thermalization, foregrounds, injection, calibration, or cosmology |
 | D7 | Information-specific redshift | null guard | redshift via p dot u between emitter/receiver worldlines | carrier energy is rendered by flow-worldlines; semantic content is not a gravitational source term | no semantic/code/recoverability-dependent frequency residual | same carrier/channel but different information content gives reproducible gravitational redshift residual |
@@ -174,8 +174,8 @@ unless the document has separately earned that stronger status.
 | D9 | Torsion / spin-current compact objects | archived sensitivity lane | GR + EOS + rotation + magnetic/crust/thermal modeling | independent spin/current retained -> torsion equation -> contortion -> observable shift or bound | nonzero only if spin/current survives as independent source; scale should track spin/current, not mass-energy alone | residual fully absorbed by ordinary matter/EOS modeling; no independent spin-current torsion burden; or role-level forced-empty result |
 | D10 | RFI-QKD / reference-frame-independent communication | record-vs-constitution discriminator + null guard | QKD secure under unaligned/drifting transverse frames; key in a stable basis; security from rotation-invariant correlators | transverse frame-independence = rendering/transport robustness; key constituted at detector uptake against a retained shared stable axis/clock | frame-invariant correlator is pre-uptake record, not constituted key; a shared stable axis/timing is still present | constituted, usable key produced with no flow-bearing uptake and no shared stable reference anywhere in the chain (structurally unavailable in RFI-QKD; confirmation/misread lane) |
 | D11 | Quantum reference frames / relational facts | engine-eligible test + formal discriminator (PB-4 exposure) | QRF transformations; coherent/superposed reference frames; relational-QM and QRF Wigner's-friend "observer-relative facts" | quantum frame = superposed rendering/transport map, write-not-read; constitution = flow-bearing irreversible write at **pinned threshold T**, not frame-choice | frame/observer-relativity rides the coherent/reversible (un-constituted) regime only; committed flow-bearing records agree at fixed write-chain **and fixed T** | frame/observer-relativity of a genuinely constituted (irreversible, flow-bearing, **T-crossed**) record with physical write-chain **and T** held fixed; or **T** slid post hoc to rescue constitution |
-| D12 | Ordering/influence bound (PB-1/2) | **fork; three walls — b4 §6a demand, b9 favorable, a4 §6 adversarial** | null sector m/s with τ→0; c on flow/adjacency axis; Lieb-Robinson many-body cone (GR absent); adaptive metrology resource law (passes/depth vs photons) | PB-1 names the exposed axis; PB-2 opens ordinal interior + PB-2.1/2.2 signatures (b4 §6a); **b9:** depth not width, layer-count, v_LR ceiling vs actual front (favorable); **a4 §6:** `N_pass`/depth vs `N_photon` (adversarial PB-2.1); **b4 §6:** κ frame-transport, A adjacency-only (negative) | interior ordinal until measure on ordering earned; if earned, rate intensive, ordering-privilege in extensive amount; b9 exhibits bound/realized split | axis unbounded; ratio per-adjacency only; no bound/realized split; ordinal forever or measure universal (c-like); or HL yield substitutable (a4 §6); or horizon adjacency-only extensive (b4 §6); or cone advances by width alone (b9 §3); or LR = c once metric restored (b9 §2); or Wald boost=ordering-symmetry only fitted to S=A/4 (b4 §6b, C1); or Page un-fusion requires a stable remnant (b4 §6b, C2); or downstream cascade → relabel (A0 §12, CLAIMS Tier B) |
-| D13 | Quantum thermodynamics operational closure | record-vs-constitution discriminator + engine-eligible (reset/memory/clock) | resource theories, fluctuation theorems, entanglement thermodynamics, thermal machines | work/operation/information/cycle/engine require battery, clock/control, register/write, reset — not optional add-ons | no constituted work/information/cycle from state functionals alone | work, cycle, or constituted information claimed without battery, register/write-chain, reset, or pinned threshold; entropy/MI/correlation sufficient for constitution across varied uptake conditions |
+| D12 | Ordering/influence bound (PB-1/2) | **fork; three walls — b4 §6a demand, b9 favorable, a4 §6 adversarial** | null sector m/s with τ→0; c on flow/adjacency axis; Lieb-Robinson many-body cone (GR absent); metrology resource law with repetitions, pass depth, and scheduling explicit | PB-1 names the axis; PB-2 opens ordinal interior + PB-2.1/2.2; **b9:** depth/width, layer-count, ceiling/front; **a4 §6:** multipass versus parallel-probe yield under matched resources; **b4 §6:** κ/A absence; **a5 §8.1:** count/duration, ordering identification open | measure-on-ordering still required; bit count and photon count do not by themselves identify depth or width | axis unbounded; ratio per-adjacency only; no bound/realized split; ordinal forever or measure universal; HL yield substitutable under matched resources; horizon adjacency-only extensive; cone advances by width alone; b9 §2's re-scoped front/form failure (ceiling = c alone is not failure); Wald boost identification fitted; Page un-fusion requires stable remnant; or downstream cascade → relabel |
+| D13 | Quantum thermodynamics operational closure | record-vs-constitution discriminator + engine-eligible (reset/memory/clock) | resource theories, fluctuation theorems, entanglement thermodynamics, thermal machines | each target requires its corresponding storage, control, write or reset role; reset closes the cycle, not every write | input-state diagnostics do not supply an unspecified operation | same pinned task succeeds with a required role genuinely absent; input diagnostics settle completion across write maps; different matched cliff classes defeat that transfer, not all layer relations |
 
 ---
 
@@ -252,8 +252,13 @@ b9 (here):
   v_LR ceiling vs actual front (bound vs realized)
 
 a4 §6:
-  adversarial — HL yield may be reachable by depth OR photon-count
-  (PB-2.1 could-fail on precision-yield register; not the same as cone spread)
+  adversarial — multipass and parallel entangled-probe protocols can share HL scaling
+  under matched resource assumptions; M is repetition count, not decoder depth
+  (PB-2.1 tests the resource relationship, not identity of roles)
+
+a5 §8.1:
+  measured count/duration distinction; bit-count → ordering-resource remains unestablished
+  independent parallel erasures test the proposed privilege of ordered depth
 ```
 
 Could-fail shapes (B9 §7):
@@ -262,7 +267,8 @@ Could-fail shapes (B9 §7):
 cone advances by parallel width alone → per-adjacency
 only duration-bound available → flow not ordering
 ceiling always saturated → no bound/realized split
-every many-body bound reduces to ambient c once relativity restored → PB-1 not independent
+relativistic ceiling = c alone does not fail PB-1;
+  test the surviving bound/front split and state-dependent form (b9 §2)
 ```
 
 Grade: clarifier / candidate positive witness. Not a new velocity prediction.
@@ -408,22 +414,22 @@ Expected pattern, low weight:
 
 ```text
 more redundancy improves record diagnostics;
-it does not eliminate uptake/application thresholds.
+it does not specify the target write map and application criterion.
 ```
 
 Good test design:
 
 ```text
-hold global state diagnostics fixed as much as possible;
-vary measurement operation / fragment access / threshold / coarse-graining;
-ask whether constituted information changes.
+hold the input state and target task / threshold fixed;
+vary admissible uptake maps, fragment access, or decoding operations;
+ask whether completion in the target register changes.
 ```
 
 Failure condition:
 
 ```text
-a basis-intrinsic, convention-free, purely state-functional criterion
-identifies constituted information without operation, threshold, or uptake.
+an input-state criterion settles completion across the declared admissible write maps
+without encoding those maps. A fixed protocol's output-state criterion is not excluded.
 ```
 
 ---
@@ -435,7 +441,7 @@ Framework target:
 ```text
 entropy / MI / correlation = record-structure
 constituted thermodynamic information = record + register + uptake/write + threshold
-work / cycle / engine composites require battery, clock/control, reset — not optional
+work requires work-storage; autonomy requires physical control; a closed cycle requires reset
 ```
 
 Standard baseline:
@@ -448,9 +454,9 @@ thermal machines, entanglement thermodynamics, Landauer erasure accounting
 MGR role route:
 
 ```text
-state functionals price record;
-batteries, clocks, demons, feedback, memory, and erasure costs complete the composite
-when work, operation, information, cycle, or engine is claimed operationally
+input-state functionals price record;
+storage, control, write and reset roles complete their corresponding target operations;
+they need not be separate devices or share a substrate merely because they co-occur
 ```
 
 Expected pattern:
@@ -471,10 +477,16 @@ ask whether work, cycle, or constituted-information claims move
 Failure condition:
 
 ```text
-constituted work, information, or closed cycle from state functionals alone;
-reset omitted while cycle headline stands;
-entropy/MI sufficient for constitution without uptake/threshold variation
+same pinned target succeeds with a required role genuinely absent;
+input diagnostics determine completion across unspecified write maps;
+reset omitted while the same closed-cycle task is achieved;
+common cliff classes differ under the declared matching rule → class transfer fails,
+  narrower operational relationships remain separately testable
 ```
+
+A5 §8 separates erased-bit count from the still-open ordering-resource identification. The
+Bérut approach law is protocol- and success-conditioned; Mandal–Jarzynski is a solvable model,
+not another experiment.
 
 Full layer split and compose recipes: `a5-quantum-thermodynamics-closure-audit.md`.
 
@@ -727,11 +739,11 @@ Mapping existing work to **A4 autopsy rows** (lab QEC), **D11 engine checklist**
 
 | Publication | A4 row | What moved causally | Factorial clean? | MGR read |
 |---|---|---|---|---|
-| Google, *Nature* 2024 — below-threshold surface code + real-time decoder (Willow) | **decode**, **commit**, **threshold** | Decoder latency (~63 µs) vs cycle (1.1 µs); distance 3→5→7 | **Partly** — latency vs logical lifetime; not decoder-swap on fixed stream | **Commit leg live** — late feedback breaks correction; supports layer split |
+| Google, *Nature* 638, 920 (2025; online 2024), arXiv:2408.13687 — Willow | **decode**, **commit**, **threshold** | Real-time distance-5 decoding: ~63 µs latency at a 1.1 µs cycle, stable through a million cycles | **Partly** — real-time/offline decoder comparison on the same data; no implemented feedback arm | **One-cycle cliff rebuffed**; sustained throughput supports memory despite multi-cycle latency; dependent feedback remains a separate task |
 | Quantinuum, arXiv:2404.16728 — fault-tolerant logical teleportation (H2) | **decode**, **commit** | Mid-circuit syndrome decode + **physical corrections during** protocol | **Partly** — apply in-loop vs end-only implied | **Constitution during run**, not offline inference only |
 | Decoder latency / architecture studies (e.g. arXiv:2511.10633; Yale FPGA decoders) | **decode**, **commit** | Reaction time → logical error rate / resource overhead | **Partly** — timing stressed; rarely 2×2 with decoder fixed | Same layer split; engineering owns numbers |
 | Decoder benchmarks (MWPM vs neural / union-find, various groups) | **decode**, **route** | Decoder or model choice → LER | **Often offline** — same stream replay not always published | **Decode layer** live; commit often bundled |
-| Mid-circuit / real-time QEC surveys (2024–2025 stack literature) | **commit**, **misread** | Offline decode sold as memory vs online apply | **Mixed** | Autopsy target: separate offline / online / commit in papers |
+| Mid-circuit / real-time QEC surveys (2024–2025 stack literature) | **commit**, **misread** | Inference, frame tracking, physical apply, and terminal readout compared | **Mixed** | Declare which operation needs the decoded information and when; offline/online alone does not settle target completion |
 
 **A4 checklist coverage (typical published QEC paper):**
 
@@ -739,12 +751,15 @@ Mapping existing work to **A4 autopsy rows** (lab QEC), **D11 engine checklist**
 record:     usually yes (syndrome fidelity)
 route:      sometimes (noise model named)
 decode:     yes (decoder named)
-commit:     often implicit (real-time QEC papers yes; offline papers no)
+commit:     convention needed: physical apply, tracked frame, handoff, or terminal readout
 threshold:  sometimes (rounds, distance; app budget often compressed)
-misread:    rare (offline LER reported as memory)
+misread:    inference quality does not alone establish every later logical use
 ```
 
-**Not yet published as preregistered factorial:** same syndrome stream → swap decoder **and** swap commit latency independently (A4 §4 full 2×2). Predictive closure map: A4 §5–§6.
+**Open preregistered factorial:** decoder choice × dependency latency, with syndrome acquisition,
+frame convention, target task, throughput, and deadline specified separately. Same-stream replay
+isolates inference; a feedback intervention during acquisition need not preserve that stream.
+Predictive closure map: A4 §5–§6.
 
 ---
 
@@ -856,7 +871,8 @@ Render leg (φ):      YES — COW, atom fountains, Kasevich 2022 grav. AB, clock
 
 Bounds on σ_τ from phase experiments are **not** a detection of V drop. Full ON/OFF factorial **open**.
 
-Same engine pattern as A4 §6: good syndromes/dead memory ↔ good φ/clock-OFF. CLAIMS carries the at-a-glance engine status.
+Same composition question as A4 §6: good syndromes/dead memory ↔ good φ/clock-OFF. The crosswalk
+alone establishes neither a shared failure class nor shared substrate. CLAIMS carries the status.
 
 ---
 
@@ -890,7 +906,7 @@ of definiteness.
 |---|---|---|---|
 | #1 Clock render vs flow-register | D6/D7; A0 §9; §14.3.1 | **Theory:** Zych 2011. **φ data:** Overstreet *Science* 2022; Chou redshift | **Zych V not measured**; **clock-OFF factorial** open |
 | #1b Clock render-aware steering | D1 + D6/D7; A2 handles | Skytree / Chou redshift | **A/B steering factorial** |
-| #2 QEC decode vs commit | A4; D4 role split (QD analog) | Google Willow 2024; Quantinuum mid-circuit QEC | **2×2 decoder × latency** on same stream |
+| #2 QEC decode vs commit | A4; D4 role split (QD analog) | Google Willow 2024; Quantinuum mid-circuit QEC | **decoder × dependency latency**, with acquisition and frame convention specified |
 | #2b QThermo cycle / reset | A5; D13; D4/D5 legs | demon / Landauer / engine protocol literature (contact unwired) | **reset × correlation** factorial on declared register |
 | #3 QRF write vs frame | D11; PB-4 | Proietti 2019 (tension, not confirm) | **R3/R4 factorial** with pinned write-chain |
 

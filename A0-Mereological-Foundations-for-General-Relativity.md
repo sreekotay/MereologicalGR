@@ -80,7 +80,7 @@ Claimed:
   A role-gap is not a dynamics-gap.
 ```
 
-GR is effective enough to leave roles fused without penalty — the equations close while ordering, influence, flow, rendering, uptake, and constitution stay bundled, so success itself removed the pressure to separate them. MGR does not correct GR's dynamics; it audits those fusions after the fact and exports the unfused grammar to contact seams. The central claim is efficacy of application, not new field equations or constants. Retrodiction is required because many contact closures arrive axiom-to-fit; lineage, not chronology, is the criterion.
+GR is effective enough to leave roles fused without penalty — the equations close while ordering, influence, flow, rendering, uptake, and constitution stay bundled, so success itself removed the pressure to separate them. MGR does not correct GR's dynamics; it audits those fusions after the fact and exports the unfused grammar to contact seams. The contribution is GR-direct derivation: follow the photon-licensed unfusion, treating the distinguished roles as real, to the consequences they require at other closures. A familiar result can still be a new derivational landing; the test is what the route makes necessary. Retrodiction is required because many contact closures arrive axiom-to-fit; lineage, not chronology, is the criterion.
 
 The stance is following GR further, not refuting it. Where GR is silent on a role question, MGR asks whether something has been left fused, imported, projected, set empty, or omitted.
 

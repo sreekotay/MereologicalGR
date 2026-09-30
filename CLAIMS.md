@@ -15,6 +15,10 @@ Lineage-witness rows are non-additive — three "route predated landing" contact
 Chronology is not evidence; lineage is the criterion.
 Magnitude and coefficients stay disowned unless a row says otherwise.
 Read § Prior art before inferring novelty from role names alone.
+Failure can rebuff an implication or narrow a required relationship;
+  role concomitance alone establishes neither identity nor shared substrate.
+B11 supplies the current B-contact refinements recorded below;
+  these scopes supersede broader statements in earlier notes and diagnostic summaries.
 ```
 
 ---
@@ -116,7 +120,7 @@ PB-1 and PB-2 are forks, not theorems. PB-1 names the ordering/influence axis th
 | ID | Claim (foundation form) | Grade | MGR-owned | Imported | Could fail / demote |
 |---|---|---|---|---|---|
 | **PB-1** | Ordering/influence axis exposed by decomposition carries **bound structure** (as flow/adjacency axis carries c) | architecture bet / **fork** | existence of bounded ordering/influence axis | numeric value of bound | Axis has no bound, or role-structure non-uniform exactly where decomposition exposes it |
-| **PB-2** | PB-1 interior is **influence per ordering-resource**; ordinal until a measure on ordering is earned; if earned the measure is a **rate (intensive, state-/configuration-dependent), not a universal scalar**, with ordering-privilege in the **resource amount (extensive), not the ratio**; bound vs realized separable | architecture bet / **fork** | ordinal interior; measure-on-ordering gate; **earn-condition = units + bound + non-degenerate conversion rate**; PB-2.1 / PB-2.2 signatures (b4 §6a) | ratio/measure form; particular scalars per system | Two-sided: ordinal forever (no units/bound/rate) → measure never existed; **or** measure universal (c-like) → rate reading wrong. **Three corners (different registers):** (1, **a4 §6**, adversarial) HL yield bound resource-substitutable — depth ↔ adjacency-count at one Heisenberg bound (PB-2.1 could-fail live); (2, **b4 §6**, negative) classical first law — adjacency extensive only, κ frame-transport (per-adjacency could-fail); (3, **b9 §3–5**, favorable) LR cone — depth not width, layer-count, ceiling vs front (PB-2.1/2.2 positive + bound/realized) |
+| **PB-2** | PB-1 interior is **influence per ordering-resource**; ordinal until a measure on ordering is earned; if earned the measure is a **rate (intensive, state-/configuration-dependent), not a universal scalar**, with ordering-privilege in the **resource amount (extensive), not the ratio**; bound vs realized separable | architecture bet / **fork** | ordinal interior; measure-on-ordering gate; **earn-condition = units + bound + non-degenerate conversion rate**; PB-2.1 / PB-2.2 signatures (b4 §6a) | ratio/measure form; particular scalars per system | Two-sided: ordinal forever → measure unearned; universal c-like ratio → intensive-rate reading fails. **Scoped contacts (B11 §§4,6):** metrology resource substitution remains task-specific; graph connecting depth and dynamical duration are distinct but jointly required; proof slack is not automatically physical interior; horizon charge/area equality does not identify roles or derive an ordering measure. **a5 §8.1:** Landauer count/duration contact survives; bit count is not yet identified with ordering-resource |
 
 **Cascade demotion:** if PB-1/2 could-fails land **and** downstream operational bets and contacts (PB-3/4, engine rows, grammar contacts) **all** fail to force distinct routes — the architecture forks **reduce to relabel** (nothing MUST follow that GR/QFT closure did not already price). That is conceit failure, not a single lost scalar.
 
@@ -132,7 +136,7 @@ Gravity-side role claims from A2. Non-PB; same grading discipline. GB-3 is the g
 
 | ID | Claim (foundation form) | Grade | Source | Could fail / demote | Lane |
 |---|---|---|---|---|---|
-| **GB-1** | Gravity and information differ by the adjacency-face / energy-momentum sector (massive, torsion-free) | definition + consistency-check | A2 §4 | Difference is not the adjacency-face sector; or flow ≠ flow-face in this sector | — |
+| **GB-1** | Shared ordering + influence; energy-momentum-conditioned transport ≠ flow-bearing uptake (massive, torsion-free) | definition + consistency-check; adjacency-only subtraction rejected | A2 §4 | Energy is flow-conjugate, not flow: the old cancellation fails. The transport/uptake relationship remains without an adjacency-only remainder | — |
 | **GB-2** | Invariant information-stranding ⇒ ordering-collapse; invariant ordering-collapse ⇒ loss or unaccountability pathology | architecture bet (directional) | A2 §7 | Stranding with no collapse; or collapse with neither loss nor unaccountability pathology | D2 |
 | **GB-3** | No null structure constitutes information by itself (gravity-side register of PB-3) | bet / proscription | A2 §8 | Null generator / GW ray / photon-in-flight constitutes a result with no flow-bearing uptake | D2 / D3 |
 | **EB-1** | Photon box has rest mass though a single photon has none | illustration / round-trip to GR | A2 §12 | — (no confirmatory weight) |
@@ -144,38 +148,38 @@ Gravity-side role claims from A2. Non-PB; same grading discipline. GB-3 is the g
 
 | Claim | Grade | Source | MGR-owned | Imported | Could fail / demote |
 |---|---|---|---|---|---|
-| Record ≠ constitution | clarifier / bet | A3 | constitution = operation + threshold | QD state functionals | Convention-free state functional locates constitution without uptake |
+| Record ≠ constitution | clarifier / bet | A3 | input-state diagnostics do not specify the target write map and threshold | QD state functionals | Input-only criterion settles completion across the declared admissible write maps; output-state descriptions under fixed protocols are not excluded |
 | Cause ≠ flow (photon seed) | exhibit | A0 §2, A1 | corner-strip | GR null geodesics | — |
 | Acceleration = forced-face exhibit on timelike flow; ≠ gravity | clarifier | A0 §4, A2 §5–6 | role split | a^μ, R, T_μν | Gravity identified with proper acceleration only |
 | Influence ladder (no tier collapse) | definition / method | A0 §3 | tier discipline; **partial order**, not total order | QFT guardrail map in A0 §3 | Guardrail purely bookkeeping with no tier reading |
-| Temperature ≠ information | role diagnostic | B6, D5 | separation of response scale vs uptake | KMS, thermodynamics | Temperature alone determines constitution |
+| Temperature ≠ information | role diagnostic | B6, D5; B11 §2 | separation of response scale vs uptake; whole-body thermality requires compatible response families | positivity, stationarity, KMS, thermodynamics | Temperature alone determines constitution; or a one-channel thermal assignment is promoted beyond its licensed observables |
 | Influence = shared hinge of the two big carves | clarifier (owned) | A0 §6 | `gravity` and `information` both compose `ordering + influence`, diverging only at energy-momentum (gravity) vs flow (information) | — | A consequence-capable carve omits influence; or the divergence is not energy-momentum vs flow |
 
 ---
 
 ## Diagnostic lanes (ledger index)
 
-Full prose: `diagnostic-ledger.md` §4–§14. Compact:
+Full prose: `diagnostic-ledger.md` §4–§14. Compact; B11 refinements below govern the updated scopes:
 
 | ID | Lane | Type | MGR-owned guard / route | Fails if |
 |---|---|---|---|---|
 | **D1** | Unruh / accelerated response | route + null | Response routes through pullback/coupling/gap/uptake; no invariant bath | Detector-independent bath required |
 | **D2** | Horizon / Hawking | route + forbidden | No constitution on null generator / transit | Irreducible constituted-information term on null structure |
-| **D3** | QES / holographic entropy | formal discriminator | Accounting ≠ automatic write site | Constitution on QES surface irreducible to area/edge/bulk/backreaction |
-| **D4** | Quantum Darwinism / SBS | record vs constitution | Record diagnostics ≠ constitution without uptake | Pure state-functional constitution criterion |
+| **D3** | QES / holographic entropy | formal discriminator | Entropy/reconstruction assignment ≠ performed target write; the full generalized entropy includes area | Cut-only attribution requires revision if an actual uptake operation is supplied there; GB-3 fails only on its genuinely null/flowless condition (B11 §8.2) |
+| **D4** | Quantum Darwinism / SBS | record vs constitution | Input record diagnostics do not replace the target write operation | Input-only completion criterion across admissible write maps, with target and threshold pinned |
 | **D5** | Temperature / information | role diagnostic | Same as grammar row above | Temperature alone suffices for constitution |
 | **D6** | CMB T–redshift | null guard | No information-specific thermal degradation | Deviation tracks constitution not cosmology/thermalization |
 | **D7** | Information-specific redshift | null guard | Semantic content not extra gravitational source | Same channel, different content → reproducible Δz |
-| **D8** | Virtual exchange | null + route + **minimal toolkit** | Owned: absence-type, two registers, endpoint provenance, commutator causality. Projected: Sokhotski split, `q²` shell gate. Imported: magnitude, gauge closure (B1 §2) | Virtual exchange requires flow-bearing carrier info; or propagator support alone is the causality diagnostic |
-| **D9** | Torsion / spin-current | **archived sensitivity** | Spin/current-routed correction if live | Absorbed by GR+EOS; or role-level forced-empty result |
+| **D8** | Virtual exchange | absence-type + conditional composition derivation | Spacelike ordering residue removed by covariance of composed products under the declared field assumptions; causal factorization for instruments | Controlled source-dependent receiver statistics outside causal contact under those premises; antisymmetry, isolated early clicks and PV/δ counting are not sufficient tests (B11 §1) |
+| **D9** | Torsion / spin-current | **archived sensitivity** | Closure faces related by Cartan/Bianchi; spin→torsion requires the specified action | Metric compatibility alone claimed to force torsion-free, or spin naming used to select dynamics (B11 §7); numerical bounds remain model-conditional |
 | **D10** | RFI-QKD | confirmation / misread | Correlator = record; key at uptake | — (structurally confirmation lane) |
 | **D11** | QRF / relational facts | engine + PB-4 | Frame relativity in reversible regime; committed records agree at fixed write-chain **and pinned threshold T** | Constituted record frame-relative at fixed write-chain **and fixed T**; or **T** slid post hoc to rescue constitution |
-| **D12** | Ordering/influence bound (PB-1/2) | **fork; three walls — b4 §6a demand, b9 favorable, a4 §6 adversarial** | PB-1 axis + PB-2 ordinal interior; PB-2.1/2.2 signatures (b4 §6a); **b9:** LR cone GR-free, depth/width, bound vs front; **a4 §6:** `N_pass`/depth vs `N_photon`; **b4 §6:** κ/A absence read | Axis bounded with metric absent (b9 §2); depth non-substitutable for cone advance (b9 §3); layer-count not duration (b9 §4); ceiling vs realized front (b9 §5); quotient not yet licensed at metrology wall | Axis unbounded; ratio per-adjacency only; no bound/realized split; ordinal forever or measure universal (c-like); **or** HL yield substitutable (a4 §6, PB-2.1 adversarial); **or** horizon adjacency-only extensive (b4 §6); **or** cone advances by width alone (b9 §3); **or** LR reduces to ambient c once metric restored (b9 §2, PB-1); **or** cascade → relabel |
-| **D13** | Quantum thermodynamics closure | record vs constitution + engine | Work/cycle/engine require battery, clock/control, register/write, reset | State functionals alone suffice for constituted work/information/cycle; reset omitted while cycle claimed |
+| **D12** | Ordering/influence bound (PB-1/2) | conditional depth derivation + cross-register bet | Minimum connecting order distinct from coupling/time weights; fixed local resources required; bound/realized comparison uses the same observable/state class | Fixed-resource depth restriction fails; resource substitution rebuffs the task-specific transfer; apparent interior is only proof slack. Universal strict-interior and all-boson state-dependence claims are not established (B11 §4) |
+| **D13** | Quantum thermodynamics closure | record vs constitution + engine | Work/cycle/engine require their corresponding storage, control, write and reset roles; reset closes the cycle, not every write | Same pinned target succeeds with a required role genuinely absent; input diagnostics suffice across varied write maps; common-cliff mismatch defeats that transfer, not every operational relation |
 
-Full prose for D12: A0 §12, A1 §7; `b4-hawking-radiation-and-ordering-collapse.md` §6a (demand); `b9-many-body-cones-and-the-ordering-bound.md` (favorable wall); `a4-qec-failure-layer-autopsy.md` §6 (adversarial PB-2.1). **Triangulation:** b4 exports PB-2.1/2.2 signatures; b9 tests them favorably on influence spread (GR absent); a4 tests PB-2.1 adversarially on precision yield (Heisenberg substitutability) — different registers, not contradictory. **b4 §6b** adds the Wald/Page ordering-charge contact (imported, D2/D3): the §6 per-adjacency corner is the stationary **fused** limit (C1, Wald), pre-Page the per-ordering home where the charge **un-fuses** (C2, Page) — contact, not owned, could-fail weight only. Architecture demotion via cascade still applies (Tier B).
+Full prose for D12: A0 §12, A1 §7; `b4-hawking-radiation-and-ordering-collapse.md` §6a; `b9-many-body-cones-and-the-ordering-bound.md`; `a4-qec-failure-layer-autopsy.md` §6. **Current scope (B11 §§4,6):** local influence spread and precision yield are different tasks. Their resource relationship is tested under matched assumptions, not decided by a shared label. Wald normalization and the first-order dynamical area/flux relation are concrete horizon contacts; the ordering-measure identification remains open. Page turnover is not the onset of area decrease. Architecture demotion via the stated dependency cascade still applies.
 
-Full prose for D13: `a5-quantum-thermodynamics-closure-audit.md`.
+Full prose for D13: `a5-quantum-thermodynamics-closure-audit.md`; correlation-dependent reset refinement: B11 §5.
 
 ---
 
@@ -185,15 +189,15 @@ Non-additive. Each row: did this contact collapse to relabel, or did role-route 
 
 | Contact | Source | Grade | Discount | Could-have-failed | Notes |
 |---|---|---|---|---|---|
-| Virtual exchange absence-type + minimal toolkit | B1 | lineage-witness | owned/projected/import boundary (§2); kernel ≠ carrier | propagator support as sole causality diagnostic; gauge-invariant carrier content on off-shell line; a threshold detector firing early (kills §5.1's tier resolution) | magnitude Layer 3 only; Sokhotski = Layer 2 projection; **§5.1 (2026-07): two-leg decomposition — support table as role composition (halo = relatedness, unsigned; cone = influence, oriented); Hartman dispute tier-resolved** |
-| Hubble slot-count | B2 | lineage-witness | calibration disowned | third semantic-redshift slot | two-slot burden under shared flow |
-| QES / null constitution | B3 | lineage-witness | QG formula owned | irreducible constitution on null generators | record ≠ write site |
+| Virtual exchange absence-type + composition | B1; B11 §1 | lineage-witness / conditional derivation | field algebra, covariance, spectrum/reconstruction and coupling assumptions explicit | controlled source-dependent response outside causal contact; gauge-invariant carrier content of the internal line | Spacelike correlations may remain while response vanishes. Antisymmetry alone, universal 1/ω cap, and isolated-early-click criterion rejected; on-shell distribution ≠ uptake |
+| Hubble inference roles | B2; B11 §8.1 | conditional dependency argument | calibrations, shared flow and comparison map declared | indispensable omitted dependency under those premises, or demonstrated failure of a comparison premise | Two burden groups are not two physical degrees of freedom; siren agreement is not unique causal diagnosis |
+| QES / null constitution | B3; B11 §8.2 | record/operation clarifier; GB-3 survival, not independent confirmation | island formula and target operation distinguished | completed operation on genuinely null structure without flow-bearing uptake | Full generalized entropy includes area; QES need not be null; absence of a write term does not prove a universal prohibition |
 | Gauge / normal-ordering conventions | A0 §3 probe | **lineage-neutral** | — | tier separation absent | audit returns **relabel only** — logged so the grade can fail |
 | Ward / index bookkeeping (typical) | QFT practice | **lineage-neutral** (default) | — | — | not counted toward contact weight |
 | Commutator locality → "information in flight" | QFT habit misread (B1 contrast) | **lineage-failure** | — | kernel/carrier split absent | route predated (PB-3, ladder); audit returns **relabel only** — logged so grade discriminates |
-| Many-body LR cone / ordering bound | B9 | clarifier / **candidate positive witness** | v_LR and proof constants imported | cone advances by width alone; bound irreducibly duration-only; ceiling = realized always; ~~LR = c once metric restored~~ **resolved 2026-07 (b9 §2): the ceiling collapses to c as relativity demands; the witness relocates to the bound/realized split + the intensive state-dependent form (Eisert–Gross, Yin–Lucas — PB-2's form landed independently); re-scoped could-fail: realized fronts saturate at generic coupling outside protected sectors (free/integrable/d = 2 chiral)** | PB-1 GR-free; PB-2.1/2.2 + bound/realized at favorable wall (b4 §6a demand) |
-| Wald ordering-charge / Page un-fusion | B4 §6b | **contact / could-fail (not owned)** | Wald entropy + Page/QES machinery imported | boost = ordering-symmetry only fitted to S=A/4; stable remnant required; pre-Page reduces to count | fused limit (C1) reframes the §6 corner; un-fusion (C2) = pre-Page per-ordering home |
-| Double slit / which-path / eraser | B10 | lineage-witness | duality arithmetic, no-signalling, all magnitude imported; null guard QM-shared (no exposure) | unconditioned pattern shifts under marker choice; thermodynamic floor on readiness reversal; dissipation-free record reset; convention-free state functional locating the grain | carve (A1/A3/PB-3/PB-4) predates contact; two-erasers asymmetry is the owned discriminator; screen-end verdict rides PB-4, adds no new row |
+| Many-body connecting depth / ordering bound | B9; B11 §4 | conditional derivation; broader resource bet open | graph distance, local generator and quantitative bounds imported | connecting order changes under fixed-resource spectator width; or matched-task resource claim fails | Depth fixes first possible support order; duration and coupling weight it. No duration-free velocity, universal front-saturation classification or automatic physical meaning for proof slack |
+| Wald charge / dynamical area–flux relation | B4; B11 §6 | conditional GR contact; ordering-measure bet open | normalized Wald charge and HWZ entropy definition / perturbative regime supplied | claimed flux relation fails under its premises; ordering assignment yields no further constraint | Stationary equality does not identify roles. First-order δS_dyn′ follows matter flux while a pre-flux linear area perturbation cancels; Page turnover is separate |
+| Double slit / which-path / eraser | B10; B11 §5 | operation derivation + explicit counterexample | quantum maps and entropy/bath assumptions supplied | unconditioned marginal changes under a local trace-preserving operation; equality-form heat balance fails under its actual premises | Universal positive reset floor from constitution status alone rejected. Correlated-copy reset, joint unmarking and conditional selection require different accounting |
 
 Lineage-witness is **defined**, not **accumulated** — see reading rules above.
 
@@ -204,21 +208,44 @@ Lineage-witness is **defined**, not **accumulated** — see reading rules above.
 Layer template parity between QEC and metrology (A4 §6). **One grammar transfer** (not a shared coefficient):
 
 ```text
-QEC:   good syndromes, dead memory  →  record OK; commit/uptake leg failed
-Meta:  good path phase, visibility needs clock-OFF  →  render OK; flow-register leg failed
-Same layer break; different register — predicted by role split, not by QEC numerics.
+QEC:   good syndromes, dead memory  →  record OK; target commit failed
+Meta:  good path phase, clock-OFF   →  render OK; flow-register inactive
+Same composition question; a shared failure class or substrate requires a separate argument.
 ```
 
 | Claim | Source | MGR-owned signature | Fails if |
 |---|---|---|---|
 | QEC failures sort by layer | A4 | Same stream → move decoder / commit / threshold; predict which readout moves | Logical success predicted by syndrome quality alone with all layers pinned |
 | Predictive closure | A4 §5–6 | Open cell → closure or projection → class/cliff/correlation | Residual tracks wrong projection under preregistered factorial |
-| Mid-circuit / latency | A4, ledger §14.1 | Commit cliff when τ_dec/τ_cycle → 1 | — (engineering contact) |
-| Metrology mirror | A4 §6 | Decode policy vs commit (e.g. M=1 → SQL class) | HL scaling without commit leg |
-| Zych clock interferometry + clock-OFF | B8; ledger §14.3.1; A0 §9 | ON/OFF factorial at fixed φ; **lab open** (no V data; render-leg only: COW, grav. AB 2022) | V drops with clock-OFF at fixed φ; or V tracks φ only with clock ON |
-| QThermo composites sort by layer | A5; D13 | Same correlation record → vary battery, reset, register/write, clock/control. **Instances (a5 §8):** finite-time Landauer as the measured count/duration split (PB-2.2's form, write register); the record→constitution ratio rung tabulated (Toyabe, Koski, Bérut, Mandal–Jarzynski); open cross-register cliff bet (feedback-latency vs decoder-latency cliff class) | Work/cycle/information from state functionals alone; reset omitted while cycle headline stands; cliff classes differ across registers (crosswalk demotes to analogy) |
+| Mid-circuit / latency | A4, ledger §14.1 | Protocol dependency deadline and throughput govern timely frame/apply/handoff; one-cycle cliff rejected | Deadline/backlog prediction fails with convention and resource budget fixed; slow diagnostics alone do not refute the role |
+| Metrology mirror | A4 §6 | M changes interrogation repetitions, not decoder depth; resource axes are nonlinear; feedback requirements are protocol-specific | Mandatory adaptive commit rebuffed by nonadaptive HL; unchanged complete record + estimator cannot lose precision from absent later actuation. Acquisition/target-operation distinction survives |
+| Clock interferometry / matched-mean control | B8; B11 §3; A0 §9 | Pure three-level pair: equal mean internal energy, different variance; matched phase and different contrast within the prescribed-path approximation | Clock-attributed residual after pure OFF, phase, preparation and other-channel controls; contrast alone in a mixed stationary state does not establish an accessible internal record. Algebra checked, laboratory implementation not supplied |
+| QThermo composites sort by layer | A5; D13; B11 §5 | Same diagnostics → vary storage, write, control, reset and accessible side information; equality-form heat balance retains correlation and bath terms | Same task succeeds with a required role absent; universal constitution-status reset price is already rebuffed by correlated-copy reset; common-cliff transfer remains separately scoped |
 
-Published experiment map: `diagnostic-ledger.md` §14.
+Published experiment map: `diagnostic-ledger.md` §14. Current B-derived attribution and failure scopes are those above and in B11 §9.
+
+---
+
+## B11 — current derivation boundaries
+
+Source: [Composition Relations and Boundary Tests](b11-composition-relations-and-boundary-tests.md).
+
+```text
+B1:     composed-product covariance, not antisymmetry alone, removes spacelike ordering residue.
+B6/B7:  positivity gives N ≥ |D|; KMS adds N/D = coth(βℏω/2) for the specified response family.
+B8:     mean-energy phase and variance-dependent contrast yield a matched-mean control.
+B9:     connecting depth and dynamical weighting remain separately necessary.
+B10:    accessible correlations and restoration determine the reset task; constitution status alone does not.
+B4:     normalized charge–area equality and first-order area–flux separation hold under stated GR imports.
+B5:     DT = R∧e constrains distinct closure faces; metric compatibility does not imply torsion-free.
+B2/B3:  input/inference data do not supply an unspecified calibration or target operation.
+```
+
+The state-admissibility implication and cross-register ordering-measure identification remain open.
+`workbench/b-series-boundaries/` records 38 passing symbolic/finite-model checks, not experimental
+witnesses or continuum theorem proofs. Any later argument using a rejected B implication must
+be re-audited at that dependency; independently derived C/D claims are neither endorsed nor
+rejected by this pass.
 
 ---
 
@@ -257,7 +284,7 @@ observable: the tier gate's boundary degradation, placeable only under the finit
 ### DR rows — the occupancy lane (d1)
 
 Occupancy rows for the D-lane. Placed July 2026, before the direct-detection program reaches the
-neutrino fog and with no confirmed non-gravitational dark-matter conversion in hand. Doubly
+neutrino fog and **with no confirmed non-gravitational dark-matter conversion in hand**. Doubly
 conditional: every DR row rides the seam (CD rows) and **strands** — neither refuted nor
 vindicated, reverting to the gravity-only relabel, banked — if the seam dies. Two tensions are
 booked on the record in d1 against its own bet: the abundance coincidence (Ω_dark/Ω_b ≈ 5 leans
@@ -280,6 +307,7 @@ purely-gravitational calibration row). No PB weight; not canon.
 
 | Material | Location | Status |
 |---|---|---|
+| B-series composition relationships and counterexamples | `workbench/b-series-boundaries/` | B11 support: 38 passing symbolic/finite-model checks; not experimental or continuum-theorem confirmation |
 | Torsion neutron-star gates, EOS numerics | `archive/b5-torsion-experimental/`, `data/b5-*` | Externally priced; **D9 sensitivity only** |
 | Frame-transport handle CSVs | `workbench/frame-transport-discriminator/` | Numeric experiments |
 | Arity-seam referees (OCB ceiling, switch fine-graining, order-swap, BMV arithmetic; 12 scripts) | `workbench/arity-seam/` | C10 definiteness-axis / reducer-trilemma referee, July 2026 |

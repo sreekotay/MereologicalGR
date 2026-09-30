@@ -14,13 +14,13 @@ Core result:
 gravity = ordering + influence + energy-momentum
 information = ordering + influence + flow
 
-massive-sector reading:
-  energy-momentum = flow-face + adjacency-face
-  (flow = flow-face, the proper-time leg)
+massive-sector projection:
+  energy-momentum has flow-conjugate and adjacency-conjugate faces;
+  the flow-conjugate face is energy, not proper-time flow.
 
 therefore:
   gravity and information share ordering + influence;
-  their difference, in the massive torsion-free sector, is the adjacency-face / energy-momentum sector.
+  their remaining requirements are energy-momentum and flow-bearing uptake, respectively.
 ```
 
 Punchy short form — **demoted on audit (2026-07)**:
@@ -32,11 +32,11 @@ gravity = information + adjacency      [label, not composition]
 The subtraction requires `flow = flow-face`, but the flow-face of energy-momentum is *energy* —
 the flow-**conjugate** projection, not proper-time flow itself. A conjugate is not its variable;
 reading them as one is a homonym fusion, the failure shape this corpus polices everywhere else.
-The short form is retained as a mnemonic label only (A0 §11: label, no weight). The scoped
-statement above and the operational expansion below survive unchanged — the shared
-`ordering + influence` legs and the transport/uptake divergence never depended on the subtraction.
+The short form is retained as a mnemonic label only (A0 §11: label, no weight). The shared
+`ordering + influence` legs and the transport/uptake relationship survive; an adjacency-only
+remainder does not follow. Related roles need not be identical or independently realized.
 
-Here "adjacency" is shorthand for the adjacency-face of energy-momentum (massive, torsion-free sector), not the spatial-adjacency role of the glossary.
+Here "adjacency-face" means the spatial projection of energy-momentum, not the spatial-adjacency role itself.
 
 Operational expansion:
 
@@ -48,8 +48,8 @@ gravity:
   ordered influence structured by energy-momentum-conditioned transport
 
 difference:
-  gravity owns the adjacency / energy-momentum / transport side;
-  information owns the uptake / write side.
+  gravity requires energy-momentum-conditioned transport;
+  information requires flow-bearing uptake / write.
 ```
 
 Scope:
@@ -70,7 +70,7 @@ The gravity-side seam takes a three-layer audit, not a re-derivation of GR.
 ```text
 Layer 1 — owned (GR / A0 lineage):
   gravity = ordering + influence + energy-momentum; information = ordering + influence + flow
-  shared core ordering + influence; the difference is the adjacency / energy-momentum sector (GB-1)
+  shared core ordering + influence; energy-momentum-conditioned transport ≠ flow-bearing uptake (GB-1)
   GB-2 loss / unaccountability edge; GB-3 no-null-constitution (framelessness, A0 §4)
   constitution is uptake / write-side, not transport-side
   torsion-free is an unforced empty cell (open, parked)
@@ -181,14 +181,14 @@ For massive systems:
 
 ```text
 energy-momentum = time-momentum + space-momentum
-                = flow-face + adjacency-face
+                = flow-conjugate face + adjacency-conjugate face
 ```
 
 At the null limit:
 
 ```text
-flow → 0
-energy is adjacency-borne
+own proper-time flow → 0
+energy remains rendered through another flow-frame
 E = |p|c
 ```
 
@@ -196,21 +196,22 @@ The null limit is the opposite extreme from rest-massive content:
 
 ```text
 rest-massive:
-  flow-face maximal, net momentum zero
+  own rest frame exists, net momentum zero
 
 null:
-  flow-face zero, adjacency-borne momentum/energy
+  no own rest frame; nonzero energy and momentum relative to a timelike frame
 ```
 
 ---
 
-## 4. GB-1 — gravity and information differ by adjacency
+## 4. GB-1 — gravity and information: transport versus uptake
 
 Claim:
 
 ```text
 In the massive-sector role-decomposition,
-gravity and information differ by the adjacency / energy-momentum sector.
+gravity and information share ordering + influence;
+energy-momentum-conditioned transport and flow-bearing uptake remain distinct requirements.
 ```
 
 Grade:
@@ -218,7 +219,8 @@ Grade:
 ```text
 definition + consistency-check;
 not a bet;
-no confirmatory weight.
+no confirmatory weight;
+adjacency-only subtraction rejected.
 ```
 
 Reason:
@@ -226,8 +228,9 @@ Reason:
 ```text
 P1. ordering is the same role in both compositions;
 P2. influence is the same role in both compositions;
-P3. energy-momentum decomposes into flow-face + adjacency-face in the massive sector;
-therefore gravity's extra term over information is the adjacency / energy-momentum sector.
+P3. gravity adds energy-momentum; information adds flow-bearing uptake;
+P4. energy is conjugate to flow, not identical to it;
+therefore the projection split cannot cancel flow and leave adjacency alone.
 ```
 
 Scope guard:
@@ -272,13 +275,7 @@ Do not treat GR's torsion-free choice as a prohibition.
 
 ## 5. Gravity as energy-momentum-conditioned frame-transport
 
-The punchy line stays:
-
-```text
-gravity = information + adjacency
-```
-
-But the operational expansion is more precise.
+The surviving relation is transport conditioning subsequent uptake; neither operation substitutes for the other.
 
 In the torsion-free GR-owned sector:
 
@@ -811,19 +808,20 @@ Information:
 Gravity:
   ordering + influence + energy-momentum
 
-Punchy short form:
-  gravity = information + adjacency
+Rejected subtraction:
+  gravity = information + adjacency      [label only]
 
 Operational expansion:
-  gravity owns the adjacency / energy-momentum / transport side;
-  information owns the uptake / write side.
+  gravity requires energy-momentum-conditioned transport;
+  information requires flow-bearing uptake / write.
 
-Massive-sector decomposition:
-  energy-momentum = flow-face + adjacency-face
+Massive-sector projection:
+  energy-momentum has flow-conjugate and adjacency-conjugate faces;
+  the flow-conjugate energy is not proper-time flow.
 
 Therefore:
-  gravity differs from information by the adjacency / energy-momentum sector
-  in the massive torsion-free GR-owned sector.
+  transport and uptake remain related but non-substitutable;
+  an adjacency-only difference does not follow.
 
 Transport reading:
   T_μν → curvature / connection behavior → frame-transport → rendering / sampling consequences.
@@ -840,8 +838,8 @@ Computational handles:
   closure gap ~ T(A,B)             torsion if translational closure cell is live
 
 Null limit:
-  flow → 0;
-  energy adjacency-borne;
+  own flow → 0;
+  energy rendered by another flow-frame;
   transit not constitution.
 
 Torsion debt:

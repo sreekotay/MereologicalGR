@@ -32,7 +32,9 @@ Missing (when sold as constitution):
   uptake / write
   read / use path
   application threshold
-  erasure / reset-paid closure
+
+Missing for repeated-cycle closure:
+  erasure / reset accounting
 ```
 
 Bad closure:
@@ -93,6 +95,10 @@ missing:  a required leg absent (e.g. work claimed with no battery)
 extra:    a part present but unaccounted (e.g. entropy drop sold as cycle closure without reset)
 ```
 
+Battery and clock/control name work-storage and control roles, not necessarily separate devices.
+Removing one implementation does not remove a role supplied elsewhere; co-occurrence does not
+establish a shared substrate.
+
 ---
 
 ## 4. Sharpest missing-role claims
@@ -107,7 +113,7 @@ No reset, no closed information-thermodynamic cycle.
 No register / write-chain, no constituted information.
 ```
 
-Each is a could-fail condition, not a slogan. **False** locates malformed bundling or a holding route. **True** forces new bets (which battery, which reset path, which pinned threshold). **Relabel** if the audit only recovers textbook resource vocabulary with no downstream export that could have failed — §8 now carries that export (the count-form reading, the ratio table's grammar question, and the cross-register cliff bet).
+Each is a could-fail condition, not a slogan. **False** locates malformed bundling or a holding route. **True** forces new bets (which battery, which reset path, which pinned threshold). **Relabel** if the audit only recovers textbook resource vocabulary with no downstream export that could have failed — §8 carries the count/duration contact, the ratio question, and the separate cross-register cliff bet. A failed class transfer need not erase a surviving operational relationship.
 
 ---
 
@@ -169,7 +175,8 @@ cycle claim moves only when reset / erasure is paid or omitted
 information claim moves only when register + write + threshold are pinned
 ```
 
-Uniform success under stripped composites is a weak diagnostic — the layer split was never stressed.
+Success with a required role genuinely absent, at the same pinned task and threshold, refutes its
+necessity. Success after removing only an implementation requires locating the role still supplied.
 
 ---
 
@@ -188,31 +195,31 @@ Uniform success under stripped composites is a weak diagnostic — the layer spl
 
 ## 8. Instances — the register's measured structure
 
-The thermodynamic register already contains, in measured form, structural signatures the corpus
-bets on elsewhere. Retrodictions are marked; one arm is open.
+The thermodynamic register contains measured count/duration and bound/realized distinctions.
+Their relationship to the ordering-resource bet remains testable; one cross-register arm is open.
 
-**8.1 Finite-time Landauer is the count/duration split, measured.** The erasure invoice per bit
-decomposes as
+**8.1 Finite-time Landauer: count and duration remain distinct.** Complete erasure of an initially
+unbiased, symmetric bit at bath temperature T has the ideal bound
 
 ```text
-W = kT ln 2  +  B/τ
-    count-metered bound        duration-metered excess
-    (per bit, duration-blind)  (finite-time dissipation)
+W_min = k_B T ln 2
 ```
 
-Bérut et al. (*Nature* **483**, 187 (2012)) measured exactly this approach curve in a colloidal
-double-well. Read against b4 §6a: the write-conversion's ordering-resource is a **count** (bits);
-the bound per count is intensive and state-dependent (kT ln 2 — a rate, not a universal scalar:
-PB-2's declared form); and bound/realized separate on duration. b9 exhibits the count-form
-signature in the influence register (layer-count on a lattice, metric absent); this is the same
-signature in the **write register**, independently measured — a second register for PB-2.2's
-count-not-duration demand. Retrodiction confessed: standard stochastic thermodynamics owns the
-formula; MGR owns only the reading. Could-fail: if the bit-count cannot be pinned
-threshold-independently (the "bit" dissolving under threshold choice), the count-form read dies
-in this register.
+In the optimized high-success Bérut protocol, the success-conditioned heat approaches this scale
+approximately as `⟨Q⟩_success ≈ k_B T ln 2 + B/τ`; the coefficient and regime are protocol-specific.
+Imperfect erasure changes the unconditional bound, and a selected-success mean is not the
+full-ensemble mean (Bérut et al., *Nature* **483**, 187 (2012); analysis: arXiv:1503.06537).
 
-**8.2 The record→constitution conversion rung, tabulated.** Each demon experiment is a measured
-(bound, realized) pair at this interface:
+The count/duration distinction survives. Bit count alone does not establish ordering-resource:
+independent bits can be erased in parallel while the ideal total bound remains `n k_B T ln 2`.
+The PB-2 reading must therefore test the relation between erased amount, sequential depth, and
+available parallel resources rather than identify their counts. `k_B T ln 2` is energy per erased
+bit, not a velocity or time rate. Could-fail: the ordering interpretation fails if parallel amount
+substitutes for its proposed resource under matched task and error criteria; the count/duration
+contact remains. Pin the logical encoding, success criterion, and erasure map before comparing.
+
+**8.2 The record→constitution conversion rung, tabulated.** The experiments supply measured
+(bound, realized) pairs; the solvable tape model supplies a theoretical comparison:
 
 ```text
 Toyabe et al.  (Nat. Phys. 6, 988 (2010))   feedback work vs kT·I bound; realized ~28%;
@@ -220,33 +227,34 @@ Toyabe et al.  (Nat. Phys. 6, 988 (2010))   feedback work vs kT·I bound; realiz
 Koski et al.   (PRL 115, 260602 (2015))     autonomous on-chip demon; the demon's own register
                                             dissipation metered — clock/control and reset legs
                                             made physical
-Bérut et al.   (Nature 483, 187 (2012))     the reset leg alone, priced to its floor
-Mandal–Jarzynski (PNAS 109, 11641 (2012))   reset budget as physical supply: engine/eraser/dud
+Bérut et al.   (Nature 483, 187 (2012))     the reset leg alone, priced toward its floor
+Mandal–Jarzynski (PNAS 109, 11641 (2012))   solvable model, not an experiment: engine/eraser/dud
                                             regime set by the incoming tape's blank capacity
 ```
 
-All retrodictions — standard accounting (Sagawa–Ueda, resource theories) already prices each.
-What standard accounting never asks: whether these ratios share a grammar — converted weight,
-unconverted remainder, sum-rule shape — with the conversion weights at *other* interfaces. The
-table is that question's data.
+All retrodictive contacts — standard accounting (Sagawa–Ueda, resource theories) already prices each.
+The additional question is whether these ratios share a constrained relation — converted weight,
+unconverted remainder, sum-rule shape — with conversion weights at other interfaces. Similar
+roles do not by themselves establish one law or one substrate.
 
-**8.3 The open arm — the cross-register cliff.** A4's commit cliff (logical memory dies as
-τ_dec/τ_cycle → 1) crosswalks (§5) to: feedback-engine yield collapses as feedback latency
-approaches the system's correlation time. Both sides have data (Toyabe's delay curve; QEC
-decoder-backlog studies); the **shapes have never been compared**. The bet, form-level only: same
-cliff class, coefficients register-owned. Falsifier: the classes differ — then the §5 crosswalk
-was analogy, not grammar, and this note demotes to vocabulary by its own §4 rule.
+**8.3 The open arm — the cross-register cliff.** Does QEC dependency latency have the same failure
+class as feedback-engine latency relative to usable correlation time? Fix the task, error/yield
+threshold, delay normalization, and criterion for matching the onset or asymptotic form before
+comparing curves. Decoder backlog, a missed decision deadline, and correlation decay are distinct
+candidate mechanisms, not one cliff by description. Toyabe's delay curve and QEC timing data are
+contact handles; the matched comparison is open. Different classes rebuff the universal class
+transfer; a narrower relation between latency and required uptake remains separately testable.
 
 ---
 
 ## 9. Demotion
 
 ```text
-constituted work, information, or cycle achievable from state functionals alone
-without battery, register/write, reset, or pinned threshold;
-entropy / MI / correlation sufficient for constitution across varied uptake conditions;
-reset omitted while cycle headline still claimed;
-cliff classes differ across the §8.3 registers (the crosswalk demotes to analogy).
+constituted work, information, or cycle achievable from the specified input-state diagnostics alone
+without the corresponding work-storage, write, control, or reset role at the pinned target;
+entropy / MI / correlation sufficient for target completion across varied uptake conditions;
+reset omitted while the same closed-cycle task is achieved;
+cliff classes differ under the §8.3 matching rule → common-class bet fails, not every layer relation.
 ```
 
 ---
