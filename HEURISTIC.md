@@ -22,33 +22,50 @@ is a search heuristic, which has a hit rate, which is testable.
 
 ## The marker
 
-Four signatures follow from the thesis. Only the third is searchable.
+The thesis says fusion hides where a fit closed tightly. But "look for a standing dispute" is too
+coarse a detector — it points at the most heavily worked primitives in physics, which is where the
+separations have usually already been made. The sharper form is per-closure and mechanical:
 
 ```text
-1. an unusually tight formula            (the fit closed)
-2. a prescription everyone uses and
-   nobody derives                        (the absorbed seam)
-3. a standing dispute among people who
-   all agree on the calculations          ← the detector
-4. one-place language for a many-place
-   relation                              (the compression, surfaced)
+name the receiving closure;
+name the component its practice treats as atomic and one-place;
+check whether the grammar supplies that component as a composite.
+
+it does  → questions whose subject is that component are candidates
+it does not → the closure's atom is an atom; nothing to audit here
 ```
 
-**A dispute that persists among competent parties who agree on the math is a fusion detector.**
-If the calculation is not what is contested, the compression is.
+The candidates, drawn from contacts already run:
+
+| closure | imported primitive | the question that stops parsing |
+|---|---|---|
+| QM / QFT | **observer** — an agent with outcomes | *when did it arrive* · *what did the friend see* |
+| thermodynamics | **the partition / the closed cycle** | *how much work* · *did entropy increase* |
+| cosmology | **the global scalar** | *what is H₀* |
+| quantum gravity | **definiteness** — metric-supplied | *what is the quantum state of the geometry* |
+| QEC / metrology | **the milestone** | *do we have a logical qubit* |
+| dark sector | **coupling as darkness** | *how weakly does it couple* |
+
+## The expected outcome shape
+
+Not TRUE or FALSE. The product is a **malformedness** diagnosis — the question demanded a value
+for a composite where a co-required role was absent — and it carries the test from A0's own
+instrument: name the composite, name its roles, exhibit the absent one. Fail to exhibit it and the
+question is well-formed and owed an answer.
 
 ## The filter
 
 ```text
 required:  all parties agree on the calculations
-excluded:  empirical disputes (the data decides — Hubble tension, σ/m, proton radius)
+excluded:  empirical disputes (the data decides)
 excluded:  contested mathematics (the proof decides)
-excluded:  convention preferences with no fitted effect behind them (signature, index order)
+excluded:  convention preferences with no fitted effect behind them
 ```
 
-Without the filter the marker degenerates to *famous unsolved problems*, which is the
-heuristic's relabel death: if the hit rate is indistinguishable from picking any celebrated
-dispute, the model adds nothing and this file records that.
+Without the filter the marker degenerates to *famous unsolved problems*, which is the heuristic's
+relabel death. And malformedness is the most dangerous verdict in the kit — it can dismiss any
+counterexample — so the diagnosis must be stated in general form **before** the contact, never
+reached after a result comes back inconvenient.
 
 ---
 
@@ -124,8 +141,33 @@ this row argued the point from causal diamonds being closed under the worldline'
 tautology doing no work, and it is corrected here rather than kept. The proposed "structural rather
 than complexity-contingent" discriminator has no content, and Harlow–Hayden is not displaced.
 
-*Where a fusion would have to be, if there is one:* in `unitarity`, in `the equivalence principle`,
-or in `maximally entangled` — not in who is looking.
+*Where a fusion would have to be, if there is one:* in `unitarity`, in `the equivalence
+principle`, or in `maximally entangled` — not in who is looking.
+
+**Re-aimed on the writer axis (post-audit; recorded, not scored).** The firewall's implicit
+assumption is a *combination rule* for perspectives, and Hausmann & Renner (arXiv:2504.03835) show
+the extended Wigner's friend theorems kill such a rule without gravity. Mukherjee & Hance
+(arXiv:2510.26562) already name the record/fact split — **Pseudo Events** (unitarily erasable
+within the protocol) versus **Truly-Observed Events** — and explicitly make it protocol-relative,
+which occupies the protocol-relativity discriminator H-3 was resting on. Their weakened assumption,
+*Operational Pseudo Event Mediation*, then still yields inequalities quantum theory violates.
+
+What survives is one technical break, and it is on the GR side rather than the quantum side. Their
+criterion is **extrinsic** — an event is Pseudo if some super-observer *could* reverse it, a
+statement about the available control algebra; they flag it as non-fundamental themselves. The
+write-chain criterion is **intrinsic**: constitution consumes flow, so undoing a write is not `U†`
+but running proper time backwards on the register's own worldline. On that reading their unitary
+erasure de-correlates a record without undoing a write — which `record ≠ constitution` already
+separates — and clause 1 of their assumption, *existence of marginals for the Pseudo Events*, is
+malformed rather than false: no write, no value for `p(c,d|x,y)` to range over.
+
+**Could-fail, sharp:** run an extended Wigner's friend protocol on a register that demonstrably
+consumed flow — amplified, dissipative, threshold-crossing — and still reverse it to recover
+interference. Then the write was not flow-irreversible and PB-4 loses its physical criterion.
+
+**Procedural flag:** this survivor was reached *after* reading the theorem it evades, which is the
+order the ledger forbids everywhere else. It satisfies the malformedness test, but until the rule is
+stated in general form and the rejection re-derived from it, the row stays unscored.
 
 *What survives, weakly.* Muthukrishnan's operational/descriptive split (arXiv:2211.15650) is
 access versus global description, not access versus write — so a record-tier distinction may still
