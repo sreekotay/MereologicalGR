@@ -468,6 +468,9 @@ no missing
 no extra
 ```
 
+The same instrument applies to questions, not only to claims: a question that demands a value for a
+composite with a role missing is malformed rather than false (§11).
+
 Parts merely present is consistency, not composition. Taxonomy classifies things; mereology asks whether the proposed parts determine the whole.
 
 MGR often names things that are not all the same kind:
@@ -911,9 +914,44 @@ Clarifier and lineage-witness grades carry weight only when there is a downstrea
 
 ```text
 Relabel is the failure mode.
-False locates where roles hold or where the route is malformed.
+False locates where roles hold.
 True forces new bets.
+Malformed locates a question the composition cannot answer.
 ```
+
+### Malformed — the fourth outcome
+
+A contact can return none of the three. The receiving closure's question may demand a value for a
+composite at a point where one of that composite's co-required roles is absent. Such a question is
+not false; it states no proposition the grammar can evaluate.
+
+```text
+ε for an influence-only interaction, no register:
+  undefined, not zero — the degenerate structure is present,
+  but nothing is constituted for ε to be the value of.          (c1)
+
+photon energy in flight:
+  not a one-place property — E = -p·u needs a worldline.        (A1 §6)
+```
+
+The instrument is §5's, turned on the question instead of the claim:
+
+```text
+name the composite the question asks about;
+name its co-required roles;
+exhibit which role is absent where the question demands a value.
+
+cannot exhibit one -> the question is well-formed; an answer is owed.
+```
+
+The exhibit requirement is the whole discipline. Malformed is the most powerful verdict available
+here and the easiest to abuse — it can dismiss any counterexample — so it is admissible only with
+the absent role named, and only when the rule was in hand before the contact. Reaching for it after
+a result arrives inconvenient is fitting, and the row records that instead.
+
+Malformedness is why a resolved contact often names no winner: `when did it arrive`, `did it work`,
+`was work extracted`, `is there a bath` each fail the exhibit test at a different role, and
+awarding one side would concede the question parses.
 
 Recovery with fixed route is the method for axiom-to-fit foundations. Relabel without prior carve is failure.
 

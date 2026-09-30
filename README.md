@@ -94,6 +94,7 @@ Contact outcomes:
 
 - **FALSE** — success: informs where GR roles are already sufficient, or MGR is unfusing incorrectly.
 - **TRUE** — requires further bets / projections.
+- **MALFORMED** — the question demanded a value for a composite with a co-required role absent; admissible only with the absent role exhibited (A0 §11).
 - **RELABEL** — the failure mode.
 
 Claim status: [CLAIMS.md](CLAIMS.md).
