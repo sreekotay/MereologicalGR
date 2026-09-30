@@ -95,31 +95,34 @@ priority search runs before the note.
 
 ## Outcomes — audited 2026-09, after the register above was committed
 
-**H-1 — firewalls. Fusion found; conclusion recovered; one discriminator.**
+**H-1 — firewalls. MISS. The separation is already standard, and the added constraint is empty.**
 
-In the AMPS argument one agent must do three jobs: ride a worldline that leaves the exterior and
-crosses the horizon; act on the early-radiation algebra to decode it; and *hold* the decoded
-result across the crossing to compare it with what the interior renders. Monogamy of entanglement
-licenses the second — it is a constraint on states and algebras. The paradox needs the third: a
-register carrying a threshold-crossed record across an access boundary. Whether that register
-exists is a different physical question from whether the algebras overlap, and "observer" supplies
-both under one word.
+Predicted fusion: "observer" doing three jobs — worldline, access algebra, write-chain — with the
+paradox needing the third while monogamy licenses only the second.
 
-Separated, the verdict is that no contradiction is ever *constituted* — which is Harlow–Hayden's
-conclusion by another route. HH get there from computational complexity (the decoding takes longer
-than the hole lives; Aaronson grounds the hardness in one-way functions). The role reading gets
-there from the constitution chain failing to close across b4's access boundary.
+Audited against the literature, both halves fail.
 
-**Discriminator:** HH's resolution is *contingent on complexity* — a fast decoder restores the
-paradox, and the Aaronson grounding makes the contingency explicit. The role reading is
-*structural* — no decoding speed helps. Exhibit a protocol where the decoded result is constituted
-and carried across, and the role reading dies and complexity is the whole story; show the
-obstruction survives arbitrary decoding power, and HH's bound is a symptom rather than the cause
-(the regime where this matters is the one Ong's cold-black-hole case already pressures).
+*The separation is not a fusion.* Bousso's criterion is the **causal diamond**, the intersection of
+a worldline's past and future (*Complementarity Is Not Enough*, arXiv:1207.5192). Worldline-plus-
+access is the framework's central object, explicitly unfused, and the firewall argument bites
+*because* the early radiation lies in the infalling observer's diamond. The field concedes causal
+access; it fights on feasibility. So the role grammar arrives after the separation has been made,
+by a tool built for it.
 
-**Owed before this is a note:** Muthukrishnan, *Unpacking Black Hole Complementarity*
-(arXiv:2211.15650), and Bousso's observer-complementarity papers — both plausibly occupy part of
-this separation already.
+*The write-chain adds nothing.* A causal diamond is closed under the worldline's own future, so a
+register that records the decoding inside the diamond is carried into the interior by construction.
+There is no further constraint to impose, and no non-causal obstruction on offer. The proposed
+"structural rather than complexity-contingent" discriminator therefore has no content, and
+Harlow–Hayden's resolution is not displaced.
+
+*What survives, weakly.* Muthukrishnan's operational/descriptive split (arXiv:2211.15650) is
+access versus global description, not access versus write — so a record-tier distinction may still
+be unoccupied there. But nothing in this audit shows it doing work, and a distinction with no work
+is the relabel condition. Filed as a gap, not a claim.
+
+Read status: search-mediated only. `arxiv.org`, `philarchive.org` and the MPP host are denied by
+this environment's network policy, so neither paper was read in full; the miss rests on their
+stated criteria, which is enough to kill the discriminator but not to close the gap above.
 
 **H-2 — arrow of time. Fusion found; diagnosis is standard. Partial miss.**
 
@@ -147,10 +150,14 @@ pinned in the apparatus, not about interpretation. That predicts two protocols d
 threshold placement should disagree about the weak value's status, predictably. Testable, and it
 would dissolve the dispute into a protocol specification rather than settling it.
 
-**Heuristic score, first forward run:** 3 targets named, 3 fusions found, 0 counterexamples; two
-returned the pre-registered outcome class (lineage-witness plus a discriminator), one returned
-relabel. The relabel is the useful row — it is the first target that passed the filter and yielded
-nothing bankable, which the Discipline below had listed as owed.
+**Heuristic score, first forward run: 1 partial hit, 2 misses, 0 counterexamples to the
+thesis itself.** H-1 was the target named strongest and it missed on both halves. H-2 found a real
+fusion whose diagnosis is standard. Only H-3 returned something the search could not find already
+occupied. Against a retrospective record of six positives, that is the regression pre-registration
+exists to expose: the retrospective targets were chosen after their audits succeeded, and the
+forward rate is what the heuristic actually earns. Two negatives now sit on the filter's hard side —
+H-1 and H-2 both passed the calculations-agreed test and returned nothing bankable — which was the
+class this file listed as owed.
 
 ---
 
