@@ -238,7 +238,10 @@ is a power law, Δt⁻², with no exponential: no period, T = 0.
 **Status.** Principles 1–6 are de-axiomatisations of known results: Hawking's
 exponential-redshift argument, Euclidean regularity, Tolman, extremal T = 0, and the minimal
 conditions. They are now derived from real Lorentzian counts plus horizon regularity, with no
-field and no imaginary time. The quantum state (Hartle–Hawking or Unruh) is still imported for
+field and no imaginary time. *Caveat on novelty:* Hawking 1975 was already real-time and
+geometric (exponential redshift of rays). What changes is the carrier. The period sits in
+diamond counts, which are the only quantities a discrete order has, rather than in affine
+parameters or mode functions. The quantum state (Hartle–Hawking or Unruh) is still imported for
 the *meaning* of the period. The identity `V = ∫√−g (Δt − 2T)₊` and the 4D integer-harmonic check
 are the new pieces. The exact `r²/4M²` ratio is elementary, but it is the cleanest statement that
 the Unruh reading of Hawking temperature is local and approximate.
