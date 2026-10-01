@@ -96,7 +96,8 @@ scale together. This is standard. In MGR terms it says the area is the only leg 
 that lives on the sheet.
 
 **Information on the sheet.** The corner forces the PB-3 analogue: **nothing is constituted
-on a light-sheet**, because constitution needs flow. Three consistency checks, all on occupied
+on a light-sheet**, because constitution needs flow. This is already **GB-3** in CLAIMS (*"no null
+structure constitutes information by itself"*). The corner adds the place where GB-3 applies, not the bet. Three consistency checks, all on occupied
 ground:
 
 - Bousso's covariant bound puts on the left-hand side the entropy *of matter crossing* the sheet,
