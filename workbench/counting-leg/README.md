@@ -1,7 +1,7 @@
 # Counting as the unfused leg, and acceleration as a count deficit
 
 Referees: `counting_leg.py`, 14/14 (sympy, plus a 2D Poisson-sprinkling check), and
-`carried_basis.py`, 6/6.
+`carried_basis.py` (6/6), `circular_temperature.py` (10/10) and `gravity_thermal.py` (9/9).
 
 Two questions:
 
@@ -108,6 +108,74 @@ thermal meaning of the period (state, KMS) stays imported, as in b7. What sharpe
 that "the 2π is geometric": the period is already present in order and number before any field
 is introduced (2d, 3b).
 
+## 3b. The circular test: does the count predict how non-thermal a writer is?
+
+(`circular_temperature.py`) The massless Wightman function in 3+1 is `−1/(4π²σ)`, and the 4D
+diamond count is `V = (π/24)σ²`. So the detector response is a Fourier transform of `V^(−1/2)`
+along the writer's own count. **Reading:** an exact imaginary period in V gives a single
+temperature. Without one, the temperature depends on the gap, and the large-gap limit is set by
+the nearest imaginary zero of the count. For circular motion that zero is at `y* = 2xγv/a` with
+`sinh x / x = 1/v`.
+
+| | result |
+|---|---|
+| linear acceleration, 3+1 and 2+1 | T_eff = a/2π at every gap (calibration) |
+| circular, γ = 5 and γ = 20 | T_eff rises with the gap: 0.15a → 0.26a |
+| y\* extracted from the 3+1 large-gap tail | 3.4358 (γ = 5), 3.4624 (γ = 20) = the nearest zero of the count, to 4 digits |
+| y\* extracted from the 2+1 tail | 3.4340, 3.4606: **the same zero; the limit is dimension-independent** |
+| against the published asymptote (Biermann et al. 2020, PRD 102, 085006) | T_eff agrees to 0.04%; their exponent `2√3/a` is the ultrarelativistic limit of the zero, so `T_large → a/(2√3) = (π/√3)·a/2π` |
+
+The ultrarelativistic number is prior art. What the counting reading supplies is its location (a
+zero of the writer's diamond count), the finite-v form (`sinh x/x = 1/v`; not checked against
+Biermann et al.'s general-v expressions), and dimension-independence, which follows because the
+zero belongs to the interval and not to the field.
+
+**Analogue projection.** BEC circular-motion experiments (Gooding et al.) run in 2+1 with
+`c → c_s`. The large-gap slope of ln(de-excitation/excitation) should be `y*` from
+`sinh x/x = c_s/v`, the same as in 3+1. **It can fail at gaps near the healing frequency.** There
+Bogoliubov dispersion changes the short-interval structure the zero comes from, and a departure
+of the slope from `y*` would locate dispersion.
+
+## 3c. Gravity and thermal metrology
+
+(`gravity_thermal.py`)
+
+**A 1+1 static writer.** In `ds² = f(−dt² + dr*²)` the count's second derivative samples the
+conformal factor at the diamond's corners: `V''(Δt) = [f(r₀*+Δt/2) + f(r₀*−Δt/2)]/2` (1a). In
+Schwarzschild, `f(r*)` has imaginary period `4πiM`, so `V''` has period `2πi/κ` in Killing time
+(1b, 1c). In the writer's own count `τ = √f Δt`, that is Tolman's `T = κ/(2π√f)` (1d). Rindler
+(`V'' = cosh aτ`) and de Sitter (`V'' = sech²(Hτ/2)`) read the same way (1f).
+
+- **Surface gravity, counting form:** κ is the e-folding rate at which the count density
+  vanishes toward the horizon along the tortoise coordinate, `f ~ e^{2κr*}`. The choice of that
+  coordinate is the imported flow, which ties back to the null-corner note's reading of
+  dynamical surface-gravity plurality as one imported flow per definition.
+- **Deficit versus period in gravity:** `T_loc / (a_loc/2π) = r²/(4M²)` (1e). A static writer's
+  acceleration and its temperature agree only at the horizon. Far away the deficit goes to zero
+  as M/r², while the period stays fixed by κ. The double dissociation of §3 reappears with
+  gravity's own writers.
+- **Status:** this is the Euclidean-regularity argument read as a property of diamond counts.
+  The state choice (Hartle–Hawking, the state that reads geometry only) is imported. Exact in
+  1+1; the 4D statement is owed.
+
+**A thermometer moving through a bath.** Along its count, the bath's two-point function has no
+imaginary period. So **"how does temperature transform?" (Planck/Ott/Landsberg) is malformed:**
+the reading depends on the gap. At v = 0.6 it runs from 0.94/β at E = 1 to 1.52/β at E = 22 (2b).
+The large-gap limit is set by the nearest singularity, here the bath's state rather than the
+trajectory: the fitted tail gives 2.004/β against the **forward-Doppler** temperature
+`T√((1+v)/(1−v)) = 2/β` (2c). This is consistent with the Costa–Matsas and Landsberg–Matsas
+resolution.
+
+**One rule for thermal metrology.** A probe reads a single temperature iff its two-point
+function, along its own count, has an exact imaginary period. Otherwise it reads `T_eff(E)`, and
+the large-gap reading is `1/y*`, where y\* is the distance to the nearest imaginary singularity.
+For geometric vacua in flat and maximally symmetric spacetimes, those singularities are zeros
+of the writer's diamond count (circular, Rindler, de Sitter). For thermal states they come from
+the state. Rindler is the case where trajectory and state coincide. As a reading this is
+standard Fourier asymptotics (Paley–Wiener), which is how Unruh obtained the circular
+high-frequency result; what is owned is the role location. The zeroth law, for a probe, is the
+existence of the period.
+
 ## 4. PB-2's gate
 
 PB-2 is *"ordinal until a measure on ordering is earned; earn-condition = units + bound +
@@ -127,6 +195,9 @@ this; one of its three legs is named.
 | T = a/2π fuses deficit with diamond-count period; the double dissociation | **owned reading**; both dissociating corners are prior physics (Bell–Leinaas, Gibbons–Hawking) |
 | c8's drift rate = imaginary period of V(τ) | owned definition; consistent with c8 |
 | PB-2's units leg = count, imported | gate partially named, not earned |
+| large-gap circular T = nearest zero of the count; dimension-independent; finite-v form | ultrarelativistic number prior art (Biermann et al.); location and 2+1 = 3+1 owned; analogue projection |
+| Tolman / Hawking as the period of V'' in 1+1; κ as count-density e-folding rate | Euclidean regularity re-read; state imported; 4D owed |
+| moving thermometer: no period, large-gap = forward Doppler | prior art (Costa–Matsas); malformed-question diagnosis |
 
 **Two tests, kept separate.**
 
