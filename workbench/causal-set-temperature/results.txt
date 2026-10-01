@@ -1,0 +1,16 @@
+sj_6000_a16: 3 causal sets, true a = 16.0
+   count side  a = 16.65 +/- 0.35   (+4.1%)   T = 2.651
+   field side  a = 16.85 +/- 0.39   (+5.3%)   T = 2.681
+   SJ Re W joint regression: ln(local count) -0.0209, ln(continuum interval) -0.0610; field log-slope alpha = -0.0778 (continuum -1/4pi = -0.0796)
+sj_4000_a8: 3 causal sets, true a = 8.0
+   count side  a = 8.17 +/- 0.05   (+2.2%)   T = 1.301
+   field side  a = 10.26 +/- 0.26   (+28.3%)   T = 1.633
+   SJ Re W joint regression: ln(local count) -0.0183, ln(continuum interval) -0.0638; field log-slope alpha = -0.0765 (continuum -1/4pi = -0.0796)
+PASS count side recovers the writer's temperature on the causal set, central writer (within 6%)
+PASS count side recovers it for the extended writer too (within 4%)
+PASS field side (SJ, built from the order alone) recovers it for the central writer (within 6%)
+PASS central writer: count-defined and field-defined temperatures agree (within 2 sigma combined)
+PASS extended writer: the field side departs (>15%) while the count side does not -> the state, not discreteness
+PASS the SJ field does NOT track the local interval count alone: continuum interval dominates the joint fit
+
+6/6 checks passed
