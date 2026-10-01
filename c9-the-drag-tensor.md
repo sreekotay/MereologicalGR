@@ -388,6 +388,34 @@ across ~19 decades (CMB → PTA → LISA → LVK) the constraint degrades to O(1
 chromaticity kills of C8 (per-quantum λ²) do not police band-to-band structure. Multiband sources
 (LVK+LISA) reach ~10⁻¹⁷ on exactly this axis. A wall and a lever, both previously uncounted.
 
+**The oscillation face (2026-10, `workbench/two-metric-seam/gw_oscillation.py`, 8/8).** The
+seam-point realisation is singly coupled: matter emits and detects only the `g` tensor. At LVK
+frequencies the matter-sourced wave therefore rides the matter cone, with fabric-cone content
+≈ 2×10⁻¹² at 100 Hz (α = 10⁻²). This realisation does not itself carry the anchor's band;
+singly-coupled bigravity escapes GW170817 for exactly this reason (Akrami–Brax–Davis–Vardanyan,
+1803.09726). Its own gravitational-wave face is lower in frequency, and the seam fixes where:
+
+```text
+crossover        f* = m_FP / (2πħ √B) = m_FP² / (2πħ √6 H)  ≈ 1.35 mHz today, 0.75 mHz at z = 1
+below f*         the matter-sourced wave mixes into the fabric cone at α (saturating);
+                 strain modulation depth ≈ 2α²   (α emitted × α detected)
+at f*            the fabric mode's cone advance and mass lag cancel in group delay;
+                 phase rate √B·m_FP = √6 H, independent of m_FP → O(1) phase at cosmological range
+```
+
+The crossover lands in the LISA band because B and m_FP are tied by `B = 6(H/m_FP)²`. It is not
+tuned there. The mechanism is bigravity's GW oscillation, imported (Max–Platscher–Smirnov). What
+is owned is the location, `f* ∝ m_FP²/H`, and the `√6 H` phase identity. Within the α window
+(≲ 10⁻³–10⁻²) the depth is ≲ 2×10⁻⁴. That is below the ~10⁻³ amplitude-modulation reach of the
+loudest massive-black-hole binaries, an order-of-magnitude figure and not a pipeline result. **So
+the realisation projects a LISA null.** A frequency-dependent modulation that turns on near f*
+with depth ≳ 10⁻³ would put α outside the window. A crossover far from `m_FP²/(2πħ√6 H)` would
+put the B law or m_FP in question. Pre-registered reading: such a detection is a gravity-only
+propagation anomaly and so meets CD-4's death condition, while confirming this realisation. Both
+rows are booked; the bets are independent. Parked: the exact FRW tensor mass matrix (O(1) `y`,
+`X` factors), the decoherence of the two packets against source duration, and LISA's actual
+modulation reach. *Workbench provenance: `workbench/seam-vacuum`.*
+
 **Future levers, ranked**: 3G BNS+GRB populations (ε ~ 5×10⁻¹⁸ per event at z = 2; maps p and the
 quadrupole simultaneously); one lensed multimessenger event (the only ∇B/a separator — zero
 emission systematic); a Galactic CCSN (floor 1.2×10⁻¹⁵ at 8 kpc/1 ms; under an anchor-carrying

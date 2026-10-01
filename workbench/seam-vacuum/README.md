@@ -58,10 +58,12 @@ PTA       10 nHz     1e-3 (saturates at α)   1e-2
   That is a scope fact about the realisation, not a failure of C1, which is its own bet. The
   literature agrees: singly-coupled bigravity escapes GW170817 for this reason, and
   doubly-coupled bigravity is squeezed by it (Akrami–Brax–Davis–Vardanyan 2018).
-- **Below about f\*.** An O(α) admixture rides the wider fabric cone. Its power is about α² and
-  it is offset in speed by about B. This is bigravity's GW-oscillation phenomenon, which is prior
+- **Below about f\*.** An O(α) admixture rides the wider fabric cone. Because matter both
+  emits and detects through `g`, the strain modulation is about 2α²: α emitted times α detected. This is bigravity's GW-oscillation phenomenon, which is prior
   art for the mechanism. **What c9 adds is the location.** The crossover is set by the seam
-  itself, `f* = m_FP/√B`, and with c9's numbers it lands in the LISA band. This is a projection
+  itself, `f* = m_FP/√B`, and with c9's numbers it lands in the LISA band.
+  `band_scan.py` uses a flat B = 10⁻¹⁶. The c9-consistent version, with `B = 6(H/m_FP)²`, is
+  `two-metric-seam/gw_oscillation.py`: f\* ≈ 1.35 mHz, carried into c9 and CLAIMS as CD-12. This is a projection
   of c9's realisation, with LISA and PTA as the bands where it could be wrong.
 - **Scope note for c9's text.** *"every timing observable sees the pure seam"* is true of the
   cones. In this realisation, though, LIGO-band GWs carry no messenger on the fabric cone, so the
