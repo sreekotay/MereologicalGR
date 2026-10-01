@@ -10,6 +10,11 @@ doesn't (*extra*)? Referee: `adjacency_is_flow_indexed.py`, 9/9.
 
 ### F1 — adjacency is flow-indexed, not flow's peer
 
+> **Amended (workbench/null-corner).** Overreached. The geometric claim conflated a projection
+> `h(u)` with intrinsic length; what survives is operational (radar distance is worldline-indexed —
+> Synge/Bondi prior art). The "no strip corner" conclusion is wrong: a null hypersurface keeps
+> transverse adjacency with flow stripped. Text below kept as written.
+
 A0 §6: adjacency is *"imported from GR's metric and named as peer of flow."*
 
 The exhibit test on `space = ordering + adjacency` returns a suppressed argument. The spatial
