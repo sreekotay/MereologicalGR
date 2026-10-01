@@ -96,6 +96,13 @@ This is a fork for the corpus, not a result.
 
 ## 3. The seam breaks the corner's blindness
 
+> **Superseded in part by `workbench/seam-vacuum`.** The leak is real only where `√(−g̃)/√(−g)`
+> is not constant on-shell, which means state-sourced B or doubly-coupled bigravity. It is
+> absent in the aether toy (absorbed by the multiplier) and in c9's singly-coupled realisation.
+> The β₄ / cone-ratio sentence below is wrong for c9: matter's vacuum renormalises β₀, which the
+> branch function does not contain. That note also finds that c9's realisation does not carry
+> C1's observable.
+
 Vacuum energy is invisible at the corner only when it is proportional to the metric the corner
 is built from. In the C/D lane matter rides `g̃ = A(g + B n⊗n)`, and gravity is `g`:
 
@@ -140,4 +147,4 @@ TT (check 7). The seam moves GWs only through ordering (arrival time), consisten
 | flow-free composition ⇒ trace-free gravity | prior art; classically equivalent to GR |
 | Λ acts only on flow; "does Λ lens" malformed | retrodiction, mechanism shared (Butcher) |
 | number fused into flow in c5; everpresent Λ as the inherited fork | flagged fork; Sorkin's prediction |
-| **seam leaks content vacuum energy at O(B)** | **new to the corpus; could-fail on c9; computation owed** |
+| seam leaks content vacuum energy at O(B) | run in `seam-vacuum`: only for state-sourced B or double coupling; relocates the CC tuning, does not multiply it |
