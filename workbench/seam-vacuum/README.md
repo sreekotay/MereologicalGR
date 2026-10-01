@@ -1,10 +1,10 @@
 # Seam vacuum: does content vacuum energy leak through the seam?
 
-Owed by `workbench/gravity-corner` §3. Referees: `seam_vacuum.py` (8/8) and `which_cone.py`
-(8/8).
+Owed by `workbench/gravity-corner` §3. Referees: `seam_vacuum.py` (8/8), `which_cone.py` (8/8),
+`band_scan.py` (5/5).
 
-**Answer: it depends on the realisation, and running the check turned up a larger problem.**
-The realisation c9 actually computed does not carry C1's observable.
+**Answer: it depends on the realisation.** In c9's own realisation, the GW face of the seam
+moves out of the LIGO band and into the mHz and lower bands.
 
 ---
 
@@ -34,43 +34,42 @@ trace-free/unimodular structure keeps vacuum energy off the corner whatever its 
 R4 it reaches the corner at O(B) unless tuned. **Horn C, the state-tracking drag, gives up the
 unimodular protection.** That is a price, not a kill.
 
-## The larger finding: c9's realisation does not carry C1's observable
+## Side finding: where c9's realisation shows its seam in gravitational waves
 
-C1's whole content is that photons and gravitational waves ride different cones. GW170817's
-1.74 s is read as propagation at `ε ≈ 3.8×10⁻¹⁶`. In singly-coupled bigravity (R2), matter
-sources only its own metric's tensor mode and is detected only through it. At LIGO frequencies,
-`k/m_FP ~ 10¹²`, so the propagation eigenbasis is the cone basis and mass mixing is negligible:
+The bets are independent probes. Nothing requires C1 and c9 to share one model unless one of
+them fails. So this section asks a narrower question: **what does c9's realisation itself
+project for gravitational waves?** (`which_cone.py`, `band_scan.py`, 5/5)
+
+In singly-coupled bigravity, matter sources only its own metric's tensor mode. The wave it emits
+has fabric-cone (f) content of about `α m²/(k²B + m²)`. The crossover sits where `k²B ~ m²`:
 
 ```text
-matter-sourced GW at 100 Hz, m_FP = 1.4e-25 eV, alpha = M_f/M_g in {1e-3 ... 1e3}:
-  f-content of the mode          1e-26 ... 1e-10
-  (v - c_matter)/c                ~1e-31 ... 6e-26
-  fabric-cone offset needed       5e-17 (B = 1e-16)          -> rides the matter cone   (which_cone.py)
+f* = m_FP / (2πħ √B)  ≈ 3×10⁻³ Hz     (m_FP = 1.4e-25 eV, B = 1e-16)
+
+band      f          f-content (α = 1e-3)    f-content (α = 1e-2)
+LIGO      100 Hz     1e-12                   1e-11
+DECIGO    0.1 Hz     1e-6                    1e-5
+LISA      1 mHz      9e-4                    9e-3
+PTA       10 nHz     1e-3 (saturates at α)   1e-2
 ```
 
-**In R2, GWs and photons share a cone, and C1's delay is zero at any α.** The literature agrees:
-singly-coupled bigravity is not constrained by GW170817 for exactly this reason. The
-doubly-coupled class is, and GW170817 forces it to proportional backgrounds or back to single
-coupling (Akrami–Brax–Davis–Vardanyan 2018).
+- **LIGO band.** The emitted wave rides the matter cone, offset ≲ 10⁻²⁵ (`which_cone.py`, for α
+  from 10⁻³ to 10³). c9's realisation therefore does not carry the GW170817-band delay C1 reads.
+  That is a scope fact about the realisation, not a failure of C1, which is its own bet. The
+  literature agrees: singly-coupled bigravity escapes GW170817 for this reason, and
+  doubly-coupled bigravity is squeezed by it (Akrami–Brax–Davis–Vardanyan 2018).
+- **Below about f\*.** An O(α) admixture rides the wider fabric cone. Its power is about α² and
+  it is offset in speed by about B. This is bigravity's GW-oscillation phenomenon, which is prior
+  art for the mechanism. **What c9 adds is the location.** The crossover is set by the seam
+  itself, `f* = m_FP/√B`, and with c9's numbers it lands in the LISA band. This is a projection
+  of c9's realisation, with LISA and PTA as the bands where it could be wrong.
+- **Scope note for c9's text.** *"every timing observable sees the pure seam"* is true of the
+  cones. In this realisation, though, LIGO-band GWs carry no messenger on the fabric cone, so the
+  seam is seen only below about f\* and at amplitude about α.
 
-There is also a labelling tension. c9 calls the wider f-cone the fabric, and matter couples to
-`g`, which also carries the dominant Einstein–Hilbert term at α → 0. In c9's realisation,
-gravity in the observed sense rides the content metric. That inverts c1's *"gravity IS fabric,
-matter RIDES content."* The fabric is a hidden massive spin-2 sector at Planck mass αM_g.
-
-## Assembled
-
-| realisation | carries C1's observable | B state-sourced (Horn C) | vacuum protection |
-|---|---|---|---|
-| R1 aether, constant B | yes | no | kept |
-| R3 single metric, B(state) | yes | yes | lost at O(B) |
-| R2 singly-coupled HR (c9's) | **no** | yes | kept |
-| R4 doubly-coupled HR | yes, GW170817-squeezed | yes | lost at O(B) |
-
-No row has all three. c9's existence result ("seam exists-modified on the bimetric finite
-branch") and C1's observable live in different realisation classes. **c9 shows that the seam
-exists in R2. C1 needs R1, R3 or R4.** The two would meet only in a doubly-coupled or
-single-metric realisation, and there the state-tracking drag costs the unimodular protection.
+On labelling: in this realisation matter's metric also carries the dominant Einstein–Hilbert
+term, and the "fabric" f is the weakly coupled massive sector. This is noted, not judged. The
+mapping of c1's words onto c9's realisation is the author's call.
 
 ## Status and limits
 
@@ -81,5 +80,8 @@ single-metric realisation, and there the state-tracking drag costs the unimodula
 - Not checked: whether c9 means matter to couple to `f`, which would contradict
   `bianchi_seam_branch.py`'s *"matter couples to g only"*. If it does, that script's constraint
   derivation needs re-running with the matter term moved.
-- **Corpus items flagged, not edited:** c9's existence-gap paragraph (which realisation carries
-  the timing observable); c1/c9 fabric labelling; gravity-corner §3, corrected by this note.
+- The admixture amplitude uses a proportional-background mass matrix. The real FRW mixing
+  carries `y` and `X` factors of order one. The crossover's scaling `m_FP/√B` is the robust part.
+- **Corpus items flagged, not edited:** the scope of c9's "every timing observable" sentence;
+  the LISA-band projection, if wanted as a c9 row; c1/c9 fabric labelling; gravity-corner §3,
+  corrected by this note.
