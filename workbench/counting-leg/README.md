@@ -1,7 +1,7 @@
 # Counting as the unfused leg, and acceleration as a count deficit
 
 Referees: `counting_leg.py`, 14/14 (sympy, plus a 2D Poisson-sprinkling check), and
-`carried_basis.py` (6/6), `circular_temperature.py` (10/10) and `gravity_thermal.py` (9/9).
+`carried_basis.py` (6/6), `circular_temperature.py` (10/10), `gravity_thermal.py` (9/9) and `schwarzschild_4d.py` (7/7).
 
 Two questions:
 
@@ -176,6 +176,73 @@ standard Fourier asymptotics (Paley–Wiener), which is how Unruh obtained the c
 high-frequency result; what is owned is the role location. The zeroth law, for a probe, is the
 existence of the period.
 
+## 3d. 4D Schwarzschild, and the principle
+
+(`schwarzschild_4d.py`) **An identity that makes 4D tractable.** For a static writer the
+spacetime is static, so `J⁺(p) = {t ≥ T(x)}`, where `T` is the first-arrival (Fermat, optical)
+time from the writer. Then exactly
+
+```text
+V(Δt) = ∫ d³x √−g · (Δt − 2T(x))₊
+```
+
+Every Lorentzian count the writer makes is fixed by one static function, its optical distance.
+Counting meets Fermat.
+
+**Result.** Split V into a near-horizon zone (r < 2.5M, inside the photon sphere) and the rest.
+The near-horizon count approaches its limit as `e^{−κΔt}` in Killing time, at the same κ for
+every writer, with integer harmonics:
+
+| writer | decay rate in Killing time | local acceleration a | T_loc / (a/2π) |
+|---|---|---|---|
+| r₀ = 4M | 0.250000 | 0.0884 | 4.000 = r₀²/4M² |
+| r₀ = 6M | 0.250000 | 0.0340 | 9.000 |
+| r₀ = 10M | 0.250001 | 0.0112 | 25.000 |
+| r₀ = 6M, sub-leading rate | 0.2776 → 0.2526, converging on κ (the second integer harmonic) | | |
+
+κ = 1/4M. Integer harmonics in real Δt are the real-axis face of an imaginary period 2πi/κ.
+
+**Contrast, zero temperature** (1+1, Reissner–Nordström). For the sub-extremal case the
+near-horizon count decays at exactly `κ = (r₊ − r₋)/2r₊²` (0.24691). For the extremal case it
+is a power law, Δt⁻², with no exponential: no period, T = 0.
+
+### The principle, stated without the corpus's vocabulary
+
+1. **Temperature is a relation between a writer and a null surface, not a property of the
+   writer.** A writer reads a geometric temperature when its own count approaches the counts
+   "behind" a null surface exponentially: `U ∝ e^{−κτ}` between the surface's affine parameter
+   and the writer's clock. The rate over 2π is the temperature.
+2. **The source is the regularity of the null surface.** Rays from the writer cross the future
+   horizon at finite advanced time, so `T(x) + r*` is analytic in `r − 2M`. That forces the
+   near-horizon count into integer harmonics of `e^{−κΔt}`. In real Lorentzian counts this *is*
+   the imaginary period, with no Euclidean continuation and no field. Euclidean regularity is the
+   same fact seen from the complex side.
+3. **One κ per null surface; each writer converts with its own count ratio.** In Killing time
+   the rate is κ for every static writer. In the writer's own count it is `κ/√f`: Tolman's law is
+   one exponential rate translated through gravitational redshift.
+4. **Acceleration is a property of the writer's chain alone; temperature is a writer–surface
+   relation.** They coincide only on the surface: `T_loc/(a/2π) = r²/4M²` exactly in 4D. Rindler
+   hides the distinction because every Rindler writer is equally close to its horizon in its own
+   units.
+5. **Zero temperature is a power-law approach.** For extremal horizons the surface's ordering
+   parameter is not exponentially related to the writer's count.
+6. **Minimal condition.** Only the exponential relation over the window the writer samples is
+   needed, not a global horizon. This matches the minimal conditions for Hawking-like flux
+   (Barceló, Liberati, Sonego, Visser 2011), arrived at from counts.
+7. **Conjecture (not computed): a resolution limit.** The exponential map needs ordering to
+   resolve affine separations ~`e^{−κτ}`. With a counting floor that runs out at
+   `κτ ~ ln(count across the surface)`, which is the scrambling-time scale `(β/2π) ln S` up to an
+   O(1) factor. That is the familiar trans-Planckian ↔ scrambling-time link, reached here as the
+   point where the counting reading of thermality stops being self-sufficient.
+
+**Status.** Principles 1–6 are de-axiomatisations of known results: Hawking's
+exponential-redshift argument, Euclidean regularity, Tolman, extremal T = 0, and the minimal
+conditions. They are now derived from real Lorentzian counts plus horizon regularity, with no
+field and no imaginary time. The quantum state (Hartle–Hawking or Unruh) is still imported for
+the *meaning* of the period. The identity `V = ∫√−g (Δt − 2T)₊` and the 4D integer-harmonic check
+are the new pieces. The exact `r²/4M²` ratio is elementary, but it is the cleanest statement that
+the Unruh reading of Hawking temperature is local and approximate.
+
 ## 4. PB-2's gate
 
 PB-2 is *"ordinal until a measure on ordering is earned; earn-condition = units + bound +
@@ -198,6 +265,8 @@ this; one of its three legs is named.
 | large-gap circular T = nearest zero of the count; dimension-independent; finite-v form | ultrarelativistic number prior art (Biermann et al.); location and 2+1 = 3+1 owned; analogue projection |
 | Tolman / Hawking as the period of V'' in 1+1; κ as count-density e-folding rate | Euclidean regularity re-read; state imported; 4D owed |
 | moving thermometer: no period, large-gap = forward Doppler | prior art (Costa–Matsas); malformed-question diagnosis |
+| 4D Schwarzschild: V = ∫√−g (Δt − 2T)₊; near-horizon count in integer harmonics of e^{−κΔt}, every writer | owned identity and check; de-axiomatises Euclidean regularity into horizon regularity |
+| extremal: power law, T = 0; sub-extremal RN rate = κ | contrast check |
 
 **Two tests, kept separate.**
 
