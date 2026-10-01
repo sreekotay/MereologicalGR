@@ -1,6 +1,7 @@
 # Counting as the unfused leg, and acceleration as a count deficit
 
-Referee: `counting_leg.py`, 14/14 (sympy, plus a 2D Poisson-sprinkling check).
+Referees: `counting_leg.py`, 14/14 (sympy, plus a 2D Poisson-sprinkling check), and
+`carried_basis.py`, 6/6.
 
 Two questions:
 
@@ -61,11 +62,22 @@ Consequences for b7 and A0:
   selects a non-maximal chain, which is non-gravitational influence (force). Free fall produces no
   deficit, so b7's guardrail "acceleration is not gravity" holds in counting terms too. Curvature
   enters as a correction to the diamond's own volume (Gibbons–Solodukhin), not as a deficit.
-- **The exhibit test on "acceleration as frame-transport":** `frame = ordering + flow + adjacency`
-  carries an adjacency leg that the forced face never uses. b7 already isolates the forced face
-  as the flow face. The carried-basis face (gyroscope, spin, polarisation) is where adjacency
-  does work. In counting terms it needs radar between neighbouring writers. **Not run here; it is
-  the next piece.**
+- **The carried-basis face (Thomas precession) also needs no separate adjacency leg**
+  (`carried_basis.py`). The space of flows is hyperbolic, and distances in it are rapidities.
+  A rapidity is a count ratio: Bondi's `k = e^η` is the ratio of a receiver's count to an
+  emitter's count for light pulses (check 1). A gyroscope carried around a closed velocity loop
+  precesses by the loop's enclosed area. That area is fixed by **pairwise rapidities alone**:
+  triangulate from the lab flow, three sides per triangle, no angles supplied. For circular
+  motion it gives `2π(γ−1)` to 10⁻⁴ at v = 0.3, 0.8 and 0.99 (check 2). Integrating Fermi–Walker
+  transport independently gives the same angle (check 3). The angular structure that looked like
+  adjacency is encoded in the pairwise count ratios.
+- **Thomas precession is not acceleration either.** Per orbit it depends only on the loop in
+  flow-space (on γ), not on |a| = γ²v²/R. Two orbits at the same speed and different radii
+  precess identically per loop. **Frame transport, as A0 composes it, fuses three things:** the
+  count deficit (|a|), the holonomy of flow-space (Thomas/Wigner), and the diamond-count period
+  (thermal, §3). Each needs only ordering, number and writers. Storage rings exhibit all three
+  together: the deficit, the Thomas term in the BMT equation (tested through g−2 at ~10⁻⁷), and
+  non-thermal circular noise.
 
 ## 3. Temperature is not acceleration: the double dissociation
 
@@ -116,23 +128,34 @@ this; one of its three legs is named.
 | c8's drift rate = imaginary period of V(τ) | owned definition; consistent with c8 |
 | PB-2's units leg = count, imported | gate partially named, not earned |
 
-**Relabel test.** Does counting as a separate leg force anything causal-set theory plus Killing
-thermality does not already have? **Not yet.** Every physics consequence above lands on occupied
-ground. What is MGR-specific is the role bookkeeping:
+**Two tests, kept separate.**
 
-- which composition needs which leg: acceleration needs no adjacency, and thermality needs a
-  horizon rather than acceleration;
-- the writer and influence separation: a writer's chain is selected by force, while causal sets
-  treat every chain alike.
+- **Relabel, in A0's sense: renaming that changes no commitment. It does not apply.** The
+  commitments change in two places:
+  - **acceleration:** it no longer needs a frame or a metric, only order and counts at the
+    writer's events;
+  - **the Unruh period:** it no longer needs a field, since it is present in order and number.
+- **Export: a new claim that could fail outside GR. None yet.** Every physics consequence lands
+  on occupied ground.
 
-An export would have to come from somewhere those two pieces of bookkeeping disagree with
-standard practice. The candidate is the carried-basis face (§2). Thomas precession and spin
-transport are where frame transport does need adjacency, and in counting terms that means radar
-between neighbouring writers. Storage-ring spin dynamics is already the circular corner's lab.
+**What the counting derivation de-axiomatises: qualifications removed.**
+
+- **Thermality.** "Uniformly accelerated" becomes "the writer's diamond count has an imaginary
+  period". Those are writers with a horizon, which is the right domain: it includes de Sitter and
+  static black-hole observers and excludes circular motion. Bisognano–Wichmann and Kay–Wald reach
+  the same domain through field theory; here it comes before any field.
+- **Acceleration.** "Defined through a frame (∇ along u)" becomes "a writer's count deficit
+  against ordering's maximal count". It is defined wherever order, counts and writers are, in
+  particular before a metric.
+- **Thomas precession.** "A consequence of acceleration and boost composition" becomes "the
+  holonomy of flow-space, fixed by pairwise count ratios". It is independent of |a|.
+
+An export would have to come from where the role bookkeeping disagrees with standard practice.
+The bookkeeping says which composition needs which leg; that acceleration and Thomas precession
+need no adjacency and thermality needs a horizon; and that a writer's chain is selected by force.
 
 ## Not done
 
-- Carried-basis transport (Thomas precession) from radar counts between neighbouring writers.
 - The extended-writer effect: a writer of width w has a count that is ambiguous at O(a·w).
   A tube-chain trial gave a first-order excess at one width but not cleanly at another, so it is
   not claimed.
